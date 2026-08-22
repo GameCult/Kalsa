@@ -12,8 +12,8 @@ if (-not $fixtureFull.StartsWith($tempBase + [System.IO.Path]::DirectorySeparato
 try {
     $content = Join-Path $fixtureFull "Kalsa"
     New-Item -ItemType Directory -Path $content | Out-Null
-    Set-Content -LiteralPath (Join-Path $content "index.md") -Encoding utf8 -Value "# Fixture`n`nSee [[Institution]]."
-    Set-Content -LiteralPath (Join-Path $content "Institution.md") -Encoding utf8 -Value "# Institution`n`nA bounded test note."
+    Set-Content -LiteralPath (Join-Path $content "index.md") -Encoding utf8 -Value "# Fixture`n`nSee [[Institution#Bounded authority]]."
+    Set-Content -LiteralPath (Join-Path $content "Institution.md") -Encoding utf8 -Value "# Institution`n`n## Bounded authority`n`nA bounded test note."
 
     & (Join-Path $PSScriptRoot "verify-seed.ps1")
     & (Join-Path $PSScriptRoot "check-wikilinks.ps1") -ContentRoot $content
@@ -34,6 +34,20 @@ try {
     }
     Remove-Item -LiteralPath $broken -Force
 
+    $brokenAnchor = Join-Path $content "Broken Anchor.md"
+    Set-Content -LiteralPath $brokenAnchor -Encoding utf8 -Value "# Broken Anchor`n`nSee [[Institution#No such heading]]."
+    $caughtBrokenAnchor = $false
+    try {
+        & (Join-Path $PSScriptRoot "check-wikilinks.ps1") -ContentRoot $content | Out-Null
+    }
+    catch {
+        $caughtBrokenAnchor = $true
+    }
+    if (-not $caughtBrokenAnchor) {
+        throw "Wikilink checker failed to reject a missing heading anchor"
+    }
+    Remove-Item -LiteralPath $brokenAnchor -Force
+
     $forbidden = Join-Path $content "workshop"
     New-Item -ItemType Directory -Path $forbidden | Out-Null
     $caughtBoundary = $false
@@ -47,7 +61,7 @@ try {
         throw "Publication checker failed to reject a nested workshop directory"
     }
 
-    Write-Output "Lore tool tests passed, including broken-link and publication-boundary negative checks."
+    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, and publication-boundary negative checks."
 }
 finally {
     $resolvedFixture = [System.IO.Path]::GetFullPath($fixtureFull)

@@ -38,13 +38,20 @@ foreach ($note in $notes) {
     $text = Get-Content -Raw -LiteralPath $note.FullName -Encoding utf8
     foreach ($match in [regex]::Matches($text, '!??\[\[(?<target>[^\]]+)\]\]')) {
         $linkCount += 1
-        $target = ($match.Groups['target'].Value -split '\|', 2)[0]
-        $target = ($target -split '#', 2)[0].Trim()
-        if (-not $target) { continue }
+        $linkBody = ($match.Groups['target'].Value -split '\|', 2)[0]
+        $targetParts = $linkBody -split '#', 2
+        $target = $targetParts[0].Trim()
+        $anchor = if ($targetParts.Count -gt 1) { [uri]::UnescapeDataString($targetParts[1].Trim()) } else { $null }
         $target = $target -replace '\\', '/'
         $resolved = @()
         $extension = [System.IO.Path]::GetExtension($target)
-        if ($extension -and $extension.ToLowerInvariant() -ne '.md') {
+        if (-not $target -and $anchor) {
+            $resolved = @($note.FullName)
+        }
+        elseif (-not $target) {
+            continue
+        }
+        elseif ($extension -and $extension.ToLowerInvariant() -ne '.md') {
             $relativeAsset = [System.IO.Path]::GetFullPath((Join-Path $note.DirectoryName $target))
             $rootAsset = [System.IO.Path]::GetFullPath((Join-Path $contentFull $target))
             if (Test-Path -LiteralPath $relativeAsset -PathType Leaf) { $resolved += $relativeAsset }
@@ -70,6 +77,24 @@ foreach ($note in $notes) {
         }
         elseif ($resolved.Count -gt 1 -and $target -notmatch '[/\\]') {
             $errors += "$sourceRelative -> [[$($match.Groups['target'].Value)]] is ambiguous across $($resolved.Count) files"
+        }
+        elseif ($anchor -and $resolved.Count -eq 1 -and [System.IO.Path]::GetExtension($resolved[0]).ToLowerInvariant() -eq '.md') {
+            $destinationText = Get-Content -Raw -LiteralPath $resolved[0] -Encoding utf8
+            if ($anchor.StartsWith('^')) {
+                $blockId = [regex]::Escape($anchor.Substring(1))
+                if ($destinationText -notmatch "(?m)\\^$blockId\\s*$") {
+                    $errors += "$sourceRelative -> [[$($match.Groups['target'].Value)]] has no matching block anchor"
+                }
+            }
+            else {
+                $wantedHeading = ($anchor -replace '\s+', ' ').Trim().ToLowerInvariant()
+                $headings = @([regex]::Matches($destinationText, '(?m)^#{1,6}\s+(?<heading>.+?)\s*#*\s*$') | ForEach-Object {
+                    (($_.Groups['heading'].Value -replace '\s+', ' ').Trim()).ToLowerInvariant()
+                })
+                if ($headings -notcontains $wantedHeading) {
+                    $errors += "$sourceRelative -> [[$($match.Groups['target'].Value)]] has no matching heading anchor"
+                }
+            }
         }
     }
 }
