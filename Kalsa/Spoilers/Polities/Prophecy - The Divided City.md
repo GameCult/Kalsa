@@ -35,7 +35,7 @@ The Sunwall is both granary and wound. Its sunward works catch the light that fe
 
 ## The divided sovereignty
 
-The [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai Hegemony]] first reduced the city to tributary status without fully assimilating it. The expanding Terjamna/Sorcery power later contested the same prize. The result is a practical condominium: two imperial claims overlap a surviving local civic authority, though the city's name, formal armistice, and exact sector lines remain unresolved.
+The [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]] first reduced the city to tributary status without fully assimilating it. The expanding Terjamna/Sorcery power later contested the same prize. The result is a practical condominium: two imperial claims overlap a surviving local civic authority, though the city's name, formal armistice, and exact sector lines remain unresolved.
 
 No participant can cheaply abolish the others.
 

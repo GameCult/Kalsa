@@ -30,7 +30,7 @@ These notes are polity owners, not complete national essences. Deepened polities
 - [[Spoilers/Polities/Luck - Selza'a|Luck — Selza'a]]
 - [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Sorcery — Jamnai and the Terjamna]]
 - [[Spoilers/Polities/Shamanism - Papsenai|Shamanism — Papsenai]]
-- [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Analysis — Ju'onai Hegemony]]
+- [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]]
 - [[Spoilers/Polities/Prophecy - The Divided City|Prophecy — The Divided City]]
 - [[Spoilers/Polities/Channeling - Sarxe|Channeling — Sarxe]]
 - [[Spoilers/Polities/Intuition - Unresolved|Intuition — Unresolved]]

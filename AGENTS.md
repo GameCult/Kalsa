@@ -38,7 +38,10 @@ bones.
 - `Kalsa/` is the sole canonical Obsidian vault root. Its `index.md` is a reader-first,
   navigation-only consent gate.
 - `Kalsa/Public/` is the only publishable Quartz content root. Its notes own
-  situated presentation, not the hidden facts they omit or reinterpret.
+  situated presentation, not the hidden facts they omit or reinterpret. Every
+  explanatory model must have an inhabitant owner—a culture, institution,
+  lineage, text, witness, or explicit synthesis of named sources. Public is not
+  the author ontology with the serial numbers filed off.
 - `Kalsa/Spoilers/` is the complete canonical author and GM surface. The folder
   is a consent boundary, not a lore owner; its subject notes retain authority.
 - `Kalsa/.obsidian/` owns stable vault configuration. Workspace, graph, and
@@ -68,6 +71,11 @@ bones.
   them with generic medieval-Europe defaults wearing renamed hats.
 - Open source does not mean default omniscience. Public navigation, search,
   sitemap, RSS, and backlinks must not expose author-only or GM material.
+- Author labels such as Promethean sequences, signatures, formal capability
+  axes, and backstage divine taxonomy remain in `Spoilers/` unless an
+  inhabitant owner has reconstructed a bounded analogue. A local synonym does
+  not make the author model situated; evidence, institutions, interests, and
+  characteristic limits must travel with it.
 - Vault openness does not excuse root-level exposure. Author and GM notes remain
   physically inside `Kalsa/Spoilers/` even though determined readers may enter.
 - Character knowledge is a projection from bounded evidence. The world compiler

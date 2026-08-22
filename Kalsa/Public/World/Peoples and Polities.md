@@ -17,7 +17,7 @@ The names below are broad handles used by travellers and learned writers. A pers
 
 ## Selza'a
 
-The fogbound Luck country is organized through territorial families rather than one central government. Families maintain windtraps, cisterns, routes, dwellings, shrines, and boundaries. Adoption and marriage can be as politically important as descent. Feud is real, but so are third-family witnesses, shared-work compacts, emergency water, and temporary federations for mutual defence.
+The fogbound Selza'a country is organized through territorial families rather than one central government. Families maintain windtraps, cisterns, routes, dwellings, shrines, and boundaries. Adoption and marriage can be as politically important as descent. Feud is real, but so are third-family witnesses, shared-work compacts, emergency water, and temporary federations for mutual defence.
 
 Outsiders say the selza'a are impossibly fortunate. Selza'a arguments are more precise and less comforting. A family may speak of a dimna's protection, an inherited relation, a territorial balance, or a dangerous stranger. None of those claims makes coincidence proof against a person.
 
@@ -35,7 +35,16 @@ Ti'asantatca stands beside a storm that does not end. Its shield is maintained b
 
 ## The Ju'onai Hegemony
 
-Ju'onai institutions esteem the sudden comprehension of a system: a watercourse, engine, market, wall, bureaucracy, or campaign. Examinations certify demonstrated kinds of insight, and an extensive administration uses certified reports to tax, allocate, build, conquer, and correct.
+Ju'onai readers call sudden comprehension of a bounded system an **opening**.
+Their schools spend generations disputing what an opening reveals: a god's
+concordance, a trial survived, causes properly distinguished, or merely a frame
+whose edge has finally been named. Opened readers experience such moments;
+learned readers test and carry the knowledge without claiming the same gift.
+
+Houses of Attestation certify demonstrated kinds of reading. The Measured
+Offices use reports to tax, allocate, build, conquer, and correct. Neither owns
+the schools, and the schools do not acquire the right to govern by explaining a
+system well.
 
 The Hegemony is useful enough to be dangerous. It can repair headworks and then use the improved flow to justify a larger levy. It can preserve local rulers while deciding which records make their land legible. Its appeals can expose an official model's blind boundary, though often after people outside the model have paid for its elegance.
 
@@ -59,4 +68,6 @@ Technical lineages also cross these boundaries. Their members may inherit a fami
 
 Stories speak of a coldward people whose uncanny judgment serves trade, defence, and craft. Travellers confidently describe their politics; the descriptions do not agree. Until a visitor can name the office, workshop, household, or road behind the claim, “they always know what to do” is a boast, a fear, or a sales pitch rather than useful knowledge.
 
-See [[Kalsa]], [[Magic and Miracles]], and [[Gods and the Dead]].
+See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]], and
+[[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken
+Sluice]].

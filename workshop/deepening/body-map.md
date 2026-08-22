@@ -2,12 +2,12 @@
 title: Kalsa Canonical Body Map
 status: working-map
 snapshot_at: 2026-08-22T17:26:42Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-and-kalsa-029-boundaries
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-and-kalsa-030-boundaries
 ---
 
 # Kalsa Canonical Body Map
 
-This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, and vault-level spoiler enclosure through KALSA-029. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, vault-level spoiler enclosure through KALSA-029, and Public epistemic ownership through KALSA-030. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
 
 ## Canonical substrate
 
@@ -119,17 +119,17 @@ This is an operational map of the live authoring machine, not lore and not a rep
 - **Verification layer:** KALSA-013 and KALSA-021 source inventories, translation/conversion negatives, Shortened Watch event exclusivity and chronology/measure restraint, links/build/render.
 - **Unresolved seam:** language families, sound changes, scripts, calendars, regional units, interface comprehension, and public competence standards.
 
-### 8. Ju'onai examination and Analyst administration
+### 8. Ju'onai scholarship, attestation, and measured administration
 
-- **Owner:** `Polities/Analysis - Ju'onai Hegemony.md` owns polity history and portfolios; `Ju'onai Examiners.md` owns bounded testing, certification, discipline, and revocation; `Analyst Administration.md` owns appointment, tax/allocation, public works, petitions, remedy, and administrative succession; `Events/The Santabi'u Silt Appeal.md` alone owns that case's facts.
-- **Inputs:** scoped tests, causal reports, worker observations, tax and service records, charters, budgets, petitions, client agreements, local claims, and technical-custody evidence.
-- **Outputs:** scoped certification, appointments, portfolios, allocations, public works, notices, remedies, revocations, and appeals.
-- **Derived/display-only state:** exam scores, rank prestige, production estimates, model boundaries, risk summaries, and office dashboards describe administrative evidence; they do not become the territory.
-- **Forbidden writers:** rank cannot write moral worth; report cannot write verdict; model scope cannot erase outside observations; certification cannot write technical custody; analytical success cannot legitimate annexation.
-- **Shared paths:** exam, appointment, levy, public work, and petition preserve claimed boundary → inputs and missing evidence → accountable actor → material consequence → independent procedural review or superior appeal.
-- **Deletion/demotion line:** meritocratic intelligence caste, omniscient administration, model-as-reality, and clean annexation history are demoted.
-- **Verification layer:** KALSA-014 and KALSA-020 witnesses, Santabi'u event exclusivity, low-expression/worker hostile readings, report-boundary and duplicated-retelling negatives, links/build/render.
-- **Unresolved seam:** summit and provinces, tax forms, office succession, certification law, technical guild relations, Channeler Crown custody, and compensation.
+- **Owner:** `Polities/Ju'onai Hegemony.md` owns polity history, territorial claims, and political relations; `Institutions/Ju'onai Schools of the Opening.md` owns vocabulary, scholarship, lineages, archives, and competing models; `Institutions/Houses of Attestation.md` owns bounded testing, certification, discipline, and revocation; `Institutions/Measured Offices.md` owns portfolios, appointment, tax/allocation, public works, petitions, remedy, and administrative succession; `Events/The Santabi'u Silt Appeal.md` alone owns that case's facts.
+- **Inputs:** firsthand openings, learned observations, work records, temple accounts, translations, adverse cases, scoped tests, causal reports, worker testimony, tax and service records, charters, budgets, petitions, client agreements, local claims, and technical-custody evidence.
+- **Outputs:** teaching and commentary, confidence and boundary practices, scholarly disputes, scoped certification, appointments, portfolios, allocations, public works, notices, remedies, revocations, and appeals.
+- **Derived/display-only state:** translated school names, author crosswalks, Public syntheses, exam scores, rank prestige, production estimates, model boundaries, risk summaries, and office dashboards describe owned evidence; they do not become native consensus or the territory.
+- **Forbidden writers:** school cannot write metaphysical truth or acquire acting authority; rank cannot write moral worth; report cannot write verdict; model scope cannot erase outside observations; certification cannot write appointment or technical custody; administrative use cannot make a theory true; bounded success cannot legitimate annexation.
+- **Shared paths:** observation or opening → attributed record → lineage interpretation and bounded test → separate certification, appointment, action, or verdict → material consequence → adverse archive, independent procedural review, superior appeal, and possible revision.
+- **Deletion/demotion line:** IV, 010, Analysis, and Clarity are backstage comparison terms rather than unmarked Ju'onai language; meritocratic intelligence caste, omniscient administration, model-as-reality, and clean annexation history are demoted.
+- **Verification layer:** KALSA-014, KALSA-020, and KALSA-030 witnesses; Santabi'u event exclusivity; low-expression/worker hostile readings; school/action authority negatives; author-vocabulary Public scan; report-boundary and duplicated-retelling negatives; links/build/render.
+- **Unresolved seam:** exact descendant-language terms, school antiquity and regional variation, summit and provinces, tax forms, office succession, certification law, technical guild relations, Channeler Crown custody, and compensation.
 
 ### 9. Sarxe households, flight, and refuge
 
@@ -245,13 +245,13 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication and vault-navigation authority — KALSA-026 and KALSA-029
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029, and KALSA-030
 
-- **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own reader presentation; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
+- **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
 - **Outputs:** an open inspectable author vault, a high-fantasy reader surface, and future consumer-bounded Ghostlight packets or affordances.
 - **Derived/display-only state:** rendered Quartz pages, search, sitemap, RSS, backlinks, and future compiled Ghostlight packets lower owned sources without becoming canon or widening knowledge.
-- **Forbidden writers:** public prose cannot rewrite author truth; the root gate cannot state lore; author-vault proximity cannot grant reader or character knowledge; Quartz and Ghostlight projections cannot become lore owners; resolver outcomes cannot grant causal understanding automatically.
+- **Forbidden writers:** public prose cannot rewrite author truth or speak backstage taxonomy as neutral world knowledge; a translated local term cannot inherit the complete author model; the root gate cannot state lore; author-vault proximity cannot grant reader or character knowledge; Quartz and Ghostlight projections cannot become lore owners; resolver outcomes cannot grant causal understanding automatically.
 - **Shared paths:** `Kalsa/index.md` → `Public/index.md` by default or explicit `Spoilers/index.md` opt-in; author canon → audience/reveal review → situated `Kalsa/Public/` source or future Ghostlight compiler input → bounded consumer → receipt → explicit reveal or canonization in the owning author note.
 - **Deletion/demotion line:** no author/GM directory remains at the vault root; membership in `Kalsa/` and the old `contentDir Kalsa` binding no longer decide publication eligibility; unrestricted author-vault retrieval is not a character-context path.
 - **Verification layer:** vault-root allowlist; complete-vault links and seed hashes; public-only link containment; stale author-path negatives; launcher/workflow binding to `Kalsa/Public`; sitemap/search/RSS/explorer leakage negatives; production build and affected-page inspection; future Ghostlight packet-leakage review in its owning repository.
@@ -260,7 +260,7 @@ These overlays record changed authority and shared paths. They are audit views o
 | --- | --- | --- | --- |
 | `seed/original/` + `seed/manifest.md` | Immutable witnesses; manifest owns filenames, sizes, hashes, and subject labels. | Read into source inventories; verify with `scripts/lore/verify-seed.ps1`. | Never edit, normalize, rename, or let witness prose become canon without adoption. |
 | `Kalsa/` + `Kalsa/index.md` | Obsidian vault container and navigation-only consent gate. | Leads casual explorers to `Public/` by default and deliberate spoiler readers to `Spoilers/`. | Owns no setting claims and cannot place author/GM domains beside the consent boundary. |
-| `Kalsa/Public/` | Sole Quartz input and owner of situated reader presentation, not a second author canon. | Selectively expresses lived high-fantasy accounts from author truth and links only within the public surface. | Cannot reveal by proximity, rewrite hidden mechanisms, become a duplicate encyclopedia, or link readers into author/GM material. |
+| `Kalsa/Public/` | Sole Quartz input and owner of inhabitant-facing situated presentation, not a second author canon. | Lets players explore common life, attributed schools, lineages, offices, witnesses, texts, and explicit comparison among their accounts; links only within the public surface. | Cannot reveal by proximity, speak author taxonomy as neutral knowledge, rename a backstage model and call it situated, become a duplicate encyclopedia, or link readers into author/GM material. |
 | `Kalsa/Spoilers/` | Complete open author and GM surface; subject notes retain truth authority and the folder itself owns none. | Receives reviewed canonical repair; feeds author inspection, reveal review, and future compiler inputs. | Cannot escape into the vault root through duplicate notes, junctions, symlinks, or compatibility copies. |
 | `Kalsa/Spoilers/Events/` | Adopted-history owner layer; each event note owns one factual sequence, while the index owns navigation only. | Supplies linked historical pressure to subject owners; receives factual correction before consequence notes. | Cannot absorb general procedure or metaphysics; consumers cannot fork its facts. |
 | `Kalsa/Spoilers/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
@@ -293,5 +293,5 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
 ## Remaining open surfaces at this snapshot
 
 - KALSA-007 through KALSA-022 are complete. The final bounded Soul review found parity defensible for the adopted institutional set; this closes the current depth cycle without declaring unfinished branches complete.
-- KALSA-026 establishes open author canon versus situated reader presentation; KALSA-029 encloses the author/GM tree behind one explicit vault section. Ghostlight compiler schemas, campaign-package ownership, and deployment/domain authority remain unresolved in their owning projects.
+- KALSA-026 establishes open author canon versus situated reader presentation; KALSA-029 encloses the author/GM tree behind one explicit vault section; KALSA-030 makes Public an inhabitant-facing knowledge commons and begins the model with Ju'onai causal scholarship. Ghostlight compiler schemas, campaign-package ownership, equivalent scholarly depth for other cultures, and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

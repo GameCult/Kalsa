@@ -17,7 +17,7 @@ tags:
 
 # Channeling — Sarxe
 
-The Sarxe are Channeler-descended communities shaped by two successive displacements. The [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai Hegemony]] first annexed the original Channeler Crown City and dispersed its communities. Survivors later consolidated at a static Saxfoldi. Terjamna forces then broke through Sarxe resistance after a Soiru'i sacrifice exposed that refuge, producing the massacre remembered as **Ji'esti**, “Extinction.” Saxfoldi became mobile and hidden afterward.
+The Sarxe are Channeler-descended communities shaped by two successive displacements. The [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]] first annexed the original Channeler Crown City and dispersed its communities. Survivors later consolidated at a static Saxfoldi. Terjamna forces then broke through Sarxe resistance after a Soiru'i sacrifice exposed that refuge, producing the massacre remembered as **Ji'esti**, “Extinction.” Saxfoldi became mobile and hidden afterward.
 
 Mobility is now the best-known center of Sarxe political life, not the measure of who counts as Sarxe. People remained under Ju'onai rule, settled elsewhere, joined mixed communities, or entered an external diaspora as mediators, hunters, scavengers, guards, mercenaries, and assassins. That outsider-facing strand is real and dangerous. It is not the whole society wearing one profession.
 

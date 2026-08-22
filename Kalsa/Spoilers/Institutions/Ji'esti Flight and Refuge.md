@@ -18,7 +18,7 @@ tags:
 
 # Ji'esti Flight and Refuge
 
-Ji'esti Flight and Refuge is the Sarxe institutional response to repeated displacement. It organizes warning, departure, safe passage, admission, separation records, care, recovery, return, and the handoff of obligations when a community cannot remain where it is. It grew under two successive historical pressures: [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai]] annexation dispersed the original Channeler Crown communities; later, Terjamna forces used a Soiru'i beacon to overwhelm static Saxfoldi in the massacre remembered as Ji'esti.
+Ji'esti Flight and Refuge is the Sarxe institutional response to repeated displacement. It organizes warning, departure, safe passage, admission, separation records, care, recovery, return, and the handoff of obligations when a community cannot remain where it is. It grew under two successive historical pressures: [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai]] annexation dispersed the original Channeler Crown communities; later, Terjamna forces used a Soiru'i beacon to overwhelm static Saxfoldi in the massacre remembered as Ji'esti.
 
 This institution owns lower-world flight and refuge procedure. It does not decide what the Ji'esti Soiru'i was, whether its sacrifice was voluntary, the metaphysics of the beacon, Ju'onai title to the Crown, Jamnai doctrine, or a universal right of return. [[Spoilers/Polities/Channeling - Sarxe|the Sarxe polity]] owns the history and present political consequences. [[Spoilers/Institutions/Saxfoldi Households|Saxfoldi households]] own ordinary membership and care.
 

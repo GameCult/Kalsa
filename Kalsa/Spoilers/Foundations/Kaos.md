@@ -19,11 +19,22 @@ tags:
 
 # Kaos
 
-Kaos is the use of prescient information to steer causal systems toward reachable outcomes. A mage does not command reality by declaration. Their Gift exposes or selects interventions: the gesture, pressure, timing, word, route, or refusal that changes which possible future becomes present.
+`Kaos` is the author-facing name for the use of prescient information to steer
+causal systems toward reachable outcomes. It owns adjudication constraints, not
+the vocabulary or theories of Kalsa's cultures. A mage does not command reality
+by declaration. Their Gift exposes or selects interventions: the gesture,
+pressure, timing, word, route, or refusal that changes which possible future
+becomes present.
 
 Chaotic systems provide the greatest leverage because small interventions can propagate into large effects. Weather, stressed geology, markets, battles, ecologies, and human decisions can all carry Kaos. Each remains limited by what it contains.
 
-## Three axes
+## Author comparison: three axes
+
+Clarity, Depth, and Scope are backstage comparison terms distilled from the
+seed. Promethean records may preserve related classifications, but no living
+culture receives this table as innate knowledge. Scholars instead divide the
+evidence according to their own instruments, work, doctrines, and historical
+failures.
 
 - **Clarity** is conscious causal resolution: how precisely a mage can distinguish variables, dependencies, and intervention paths.
 - **Depth** is counterfactual reach: how far from the unaided probable course the mage or Beast can select and commit an outcome. It is not temporal distance.
@@ -49,6 +60,8 @@ Costs include depletion of magical potential, exposure to rival Beasts, corrupti
 
 ## Observing Kaos
 
+The backstage constraints below say what evidence each Gift can expose. They do
+not say that witnesses classify the evidence this way or agree about its cause.
 There is no universal detect-magic faculty.
 
 - **Analysis** detects local causal intervention signatures in systems being altered. It does not see a soul or Beast directly.

@@ -17,9 +17,14 @@ tags:
 
 # Glossary
 
+This is a derived author cross-reference, not a dictionary shared by Kalsa's
+inhabitants. English Gift names and formal capability terms below support
+comparison among owner notes; local vocabulary and theory belong to the
+relevant polity and institution notes.
+
 | Term | Current use |
 |---|---|
-| **Analysis** | Signature 010; conscious causal resolution. See [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai Hegemony]]. |
+| **Analysis** | Signature 010; conscious causal resolution. See [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]]. |
 | **baltcadu** | Seed gloss: Great City. Exact language and modern usage unresolved. |
 | **Chaos Beast** | Upper-dimensional agency coupled to a prescient person-pattern. See [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Chaos Beasts|Chaos Beasts]]. |
 | **Children of Fire** | Ring populations shaped by Prometheus's worship and evolutionary games; not one present ethnicity. |

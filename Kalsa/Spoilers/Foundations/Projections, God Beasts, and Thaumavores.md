@@ -20,6 +20,13 @@ tags:
 
 # Projections, God Beasts, and Thaumavores
 
+This note owns the backstage model used to keep divine, magical, and mortuary
+consequences coherent. `Projection`, `Chaos Beast`, `God Beast`, and
+`thaumavore` are author labels unless a local owner explicitly adopts a related
+term. Inhabitants know manifestations, covenants, inherited relations, divine
+claims, dangerous dead, and the records their institutions can preserve; they
+do not thereby know this complete taxonomy.
+
 ## Individual Projections
 
 A living person occupies more than the sequence of bodily states visible in ordinary time. Their **Individual Projection** is the volume of possible selves and futures to which their identity remains attached. A prescient fold carries information between points in that volume and opens routes toward futures that would otherwise remain unrealized.

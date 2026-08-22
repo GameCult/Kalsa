@@ -22,20 +22,32 @@ tags:
 
 # Magic Styles
 
-Prometheus arranged the seven Gifts through a development sequence. Each also has a binary Kaos signature derived from [[Spoilers/Foundations/Kaos#Three axes|Depth, Clarity, and Scope]]. These systems answer different questions and must not be collapsed.
+This note is an author and adjudicator crosswalk. It compares the seed's seven
+engineered capability families; it is not a table known across Kalsa.
+Prometheus arranged the seven Gifts through a development sequence. Each also
+has a binary Kaos signature derived from
+[[Spoilers/Foundations/Kaos#Author comparison: three axes|Depth, Clarity, and
+Scope]]. These systems answer different backstage questions and must not be
+collapsed.
 
-| Sequence | Signature | Style | Axes | God-foundation | Seed polity or culture |
+| Sequence | Signature | Author label | Axes | God-foundation | Seed polity or culture |
 |---|---:|---|---|---|---|
 | N | 000 | Null | none | no | [[Spoilers/Polities/Null and Control Descendants|Control descendants]]; many [[Spoilers/Polities/Spokers|Spokers]] |
 | I | 001 | Luck | Scope | yes | [[Spoilers/Polities/Luck - Selza'a|Selza'a]] |
 | II | 100 | Sorcery | Depth | yes | [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Terjamna of Jamnai]] |
 | III | 101 | Shamanism | Depth, Scope | no | [[Spoilers/Polities/Shamanism - Papsenai|Papsenai]] |
-| IV | 010 | Analysis | Clarity | yes | [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Junsenai of the Ju'onai Hegemony]] |
+| IV | 010 | Analysis | Clarity | yes | [[Spoilers/Polities/Ju'onai Hegemony|Junsenai of the Ju'onai Hegemony]] |
 | V | 011 | Prophecy | Clarity, Scope | no | [[Spoilers/Polities/Prophecy - The Divided City|Divided City of Prophets]] |
 | VI | 110 | Channeling | Depth, Clarity | no | [[Spoilers/Polities/Channeling - Sarxe|Sarxe]] |
 | VII | 111 | Intuition | Depth, Clarity, Scope | no | [[Spoilers/Polities/Intuition - Unresolved|unresolved polity]] |
 
 Roman numerals name the **Promethean Sequence**. Binary values name the **Kaos signature**. “Type II” is therefore forbidden in current reference prose unless the author states which system is meant.
+
+Sequence numbers, signatures, axes, and the normalized English style labels
+remain backstage vocabulary unless an owner note attributes their recovery to
+a particular archive or tradition. Polity and institution notes own the names,
+models, and disagreements used by living people. Similar observed capacities do
+not require shared explanation.
 
 ## Root and composite strains
 

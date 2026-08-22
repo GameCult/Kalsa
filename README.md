@@ -17,7 +17,7 @@ shows the reader section and one explicitly named spoiler section.
 
 ## Authority map
 
-- `Kalsa/Public/`: spoiler-safe common knowledge and situated sources; the only Quartz content root
+- `Kalsa/Public/`: inhabitant-facing common knowledge, attributed scholarship, and situated sources; the only Quartz content root
 - `Kalsa/Spoilers/`: complete open author canon and GM material; deliberately entered repository/Obsidian section
 - `Kalsa/index.md`: navigation only; owns no setting claims
 - `Kalsa/.obsidian/`: stable configuration for the canonical vault; session and cache state remain local and ignored
@@ -29,7 +29,12 @@ shows the reader section and one explicitly named spoiler section.
 - `scripts/`: build and verification tools
 - `quartz-site/public/`: generated output, ignored by Git
 
-Obsidian is the authoring interface. Quartz is the reader projection. Neither owns lore. Public prose does not overrule its canonical subject owner, and author truth does not enter a character's knowledge merely because both exist in one open repository.
+Obsidian is the authoring interface. Quartz is the reader projection. Neither
+owns lore. Public prose lets players explore what Kalsan cultures, schools,
+offices, and witnesses understand and dispute; it is not a shortened author
+encyclopedia. Public prose does not overrule its canonical subject owner, and
+author truth does not enter a character's knowledge merely because both exist
+in one open repository.
 
 ## Local site
 

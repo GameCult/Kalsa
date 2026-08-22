@@ -13,6 +13,12 @@ tags:
 
 A ruin in Kalsa is rarely empty enough to belong to the first armed party through its door.
 
+The account below is a practical synthesis circulated among settlement
+councils, delving companies, shrine keepers, mortuary witnesses, and technical
+lineages. Jurisdictions disagree about its legal force. Its questions survive
+because expeditions that ignore them keep returning with damage somebody else
+must own.
+
 The deepest works may still carry water, heat, air, pressure, signals, or movement to people above. Later generations built houses in them, sealed sickness behind them, buried their dead in them, used them as forts, cut them for parts, worshipped at their thresholds, and forgot which alterations belonged to whom.
 
 A single descent can therefore cross several living claims:
@@ -37,7 +43,7 @@ Competence creates leverage. A priest who can condemn a conduit can change a har
 
 ## Layered dungeons
 
-Before disturbing a site, careful delvers ask:
+Many compacts and ruin courts teach delvers to ask:
 
 1. What is this chamber doing now?
 2. Who depends upon that work?
@@ -45,7 +51,7 @@ Before disturbing a site, careful delvers ask:
 4. What changed the last time someone opened it?
 5. Which claims can be heard before the act becomes irreversible?
 
-Answers remain incomplete. A wall can be a tomb and a pressure boundary. A voice can be a trapped person, an unquiet dead presence, a god's servant, a fraud, or a failing system repeating what it heard. The correct response is not universal fear. It is preservation, bounded tests, witnessed decisions, and refusal to let the most profitable explanation win merely by arriving armed.
+Answers remain incomplete. A wall can be a tomb and a pressure boundary. A voice can be a trapped person, an unquiet dead presence, a god's servant, a fraud, or a failing system repeating what it heard. The shared discipline is not universal fear or one theory of ruins. It is preservation, bounded tests, witnessed decisions, and refusal to let the most profitable explanation win merely by arriving armed.
 
 ## Delving compacts
 

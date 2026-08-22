@@ -1,5 +1,5 @@
 ---
-title: Analyst Administration
+title: Measured Offices
 aliases:
   - Ju'onai administration
   - Hegemony administration
@@ -7,6 +7,7 @@ status: canonical-institution
 adopted_in: KALSA-014
 repaired_in:
   - KALSA-020
+  - KALSA-030
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -18,11 +19,17 @@ tags:
   - juonai
 ---
 
-# Analyst Administration
+# Measured Offices
 
-Analyst Administration is the Ju'onai machinery that converts observations, certificates, tribute compacts, records, and political priorities into territorial action. It can coordinate roads, grain, tax, archives, defense, and public works across a Hegemony. It can also make the model chosen by a ruling class look like the territory's natural shape.
+**Measured Offices** is the translated common name for the Ju'onai machinery that converts observations, certificates, tribute compacts, records, and political priorities into territorial action. It can coordinate roads, grain, tax, archives, defense, and public works across a Hegemony. It can also make the model chosen by a ruling class look like the territory's natural shape. Exact native titles vary by portfolio and region.
 
-Analysis is an input to administration, not its sovereign. [[Spoilers/Foundations/Kaos|Kaos]] owns the magical faculty and uncertainty. [[Spoilers/Institutions/Ju'onai Examiners|Ju'onai Examiners]] own bounded certification. This institution owns office, allocation, intervention, record, petition, and remedy.
+Openings and scholarly models are inputs to administration, not its sovereign.
+[[Spoilers/Foundations/Kaos|Kaos]] owns the backstage capability and uncertainty;
+[[Spoilers/Institutions/Ju'onai Schools of the Opening|the Schools of the
+Opening]] own scholarship; and
+[[Spoilers/Institutions/Houses of Attestation|the Houses of Attestation]] own
+bounded certification. This institution owns office, allocation, intervention,
+record, petition, and remedy.
 
 ## Owner map
 
@@ -30,12 +37,12 @@ Analysis is an input to administration, not its sovereign. [[Spoilers/Foundation
 |---|---|---|
 | Administrative charter and portfolio | The appointing superior and the public record recognized in that jurisdiction | Universal competence, divine truth, or every local office inside the territory |
 | Policy, levy, budget, and lawful intervention | The commissioned portfolio holder | Facts outside the record or operation of a system they are not qualified to touch |
-| Analysis report | The named Analyst or team within a stated boundary | Verdict, moral fitness, intent, or technical title |
-| Certification | [[Spoilers/Institutions/Ju'onai Examiners|Examiners]] | Appointment or policy |
+| Opening report | The named opened or learned readers within a stated frame | Verdict, moral fitness, intent, or technical title |
+| Certification | [[Spoilers/Institutions/Houses of Attestation|Attestors]] | Appointment or policy |
 | Relic configuration and safe operation | [[Spoilers/Institutions/Relic Custody|The relevant custodian]] | Allocation of safely available output |
 | Local work observation | Workers, households, and local offices that produced it | The final public decision, unless their charter grants it |
 | Client polity law and local administration | The authority preserved by its tributary compact | Imperial tribute or passage the compact actually grants |
-| Petition finding and remedy | The responsible administrative office, subject to appeal | A patron's private model or examiner's rank |
+| Petition finding and remedy | The responsible administrative office, subject to appeal | A patron's private model or attestor's rank |
 | Record chain | Clerks, archive custodians, and required duplicate holders | Quiet revision by the office whose action is challenged |
 
 The administration is coherent only while these owners can disagree in records that survive the disagreement.
@@ -44,9 +51,9 @@ The administration is coherent only while these owners can disagree in records t
 
 Ju'onai government divides consequence into portfolios: a district, tax source, road, granary system, archive, military supply route, public work, client relation, or other named body of responsibility. A charter states territory, inputs, budget, obligations, intervention rights, superior office, review point, and excluded authorities.
 
-Portfolio holders are often certified Analysts. Others are learned administrators supported by Analysts, clerks, local experts, and divine patrons. The Hegemony's ideology prefers the image of a perceptive ruler who understands the whole mechanism. Its actual competence comes from separated offices, persistent records, and people willing to report what the holder did not see.
+Portfolio holders are often certified opened readers. Others are learned administrators supported by opened readers, clerks, local experts, and divine patrons. The Hegemony's ideology prefers the image of a perceptive ruler who understands the whole mechanism. Its actual competence comes from separated offices, persistent records, and people willing to report what the holder did not see.
 
-An Analysis certificate can make a candidate eligible. Appointment still depends on superior confidence, lineage, school, god, client faction, wealth, and political reliability. This is not generic meritocracy with a few unfortunate imperfections. Measurement is one of the means by which established power reproduces itself.
+An opening certificate can make a candidate eligible. Appointment still depends on superior confidence, lineage, school, god, client faction, wealth, and political reliability. This is not generic meritocracy with a few unfortunate imperfections. Measurement is one of the means by which established power reproduces itself.
 
 ## Office and succession
 
@@ -56,7 +63,7 @@ At succession:
 
 1. an acting keeper preserves current services and prevents irreversible new policy where delay permits;
 2. the archive records open petitions, debts, contracts, system state, and concealed or sealed materials;
-3. [[Spoilers/Institutions/Ju'onai Examiners|Examiners]] verify any required domain certificate without appointing the successor;
+3. [[Spoilers/Institutions/Houses of Attestation|Attestors]] verify any required domain certificate without appointing the successor;
 4. the superior office appoints under the charter and records patron, conflicts, and exceptional waivers;
 5. local workers, clients, and dependent offices witness the material handoff where possible;
 6. the successor accepts the existing record before revising its model.
@@ -77,7 +84,7 @@ Core records include:
 - budgets, stores, labor commitments, and allocations;
 - public-work configuration, custody, and interruption history;
 - client compacts and preserved local authorities;
-- Analysis reports with inputs, boundaries, uncertainty, and intended intervention;
+- opening reports with inputs, boundaries, uncertainty, and intended intervention;
 - petitions, responses, appeals, and restoration still owed;
 - office succession and conflicts;
 - divine, lineage, or patron interests relevant to the decision.
@@ -90,7 +97,7 @@ Secrecy may protect military routes, vulnerable infrastructure, personal records
 
 ## Taxation and resource allocation
 
-Administrative surveys estimate land, harvest, trade, labor, transport, infrastructure use, security burden, and capacity to recover from loss. Analysts can reveal causal bottlenecks and likely consequences within the surveyed system. Officials translate the estimate into money, goods, grain, service, lodging, transport, or other obligations recognized locally.
+Administrative surveys estimate land, harvest, trade, labor, transport, infrastructure use, security burden, and capacity to recover from loss. Opened readers can reveal causal bottlenecks and likely consequences within the surveyed system. Officials translate the estimate into money, goods, grain, service, lodging, transport, or other obligations recognized locally.
 
 The tax question is political at each stage:
 
@@ -100,7 +107,7 @@ The tax question is political at each stage:
 - Who receives relief after intervention changes the system?
 - Does a client retain surplus after tribute or merely administer collection?
 
-Revenue supports superior tribute, garrisons, roads, stores, public works, archives, examiner schools, divine institutions, relief, and administration itself. Exact shares and currencies remain unresolved.
+Revenue supports superior tribute, garrisons, roads, stores, public works, archives, attestor schools, divine institutions, relief, and administration itself. Exact shares and currencies remain unresolved.
 
 Allocation uses the same models as collection. A road that increases trade can justify its cost and the later levy that captures the increase. A granary can prevent famine and let the Hegemony require riskier specialization. Useful administration and extraction are often the same intervention viewed from different positions.
 
@@ -108,7 +115,7 @@ Allocation uses the same models as collection. A road that increases trade can j
 
 An administrative portfolio may commission a road, wall, watercourse, archive, granary, transport system, or relic repair. Its holder owns purpose, budget, priority, and coordination within the charter. They do not own every technical act.
 
-An Analyst may identify a leverage point. Engineers, workers, growers, carriers, and local keepers supply practice. [[Spoilers/Institutions/The Techpriesthoods|Techpriests]] and [[Spoilers/Institutions/Relic Custody|relic custodians]] may stop unsafe work on an entrusted Ark configuration. Client authorities may retain land, water, labor, or ritual claims.
+An opened reader may identify a leverage point. Engineers, workers, growers, carriers, and local keepers supply practice. [[Spoilers/Institutions/The Techpriesthoods|Techpriests]] and [[Spoilers/Institutions/Relic Custody|relic custodians]] may stop unsafe work on an entrusted Ark configuration. Client authorities may retain land, water, labor, or ritual claims.
 
 A defensible intervention record states:
 
@@ -120,35 +127,41 @@ A defensible intervention record states:
 - who pays, who receives output, and who receives restoration after harm;
 - when the model will be reviewed against material outcome.
 
-Analysis does not eliminate maintenance. The Hegemony's proudest works depend on repetitive labor its examination hierarchy may classify as low.
+An opening does not eliminate maintenance. The Hegemony's proudest works depend on repetitive labor its examination hierarchy may classify as low.
 
 ## The ordinary petition
 
-Most inhabitants meet Analyst Administration through a clerk, queue, or local representative rather than a gifted official.
+Most inhabitants meet Measured Offices through a clerk, queue, or local representative rather than a gifted official.
 
 1. A petitioner names the office action, material harm, requested remedy, and whatever record they can identify.
 2. A clerk must issue a traceable entry even if the petition appears to belong elsewhere.
 3. The responsible portfolio gathers current records, local testimony, and material inspection.
-4. An Analyst may provide a bounded report. The report must name its system, assumptions, and uncertainty.
+4. An opened reader may provide a bounded report. The report must name its system, assumptions, and uncertainty.
 5. The office decides whether to remedy, refuse, investigate, or transfer the claim.
 6. The response records reason, evidence, responsible owner, time limit, and appeal path.
 7. If intervention changes the system, later review compares outcome to the claim.
 
-Low-expression people often perform the first five observations and receive credit for none. Their knowledge enters as data while the certified Analyst's synthesis enters as authorship. Petition records keep the source attached where the institution is functioning honestly.
+Low-expression people often perform the first five observations and receive credit for none. Their knowledge enters as data while the certified opened reader's synthesis enters as authorship. Petition records keep the source attached where the institution is functioning honestly.
 
 A petitioner need not prove the whole causal model to report smoke, silt, hunger, a missing ration, a broken road, or a clerk who demanded private payment. Requiring analytical explanation before accepting material evidence is a class barrier disguised as rigor.
 
 ## Evidentiary limits
 
-An Analysis report is expert evidence. It may explain how variables connect, identify an intervention scar, or show why an official premise cannot produce the claimed result. It cannot by itself prove intent, moral blame, legal authority, divine allegiance, or the identity of a magician.
+An opening report is expert evidence. It may explain how variables connect, identify an intervention scar, or show why an official premise cannot produce the claimed result. It cannot by itself prove intent, moral blame, legal authority, divine allegiance, or the identity of a magician.
 
-Analysis is not universal detect-magic. It may observe a local causal signature from Sorcery, Shamanism, Channeling, or another active intervention where the system carries it. It does not directly detect Luck, souls, or every distant source. Prophecy uses a different evidentiary layer; see [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]].
+An aftermark is not universal detection of magic. Under the backstage model, an
+opened reader may observe a local causal scar from another active intervention
+where the system carries it. Ju'onai schools dispute the explanation. The
+evidence does not directly expose Luck, souls, every distant source, the actor's
+identity, or intent. Prophetic houses use a different evidentiary layer; see
+[[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and
+Courts]].
 
 Administrative adjudicators compare the report with material evidence, records, witness accounts, office boundaries, and law. A sponsor cannot make an answer true by choosing only variables that support it. A rival report is not automatically better because its author holds higher examination rank.
 
 ## Appeal, refusal, and restoration
 
-Appeal goes to the superior portfolio or an office commissioned to review that class of decision. Examination procedure can be referred separately to [[Spoilers/Institutions/Ju'onai Examiners|Examiners]]. A superior may affirm policy while revoking the certificate used to justify it, or preserve a certificate while finding the office exceeded its charter.
+Appeal goes to the superior portfolio or an office commissioned to review that class of decision. Examination procedure can be referred separately to [[Spoilers/Institutions/Houses of Attestation|Attestors]]. A superior may affirm policy while revoking the certificate used to justify it, or preserve a certificate while finding the office exceeded its charter.
 
 Grounds include:
 
@@ -156,7 +169,7 @@ Grounds include:
 - the model omitted a known dependent or local authority;
 - a patron selected the sample or concealed an intervention;
 - worker evidence was removed from the record;
-- the analyst's domain did not cover the claim made;
+- the reader's attested domain did not cover the claim made;
 - tax or allocation used an expired system state;
 - a technical custodian's refusal was treated as ignorance without review;
 - a client compact preserved an authority the Hegemony attempted to absorb;
@@ -180,17 +193,17 @@ The annexed Channeler Crown and tributary Prophetic City show different limits. 
 
 ## Class and low-expression effects
 
-Certified Analysts occupy the Hegemony's prestige core, especially when their gods and lineages align with high office. Strong expression opens schools and patronage; school and patronage make expression legible; legibility produces office; office finances the next generation's preparation.
+Certified opened readers occupy the Hegemony's prestige core, especially when their gods and lineages align with high office. Strong expression opens schools and patronage; school and patronage make expression legible; legibility produces office; office finances the next generation's preparation.
 
 Low-expression and Null people serve as clerks, workers, growers, carriers, craftspeople, local officials, witnesses, guards, tutors, and maintainers. They can hold learned expertise and sometimes administrative office. The hierarchy nevertheless treats their observations as inputs to be synthesized by someone of higher rank.
 
 Farmers and other subordinated groups stand within divine domains in the seed. The Hegemony may describe this as universal inclusion: every necessary function has a god and place. A farmer may experience the same system as a cosmic explanation for why the person measuring grain ranks above the person growing it.
 
-Class resistance does not require rejecting Analysis. Public schools, worker archives, client examiner programs, open petition rolls, copied certificates, and insistence on named model boundaries all use analytical discipline against analytical aristocracy.
+Class resistance does not require rejecting the Study of Openings. Public schools, worker archives, client attestation programs, open petition rolls, copied certificates, and insistence on named edges all use disciplined reading against aristocratic custody of authorship.
 
 ## Fraud and blind spots
 
-Administrative fraud includes false tax samples, suppressed petitions, invented losses, patron-owned audits, counterfeit certificates, manipulated work counts, and interventions designed to produce the result used to justify them. An Analyst can be bribed, coerced, ideologically committed, or honestly bounded.
+Administrative fraud includes false tax samples, suppressed petitions, invented losses, patron-owned audits, counterfeit certificates, manipulated work counts, and interventions designed to produce the result used to justify them. An opened reader can be bribed, coerced, ideologically committed, or honestly bounded.
 
 Structural blind spots are more dangerous than crude fraud:
 
@@ -221,7 +234,7 @@ Resistance takes analytical and non-analytical forms:
 - refuse unsafe operation and force the office to name a qualified custodian;
 - feed a model technically true data that exposes its perverse incentive;
 - conceal production, move trade, or fragment work below the tax unit;
-- align with a rival god, patron, examiner, or superior office;
+- align with a rival god, patron, attestor, or superior office;
 - keep stories and practices that do not translate into the Hegemony's categories.
 
 The administration absorbs some resistance as quality control. That can produce real repair and can turn dissent into unpaid diagnostic labor for empire.
@@ -230,19 +243,19 @@ The administration absorbs some resistance as quality control. That can produce 
 
 - A buried examination archive proves a ruling lineage's founding certificate tested a scripted case rather than the public system later entrusted to it.
 - An old provincial ledger in a collapsed office records petitions and tax relief never delivered; current descendants inherit both claim and danger.
-- A public work descends into Crown machinery where the administrative map ends. Analysts can see causal relations, but only custodians know which intervention is permitted.
+- A public work descends into Crown machinery where the administrative map ends. Opened readers can see causal relations, but only custodians know which intervention is permitted.
 - A Promethean virtual arena still produces rankings and attempts to assign reproductive or civic authority to those who finish it.
 - A client polity hides its true production records in a dungeon because the archive itself is resistance; monsters, tax officers, and hungry neighbors all have claims on what it contains.
 - A nanite-managed chamber accepts Ju'onai analytical input and silently optimizes for a Promethean objective the administrator never recorded.
 - Survey markers beneath Santabi'u reveal that a “natural” provincial border was selected to separate a public work's benefits from the households that paid for it.
 
-Dungeon recovery does not let analysis swallow [[Spoilers/Institutions/Relic Custody|custody]], site authority, worker knowledge, or possible personhood inside the relic.
+Dungeon recovery does not let reading swallow [[Spoilers/Institutions/Relic Custody|custody]], site authority, worker knowledge, or possible personhood inside the relic.
 
 ## Marginal and hostile readings
 
 - A client farmer says the Hegemony measures a field twice: once to improve it and once to take the improvement.
 - A district clerk says the record is the only reason a governor must deny a petitioner in writing rather than make them disappear.
-- A certified Analyst says low-expression critics want the benefits of disciplined models without accepting anyone qualified to judge them.
+- A certified opened reader says low-expression critics want the benefits of disciplined models without accepting anyone qualified to judge them.
 - A canal keeper answers that qualification discovered the water only after being shown where it stopped.
 - A divine administrator calls hierarchy the coordination of ideas; a dissident worshipper calls it conquest that learned to alphabetize itself.
 
@@ -258,4 +271,4 @@ The institution is useful where it makes consequence inspectable across scale. I
 - Present administration of the Channeler Crown and Ju'onai sector of the Divided City.
 - Whether client polities can leave the Hegemony and what happens to shared works and records if they do.
 
-See [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai Hegemony]], [[Spoilers/Institutions/Ju'onai Examiners|Ju'onai Examiners]], [[Spoilers/Institutions/The Potential Economy|The Potential Economy]], and [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]].
+See [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]], [[Spoilers/Institutions/Ju'onai Schools of the Opening|Ju'onai Schools of the Opening]], [[Spoilers/Institutions/Houses of Attestation|Houses of Attestation]], [[Spoilers/Institutions/The Potential Economy|The Potential Economy]], and [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]].

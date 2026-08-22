@@ -58,3 +58,14 @@ promoted or retired.
 - **Verification:** top-level allowlist; spoiler-session and exposed-directory negative tests; 526 complete-vault links across 67 notes; 28 Public-only links across eight notes; nine seed witnesses; institutional depth over only the 58 spoiler-owner notes; production Quartz build; exact eight-route output comparison.
 - **Soul verdict:** the first pass failed on Obsidian session-state disclosure. The repaired pass succeeded with no remaining enclosure, ownership, Public, or Quartz blocker.
 - **Durable judgment promoted:** spoiler friction must govern saved editor state and the initial file tree, not only publication and prose warnings.
+
+## 2026-08-22 — Inhabitant models and Public epistemic ownership
+
+- **Scope:** [[passes/KALSA-030-inhabitant-models|KALSA-030]], beginning the situated-knowledge cycle with Ju'onai causal scholarship and its reader-facing projection.
+- **Authority cut:** IV, `010`, Analysis, and Clarity remain backstage comparison terms. `Ju'onai Schools of the Opening` owns translated vocabulary, teaching lineages, archives, and scholarly disagreement; Houses of Attestation retain certification; Measured Offices retain portfolios and action; the Santabi'u event retains its facts.
+- **Canonical lore changed:** the Study of Openings now contains Concordance Temples, Trial Boards, Four-Because Chairs, and Named-Edge Circles, each with distinct evidence, material reproduction, patronage, blind spots, succession, discipline, and historical readings.
+- **Public proof:** `Magic and Miracles` now attributes explanations to inhabitant traditions, and `Four Readings of a Broken Sluice` lets readers encounter the four-school dispute through an in-world teaching text whose keeper refuses anonymous evidentiary labor.
+- **Soul verdict:** the first post-cut review passed the semantic boundary but rejected a stale Body map that duplicated portfolio ownership. The repaired map assigns portfolios only to Measured Offices and records the full observation → lineage interpretation → separate action → material review path. The second review passed.
+- **Verification:** nine immutable seed witnesses; 551 complete-vault wikilinks across 69 notes; 34 Public links across nine reader notes; publication, vault-layout, negative-tool, and exact-output checks; production Quartz build of nine inputs and 33 outputs; rendered inspection of the home, magic, and teaching-source pages.
+- **Durable judgment promoted:** Public explanations require a situated inhabitant owner, evidence practice, institutional body, and characteristic limit. A local synonym without those consequences is only the author taxonomy in costume.
+- **Open pressure:** KALSA-031 repeats this audit for the remaining traditions one bounded owner at a time; exact Ju'onai descendant-language forms, school antiquity, and regional variations remain unresolved.

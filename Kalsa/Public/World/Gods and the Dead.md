@@ -13,9 +13,18 @@ tags:
 
 Kalsan gods are not metaphors made harmless by disbelief. They protect, conquer, bargain, bless, refuse, remember, demand, and sometimes die badly enough to poison a district for generations.
 
-They are not known to be all-knowing.
+No surviving cult, court, or mortuary tradition has established that they are
+all-knowing.
 
-A god can perceive dangers hidden from its worshippers and remain ignorant of the household cheating its storekeeper. It can preserve a city through war while misunderstanding why a dead rival still answers at one shrine. It can speak with overwhelming certainty because certainty keeps a hierarchy intact. Priests, prophets, champions, and enemies all learn to ask what a god actually witnessed, what reached it through servants, and what it merely insists must be true.
+Covenant ledgers, prophetic records, hostile chronicles, and priestly
+commentaries preserve a recurring embarrassment: a god can perceive dangers
+hidden from its worshippers and remain ignorant of the household cheating its
+storekeeper. It can preserve a city through war while misunderstanding why a
+dead rival still answers at one shrine. Some cult schools call this the limit
+of delegated attention; others call the apparent failure a human inability to
+recognize divine purpose. Priests, prophets, champions, and enemies still learn
+to ask what a god actually witnessed, what reached it through servants, and
+what it merely insists must be true.
 
 ## Covenant and submission
 
@@ -29,14 +38,20 @@ God-cults are material bodies as well as sacred ones. They require food, cloth, 
 
 Death does not guarantee silence. Names are heard in sealed rooms. Familiar gestures form in smoke or ash. A dead champion appears to answer a living oath. A burial ground consumes the edge of a miracle and returns memory, appetite, warning, or accusation.
 
-Kalsans disagree about what continues. Kin may recognize the person they lost. A mortuary office may record a manifestation without ruling upon identity. A release sect may believe its rite lets the dead depart. A frightened ruler may call every returning voice a predator. None of these positions becomes final merely because the dead did something impossible in its presence.
+Kalsans disagree about what continues. Kin may recognize the person they lost. A mortuary office may record a manifestation without ruling upon identity. A release sect may believe its rite lets the dead depart. A frightened ruler may call every returning voice a predator. None of these positions becomes final merely because the dead did something impossible in its presence; each has institutions deciding what testimony and obligation follow.
 
 The uncertainty does not excuse carelessness. Bodies have claims. Names have witnesses. A manifestation can attract worship, inheritance disputes, old enemies, and people eager to make the dead useful. Funerals therefore separate custody of remains, testimony about the person, cult obligation, public danger, and claims spoken through whatever returns.
 
 ## Hungry holy places
 
-Repeated miracles can make a place dangerous. Old deaths gather around power. A failed divine succession may leave competing presences drawing from the same offerings. A shrine may continue answering after its priesthood has forgotten whom it serves.
+Shrine keepers, delvers, and mortuary offices preserve reports in which repeated
+miracles make a place dangerous: old deaths answer near gathered power, failed
+divine successions leave competing presences drawing from the same offerings,
+or a shrine continues answering after its priesthood has forgotten whom it
+serves. Cults disagree over whether these are hungry dead, rival gods, broken
+covenants, or several dangers given one frightened name.
 
-Wise practitioners limit concentrated work near such places. Desperate ones call the danger proof that the miracle matters.
+Many practitioner lineages therefore limit concentrated work near such places.
+Desperate ones call the danger proof that the miracle matters.
 
 See [[Magic and Miracles]], [[Relics and Ruins]], and [[../Places/Low Sere|Low Sere]].

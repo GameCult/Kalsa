@@ -18,7 +18,7 @@ This map keeps author truth, reader access, character knowledge, and adjudicatio
 - **Inputs:** author canon, in-world sources, explicit operator decisions, campaign state, character state, observed events, relationships, provenance, and reveal decisions.
 - **Outputs:** spoiler-safe Quartz pages, author/GM inspection surfaces, future world-truth packages, retrieval evidence, character-local projections, and typed resolver affordances.
 - **Derived state:** the public site, search index, sitemap, RSS, lore digests, graph indexes, prompt text, and compiled packages report or lower owned state. They do not create canon.
-- **Forbidden writers:** Quartz visibility cannot decide truth; author taxonomy cannot enter a character prompt by default; a character belief cannot mutate world truth; a resolver result cannot retroactively make the character understand its cause; a human's spoiler choice cannot widen a character agent's retrieval scope.
+- **Forbidden writers:** Quartz visibility cannot decide truth; author taxonomy cannot enter Public prose or a character prompt as neutral world vocabulary; a character belief cannot mutate world truth; a resolver result cannot retroactively make the character understand its cause; a human's spoiler choice cannot widen a character agent's retrieval scope.
 - **Shared paths:** canonical edit → source/provenance review → audience/reveal review → reader publication or compiler input → bounded retrieval/projection → adjudication → event receipt → explicit reveal or canonization review.
 - **Cut line:** public Quartz consumes only `Kalsa/Public/`, and casual vault navigation exposes only `Public/`, `Spoilers/`, and a navigation-only root index. All author ontology and GM material lives under the explicitly named `Spoilers/` section.
 
@@ -51,6 +51,29 @@ A claim can move between access classes only through an owned event: teaching, p
 | `workshop/` | Design reasoning, critique, queues, and pass evidence. | Never lore publication |
 
 The source stays open. The friction is physical, named, and default-deny at the publication entrypoint; it is not pretend secrecy.
+
+## Public epistemic contract
+
+`Kalsa/Public/` is how players explore Kalsa as its inhabitants understand it.
+It is not an abbreviated author encyclopedia. Its explanatory claims must be
+owned by a culture, institution, scholarly lineage, named source, witness, or
+an explicitly framed comparison among such accounts.
+
+- Author labels such as Promethean sequence numbers, binary signatures, and the
+  axes called Clarity, Depth, and Scope remain in `Spoilers/` unless an
+  inhabitant source has independently reconstructed a bounded analogue.
+- A translated local term must preserve the theory and practice that produced
+  it. Renaming Clarity is insufficient if the surrounding prose still grants
+  the speaker the author's complete model.
+- Schools may be sophisticated and correct within tested domains without
+  converging on author truth. Their archives, instruments, patronage, language,
+  rivalries, and historical failures explain both what they know and what they
+  systematically miss.
+- Public synthesis may compare accounts for reader navigation, but it must name
+  whose comparison it is or keep its claims to observable consequences shared
+  across the cited traditions.
+- New discoveries can alter Public knowledge only through an owned act of
+  publication, teaching, testimony, translation, or institutional adoption.
 
 ## Reveal gradient
 
@@ -88,3 +111,5 @@ This repository establishes the content boundary only. It does not claim that Gh
 - A resolver can reject an impossible miracle without teaching the acting character the hidden reason.
 - Revealing a fact to one character does not publish it to every Persona, reader, or institution.
 - Public notes never link into author/GM notes; the public build therefore cannot acquire hidden backlinks or crawl targets.
+- Public notes contain no unowned author taxonomy. Every explanatory model is
+  attributable, translated with limits, or restricted to shared observation.

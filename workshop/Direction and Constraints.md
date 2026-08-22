@@ -20,6 +20,9 @@ This vault develops **Kalsa** as a high-fantasy setting for **Ghostlight Dungeon
 - Ghostlight ships an opinionated world kernel. Settings generalize by compiling their actors, knowledge, affordances, constraints, resources, and causal rules into that kernel; runtime prose does not invent the rules anew.
 - Obsidian is the canonical human authoring surface.
 - Quartz is the default reader projection, not a mirror of author truth and not a second source of truth.
+- The Public vault is an inhabitant-facing knowledge commons. Players explore
+  what Kalsan cultures teach, dispute, preserve, translate, and misunderstand;
+  they do not receive the author's comparative ontology in a friendlier font.
 - Agent memory is a bounded project-memory surface. It records durable judgment, decisions, provenance, open questions, and iteration state; it does not silently become setting canon.
 
 ## Experience and reveal doctrine
@@ -35,6 +38,20 @@ The intended discovery gradient is:
 5. **Author ontology:** the deepest causal account makes every earlier layer more coherent without declaring the fantasy experience unreal.
 
 The old technical vocabulary is primarily author-facing. `Kaos`, the formal capability axes, signatures, Projections, Beast taxonomy, Ring experiments, and related classifications are not default inhabitant vocabulary. A culture may discover a fragment or invent a locally useful analogue. The author taxonomy constrains what can happen; characters explain those limits from the evidence available to them.
+
+Public explanation must therefore have an epistemic owner. A claim about magic,
+history, gods, peoples, or ruins should be attributable to a culture, office,
+school, lineage, text, witness, or legible synthesis of named sources. Neutral
+editorial connective tissue may help readers navigate, but it may not smuggle
+author-only categories into common knowledge. Cross-cultural comparison is an
+act of translation performed by somebody, not the universe speaking in tables.
+
+Inhabitant models deserve the same institutional depth as other machinery.
+People name recurrent phenomena, found schools and archives, inherit scholarly
+lineages, train successors, fight over evidence, and build useful theories that
+remain incomplete. A local term is not decorative camouflage for an author
+axis: it should carry the observations, interests, tools, exclusions, and
+historical failures that made the model persuasive.
 
 Mystery therefore depends on **epistemic distance**, not an exposition embargo. The system can know the truth while the world does not. A peasant, Techpriest, prophet, court, cult, and god can each hold different evidence without any of them becoming a ventriloquist for the setting bible.
 

@@ -25,5 +25,10 @@ Begin with the world as its people meet it:
 - [[World/Relics and Ruins|Relics and Ruins]] — sacred infrastructure, layered dungeons, and claims that survive descent.
 - [[Places/Low Sere|Low Sere]] — a settlement where warm water, old death, and contested expertise meet at one black door.
 - [[Sources/At the Basin Table|At the Basin Table]] — voices from Low Sere on the eve of a descent.
+- [[Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]] — a Ju'onai teaching dispute in which four schools explain one failure and the keeper refuses to vanish into their footnotes.
 
-This entrance speaks from common life and situated learning. Its disagreements are part of the setting. When two communities explain the same miracle differently, neither has been granted the final word merely by speaking first.
+This entrance speaks from common life and situated learning. Its explanations
+belong to inhabitants: communities, schools, lineages, offices, witnesses, and
+texts that can be questioned inside the world. No universal schoolbook stands
+behind them. When two communities explain the same miracle differently,
+neither has been granted the final word merely by speaking first.

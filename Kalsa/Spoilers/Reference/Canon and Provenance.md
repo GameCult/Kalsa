@@ -79,12 +79,32 @@ Every `## Unresolved` section is load-bearing. A linked note may propose an answ
 
 ## Knowledge layers
 
-Future notes should separate:
+Canonical means adopted by the setting, not known by everybody inside it.
+Current notes should separate:
 
-1. **Common account** — what an ordinary inhabitant may know.
-2. **Learned account** — what scholars, priests, rulers, or specialists teach.
-3. **Forbidden or technical account** — evidence preserved in relics and dangerous traditions.
-4. **Author truth** — the current canonical owner note.
+1. **Observed phenomenon** — a witnessed effect or durable material trace. Its
+   occurrence may be public even when its cause is disputed.
+2. **Common or attributed account** — what a community, witness, cult, office,
+   or popular tradition says happened and what it means.
+3. **Learned model** — a school, lineage, profession, court, or priesthood's
+   organized explanation, including its evidence, tested domain, vocabulary,
+   and known failures.
+4. **Restricted evidence or model** — records, rites, instruments, sites, and
+   conclusions available only through bounded custody, danger, or initiation.
+5. **Backstage constraint** — a causal limit used by authors and adjudicators to
+   decide what can happen whether or not anyone in Kalsa understands it.
+6. **Backstage explanatory model** — the current author vocabulary connecting
+   constraints, including the Promethean Sequence, signatures, formal axes,
+   Projections, and Beast taxonomy. It is a coherent working account, not a
+   universal Kalsan textbook and not proof that every noun is final ontology.
+7. **Unresolved ontology** — a question no owner may quietly settle through
+   local doctrine, glossary convenience, or confident narration.
+
+A local theory can be sophisticated, predictive, and partly correct without
+becoming the backstage model. A backstage constraint remains real without
+giving a character the words or evidence needed to explain it. Institutions
+decide which accounts acquire legal, sacred, academic, or operational force;
+they do not acquire authority over reality merely by recording their decision.
 
 A machine explanation does not cancel a divine, legal, or emotional reality experienced by people in the setting.
 

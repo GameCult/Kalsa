@@ -11,7 +11,7 @@ tags:
 
 # The Santabi'u Silt Appeal
 
-The Santabi'u Silt Appeal is an adopted historical case from a client valley of the [[Spoilers/Polities/Analysis - Ju'onai Hegemony|Ju'onai Hegemony]]. This note alone owns its factual sequence and outcome. [[Spoilers/Institutions/Ju'onai Examiners|Ju'onai Examiners]] owns examination and certification procedure; [[Spoilers/Institutions/Analyst Administration|Analyst Administration]] owns levy, petition, public-work, and remedy procedure; the polity owns the case's meaning for Hegemony rule.
+The Santabi'u Silt Appeal is an adopted historical case from a client valley of the [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]]. This note alone owns its factual sequence and outcome. [[Spoilers/Institutions/Houses of Attestation|Houses of Attestation]] owns examination and certification procedure; [[Spoilers/Institutions/Measured Offices|Measured Offices]] owns levy, petition, public-work, and remedy procedure; [[Spoilers/Institutions/Ju'onai Schools of the Opening|the Schools of the Opening]] own later scholarly interpretations; the polity owns the case's meaning for Hegemony rule.
 
 Its date, Santabi'u's exact location, the valley's name, and the participants' names remain unresolved.
 
@@ -21,7 +21,7 @@ A client valley below Santabi'u received repaired headworks and an irrigation sc
 
 Local ditch keepers reported silt accumulating in lateral channels outside the official survey. A low-expression clerk repeatedly entered their reports. The petitions returned to the governor whose levy depended on the model.
 
-The governor's patron commissioned a field examination at prepared headworks. The Analyst accurately demonstrated that the inspected gates could carry the stated flow. The examination did not include the silting lateral network. The administrative office treated the resulting certificate as evidence for the capacity of the whole valley.
+The governor's patron commissioned a field examination at prepared headworks. The opened reader accurately demonstrated that the inspected gates could carry the stated flow. The examination did not include the silting lateral network. The administrative office treated the resulting certificate as evidence for the capacity of the whole valley.
 
 Grain was seized under the increased levy. The irrigation schedule left downstream fields failing while the official model treated the shortfall as resistance, hoarding, or a problem inside the certified capacity rather than evidence that the system boundary was wrong.
 
@@ -29,11 +29,11 @@ Grain was seized under the increased levy. The irrigation schedule left downstre
 
 The clerk preserved rejected petitions, sediment marks, work rosters, yield changes, and household departures in a parallel record. When the shortfall could no longer be sustained as a local failure inside the model, a superior office accepted appeal.
 
-A separate examiner reconstructed the missing channel network with ditch keepers and other local workers. The review found that the first analysis was accurate for the prepared headworks and false when used as certification of the entire valley. The patron-selected test boundary had substituted a convenient component for the governed system.
+A separate attestor reconstructed the missing channel network with ditch keepers and other local workers. The review found that the first opening was accurate for the prepared headworks and false when used as certification of the entire valley. The patron-selected test frame had substituted a convenient component for the governed system.
 
 ## Finding and remedy
 
-The appeal narrowed the original certificate. It revoked its use for valley-capacity assessment while preserving the examiner's narrower qualification in headworks. Later territorial reports were required to state survey boundaries, worker witnesses, and missing laterals rather than allowing the sponsor's prepared surface to stand for the whole.
+The appeal narrowed the original certificate. It revoked its use for valley-capacity assessment while preserving the attestor's narrower qualification in headworks. Later territorial reports were required to state survey boundaries, worker witnesses, and missing laterals rather than allowing the sponsor's prepared surface to stand for the whole.
 
 The administrative remedy reduced the levy, returned some grain stores still held, funded clearance of the lateral channels, required local keepers to participate in later surveys, and preserved client copies of petitions outside the governor's archive. The administration also had to state model boundary, worker observations, and review horizon in later use of the repaired system.
 
@@ -54,6 +54,6 @@ A dungeon route beneath the valley may reveal why a lateral repeatedly silted or
 ## Unresolved
 
 - Date and duration of the public work, harm, appeal, and clearance.
-- Names and offices of the governor, patron, clerk, examiners, keepers, and superior reviewers.
+- Names and offices of the governor, patron, clerk, attestors, keepers, and superior reviewers.
 - Exact grain levy, quantity seized and returned, affected households, and surviving compensation claims.
 - Present condition of the headworks, laterals, valley records, and appeal precedent.

@@ -33,6 +33,35 @@ Use the following review scale as a discussion aid:
 The numbers are derived review state. They are not lore, and their sum is not a
 depth score.
 
+## Situated Knowledge Benchmark
+
+When a pass touches magic, gods, history, relics, peoples, or another subject
+with backstage truth, also test the inhabitant model:
+
+1. What repeatable phenomenon or evidence does the tradition encounter?
+2. Which culture, institution, lineage, text, witness, or synthesis owns the
+   explanation?
+3. What names and translations does it use, and which registers or rivals reject
+   them?
+4. What archives, instruments, rites, cases, fieldwork, or testimony let the
+   model survive one speaker?
+5. Who teaches it, funds it, publishes it, inherits its duties, disciplines it,
+   and can leave or refuse it?
+6. Which rival and subordinate models explain the same evidence differently?
+7. In what tested domain is it genuinely useful, and what characteristic blind
+   spot follows from its tools, jurisdiction, patronage, or history?
+8. Which separate institution may certify, govern, judge, operate, worship, or
+   punish on the basis of the model, and what can scholarship not decide?
+9. What is common, learned, restricted, disputed, or unknown to the people
+   involved?
+10. Can `Kalsa/Public/` present the argument through inhabitant knowledge without
+    revealing the backstage taxonomy or flattening disagreement into fog?
+
+A local synonym for an author label scores absent. A theory becomes causal only
+when its evidence, reproducing institution, interests, usable predictions, and
+failure shape are visible. Incomplete does not mean vague; it means bounded
+enough to be right, wrong, revised, funded, suppressed, and used in play.
+
 ## Parity Condition
 
 Kalsa reaches institutional parity when:
