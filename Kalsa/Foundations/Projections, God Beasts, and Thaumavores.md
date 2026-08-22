@@ -6,6 +6,8 @@ aliases:
   - God Beasts
   - Thaumavores
 status: canonical-foundation
+repaired_in:
+  - KALSA-026
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-32.md
@@ -43,6 +45,22 @@ Bindings can arise through:
 These relations may resemble one another in upper-dimensional topology while remaining morally and legally distinct. A hierarchy's direct children are the Projections or Beasts bound immediately beneath the God, not merely mortals holding high clerical titles.
 
 God Beasts differ by style. Luck Gods seek survival and territory. Sorcerer Gods reproduce conquest and submission, and often collapse after the death of their living anchor. Analysis Gods embody ideas and feelings and contend through ideological hierarchies. The survival rules of other styles remain unresolved.
+
+## Divine knowledge and performed certainty
+
+Power is not omniscience. A God Beast perceives through the relations, potential, manifestations, memories, and active conflicts available to its hierarchy. It can notice patterns beyond mortal reach, preserve perspectives across deaths, compare distant dependents, and infer causes from centuries of intervention. None of those capacities grants the complete author ontology.
+
+A god's account is shaped by:
+
+- which persons and Beasts are bound beneath it and what those relations can perceive;
+- which memories survived binding, death, schism, delegation, and divine collapse;
+- the style and scale of intervention through which it encounters the lower world;
+- rivals, thaumavore pressure, broken routes of potential, and evidence it cannot safely approach;
+- its own doctrine, self-conception, appetite, and political need to appear coherent.
+
+Gods can therefore disagree about their own origin, mistake a stable relation for a universal law, conceal uncertainty, and present an inference as revelation. Some perform certainty because worship, obedience, or a negotiated covenant depends on it. Others distinguish memory, vision, doctrine, and guesswork more carefully. Age and power make a divine claim important evidence; they do not make it author truth.
+
+This limit is part of Kalsa's revelation structure. Reaching a god can reorder a mortal investigation and expose whole layers of hidden history without ending the reconstruction problem. The god may be a witness, beneficiary, prisoner, perpetrator, or surviving fragment of the event it explains.
 
 ## Thaumavores
 

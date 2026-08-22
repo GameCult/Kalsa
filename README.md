@@ -1,18 +1,20 @@
 # Kalsa
 
-Kalsa is a high-fantasy setting built on the wreckage of an argument with causality. Eight habitat rings fell onto a tidally locked world. Their cities inherited seven engineered forms of prescience, one Null control lineage, failing Ark machinery, hungry upper-dimensional gods, and the political problem of deciding who gets to call maintenance a miracle.
+Kalsa is a high-fantasy setting for Ghostlight Dungeon: gods, prophets, shamans, old miracles, sacred machinery, fallen cities, and peoples trying to live among explanations that do not agree.
 
-This repository is the canonical Obsidian vault and Quartz source for Kalsa's use in Ghostlight Dungeon. The old WordPress export remains intact under `seed/original/`; it is evidence, not an automatic veto and not an invitation to sand away everything peculiar.
+This repository is the complete open author vault. It contains setting-level and dungeon spoilers in plain text. They are not secret, but they are not the intended first encounter either. The public reader surface is deliberately smaller so that people can choose when to inspect the machine.
 
 ## Start here
 
-- Readers: begin with [`Kalsa/index.md`](Kalsa/index.md).
+- Readers and players: begin with [`Kalsa/Public/index.md`](Kalsa/Public/index.md). The [Quartz site](https://gamecult.github.io/Kalsa/) publishes only this spoiler-safe surface.
+- Deliberate spoiler readers and writers: continue through [`Kalsa/index.md`](Kalsa/index.md), which warns before opening author truth and GM material.
 - Writers: read [`workshop/Direction and Constraints.md`](workshop/Direction%20and%20Constraints.md), then the canon/provenance guide under `Kalsa/Reference/`.
 - Maintainers: the iterative repair system lives under `workshop/deepening/`; site-specific Quartz configuration lives under `site/`.
 
 ## Authority map
 
-- `Kalsa/`: publishable canonical owner notes and their indexes
+- `Kalsa/Public/`: spoiler-safe common knowledge and situated sources; the only Quartz content root
+- `Kalsa/` outside `Public/`: open author canon and GM material; repository/Obsidian access only
 - `seed/original/`: immutable source witnesses
 - `seed/manifest.md`: source hashes and witness map
 - `workshop/`: critique, proposals, contradictions, and repair evidence; never automatic canon
@@ -21,7 +23,7 @@ This repository is the canonical Obsidian vault and Quartz source for Kalsa's us
 - `scripts/`: build and verification tools
 - `quartz-site/public/`: generated output, ignored by Git
 
-Obsidian is the authoring interface. Quartz is the publication interface. Neither owns lore. A claim enters shared canon only when the relevant note under `Kalsa/` adopts it.
+Obsidian is the authoring interface. Quartz is the reader projection. Neither owns lore. Public prose does not overrule its canonical subject owner, and author truth does not enter a character's knowledge merely because both exist in one open repository.
 
 ## Local site
 
@@ -44,4 +46,3 @@ The intended custom domain is `kalsa.gamecult.org`. DNS and the GitHub Pages dom
 ## Deepening standard
 
 The target is causal density comparable to AetheriaLore, not a matching heap of nouns. A mature institution exposes its origin, authority, material base, recruitment and succession, ordinary procedure, beneficiaries and costs, dependencies, internal contradiction, organized resistance, failure modes, and consequences for play. Each repair wave is modeled, challenged by an unfamiliar reader, grounded against named sources, changed in a bounded diff, and verified before its ledger entry closes.
-

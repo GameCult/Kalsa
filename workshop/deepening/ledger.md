@@ -35,3 +35,16 @@ promoted or retired.
 - **Excluded honestly:** Intuition remains `unresolved-stub`; Null/Control and Spokers remain `preservation-stub`; the Alliance remains `adopted-candidate`. They are not smuggled into the adopted institutional parity set.
 - **Durable judgment promoted:** authority follows consequence; named adopted histories require one factual owner; candidates cannot leak into canon; abstract machinery requires at least one concrete play proof.
 - **Open pressure:** present chronology, public versus Ghostlight-sensitive material, Alliance/Intuition adoption, and regional named variants driven by actual play.
+
+## 2026-08-22 — Embedded transcript correction and spoiler boundary
+
+- **Scope:** [[passes/KALSA-026-knowledge-and-spoiler-architecture|KALSA-026]], covering the full embedded share transcript, reader epistemics, open-source spoiler friction, divine uncertainty, and Quartz publication authority.
+- **Correction:** the initial direction pass followed the rendered conversation branch and falsely described that partial read as mining the discussion. The corrective pass decoded the embedded `linear_conversation`: 535 conversation nodes containing 94 operator turns.
+- **Recovered direction:** familiar high fantasy must work at the surface; technical causes and taxonomy remain reconstructible beneath myth and debris; gods have bounded knowledge and perform certainty; source openness is non-negotiable; ordinary delivery uses informed opt-in spoiler friction; character Personas receive situated knowledge while the adjudicator receives typed affordances.
+- **Authority cut:** the complete `Kalsa/` tree remains the open author vault. Only `Kalsa/Public/` feeds Quartz. Author truth, situated reader prose, character projection, and adjudication are separate owners rather than one retrieval pool.
+- **Canonical lore changed:** the divine-mechanism owner now makes divine testimony explicitly bounded and contestable. Reader notes add no new hidden causes or answer keys.
+- **Provenance repair:** language-history and Promethean-culture details proposed by the earlier assistant are identified as adopted editorial synthesis or candidate elaboration rather than quoted operator law.
+- **Verification:** nine seed witnesses; 524 complete-vault links; 28 public links constrained to eight reader notes; production Quartz build; exact eight-route search, sitemap, RSS, and HTML comparison; stale-output and escaped-link negative tests; rendered home, magic, Low Sere, and search inspection. Searching `Prometheus` returned no result.
+- **Soul verdict:** pass. The reader source and generated surfaces contain no author taxonomy, Ring/Posthuman origin, campaign answer key, old whole-vault routes, or links beyond the reader projection. Familiar high fantasy, divine uncertainty, opt-in openness, consumer boundaries, and provenance labels remain coherent.
+- **Durable judgment promoted:** open source requires informed spoiler friction rather than false secrecy; author truth, reader lore, character knowledge, and adjudicator affordances require separate owners; divine testimony remains evidence; persistent play requires explicit canon adoption.
+- **Open pressure:** KALSA-027 Ghostlight compiler schemas and campaign-package ownership, KALSA-028 magic-forward surface play, present chronology, and the final custom-domain binding.

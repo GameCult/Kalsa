@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is the canonical authoring vault and Quartz source for Kalsa, a
+This repository is the canonical authoring vault and spoiler-safe Quartz source for Kalsa, a
 high-fantasy setting built for Ghostlight Dungeon. The work is to turn the
 teenage seed into a causally dense setting without sanding away its peculiar
 bones.
@@ -15,8 +15,9 @@ bones.
 - **Inputs:** immutable files under `seed/original/`, the seed manifest, current
   canonical notes, explicit operator decisions, Ghostlight play requirements,
   and source-grounded comparison with AetheriaLore.
-- **Outputs:** linked canonical Markdown, index notes, bounded critique records,
-  verified Quartz projections, and reviewed project-memory judgments.
+- **Outputs:** linked canonical Markdown, situated reader notes, index notes,
+  bounded critique records, verified spoiler-safe Quartz projections, and
+  reviewed project-memory judgments.
 - **Derived state:** Quartz output, link graphs, word/link/heading diagnostics,
   benchmark comparisons, queues, pass reports, and `.cc` projections. Derived
   state may report on canon; it may not decide canon.
@@ -26,13 +27,15 @@ bones.
 - **Shared path:** human and agent changes use the same source inventory,
   critique, repair, falsification, verification, and record path described in
   `workshop/deepening/README.md`.
-- **Cut line:** do not revive timestamp export files as live canonical pages,
+- **Cut line:** do not bind Quartz directly to the complete author vault, revive timestamp export files as live canonical pages,
   create a second lore database, invent a public repo Persona, or copy
   Aetheria-specific site/lore machinery into Kalsa.
 
 ## Repository Boundaries
 
-- `Kalsa/` is the publishable canonical content root.
+- `Kalsa/` is the complete canonical authoring vault and contains opt-in spoilers.
+- `Kalsa/Public/` is the only publishable Quartz content root. Its notes own
+  situated presentation, not the hidden facts they omit or reinterpret.
 - `seed/original/` is immutable evidence. Never edit, normalize, rename, or
   re-encode these files. Verify them with `scripts/lore/verify-seed.ps1`.
 - `seed/manifest.md` owns witness filenames, sizes, hashes, and subject labels.
@@ -40,7 +43,7 @@ bones.
   not lore and must remain outside `Kalsa/`.
 - `.epiphany/project-memory.md` is the human-inspectable project-memory source.
   Its `.cc` projection is runtime state, not canon.
-- `site/` is a Quartz overlay. `.quartz-build/` and `quartz-site/public/` are
+- `site/` is a Quartz overlay over `Kalsa/Public/`. `.quartz-build/` and `quartz-site/public/` are
   generated projections and are never edited directly.
 
 ## Canon And Provenance
@@ -56,6 +59,11 @@ bones.
   either.
 - Preserve the source's strange specificity. Repair causal gaps; do not replace
   them with generic medieval-Europe defaults wearing renamed hats.
+- Open source does not mean default omniscience. Public navigation, search,
+  sitemap, RSS, and backlinks must not expose author-only or GM material.
+- Character knowledge is a projection from bounded evidence. The world compiler
+  and resolver may consume hidden mechanics; Persona agents may not receive them
+  through unrestricted vault retrieval.
 
 ## Deepening Work
 
@@ -110,7 +118,10 @@ Run from the repository root:
 .\scripts\lore\check-publication-boundary.ps1
 .\scripts\lore\measure-depth.ps1
 .\scripts\lore\test-lore-tools.ps1
+.\scripts\quartz\quartz.ps1 build
+.\scripts\lore\check-publication-output.ps1
 ```
 
-For a deepening pass, also run the production Quartz build and inspect affected
-rendered pages. Diagnostics observe the setting; they do not award canon.
+For a deepening pass, also verify the complete author vault, verify the
+`Kalsa/Public/` boundary, and inspect affected rendered pages. Diagnostics
+observe the setting; they do not award canon.

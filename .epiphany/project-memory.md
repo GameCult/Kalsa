@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-22T11:45:19Z
+snapshot_at: 2026-08-22T16:30:54Z
 ---
 
 # Kalsa Project Memory
@@ -24,15 +24,17 @@ database and does not grant canon status to any setting claim.
 - `memory-event-owner` — Each adopted named history has one factual event owner. Institution, polity, place, and dungeon notes consume it through links and retain only their current evidence, procedures, and consequences.
 - `memory-parity-scope` — Depth parity applies to the adopted high-impact institutional set and is judged by causal density, not bulk. Candidates and unresolved or preservation stubs remain visibly excluded rather than being inflated into false completeness.
 - `memory-play-proof` — Abstract institutional machinery is not enough for Ghostlight use. At least one concrete threshold, route, clock, claimant collision, and consequence surface must prove that the setting can be entered and played.
+- `memory-open-spoiler-friction` — Kalsa's author vault remains open and inspectable. Default delivery is spoiler-safe, fantasy-first, and physically separated under `Kalsa/Public/`; warnings and deliberate repository navigation provide opt-in friction rather than pretending the material is secret.
+- `memory-epistemic-split` — Author truth, reader lore, character knowledge, and adjudicator affordances are different projections with different owners. Proximity in the vault does not grant a reader or character access.
+- `memory-divine-uncertainty` — Gods are powerful, situated witnesses rather than authorial oracles. Divine confidence, memory, doctrine, and testimony remain evidence shaped by binding, rivalry, self-conception, and blind spots.
+- `memory-play-canon` — Persistent play creates receipts and canon candidates. Runtime outcomes become shared setting canon only when an owning canonical note explicitly adopts them.
 
 ## Open questions
 
-- `question-public-boundary` — Which Ghostlight-sensitive material belongs outside the public `Kalsa/` projection?
 - `question-present-date` — What is the canonical present date, and how far is it from the Fall?
 - `question-seed-contradictions` — Which seed contradictions should become in-world disagreement rather than resolved design?
-- `question-hosting-authority` — What custom domain and deployment authority should the Quartz site use?
+- `question-hosting-authority` — When will the intended `kalsa.gamecult.org` DNS and custom-domain binding replace the current GitHub Pages address?
 
 ## Retired judgments
 
-None yet. Move an entry here when it stops steering work and say what replaced
-it; do not silently delete a once-load-bearing decision.
+- `question-public-boundary` — Retired by KALSA-026. The source remains open; `Kalsa/Public/` owns default reader delivery, and Ghostlight must compile bounded character and adjudicator projections. Remaining schema and campaign-package work is tracked as KALSA-027.

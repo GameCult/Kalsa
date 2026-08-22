@@ -11,6 +11,9 @@ tags:
 
 # Kalsa
 
+> [!warning] Deliberate setting and dungeon spoilers
+> This is the author-vault entrance. It names the machinery beneath Kalsa, complete historical causes, disputed design state, and GM-facing dungeon answers. Nothing here is secret, but it is meant to be chosen. For the high-fantasy reader path, begin with [[Public/index|Kalsa for Readers]].
+
 Kalsa is a high-fantasy world living in the wreckage of an older machine. Its peoples inhabit the twilight continent of a tidally locked planet. Their Crown Cities fell from an Ark; their magic steers possibility; their gods are upper-dimensional powers with appetites, dependents, and histories.
 
 This vault distinguishes current setting canon from the exported seed, unresolved questions, in-world belief, and story premises. Start with [[Reference/Canon and Provenance|Canon and Provenance]].
