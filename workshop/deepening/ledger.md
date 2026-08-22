@@ -146,3 +146,35 @@ promoted or retired.
   mechanisms should carry limits the narrator used to summarize.
 - **Open pressure:** KALSA-031 remains the bounded path for other situated
   traditions; KALSA-024 and KALSA-028 should move only under real campaign use.
+
+## 2026-08-23 — Divine witness practice and Public Three Ledgers carrier
+
+- **Scope:** [[passes/KALSA-031-divine-witness-practice|KALSA-031]], covering
+  divine testimony, covenant evidence, miracle allocation, mortuary custody,
+  dangerous holy sites, and one inhabited Public route through the Three
+  Ledgers Schism.
+- **Authority cut:** Public's anonymous `cult schools` and `delegated
+  attention` doctrine had no inhabitant owner. They were deleted, not renamed.
+  Covenant witnesses, miracle stewards, and mortuary witnesses now preserve
+  different evidence and cannot inherit one another's jurisdiction.
+- **Repair:** `Gods and the Dead` now routes claims through those practices and
+  names the household cost of closing hungry holy sites. `What the Three
+  Ledgers Kept` presents the adopted Schism through record merger, household
+  relief, body custody, partial hearing, and incompatible later memory.
+- **Protected uncertainty:** the source names no cult, god, place, date,
+  manifestation answer, or divine preference and declares itself a rendering,
+  not an original transcript.
+- **Council:** seven independent diagnoses produced twenty-one dispositions.
+  All seven seats verified `KALSA-031-repaired-01`; six passed and the blind
+  reader passed with one optional `living anchor` orientation finding.
+- **Verification:** nine seed witnesses; 557 links across 70 canonical notes;
+  vault and publication boundaries; lore-tool negative tests; production
+  Quartz build of ten inputs and 35 outputs; rendered inspection and live
+  click-through from the gods survey to the new source.
+- **Durable judgment promoted:** divine evidence becomes culturally legible
+  through the record and office responsible for its consequence. Naming a
+  historical blank merely to make Public feel complete destroys, rather than
+  improves, situated knowledge.
+- **Next pressure:** KALSA-034 gives Selza'a family signs, shared water work,
+  and accusation repair an inhabited Public carrier grounded in the Broken
+  Windtrap Settlement.

@@ -37,3 +37,7 @@ inside the world.
 [[Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]]
 is a Ju'onai teaching dispute in which four schools explain one failure and the
 keeper refuses to vanish into their footnotes.
+
+[[Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows an
+old cult succession through the covenant book, miracle ledger, and death
+inventory that refused to become one answer.

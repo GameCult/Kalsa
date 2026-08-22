@@ -32,6 +32,12 @@ database and does not grant canon status to any setting claim.
 - `memory-independent-lore-review` — Every deepening pass uses seven independent lore critics before repair and after repair: institutional causality; culture and situated knowledge; material life and ecology; history, conflict, and change; Ghostlight play and consequence; AI-isms and prose; and reader experience and navigation. Critics diagnose, the coordinator adjudicates, subject notes own canon, and a no-finding report is valid.
 - `memory-ai-ism-judgment` — AI-shaped prose is diagnosed by recurring construction and reading effect, never detector scores, word bans, or authorship claims. Kalsa's known pressure includes correction theatre, symmetrical wonder-then-cost ledgers, list-clause congestion, repeated frames, checksum conclusions, viewpoint choruses, workshop-dialect leakage, and generic smoothing; functional lists, deliberate rhetoric, and precise technical terms remain protectable.
 - `memory-public-entry-and-omission` — Public navigation should offer a concrete situated problem before optional surveys. An overview is allowed to omit traditions: shuffling every hidden family into a new order still reconstructs the author taxonomy. Let source-owned mechanisms, witnesses, and disagreements carry ethical limits instead of adding narrator-level correction ledgers and checksum conclusions.
+- `memory-situated-divine-evidence` — Public divine knowledge should follow the
+  record and office responsible for each consequence: covenant origin,
+  miracle delivery, and mortuary evidence remain distinct. A god's claim is
+  consequential evidence, never author narration. Protected historical blanks
+  stay blank even when a reader would prefer a named cult or deity; situated
+  ownership is provenance, not cosmetic naming.
 
 ## Open questions
 

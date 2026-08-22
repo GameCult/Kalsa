@@ -1,13 +1,13 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-22T19:54:33Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-kalsa-030-and-kalsa-032-review-control
+snapshot_at: 2026-08-23T00:00:00Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-kalsa-030-kalsa-031-kalsa-032-and-kalsa-033
 ---
 
 # Kalsa Canonical Body Map
 
-This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, vault-level spoiler enclosure through KALSA-029, and Public epistemic ownership through KALSA-030. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, vault-level spoiler enclosure through KALSA-029, Public epistemic ownership through KALSA-030 and KALSA-031, council control through KALSA-032, and Public entry repair through KALSA-033. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
 
 ## Lore review and repair control
 
@@ -202,6 +202,34 @@ These overlays record changed authority and shared paths. They are audit views o
 - **Verification layer:** KALSA-017 lifecycle/audit/appeal/faction rubric, event exclusivity, links, seed integrity, build/render, and second Soul review.
 - **Unresolved seam:** named local offices, exact material rates, binding tests, and the schism's place/date/participants.
 
+#### Public divine-witness projection — KALSA-031
+
+- **Owner:** the covenant, potential-economy, death-law, and Three Ledgers
+  subject notes retain setting truth. `Public/World/Gods and the Dead.md` owns
+  the survey; `Public/Sources/What the Three Ledgers Kept.md` owns a
+  presentation-only reconstruction.
+- **Inputs:** witnessed covenant origin, petitions and material commitments,
+  observed miracle outcomes, bodily death, last statements, manifestations,
+  record custody, and the event owner's adopted sequence and omissions.
+- **Outputs:** role-attributed Public evidence, one historical encounter,
+  material allocation pressure, distinct custody, and unresolved divine
+  interpretation.
+- **Derived/display-only state:** the Public reconstruction, its title, survey
+  comparison, council findings, and rendered pages cannot name the lost cult,
+  god, place, date, or divine preference.
+- **Forbidden writers:** divine testimony cannot become author truth; covenant,
+  miracle, and mortuary records cannot decide one another's jurisdiction; a
+  Public gloss cannot complete missing event evidence.
+- **Shared paths:** observed claim -> role-owned record -> material or custodial
+  action -> adverse evidence -> bounded hearing, audit, petition, or refusal.
+- **Deletion/demotion line:** the ownerless `delegated attention` schools and
+  generic practitioner-lineage restraint were removed rather than renamed.
+- **Verification layer:** one frozen 20-blob grounded packet, one matching
+  11-note blind projection, seven regressions, source/output boundaries, and
+  rendered click-through.
+- **Unresolved seam:** the Schism's protected particulars and the technical
+  meaning of its living anchor remain with their owners, not Public exposition.
+
 ### 12. Prophetic institutional body — KALSA-018
 
 - **Owner:** city, house, and court owners retain separate civic, professional, and evidentiary authority; `Events/The Closed Lift Appeal.md` alone owns the case facts.
@@ -276,7 +304,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029, and KALSA-030
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029, KALSA-030, KALSA-031, and KALSA-033
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -324,5 +352,12 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
 ## Remaining open surfaces at this snapshot
 
 - KALSA-007 through KALSA-022 are complete. The final bounded Soul review found parity defensible for the adopted institutional set; this closes the current depth cycle without declaring unfinished branches complete.
-- KALSA-026 establishes open author canon versus situated reader presentation; KALSA-029 encloses the author/GM tree behind one explicit vault section; KALSA-030 makes Public an inhabitant-facing knowledge commons and begins the model with Ju'onai causal scholarship. Ghostlight compiler schemas, campaign-package ownership, equivalent scholarly depth for other cultures, and deployment/domain authority remain unresolved in their owning projects.
+- KALSA-026 establishes open author canon versus situated reader presentation;
+  KALSA-029 encloses the author/GM tree behind one explicit vault section;
+  KALSA-030 begins inhabitant-facing epistemic ownership with Ju'onai causal
+  scholarship; KALSA-031 adds distinct divine witness practices and a bounded
+  Three Ledgers carrier; KALSA-033 gives concrete situated entry precedence
+  over surveys and protects honest omission. Ghostlight compiler schemas,
+  campaign-package ownership, equivalent depth for the remaining traditions,
+  and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.
