@@ -67,11 +67,21 @@ foreach ($note in $notes) {
             }
             $relativeCandidate = [System.IO.Path]::GetFullPath((Join-Path $note.DirectoryName ($noteTarget + '.md')))
             if (Test-Path -LiteralPath $relativeCandidate -PathType Leaf) { $resolved += $relativeCandidate }
-            $stem = [System.IO.Path]::GetFileName($noteTarget).ToLowerInvariant()
-            if ($noteByStem.ContainsKey($stem)) { $resolved += $noteByStem[$stem] }
+            if ($noteTarget -notmatch '[/\\]') {
+                $stem = [System.IO.Path]::GetFileName($noteTarget).ToLowerInvariant()
+                if ($noteByStem.ContainsKey($stem)) { $resolved += $noteByStem[$stem] }
+            }
         }
         $resolved = @($resolved | Sort-Object -Unique)
         $sourceRelative = $note.FullName.Substring($contentFull.Length).TrimStart('\', '/')
+        $escaped = @($resolved | Where-Object {
+            $resolvedFull = [System.IO.Path]::GetFullPath($_)
+            -not ($resolvedFull.StartsWith($contentFull + [System.IO.Path]::DirectorySeparatorChar, [System.StringComparison]::OrdinalIgnoreCase))
+        })
+        if ($escaped.Count -gt 0) {
+            $errors += "$sourceRelative -> [[$($match.Groups['target'].Value)]] escapes the selected content root"
+            continue
+        }
         if ($resolved.Count -eq 0) {
             $errors += "$sourceRelative -> [[$($match.Groups['target'].Value)]] is unresolved"
         }

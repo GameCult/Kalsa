@@ -34,9 +34,22 @@ if (-not (Test-Path $sharedQuartzRoot)) {
 }
 
 $buildScript = Join-Path $sharedQuartzRoot "scripts\build-site.mjs"
+$outputRelative = "quartz-site/public"
+$outputRoot = [System.IO.Path]::GetFullPath((Join-Path $repoRoot "quartz-site"))
+$outputFull = [System.IO.Path]::GetFullPath((Join-Path $repoRoot $outputRelative))
 
 if (-not (Test-Path $buildScript)) {
     throw "GameCult-Quartz build script was not found at '$buildScript'."
+}
+
+if (-not $outputFull.StartsWith($outputRoot + [System.IO.Path]::DirectorySeparatorChar, [System.StringComparison]::OrdinalIgnoreCase)) {
+    throw "Quartz output must remain below '$outputRoot'."
+}
+
+# Quartz emitters replace the reader projection. Old author-vault pages must not
+# survive merely because the next source tree is smaller.
+if (Test-Path -LiteralPath $outputFull) {
+    Remove-Item -LiteralPath $outputFull -Recurse -Force
 }
 
 $scriptArgs = @(
@@ -44,8 +57,8 @@ $scriptArgs = @(
     $Command,
     "--siteRoot", $repoRoot,
     "--overlayDir", "site",
-    "--contentDir", "Kalsa",
-    "--outputDir", "quartz-site/public"
+    "--contentDir", "Kalsa/Public",
+    "--outputDir", $outputRelative
 )
 
 & $node @scriptArgs

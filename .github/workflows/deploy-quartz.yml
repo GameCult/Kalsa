@@ -19,6 +19,6 @@ jobs:
   deploy:
     uses: GameCult/GameCult-Quartz/.github/workflows/quartz-pages.yml@main
     with:
-      content-dir: Kalsa
+      content-dir: Kalsa/Public
       overlay-dir: site
       output-dir: quartz-site/public

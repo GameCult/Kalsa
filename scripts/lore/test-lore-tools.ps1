@@ -20,6 +20,31 @@ try {
     & (Join-Path $PSScriptRoot "check-publication-boundary.ps1") -RepositoryRoot $fixtureFull -ContentRoot $content -SkipEntrypointCheck
     & (Join-Path $PSScriptRoot "measure-depth.ps1") -ContentRoot $content -CompareRoot (Join-Path $fixtureFull "missing-comparison") | Out-Null
 
+    $output = Join-Path $fixtureFull "quartz-site\public"
+    $static = Join-Path $output "static"
+    New-Item -ItemType Directory -Path $static -Force | Out-Null
+    Set-Content -LiteralPath (Join-Path $output "404.html") -Encoding utf8 -Value "<!doctype html><title>Not found</title>"
+    Set-Content -LiteralPath (Join-Path $output "index.html") -Encoding utf8 -Value "<!doctype html><title>Fixture</title>"
+    Set-Content -LiteralPath (Join-Path $output "Institution.html") -Encoding utf8 -Value "<!doctype html><title>Institution</title>"
+    Set-Content -LiteralPath (Join-Path $static "contentIndex.json") -Encoding utf8 -Value '{"index":{},"Institution":{}}'
+    Set-Content -LiteralPath (Join-Path $output "sitemap.xml") -Encoding utf8 -Value '<urlset><url><loc>https://example.invalid/</loc></url><url><loc>https://example.invalid/Institution</loc></url></urlset>'
+    Set-Content -LiteralPath (Join-Path $output "index.xml") -Encoding utf8 -Value '<rss><channel><item><link>https://example.invalid/</link></item><item><link>https://example.invalid/Institution</link></item></channel></rss>'
+    & (Join-Path $PSScriptRoot "check-publication-output.ps1") -RepositoryRoot $fixtureFull -ContentRoot $content -OutputRoot $output
+
+    $staleOutput = Join-Path $output "Stale.html"
+    Set-Content -LiteralPath $staleOutput -Encoding utf8 -Value "<!doctype html><title>Stale</title>"
+    $caughtStaleOutput = $false
+    try {
+        & (Join-Path $PSScriptRoot "check-publication-output.ps1") -RepositoryRoot $fixtureFull -ContentRoot $content -OutputRoot $output | Out-Null
+    }
+    catch {
+        $caughtStaleOutput = $true
+    }
+    if (-not $caughtStaleOutput) {
+        throw "Publication-output checker failed to reject stale generated HTML"
+    }
+    Remove-Item -LiteralPath $staleOutput -Force
+
     $broken = Join-Path $content "Broken.md"
     Set-Content -LiteralPath $broken -Encoding utf8 -Value "# Broken`n`nSee [[No Such Note]]."
     $caughtBrokenLink = $false
@@ -48,6 +73,22 @@ try {
     }
     Remove-Item -LiteralPath $brokenAnchor -Force
 
+    $outside = Join-Path $fixtureFull "Outside.md"
+    Set-Content -LiteralPath $outside -Encoding utf8 -Value "# Outside`n`nThis note is outside the selected publication root."
+    $brokenEscape = Join-Path $content "Broken Escape.md"
+    Set-Content -LiteralPath $brokenEscape -Encoding utf8 -Value "# Broken Escape`n`nSee [[../Outside]]."
+    $caughtEscapedLink = $false
+    try {
+        & (Join-Path $PSScriptRoot "check-wikilinks.ps1") -ContentRoot $content | Out-Null
+    }
+    catch {
+        $caughtEscapedLink = $true
+    }
+    if (-not $caughtEscapedLink) {
+        throw "Wikilink checker failed to reject a link outside the selected content root"
+    }
+    Remove-Item -LiteralPath $brokenEscape -Force
+
     $forbidden = Join-Path $content "workshop"
     New-Item -ItemType Directory -Path $forbidden | Out-Null
     $caughtBoundary = $false
@@ -61,7 +102,7 @@ try {
         throw "Publication checker failed to reject a nested workshop directory"
     }
 
-    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, and publication-boundary negative checks."
+    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, escaped-link, stale-output, and publication-boundary negative checks."
 }
 finally {
     $resolvedFixture = [System.IO.Path]::GetFullPath($fixtureFull)
