@@ -36,6 +36,4 @@ Most people do not spend their lives asking what the Crown Cities ultimately are
 
 A household may owe grain to a shrine because its god diverted a flood. A clerk may compare three prophetic reports before scheduling a lift. A healer may refuse divine aid near a hungry burial ground. A worker may know from the sound of a pipe that the priest's inherited formula is being used in the wrong season.
 
-Kalsa's wonder is not elsewhere. It is the pressure ordinary life places upon miracle, and the pressure miracle returns.
-
 See [[Peoples and Polities]], [[Magic and Miracles]], and [[Relics and Ruins]].

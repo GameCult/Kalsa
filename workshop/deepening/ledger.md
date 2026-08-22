@@ -109,3 +109,40 @@ promoted or retired.
   preserve raw disagreement, and regress the same repaired body. AI-shaped prose
   is diagnosed through recurrent construction and reading effect, never
   authorship claims, token bans, or detector scores.
+
+## 2026-08-22 — Public entry and narrator-voice repair
+
+- **Scope:** [[passes/KALSA-033-public-entry-and-voice|KALSA-033]], covering the
+  Public entrance, five setting overviews, honest onward routes, and recurrent
+  correction-theatre, moral-ledger, list-clause, viewpoint-chorus, and checksum
+  cadence.
+- **Authority cut:** `Kalsa/Public/index.md` still owns navigation and the five
+  changed World notes still own presentation only. Hidden subject and event
+  owners retain every fact; council packets, reports, and Quartz output remain
+  derived evidence.
+- **Repair:** Low Sere and the Basin Table now lead the reader path; surveys and
+  the Broken Sluice argument are separate routes. Stormshield overlap and its
+  remembered double demand, Papsenai seasonal risk, divided Sunwall authority,
+  incompatible mortuary ends, and asymmetric Sarxe route pressure replace
+  narrator ledgers. The Magic overview selects evidence without enumerating
+  every backstage family.
+- **Regression:** seven diagnoses produced twenty-one dispositions. Regression
+  rejected a false factual reading of the Broken Sluice dialogue, then rejected
+  a shuffled complete magic taxonomy. Repository verification caught a
+  multiline wikilink. All seven seats finally passed the same
+  `KALSA-033-repaired-04` candidate; the reader seat used its Public-only
+  projection.
+- **Canonical lore changed:** no hidden fact or owner. Five Public presentation
+  notes and Public navigation changed; Low Sere, both source texts, Relics, and
+  the root consent gate remained untouched.
+- **Verification:** nine immutable seed witnesses; 552 complete-vault links
+  across 69 notes; vault and publication boundaries; lore-tool negative tests;
+  production Quartz build of nine inputs and 33 outputs; visual inspection of
+  all affected rendered pages; live click-through from the Hegemony survey to
+  the Broken Sluice source; author-label negative search.
+- **Durable judgment promoted:** a public overview may and often must omit
+  traditions. Reordering complete coverage still leaks backstage ontology.
+  Concrete situated entry should precede optional surveys, and owner-backed
+  mechanisms should carry limits the narrator used to summarize.
+- **Open pressure:** KALSA-031 remains the bounded path for other situated
+  traditions; KALSA-024 and KALSA-028 should move only under real campaign use.

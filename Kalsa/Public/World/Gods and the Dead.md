@@ -38,9 +38,9 @@ God-cults are material bodies as well as sacred ones. They require food, cloth, 
 
 Death does not guarantee silence. Names are heard in sealed rooms. Familiar gestures form in smoke or ash. A dead champion appears to answer a living oath. A burial ground consumes the edge of a miracle and returns memory, appetite, warning, or accusation.
 
-Kalsans disagree about what continues. Kin may recognize the person they lost. A mortuary office may record a manifestation without ruling upon identity. A release sect may believe its rite lets the dead depart. A frightened ruler may call every returning voice a predator. None of these positions becomes final merely because the dead did something impossible in its presence; each has institutions deciding what testimony and obligation follow.
+Kalsans disagree about what continues, and the disagreement changes what they do with the same body. Kin may keep a name and answer a familiar gesture. An ancestral household may invite the dead to remain attentive to its descendants, while a release sect dismantles obligations and asks the dead to relinquish the lower world. A frightened ruler may order confinement; the mortuary witness recording the voice can still refuse to call it the person returned.
 
-The uncertainty does not excuse carelessness. Bodies have claims. Names have witnesses. A manifestation can attract worship, inheritance disputes, old enemies, and people eager to make the dead useful. Funerals therefore separate custody of remains, testimony about the person, cult obligation, public danger, and claims spoken through whatever returns.
+A manifestation can attract worship, inheritance disputes, old enemies, and people eager to make the dead useful. Some mortuary offices divide custody of the remains, testimony about the person, cult obligations, and protection from whatever returns among different hands. That division is a local safeguard, not a law observed across Kalsa. At a contested funeral, each claimant may try to make its answer decide all the others.
 
 ## Hungry holy places
 

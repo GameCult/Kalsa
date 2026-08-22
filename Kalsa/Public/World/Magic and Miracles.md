@@ -12,7 +12,15 @@ tags:
 
 Magic in Kalsa is an argument with what happens next.
 
-A worker shifts a brace before the wall moves. A prophet compares futures that change as soon as they are announced. A shaman holds attention upon a field until weather, labor, seed, and chance arrive together. A sorcerer finds the one force that turns an enemy's stance into collapse. A Sarxe listener feels pressure crossing a boundary and bends it aside. A fortunate child survives events that should not have agreed to spare anyone.
+Before a wall moves, someone shifts the brace. A Ju'onai reader may call the
+sudden comprehension of its joined loads an opening.
+
+Other workings take months. A Papsenai shaman holds attention upon a field
+while weather, labor, seed, and chance are brought toward one favorable season.
+A prophet compares futures that change as soon as they are announced. Along a
+guarded route, a Sarxe listener feels pressure cross a boundary and bends it
+aside. Sometimes a child simply survives events that should not have agreed to
+spare anyone, and the arguments begin afterward.
 
 These acts can be spectacular. Storms divide around a city. Stone gives way along an old fault. A battle turns upon movements nobody else perceived in time. A god pours enough favor through a champion to make witnesses build a shrine before the smoke clears.
 
@@ -25,17 +33,26 @@ another. Shrine and mortuary keepers warn that repeated great workings near old
 death can draw an answer nobody commissioned. Different traditions explain
 these patterns differently and disagree sharply about where each rule stops.
 
-## What different traditions say
+## What people compare
 
 There is no uncontested schoolbook behind every miracle.
 
-- Selza'a families may describe good fortune as a territorial relation with a dimna, an inherited shelter, or the result of living correctly within a family boundary. Their rivals may call the same pattern predation.
-- Jamnai teachers say power proves hierarchy when one will overcomes another. Refusal traditions answer that a victory can create danger without creating rightful authority.
-- Papsenai shamans speak of binding themselves to the future of a field, herd, road, or stormshield. Farmers remind them that a future still needs seed, water, hands, storage, and someone willing to risk the bad season.
-- Ju'onai readers speak of **openings**, moments when the joins and hinges of a bounded system become suddenly plain. Concordance Temples, Trial Boards, Four-Because Chairs, and Named-Edge Circles disagree over whether a god, disciplined trial, precise causal speech, or honest boundaries make that knowledge reliable. The Houses of Attestation certify demonstrations; they do not settle the argument.
-- Prophetic houses compare branching futures and preserve methods for recording their own intended interventions. Courts insist that a forecast is evidence, not judgment.
-- Sarxe listeners speak of flows, crossings, and the harm of forcing influence through another person's boundary. Outsiders turn that language into legends of shared minds that Sarxe people repeatedly deny.
-- Coldward trade stories praise a rarer intuition: right action arriving before its reasons can be spoken. Most such stories reveal more about the trader's desired price than the people being described.
+Field and shield records place a Papsenai claim beside the seed, water, hands,
+stores, watches, and recovery that carried it. Practitioners describe a bond to
+a reachable future. The people provisioning the work ask where the failed
+season or exhaustion went.
+
+Ju'onai schools compare demonstrations of **openings**, moments when the joins
+and hinges of a bounded system become suddenly plain. Concordance Temples,
+Trial Boards, Four-Because Chairs, and Named-Edge Circles disagree over whether
+a god, disciplined trial, precise causal speech, or honest boundaries make
+that knowledge reliable. Houses of Attestation certify what a reader
+demonstrated; a court may still reject the reader's proposed judgment.
+
+Household and route testimony travels differently. Selza'a families may name
+good fortune as a territorial relation with a dimna or an inherited shelter;
+a rival family may call the same pattern predation. Sarxe listeners describe
+flows and crossings while denying outsiders' stories of a shared mind.
 
 ## What witnesses can know
 
@@ -48,8 +65,6 @@ describe an active crossing while leaving a remote or dormant danger untouched.
 Selza'a families may recognize a pattern of protection that no outsider can
 turn into a universal test. Each practice makes some evidence legible and
 leaves other evidence outside its frame.
-
-Ordinary evidence still matters. Access, tools, timing, injury, material traces, testimony, prior duty, and who benefited are not made irrelevant by magic. In many Kalsan courts and compacts, the most dangerous sentence is not “a miracle occurred.” It is “therefore we already know who owns its meaning.”
 
 See [[Gods and the Dead]], [[Relics and Ruins]],
 [[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken

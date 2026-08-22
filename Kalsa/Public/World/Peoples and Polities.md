@@ -29,9 +29,11 @@ Rank can mobilize defence and keep heat moving through crisis. It can also turn 
 
 ## Papsenai and Ti'asantatca
 
-Papsenai tribes are famous for agriculture guided by long attention to possible seasons. Their shamans can bind their work to a field, herd, road, or weather front and labor toward a favorable future over months or years. The resulting abundance supports distant populations and attracts distant demands.
+Papsenai tribes are famous for agriculture guided by long attention to possible seasons. Their shamans can bind their work to a field, herd, road, or weather front and labor toward a favorable future over months or years. Before such work begins, households separate seed and subsistence from what they can risk, then argue over which bounded result the land, labor, and weather can still bear. A favorable field does not prove that hunger, lost hands, or the bad season vanished; the pressure may have moved beyond the shaman's chosen boundary.
 
-Ti'asantatca stands beside a storm that does not end. Its shield is maintained by trained workers, relief cohorts, observers, tenders, and the households that keep all of them fed. Outsiders praise a wonder. The people inside it also count exhaustion, missed field work, unequal shelter, and the danger of treating magical service as a debt owed from birth.
+Ti'asantatca stands beside a storm that does not end. Its Stormshield Circles maintain overlapping watches: the incoming shaman takes hold before the outgoing worker releases the threatened section, while observers compare both accounts against the weather. Relief depends upon food, dry rest, medicine, clear paths, and labor drawn from the same fields and households the shield protects. If provisions fail or a replacement arrives too late, an apparently whole barrier can lose a section to wind and water, exposing homes, stores, and the shield station itself.
+
+Papsenai accounts remember an old campaign that demanded grain and diverted a relief cohort at the same time. The storm took dwellings and stores after the remaining workers extended their watches. Store marks, shift records, and household testimony from that failure are still cited when a levy claims both the harvest and the people who keep it sheltered.
 
 ## The Ju'onai Hegemony
 
@@ -46,11 +48,16 @@ Offices use reports to tax, allocate, build, conquer, and correct. Neither owns
 the schools, and the schools do not acquire the right to govern by explaining a
 system well.
 
-The Hegemony is useful enough to be dangerous. It can repair headworks and then use the improved flow to justify a larger levy. It can preserve local rulers while deciding which records make their land legible. Its appeals can expose an official model's blind boundary, though often after people outside the model have paid for its elegance.
+Ju'onai client colleges circulate [[../Sources/Four Readings of a Broken Sluice|a teaching dialogue]] in which four schools explain a failed sluice and
+its keeper asks which of them will carry the repair. The Hegemony can repair
+such headworks and use the improved flow to justify a larger levy. Local rulers
+may keep their titles while Measured Offices decide which records make their
+land legible. An appeal can expose the edge of an official model, sometimes
+only after the people outside it have paid for the error.
 
 ## The divided city
 
-The City of Prophets survives beneath overlapping Ju'onai and terjamna power. Neither conqueror can safely give the other sole command of its prophetic houses, sunward farms, and strategic forecasts. Local courts, ward authorities, house estates, imperial sectors, and the Sunwall therefore govern through an unstable condominium.
+The City of Prophets survives beneath overlapping Ju'onai and terjamna power. Neither conqueror can safely give the other sole command of its prophetic houses, sunward farms, and strategic forecasts. Local courts, ward authorities, house estates, and imperial sectors govern through an unstable condominium. A civic allocation table schedules public grain, bright hours, cargo priority, pressure refuge, and emergency stores; the Sunwall stewards who operate the farms and lifts can stop unsafe work but cannot assign those shares. Allocation and operation remain separate because either office would otherwise conceal the dependence it controls.
 
 Prophetic houses train people to compare possible futures. Their service can avert famine or make a patron's preference sound inevitable. Most residents are not house prophets. They farm vertical galleries, maintain lifts and pressure refuges, carry grain, keep records, serve garrisons, and live beneath decisions made in futures they may never be permitted to inspect.
 
@@ -58,7 +65,7 @@ Prophetic houses train people to compare possible futures. Their service can ave
 
 Sarxe communities remember two great dispersals: conquest of their first Crown City and the later massacre at a refuge they had believed secure. Saxfoldi, their best-known political center, now moves and hides. Households split and recombine, carrying people, stores, records, routes, and care so that no single captured place can own survival.
 
-Mobility protects and excludes. Settled Sarxe maintain workshops, clinics, graves, farms, and mixed households that a moving center cannot carry. Diaspora workers serve as mediators, guides, guards, salvagers, hunters, and mercenaries, sometimes by choice and sometimes because dangerous contact has been assigned to people the center finds inconvenient.
+Saxfoldi moves so that an enemy cannot seize the whole political center at one gate. Its route space is finite. Clinics, graves, farms, workshops, and mixed households remain in settled Sarxe communities, while moving stores and offices must choose whom they can reach before the road closes. Families divided between those places carry messages, medicine, claims, and resentment in both directions. Diaspora workers serve as mediators, guides, guards, salvagers, hunters, and mercenaries; some sought the road, and others were assigned its danger by people who stayed nearer the center.
 
 ## Peoples outside the great magical polities
 
