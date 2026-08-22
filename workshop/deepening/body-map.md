@@ -1,0 +1,284 @@
+---
+title: Kalsa Canonical Body Map
+status: working-map
+snapshot_at: 2026-08-22T11:45:19Z
+scope: deepening-waves-1-through-16
+---
+
+# Kalsa Canonical Body Map
+
+This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records authority after deepening passes KALSA-007 through KALSA-022. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+
+## Canonical substrate
+
+- **Owner:** `Kalsa/Foundations/` owns world, Ark/Fall, Prometheus, Kaos, Projection/God/thaumavore metaphysics, Gift taxonomy, and language/reckoning inheritance; `Kalsa/Reference/Canon and Provenance.md` owns canon-state vocabulary.
+- **Inputs:** immutable seed witnesses, adopted corrections, adopted event facts, candidate design pressure, and explicit operator decisions.
+- **Outputs:** physical, historical, magical, linguistic, and provenance constraints consumed by polities, places, institutions, events, and dungeons.
+- **Derived/display-only state:** glossaries, timelines, taxonomies, links, and summaries expose the substrate; they do not override the subject owner.
+- **Forbidden writers:** polity custom cannot rewrite Kaos; cult law cannot write metaphysics; a translated gloss cannot write a language; publication cannot write canon status.
+- **Shared paths:** setting claims enter through seed or adopted design pressure → foundation constraint → bounded subject owner; named factual sequences enter through a single adopted event owner and are consumed elsewhere only by link and consequence.
+- **Deletion/demotion line:** Promethean design labels, narrator prejudice, and seed shorthand remain evidence or attributed history unless an owner adopts them.
+- **Verification layer:** seed hashes, source witnesses, link resolution, provenance labels, event-ownership review, candidate/history separation, and contradiction review.
+- **Unresolved seam:** present date/distance from the Fall, final map and chronology, language families, and which contradictions remain in-world disputes.
+
+## Provenance and repair markers
+
+- **Owner:** each subject note owns its claims; `status` states the live authority class, `adopted_in` records the first adopting pass, and `repaired_in` records later material repair passes in order.
+- **Inputs:** pass records, source witnesses, operator decisions, and the previous canonical surface.
+- **Outputs:** inspectable provenance for adopted canon, adopted history, and adopted candidates without moving subject authority into workshop metadata.
+- **Derived/display-only state:** pass numbers are audit pointers. They are not proof, chronology, ownership, or permission for one pass file to overrule a subject note.
+- **Forbidden writers:** `repaired_in` cannot replace `adopted_in`; workshop state cannot promote a candidate; links to an event cannot fork its facts.
+- **Shared paths:** first adoption writes `adopted_in`; later bounded repair appends `repaired_in`; status changes require an explicit adoption decision and corresponding pass evidence.
+- **Deletion/demotion line:** `adopted-candidate` remains design pressure rather than setting fact; duplicated event retellings are reduced to links plus owner-specific consequences.
+- **Verification layer:** frontmatter checks, pass-file provenance, event-note exclusivity, and candidate/history negative checks.
+- **Unresolved seam:** no general promotion policy yet specifies when a candidate such as the Alliance becomes adopted canon.
+
+## Wave owner clusters
+
+### 1. Technical continuity and relic custody
+
+- **Owner:** `Kalsa/Institutions/The Techpriesthoods.md` owns plural training and maintenance lineages; `Kalsa/Institutions/Relic Custody.md` owns named possession, access, operational custody, dependency, claim, appointment, discipline/removal, appeal, and handoff distinctions.
+- **Inputs:** inherited systems, partial procedures, workers' observations, material support, host permission, hazards, dependents, and competing site/recovery/sacred claims.
+- **Outputs:** scoped competence, maintenance work, stop/restart decisions, records, warnings, trained successors, bounded appointments, support, custody grants, reviews, removals, and handoffs.
+- **Derived/display-only state:** lineage reputation, ordination, condition labels, priority, and custody summaries report evidence; none is title or universal competence.
+- **Forbidden writers:** repair skill cannot write land or output ownership, polity rule, divine standing, relic personhood, or blanket technology jurisdiction.
+- **Shared paths:** ordinary service, emergency isolation, succession, and rival-lineage review use the same named configuration, dependents, intervention record, and bounded handoff.
+- **Deletion/demotion line:** the singular universal tech church and “finder/operator owns relic” assumptions are demoted; competence and claims remain separable.
+- **Verification layer:** KALSA-007 and KALSA-019 source inventories, lifecycle/removal/appeal checks, emergency-expiry and anomalous-person negatives, direct-entry handoff, links, and Quartz render/build.
+- **Unresolved seam:** particular priesthoods, machine protocols, recognition among lineages, regional custody law, relic-person evidence, and the final Ashen Intake custody outcome.
+
+### 2. God-cult covenants, potential allocation, and death law
+
+- **Owner:** `God-Cult Covenants.md` owns social entry, office formation, tenure, discipline, living exit, welfare, records, schism, and resistance; `The Potential Economy.md` owns estimation, material support, allocation, ledgers, audit, appeal, and steward removal; `Death and Binding Law.md` owns bodies, funerals, severance claims, succession, and disputed postmortem relations. `Projections, God Beasts, and Thaumavores.md` retains metaphysics; `Events/The Three Ledgers Schism.md` alone owns that event's facts.
+- **Inputs:** voluntary/inherited/coercive entry evidence, routed potential, material stores, clergy/champion labor, testimony, bodies, kin/cult claims, manifestations, and leakage risk.
+- **Outputs:** recognized lower-world obligations, formed and supported offices, welfare and miracle schedules, allocations/refusals, audits, discipline and exit decisions, funeral custody, severance findings, successions, and schism consequences.
+- **Derived/display-only state:** covenant classifications, potential estimates, eligibility rolls, cult prestige, arrears, and manifestation interpretations remain contestable administrative state.
+- **Forbidden writers:** rite, office, ledger, estimate, funeral verdict, or champion cannot prove divine identity, create potential, settle Projection mechanics, or retroactively make conquest voluntary.
+- **Shared paths:** entry, allocation, death, severance, and succession preserve origin, witnesses, finite inputs, affected people, review, and appeal through the same record chain.
+- **Deletion/demotion line:** worship-as-opinion, potential-as-coin, clergy-as-metaphysical-owner, and universal severance law are demoted.
+- **Verification layer:** KALSA-008 and KALSA-017 witnesses, lifecycle/audit/appeal/faction checks, Three Ledgers event exclusivity, hostile welfare/funeral cases, succession and thaumavore stress, links, and Quartz render/build.
+- **Unresolved seam:** observable binding tests, regional severance law, style-specific delegation, inherited attachment, common potential measures, and the event's exact place/date/participants.
+
+### 3. Divided-City prophetic governance
+
+- **Owner:** `Polities/Prophecy - The Divided City.md` owns civic history, named civic offices, jurisdiction, local enforcement, and Sunwall allocation; `Prophetic Houses.md` owns recruitment, formation, rank, assignments, estates, pay, tenure, discipline, succession, refusal, and exit; `Forecast Evidence and Courts.md` owns judges, clerks, forecast reviewers, funding, disclosure, admissibility, orders, remedy, enforcement, officer discipline, and appeal. `Events/The Closed Lift Appeal.md` alone owns that case's facts.
+- **Inputs:** bounded forecasts, disclosed interventions, house records, witnesses, material evidence, office budgets, tribute demands, civic law, and affected populations.
+- **Outputs:** formed and supported prophets, sponsored work, admissible forecast evidence, civic findings, enforceable orders, remedies, discipline, scoped imperial review, infrastructure allocation, and appeals.
+- **Derived/display-only state:** reliability records, pedigree, forecast confidence, house prestige, quotas, and court summaries inform decisions but are not verdicts.
+- **Forbidden writers:** prophecy cannot write judgment; pedigree cannot write reliability; secrecy cannot authorize irreversible punishment; inferred Luck cannot name a culprit; empires cannot own civic procedure merely by demanding tribute.
+- **Shared paths:** domestic, civic, infrastructure, and imperial forecast claims use disclosure → intervention inventory → material corroboration → civic decision → review/appeal.
+- **Deletion/demotion line:** oracle rule, one prophetic consensus, and prophecy-as-fact are demoted to evidence under jurisdiction.
+- **Verification layer:** KALSA-009 and KALSA-018 source maps, forecast≠verdict negatives, lifecycle/funding/enforcement/remedy checks, hostile household/client perspectives, Closed Lift event exclusivity, links, and rendered pages.
+- **Unresolved seam:** city/polity and office names, district boundaries, house forms, imperial boundaries, record media, exact pay, and style interaction in forecast law.
+
+### 4. Dungeon provenance, ruin law, delving compacts, and direct entry
+
+- **Owner:** `Dungeons/Dungeon Provenance.md` owns site-layer evidence; `Institutions/Relic and Ruin Law.md` owns admission, hazard, custody holds, claims, and adjudication; `Institutions/Delving Compacts.md` owns participant promises, labor, rescue, shares, and exit; `Places/Low Sere.md` owns settlement dependency, current actors, resource burdens, and settlement-side admission; `Dungeons/The Ashen Intake.md` owns its threshold, controller, route, active clock, hazards, recoverable objectives, claimant collision, and outcome matrix; `Events/The Grey Scald.md` alone owns the prior failure sequence.
+- **Inputs:** physical layers, site jurisdiction, dependents, settlement heat/water needs, hazards, custody records, kin/cult/person claims, route knowledge, expedition labor, sponsors, active shutter state, and recoveries.
+- **Outputs:** classified evidence, settlement admission, playable threshold and route, active failure pressure, safety orders, claim holds, rescue duties, recoverable objectives, outcome changes, post-expedition findings, and residual movable-salvage shares.
+- **Derived/display-only state:** provenance labels, hazard classes, maps, shutter count, inventories, objective state, claimant positions, claim priority, and share calculations describe evidence; none alone grants title.
+- **Forbidden writers:** provenance cannot write ownership; Low Sere dependency cannot write technical competence; a compact cannot bind non-signatories; successful descent cannot write relic title; site outcomes cannot become universal salvage law.
+- **Shared paths:** Low Sere admission → controlled threshold → compact and live inventory → route/clock intervention → recovery/change log → custody hold → ascent and above-ground adjudication; emergency rescue uses the same boundary.
+- **Deletion/demotion line:** loot-first dungeon law, abstract seam-only launch guidance, and “returning alive settles ownership” are demoted; only residual movable salvage reaches compact shares.
+- **Verification layer:** KALSA-010 and KALSA-019 source maps, site-layer/non-signatory/title negative cases, direct-entry rubric, touched links, and Quartz build/render.
+- **Unresolved seam:** regional ruin jurisdictions, salvage measures, standardized hazards, deeper Intake truth, final custody outcome, Ghostlight runtime handoff, and public versus play-sensitive dungeon facts.
+
+### 5. Papsenai agriculture, Stormshield Circles, and the Alliance candidate
+
+- **Owner:** `Polities/Shamanism - Papsenai.md` owns polity land/history and lived tribal agriculture; `Stormshield Circles.md` owns barrier labor and failure procedure; `Events/The Shield Levy Winter.md` alone owns that wartime episode's facts. `The Alliance.md` is `adopted-candidate` and owns only its proposed compact model, not setting history or present existence.
+- **Inputs:** land, seed, water, labor, storage, reachable forecasts, shield workers and relief, tribal mandates, wartime demand, and—only inside the candidate model—negotiated contributions, routes, interfaces, and protection capacity.
+- **Outputs:** adopted harvest/reserve decisions, shield state and warnings, shift/consent records, and event consequences; receipts, aid, passage, appeals, and exit settlements remain candidate outputs until adoption.
+- **Derived/display-only state:** yield forecasts, exhaustion debt, contribution shares, arrears, priority, reputation, and the Alliance design itself are administrative or workshop judgments, not land title, magical truth, or historical fact.
+- **Forbidden writers:** the Alliance candidate cannot establish its own founding, membership, participation in the Shield Levy Winter, Intuition authority, land allocation, or labor draft; Circles cannot command general law; talent cannot write public debt.
+- **Shared paths:** adopted shield work follows household → tribe → Circle → recorded consent/work → warning/failure record → review; the proposed delegate/receipt/appeal/exit path remains quarantined inside the candidate note.
+- **Deletion/demotion line:** the Alliance is demoted from presumed canonical institution to adopted candidate; “agrarian empire,” natural defenselessness, automatic shaman duty, and protector-as-ruler remain demoted.
+- **Verification layer:** KALSA-011 and KALSA-021 witnesses, shift/failure negatives, Shield Levy event exclusivity, Alliance-participation and Intuition negatives, links, and build/render.
+- **Unresolved seam:** tribal tenure and offices, whether the Alliance exists, its membership/founding if adopted, Intuition government, druid/shaman distinction, and shield mechanism.
+
+### 6. Jamnai submission hierarchy and Soiru'i sects
+
+- **Owner:** `Polities/Sorcery - Jamnai and the Terjamna.md` owns polity/arcology history; `Jamnai Submission Hierarchy.md` owns civic branch obligations, protection, office, challenge, succession, and tribute; `Soiru'i Sects.md` owns shrine, championing, memory, sanctuary, mutual aid, and sect claims; `Events/The Ash-Valve Refusal.md` alone owns that case's facts. Foundations retain Sorcery and dead-person metaphysics.
+- **Inputs:** magical contests, submission/oath/tribute records, geothermal services, labor, stores, protection, testimony, bodies, funeral practice, and manifestations.
+- **Outputs:** recognized obligations, protected shares, office and succession, technical stop paths, appeals, sanctuary, benefits, and external tribute.
+- **Derived/display-only state:** branch rank, registries, heroic biographies, sect interpretations, and manifestation reports cannot silently create the underlying relation they describe.
+- **Forbidden writers:** victory cannot write competence; civic oath cannot write magical binding; rank cannot own dependents or infrastructure; sect doctrine cannot write cosmology or dead consent.
+- **Shared paths:** contest/oath/tribute origin → witnessed record → promised protection/material service → bounded enforcement → common-superior or sect-supported appeal → succession/release review.
+- **Deletion/demotion line:** conquest hierarchy as total society, all obligation as metaphysical submission, and Soiru'i interpretation as author truth are demoted.
+- **Verification layer:** KALSA-012 and KALSA-020 witnesses, Ash-Valve event exclusivity, Ji'esti responsibility boundary, hostile tributary/fugitive readings, duplicated-retelling negatives, links/build/render.
+- **Unresolved seam:** summit and branch ranks, submission-law boundaries, arcology capacity, tributary exit, Soiru'i personhood, and current Terjamna formations.
+
+### 7. High Lojban, descendant speech, measures, and machine formulae
+
+- **Owner:** `Foundations/Language and Reckoning.md` owns inherited substrate and unknowns; `High Lojban and Descendant Speech.md` owns social reproduction, competence, translation, class use, and change; `Measures, Formulae, and Machine Speech.md` owns conversion, accepted formulae, interface procedure, and operational records; `Events/The Shortened Watch Failure.md` alone owns that disaster's facts.
+- **Inputs:** imposed Ark language/reckoning, descendant speech, schools, liturgy, law, treaties, workers, technical manuals, measures, interfaces, failed commands, and regional use.
+- **Outputs:** scoped competence, accountable translations, public notice, teaching, accepted formula versions, conversion records, machine-operation evidence, review, and appeal.
+- **Derived/display-only state:** fluency certificates, prestige labels, “correctness,” formula acceptance, conversion tables, and machine responses are scoped evidence, not intelligence, title, or universal grammar.
+- **Forbidden writers:** elite register cannot write moral worth or universal law; machine acceptance cannot write ownership or divine authority; Gift lineage cannot write language; an English gloss cannot settle an endonym.
+- **Shared paths:** law, treaty, school, ritual, measure, and machine use all preserve source expression → translator/operator scope → adopted rendering/formula → affected-user notice → correction history.
+- **Deletion/demotion line:** frozen universal Lojban, one rational measure system, and machine obedience as semantic truth are demoted to historical inheritance and bounded practice.
+- **Verification layer:** KALSA-013 and KALSA-021 source inventories, translation/conversion negatives, Shortened Watch event exclusivity and chronology/measure restraint, links/build/render.
+- **Unresolved seam:** language families, sound changes, scripts, calendars, regional units, interface comprehension, and public competence standards.
+
+### 8. Ju'onai examination and Analyst administration
+
+- **Owner:** `Polities/Analysis - Ju'onai Hegemony.md` owns polity history and portfolios; `Ju'onai Examiners.md` owns bounded testing, certification, discipline, and revocation; `Analyst Administration.md` owns appointment, tax/allocation, public works, petitions, remedy, and administrative succession; `Events/The Santabi'u Silt Appeal.md` alone owns that case's facts.
+- **Inputs:** scoped tests, causal reports, worker observations, tax and service records, charters, budgets, petitions, client agreements, local claims, and technical-custody evidence.
+- **Outputs:** scoped certification, appointments, portfolios, allocations, public works, notices, remedies, revocations, and appeals.
+- **Derived/display-only state:** exam scores, rank prestige, production estimates, model boundaries, risk summaries, and office dashboards describe administrative evidence; they do not become the territory.
+- **Forbidden writers:** rank cannot write moral worth; report cannot write verdict; model scope cannot erase outside observations; certification cannot write technical custody; analytical success cannot legitimate annexation.
+- **Shared paths:** exam, appointment, levy, public work, and petition preserve claimed boundary → inputs and missing evidence → accountable actor → material consequence → independent procedural review or superior appeal.
+- **Deletion/demotion line:** meritocratic intelligence caste, omniscient administration, model-as-reality, and clean annexation history are demoted.
+- **Verification layer:** KALSA-014 and KALSA-020 witnesses, Santabi'u event exclusivity, low-expression/worker hostile readings, report-boundary and duplicated-retelling negatives, links/build/render.
+- **Unresolved seam:** summit and provinces, tax forms, office succession, certification law, technical guild relations, Channeler Crown custody, and compensation.
+
+### 9. Sarxe households, flight, and refuge
+
+- **Owner:** `Polities/Channeling - Sarxe.md` owns successive displacement, mobile/static political shape, and diaspora relations; `Saxfoldi Households.md` owns person-scale communal life, care, consent, membership, use, split/merge, and succession; `Ji'esti Flight and Refuge.md` owns warning, passage, admission, records, recovery, appeal, and departure.
+- **Inputs:** bounded shared attention, bodily consent, labor, care, route knowledge, warnings, provisions, testimony, custody records, host claims, and separated-person evidence.
+- **Outputs:** household membership/use claims, work rotations, privacy boundaries, safe conduct, admission and care, separation/recovery records, appeal, departure, and handoff.
+- **Derived/display-only state:** sensed consensus, proximity, fluency, trust, route status, household role, record matches, expression strength, and diaspora occupation cannot write personhood or consent.
+- **Forbidden writers:** communal awareness cannot write bodily consent; refuge cannot write lifelong custody; mobile use cannot write universal land title; diaspora work cannot define authentic Sarxe identity; no institution writes universal telepathy or a final language.
+- **Shared paths:** person/dependent → household witness or advocate → bounded household/refuge decision → material support and record → review/appeal → voluntary departure, transfer, split/merge, recovery, or handoff.
+- **Deletion/demotion line:** hive/nonperson and solitary-insanity frames, one fixed Sarxe body, mercenary-as-whole-culture, and one central route/archive are demoted.
+- **Verification layer:** KALSA-015 witnesses, successive Ju'onai → static Saxfoldi → Terjamna/Ji'esti order, privacy/admission hostile cases, touched links, build/render.
+- **Unresolved seam:** Sarxe language, communication limits, routes and offices, household law, host agreements, Crown restoration, and Ji'esti metaphysics.
+
+### 10. Selza'a family territories, Luck harm, and restitution
+
+- **Owner:** `Polities/Luck - Selza'a.md` owns isolation, terrain, distributed family government, mutual defense, and the story/canon boundary; `Selza'a Family Territories.md` owns bounded land/use, membership, adoption, marriage, exit, succession, shared works, compacts, and temporary federation; `Luck Harm and Restitution.md` owns material evidence, immediate repair, risk pooling, reciprocal restraint, restitution, review, and record correction; `Events/The Broken Windtrap Settlement.md` alone owns that failure and settlement sequence. Foundations retain Luck and dimna metaphysics.
+- **Inputs:** continuing use and work, kin/adoption/marriage records, boundary compacts, windtraps and water, material inspection, harms and breached duties, contributions, stores and bonds, witnesses, and bounded prophetic bias reports.
+- **Outputs:** membership and use claims, water/work schedules, reciprocal defense, temporary federation, emergency aid, preserved evidence, scoped findings, pooled loss, restitution, review, affiliation change, and corrected records.
+- **Derived/display-only state:** territory maps, family reputation, lineage and dimna claims, alleged Luck patterns, prophetic bias, pool shares, risk labels, and federation alerts remain evidence or coordination state; none identifies a bearer or writes guilt, title, or moral worth.
+- **Forbidden writers:** coincidence and improbable survival cannot write culpability; territory cannot own people or all resources within it; bloodline cannot write personhood; Prophecy cannot identify Luck; ritual cannot write God-Beast fact; emergency federation cannot retain general government after the threat.
+- **Shared paths:** membership/use and shared-work claims preserve source relation → bounded family/compact recognition → material duty/output → review/exit; harm follows rescue and service restoration → evidence preservation → material inspection → scoped finding → pool/restitution → restriction lapse and record correction.
+- **Deletion/demotion line:** generic clan feud, family-as-one-blood-owner, absolute territorial title, detectable Luck, universal tribunal, and the escaped-bearer story as present canon are demoted.
+- **Verification layer:** KALSA-016 witnesses, direct-Luck and escaped-bearer negative checks, the Broken Windtrap Settlement, poor/adopted/mixed/Null/outsider hostile readings, touched links, build/render.
+- **Unresolved seam:** family names and constitutions, membership variants, city entry/exit, windtrap custody and water baselines, compact enforcement, dimna/seltanzda metaphysics, citywide risk capacity, and external relations.
+
+## Repair overlays, Waves 11–16
+
+These overlays record changed authority and shared paths. They are audit views over the clusters above, never additional canon owners.
+
+### 11. Divine institutional reproduction — KALSA-017
+
+- **Owner:** covenant, potential-economy, death-law, and Soiru'i owners retain their procedures; `Events/The Three Ledgers Schism.md` alone owns the named sequence.
+- **Inputs:** recruitment and formation evidence, stores and pay, tenure, discipline, audit, succession, exit, faction pressure, bodies, and postmortem claims.
+- **Outputs:** supported offices, steward/champion careers, reviews and removals, contractual exits, succession, organized resistance, and institution-specific consequences of the schism.
+- **Derived/display-only state:** office rank, ledger alignment, cult faction, and event summaries do not write metaphysics or event facts.
+- **Forbidden writers:** mortal offices cannot write divine identity, binding mechanics, or dead consent; death law cannot absorb living exit; consequence notes cannot retell the event as their own fact.
+- **Shared paths:** formation → material support → bounded office → audit/discipline → appeal/removal/exit → succession; event pressure enters each owner by link and consequence.
+- **Deletion/demotion line:** floating careers, unsupported offices, and three duplicate schism narratives were cut; the event became the sole factual owner.
+- **Verification layer:** KALSA-017 lifecycle/audit/appeal/faction rubric, event exclusivity, links, seed integrity, build/render, and second Soul review.
+- **Unresolved seam:** named local offices, exact material rates, binding tests, and the schism's place/date/participants.
+
+### 12. Prophetic institutional body — KALSA-018
+
+- **Owner:** city, house, and court owners retain separate civic, professional, and evidentiary authority; `Events/The Closed Lift Appeal.md` alone owns the case facts.
+- **Inputs:** recruitment, formation, assignments, estates/pay, tenure, forecasts, material evidence, court funding, officers, orders, tribute, and Sunwall pressure.
+- **Outputs:** careers and exits, funded court procedure, enforceable remedies, officer discipline, appeal, and concrete player/delving consequences.
+- **Derived/display-only state:** forecast confidence, house standing, reviewer opinion, and event summaries remain evidence rather than verdict or history owner.
+- **Forbidden writers:** forecast cannot become verdict; house, city, imperial, and Sunwall authority cannot collapse into one office; other notes cannot own Closed Lift facts.
+- **Shared paths:** forecast disclosure → intervention inventory → corroboration → funded civic hearing → order/enforcement/remedy → appeal; house discipline uses its own bounded career path.
+- **Deletion/demotion line:** unnamed institutional vapor and duplicated case retellings were cut; factual sequence moved to the event owner.
+- **Verification layer:** KALSA-018 lifecycle/funding/enforcement/remedy rubric, forecast negatives, event exclusivity, links, build/render, and second Soul review.
+- **Unresolved seam:** city/polity names, exact office names and pay, court appointments, district boundaries, and present date.
+
+### 13. Low Sere and Ashen Intake direct entry — KALSA-019
+
+- **Owner:** Relic Custody owns custodian lifecycle and claims; Low Sere owns settlement dependency and admission; the Ashen Intake owns the playable threshold, routes, clock, hazards, objectives, claimant collision, and local outcome matrix.
+- **Inputs:** settlement heat/water dependence, current actors, custody evidence, compact terms, three remaining shutter indicators, routes, hazards, claimants, and recoverable records/material.
+- **Outputs:** immediate launch situation, bounded admission, player choices, clock and route changes, recoveries, rescue/withdrawal, evidence, and site-specific outcomes handed back to custody adjudication.
+- **Derived/display-only state:** shutter count, route state, claimant position, inventory, and recovery status report the dungeon; they do not grant relic title or write universal law.
+- **Forbidden writers:** settlement need cannot write competence; custodian skill cannot write settlement consent; descent cannot write ownership; the dungeon cannot decide metaphysics or runtime simulation truth.
+- **Shared paths:** settlement admission → controlled basin threshold → compact/inventory → route and active clock → recovery/change log → ascent → custody and settlement consequence.
+- **Deletion/demotion line:** generic launch advice and unburdened salvage were cut; Low Sere and the Ashen Intake became canonical direct-entry surfaces.
+- **Verification layer:** KALSA-019 custodian-lifecycle and direct-entry rubrics, title/salvage negatives, touched links, seed integrity, build/render, and second Soul review.
+- **Unresolved seam:** deeper Intake truth, controller behavior beyond the authored surface, final custody result, and public/play-sensitive Ghostlight handoff.
+
+### 14. Named-event consolidation — KALSA-020
+
+- **Owner:** `Events/The Santabi'u Silt Appeal.md` and `Events/The Ash-Valve Refusal.md` each alone own their factual sequences; adjacent polity and institution notes own only their procedural consequences.
+- **Inputs:** facts already repeated across each prior three-note cluster, their provenance, and the pre-existing owner boundaries.
+- **Outputs:** one factual event surface per case, consequence-only links in six subject owners, and explicit unresolved particulars.
+- **Derived/display-only state:** summaries, political meanings, examiner lessons, branch reforms, and sect memories are owner-specific consequences, not alternate event records.
+- **Forbidden writers:** events cannot absorb polity history, institutional procedure, metaphysics, or authority; consequence notes cannot embellish or fork the sequence.
+- **Shared paths:** factual claim → event note → linked procedural/political consequence; corrections repair the event first and then affected consequences.
+- **Deletion/demotion line:** duplicated event narration was removed from six notes without deleting their institution-specific consequences.
+- **Verification layer:** KALSA-020 reconciliation/no-drift review, factual-owner exclusivity, duplicate negatives, touched links, build/render, and second Soul review.
+- **Unresolved seam:** dates, exact locations, participants, local names, and the cases' present legal reach.
+
+### 15. Owned language and shield histories — KALSA-021
+
+- **Owner:** `Events/The Shortened Watch Failure.md` owns its public-works sequence; `Events/The Shield Levy Winter.md` owns its wartime sequence; language, measures, Papsenai, and Stormshield notes own consequences; the Alliance remains a candidate design owner only.
+- **Inputs:** previously simulated failures, measure/translation practice, shield labor and reserve procedure, wartime demand, damage, settlement, and unresolved chronology.
+- **Outputs:** adopted historical pressure with single factual owners, bounded institutional lessons, and candidate-only Alliance design pressure.
+- **Derived/display-only state:** translated event names, chronology guesses, exact units, inferred seasons, and Alliance parallels do not become canon facts.
+- **Forbidden writers:** event notes cannot settle universal language, measures, calendars, or Intuition; the Alliance candidate cannot claim participation, founding, membership, or present existence.
+- **Shared paths:** event fact → factual owner → linked consequence in language/measure or polity/shield owner; candidate reuse remains explicitly hypothetical.
+- **Deletion/demotion line:** floating stress simulations became adopted history; Alliance assertions were demoted to candidate status instead of being backfilled from the Shield Levy Winter.
+- **Verification layer:** KALSA-021 event exclusivity, chronology/measure/Intuition negatives, Alliance-participation negative, touched links, build/render, and second Soul review.
+- **Unresolved seam:** dates, units, calendars, locations, participants, Intuition ownership, and whether the Alliance exists.
+
+### 16. Candidate quarantine and final event ownership — KALSA-022
+
+- **Owner:** `Reference/Canon and Provenance.md` owns the non-factual meaning of `adopted-candidate`; `Events/The Broken Windtrap Settlement.md` and `Events/The Grey Scald.md` each own their named factual sequence; affected polity, institution, place, and dungeon notes own only current procedure, physical evidence, and consequences.
+- **Inputs:** the second Soul verdict, existing candidate assertions, duplicated historical sequences, seed classifications, and the live owner notes.
+- **Outputs:** a quarantined Alliance design, two single-owner adopted histories, consequence-only consumers, and corrected reference projections.
+- **Derived/display-only state:** candidate procedures, event links, glossary classifications, timeline summaries, and body-map descriptions cannot establish present institutions or fork event facts.
+- **Forbidden writers:** the Alliance candidate cannot establish present existence or obligations; Low Sere, Relic Custody, Ashen Intake, Selza'a polity, family territory, and restitution notes cannot independently rewrite their linked event sequence.
+- **Shared paths:** candidate pressure remains inside its candidate owner until explicit adoption; event fact enters one event owner and reaches every consumer by link plus owner-specific consequence.
+- **Deletion/demotion line:** present-tense Alliance claims and synchronized event retellings were cut; no replacement bulk was added.
+- **Verification layer:** candidate/event negative inspection, global link and anchor checks, seed hashes, publication boundary, production build, and final bounded Soul review.
+- **Unresolved seam:** Alliance adoption and Intuition remain blocked on source-grounded or operator direction; event dates and proper names remain unresolved where the owners say so.
+
+## Event-owner layer
+
+- **Owner:** each `status: adopted-history` note in `Kalsa/Events/` alone owns its named factual sequence and outcome; `Kalsa/Events/index.md` owns navigation and the layer's explanatory boundary.
+- **Inputs:** reconciled prior canon, explicit adoption through `adopted_in`, source witnesses where available, and bounded unknowns.
+- **Outputs:** linkable historical fact consumed by polity, institution, place, and dungeon owners as pressure and consequence.
+- **Derived/display-only state:** index summaries, timelines, translated event names, and consequence retellings are projections; they cannot change sequence or outcome.
+- **Forbidden writers:** an event cannot own general procedure, metaphysics, polity identity, or authority; consumers cannot fork event facts or imply unknown dates/names.
+- **Shared paths:** adopt event → record facts and unresolved particulars once → link from each affected owner → retain only owner-specific consequence → repair the event before dependents.
+- **Deletion/demotion line:** repeated factual narratives are cut to links plus consequences; events lacking explicit adoption remain proposals or stress simulations.
+- **Verification layer:** `status`/`adopted_in` frontmatter, link integrity, duplicate-retelling negatives, pass reconciliation, and contradiction review.
+- **Unresolved seam:** event ordering and dates remain incomplete; no event note may silently settle the present era.
+
+## Repository and projection boundaries
+
+| Surface | Owner and role | Allowed flow | Forbidden authority |
+| --- | --- | --- | --- |
+| `seed/original/` + `seed/manifest.md` | Immutable witnesses; manifest owns filenames, sizes, hashes, and subject labels. | Read into source inventories; verify with `scripts/lore/verify-seed.ps1`. | Never edit, normalize, rename, or let witness prose become canon without adoption. |
+| `Kalsa/` | Canonical Obsidian/Quartz content root; subject notes own setting truth, reference/index notes own navigation and provenance vocabulary. | Receives reviewed repair; feeds Obsidian, link tools, retrieval, and Quartz. | Workshop, memory, site, generated output, and indexes cannot silently override subject owners. |
+| `Kalsa/Events/` | Adopted-history owner layer; each event note owns one factual sequence, while the index owns navigation only. | Supplies linked historical pressure to subject owners; receives factual correction before consequence notes. | Cannot absorb general procedure or metaphysics; consumers cannot fork its facts. |
+| `Kalsa/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
+| `Kalsa/Dungeons/The Ashen Intake.md` | Canonical direct-entry dungeon owner for its threshold, route, clock, hazards, objectives, collisions, and local outcomes. | Consumes settlement admission and compacts; returns recovery/change evidence to settlement and custody owners. | Cannot grant title, universalize salvage law, or decide Ghostlight runtime truth. |
+| `.obsidian/` | Human authoring configuration for the repository vault. | Displays and edits `Kalsa/` and noncanonical project surfaces according to the operator's workspace. | Editor state, graph state, and plugins do not grant canon or publication authority. |
+| `workshop/Direction and Constraints.md` | Project charter and governing editorial doctrine. | Constrains selection, provenance, depth, and public/private decisions. | Does not contain setting facts merely because a design direction is persuasive. |
+| `workshop/deepening/` | Critique/repair contract, benchmark, queue, pass evidence, ledger, and this map. | Reads seed/canon; records reasoning and verification; proposes bounded owner repair. | Never published as lore and never used as a parallel canon. |
+| `.epiphany/project-memory.md` | Human-inspectable durable judgment and open design pressure. | Receives only lessons that should steer future passes. | Cannot store raw lore, task chatter, or decide canon. |
+| `.epiphany/state/project-memory.cc` | Generated typed CultCache projection of project memory. | Rebuilt only through `.epiphany/sync-project-memory.ps1`; consumed for runtime inspection. | Never hand-edited and never promoted to Persona, lore, or job authority. |
+| `site/` | Kalsa-specific Quartz configuration/layout/style overlay. | Combined with canonical `Kalsa/` by the shared `GameCult-Quartz` runtime. | Presentation cannot decide canon or admit workshop/memory/seed. |
+| `scripts/quartz/quartz.ps1` + deploy workflow | Build/deployment entrypoints; bind `contentDir` to `Kalsa`, overlay to `site`, output to `quartz-site/public`. | Produce the same projection locally and in GitHub Pages workflow. | Build configuration cannot rewrite source or broaden publication root silently. |
+| `.quartz-build/` + `quartz-site/public/` | Generated build state and public projection. | Inspected and replaced by builds. | Never edit directly; rendered success is evidence, not canon. |
+| `scripts/lore/` | Read-only integrity, link, boundary, and structural diagnostics plus tool tests. | Observe seed, canon, projection boundary, and depth pressure. | Metrics and passing checks cannot award depth or setting truth. |
+| Ghostlight runtime | External consumer of setting and play-sensitive contracts; owning repository not mapped here. | Receives reviewed public or private handoff once the boundary is decided. | Kalsa workshop prose cannot impersonate a Ghostlight runtime contract. |
+
+## Deepening loop and shared commit path
+
+1. **Select:** `queue.md` identifies pressure; selection does not grant canon authority.
+2. **Inventory:** the pass records exact seed witnesses, current owner notes, adopted claims, contradictions, and unknowns.
+3. **Model:** name owner, inputs, outputs, derived state, forbidden writers, shared paths, and the deletion line before repair.
+4. **Critique:** test generic defaults, missing material support, false consensus, absent subordinate experience, and stopped consequences.
+5. **Cut/demote:** remove duplicate or overbroad authority before adding procedure.
+6. **Repair/connect:** edit the smallest canonical owner set and connect people, material, history, neighboring owners, and dungeon/play consequences.
+7. **Falsify:** add at least one hostile or marginal reading and one historical stress case.
+8. **Verify:** seed hashes → touched/global links → publication boundary → targeted negative checks → Quartz production build → affected-page inspection → git scope.
+9. **Record:** finish the pass, ledger result, re-rank queue, and promote only durable judgment to project memory before regenerating `.cc`.
+
+Direct human edits and agent repairs must converge on this path. A workshop pass is evidence of the change, not an alternate writer. A repair discovered during build or play returns to the canonical owner rather than being patched into output, memory, or site configuration.
+
+## Remaining open surfaces at this snapshot
+
+- KALSA-007 through KALSA-022 are complete. The final bounded Soul review found parity defensible for the adopted institutional set; this closes the current depth cycle without declaring unfinished branches complete.
+- The public/private Ghostlight boundary and deployment/domain authority remain unresolved in charter, queue, and project memory.
+- Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.
