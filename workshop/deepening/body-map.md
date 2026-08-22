@@ -1,13 +1,44 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-22T17:26:42Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-and-kalsa-030-boundaries
+snapshot_at: 2026-08-22T19:54:33Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-kalsa-030-and-kalsa-032-review-control
 ---
 
 # Kalsa Canonical Body Map
 
 This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, vault-level spoiler enclosure through KALSA-029, and Public epistemic ownership through KALSA-030. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+
+## Lore review and repair control
+
+- **Owner:** `workshop/review-council/README.md` owns council membership,
+  sequencing, packet boundaries, and report gates. The active pass coordinator
+  owns finding dispositions, the bounded repair brief, integration, and
+  closeout. Canonical subject notes retain lore authority.
+- **Inputs:** an immutable baseline packet, exact seed and canonical sources,
+  adopted authority maps, Public reader paths, protected strengths, operator
+  decisions, and one specialist prompt per council seat.
+- **Outputs:** seven independent diagnostic reports, one adjudication, one
+  bounded repair brief, seven regression reports, and a recorded completion
+  decision.
+- **Derived/display-only state:** critic confidence, agreement, pattern counts,
+  aggregate impressions, and report summaries are evidence. They may not write
+  canon, publication, or project memory.
+- **Forbidden writers:** no critic, majority, detector, vocabulary list,
+  checklist, or generic Soul label may decide a setting claim or edit an owner.
+  Repair writers cannot silently average raw reports.
+- **Shared paths:** frozen packet -> seven independent diagnoses -> coordinator
+  dispositions -> named-owner repair -> seven regressions -> ordinary seed,
+  link, layout, publication, Quartz, rendered-page, and diff verification.
+- **Deletion/demotion line:** the former omnibus critique and undifferentiated
+  Soul checkbox are demoted. Canon fidelity, provenance, ownership, and spoiler
+  safety remain cross-cutting constraints and final checks, not a continuity
+  critic seat.
+- **Verification layer:** report inventory, every-finding disposition, blind
+  reader packet where Public is in scope, no unresolved accepted essential
+  defect, negative authority checks, and the repository verification suite.
+- **Unresolved seam:** report assembly and dispatch remain Markdown-first. No
+  runtime or automation owns them until repetition justifies that machinery.
 
 ## Canonical substrate
 

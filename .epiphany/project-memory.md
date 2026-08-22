@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-22T17:26:42Z
+snapshot_at: 2026-08-22T19:54:33Z
 ---
 
 # Kalsa Project Memory
@@ -29,6 +29,8 @@ database and does not grant canon status to any setting claim.
 - `memory-public-epistemic-ownership` — `Kalsa/Public/` is an inhabitant-facing knowledge commons, not an abbreviated author encyclopedia. Explanatory models require a culture, institution, lineage, text, witness, or named synthesis; translated terms must carry evidence, material reproduction, interests, and characteristic limits rather than smuggling backstage taxonomy into player knowledge.
 - `memory-divine-uncertainty` — Gods are powerful, situated witnesses rather than authorial oracles. Divine confidence, memory, doctrine, and testimony remain evidence shaped by binding, rivalry, self-conception, and blind spots.
 - `memory-play-canon` — Persistent play creates receipts and canon candidates. Runtime outcomes become shared setting canon only when an owning canonical note explicitly adopts them.
+- `memory-independent-lore-review` — Every deepening pass uses seven independent lore critics before repair and after repair: institutional causality; culture and situated knowledge; material life and ecology; history, conflict, and change; Ghostlight play and consequence; AI-isms and prose; and reader experience and navigation. Critics diagnose, the coordinator adjudicates, subject notes own canon, and a no-finding report is valid.
+- `memory-ai-ism-judgment` — AI-shaped prose is diagnosed by recurring construction and reading effect, never detector scores, word bans, or authorship claims. Kalsa's known pressure includes correction theatre, symmetrical wonder-then-cost ledgers, list-clause congestion, repeated frames, checksum conclusions, viewpoint choruses, workshop-dialect leakage, and generic smoothing; functional lists, deliberate rhetoric, and precise technical terms remain protectable.
 
 ## Open questions
 

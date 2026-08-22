@@ -3,6 +3,7 @@ pass_id: KALSA-000
 status: draft
 target: replace-me
 canonical_owner: unresolved
+coordinator: replace-me
 started: YYYY-MM-DD
 completed:
 ---
@@ -63,6 +64,32 @@ What real setting and play outcome does this pass serve?
 - Consequences that stop at the page edge:
 - Duplicate or ambiguous owners:
 
+## Review council
+
+- **Packet identity:**
+- **Repaired packet identity:**
+- **Packet path:**
+- **Protected strengths:**
+- **In-scope inhabitant model boundary:** owner or synthesis; evidence and
+  reproduction; useful domain; blind spot; protected unknown.
+- **Ghostlight lens:** point of contact; character-accessible evidence;
+  target-supported interventions; consequence horizon or play-bearing owner.
+- **Event-owner evidence or explicit evidence gap:**
+
+| Critic | Diagnostic report | Verdict | Regression report |
+| --- | --- | --- | --- |
+| Institutional Causality |  |  |  |
+| Culture and Situated Knowledge |  |  |  |
+| Material Life and Ecology |  |  |  |
+| History, Conflict, and Change |  |  |  |
+| Ghostlight Play and Consequence |  |  |  |
+| AI-Isms and Prose |  |  |  |
+| Reader Experience and Navigation |  |  |  |
+
+- **Synthesis and dispositions:**
+- **Accepted repair brief:**
+- **Deferred pressure added to queue:**
+
 ## Repair
 
 - Canonical files to change:
@@ -101,6 +128,10 @@ claimed mechanism?
 - [ ] Affected rendered pages were inspected.
 - [ ] Git diff changes only intended owners and supporting indexes.
 - [ ] Benchmark review completed without treating counts as proof.
+- [ ] All seven independent diagnostic reports exist.
+- [ ] Every substantive finding has a coordinator disposition.
+- [ ] All seven regression reports exist; no essential accepted defect remains.
+- [ ] The final closeout names what should now be left alone.
 
 ## Decision record
 

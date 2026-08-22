@@ -20,16 +20,23 @@ A pass must:
    costs, failure modes, enforcement limits, and interfaces.
 4. **Critique** generic fantasy defaults, missing material constraints, false
    consensus, absent subordinate perspectives, and consequences that stop at
-   the page edge.
-5. **Repair** the smallest coherent set of canonical owner notes. Delete or
+   the page edge. Assemble an immutable packet and collect independent reports
+   from every seat in the [[../review-council/README|Lore Review Council]].
+5. **Adjudicate** every substantive council finding as accepted, modified,
+   rejected, or deferred. Preserve raw disagreement; do not vote lore into
+   existence or give reports directly to a repair writer.
+6. **Repair** the smallest coherent set of canonical owner notes. Delete or
    demote duplicate owners before adding compensating prose.
-6. **Connect** the repair to people, places, events, resources, language,
+7. **Connect** the repair to people, places, events, resources, language,
    magic, and playable pressure.
-7. **Falsify** the result through at least one hostile or marginal perspective
+8. **Falsify** the result through at least one hostile or marginal perspective
    and one historical stress case.
-8. **Verify** seed hashes, wikilinks, publication boundaries, the Quartz build,
+9. **Regress** the repaired candidate through every council seat. Reader
+   Experience receives a fresh blind packet; other critics receive their raw
+   findings and the relevant dispositions.
+10. **Verify** seed hashes, wikilinks, publication boundaries, the Quartz build,
    affected rendered pages, and the actual git diff.
-9. **Record** the result in `ledger.md`, update `queue.md`, and promote only a
+11. **Record** the result in `ledger.md`, update `queue.md`, and promote only a
    durable operating lesson or decision into `.epiphany/project-memory.md`.
 
 ## Completion Standard
@@ -48,6 +55,8 @@ not certify depth. The qualitative parity standard lives in `benchmark.md`.
 - authority map before and after;
 - unresolved questions and explicit non-decisions;
 - hostile/marginal and historical stress findings;
+- immutable review-packet identity, seven raw reports, finding dispositions,
+  repair brief, and seven regression reports;
 - verification commands and results;
 - rendered-page inspection when published content changed.
 

@@ -17,7 +17,9 @@ Review each major institution or system across these dimensions:
 8. variation by class, region, lineage, language, and magical capacity;
 9. historical crises and path dependence;
 10. internal contradiction and active factions;
-11. consequences when players help, harm, capture, expose, or reform it;
+11. consequences from at least two plausible, target-supported player courses,
+    including a consequential choice or misunderstanding and a durable owner
+    or receipt;
 12. provenance: adopted fact, attributed belief, inference, or unresolved design.
 
 Use the following review scale as a discussion aid:
@@ -75,6 +77,16 @@ Kalsa reaches institutional parity when:
 - new events can be derived from the system without workshop explanation;
 - comparison against representative Aetheria notes finds comparable causal
   density even when Kalsa uses fewer or shorter pages.
+
+## Council Evidence
+
+Depth parity is argued through the seven independent remits in
+[[../review-council/README|the Lore Review Council]]. No aggregate score or
+majority vote substitutes for the reports. Institutional causality, culture and
+situated knowledge, material life, historical change, play consequence, prose,
+and reader navigation must each receive a turn. Canon fidelity, provenance,
+ownership, and spoiler safety constrain every remit and the final repository
+verification rather than living in one continuity-shaped critic.
 
 ## Aetheria Reference Sample
 

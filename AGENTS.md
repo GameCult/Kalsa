@@ -90,13 +90,17 @@ Before editing an institution, region, practice, or cross-cutting system:
 2. Inventory seed statements, adopted facts, contradictions, and unknowns.
 3. Name the canonical owner and model its inputs, outputs, dependencies,
    beneficiaries, costs, failure modes, and neighboring interfaces.
-4. Critique generic defaults, unsupported consensus, missing material support,
-   absent subordinate perspectives, and consequences that stop at the page.
-5. Repair the smallest coherent set of owner notes.
-6. Falsify the result with one hostile or marginal perspective and one
+4. Assemble an immutable review packet and give every seat in
+   `workshop/review-council/README.md` an independent diagnostic turn.
+5. Adjudicate every substantive finding; critics diagnose and the coordinator
+   decides the bounded repair brief.
+6. Repair the smallest coherent set of owner notes.
+7. Falsify the result with one hostile or marginal perspective and one
    historical stress case.
-7. Verify seed integrity, links, publication boundaries, and the Quartz build.
-8. Record the pass in the ledger and promote only durable judgment into project
+8. Give every council seat a post-repair regression turn; Reader Experience
+   receives a fresh blind packet.
+9. Verify seed integrity, links, publication boundaries, and the Quartz build.
+10. Record the pass in the ledger and promote only durable judgment into project
    memory.
 
 Passing prose is not enough. A mature institution must explain authority,

@@ -69,3 +69,43 @@ promoted or retired.
 - **Verification:** nine immutable seed witnesses; 551 complete-vault wikilinks across 69 notes; 34 Public links across nine reader notes; publication, vault-layout, negative-tool, and exact-output checks; production Quartz build of nine inputs and 33 outputs; rendered inspection of the home, magic, and teaching-source pages.
 - **Durable judgment promoted:** Public explanations require a situated inhabitant owner, evidence practice, institutional body, and characteristic limit. A local synonym without those consequences is only the author taxonomy in costume.
 - **Open pressure:** KALSA-031 repeats this audit for the remaining traditions one bounded owner at a time; exact Ju'onai descendant-language forms, school antiquity, and regional variations remain unresolved.
+
+## 2026-08-22 — Lore review council and AI-ism calibration
+
+- **Scope:** [[passes/KALSA-032-review-council|KALSA-032]], establishing a
+  version-controlled seven-seat Lore Review Council for every future deepening
+  pass.
+- **Authority cut:** critics diagnose independently; the coordinator adjudicates
+  and integrates; subject notes retain canon. A generic Soul checkbox,
+  consensus, detector, word list, or automatic rewrite cannot stand in for the
+  named reports.
+- **Council:** Institutional Causality; Culture and Situated Knowledge;
+  Material Life and Ecology; History, Conflict, and Change; Ghostlight Play and
+  Consequence; AI-Isms and Prose; Reader Experience and Navigation. Every seat
+  returned a raw diagnosis and a regression on one frozen implementation; the
+  reader turns used blind Public packets.
+- **First verdict:** Institutional Causality blocked completion because the
+  baseline omitted an in-scope hash, repaired candidates were not frozen, and
+  findings lacked stable identities. Other critics found informal-knowledge,
+  material-chain, event-evidence, play-access, universal-action-menu, and
+  term-origin seams.
+- **Repair:** prompts and templates now preserve snapshot identity, coordinator
+  occupancy, finding IDs, informal reproduction paths, inhabitant-model limits,
+  material handoffs, evidence scope, event owners, bounded Ghostlight access,
+  target-earned interventions, play traces, and culturally owned technical
+  language.
+- **Regression:** all accepted findings passed their original seats. Six
+  grounded critics verified every implementation hash; a fresh reader found no
+  spoiler or process-language leak and independently confirmed the deferred
+  Public voice and navigation pressure.
+- **Canonical lore changed:** none. KALSA-031 and KALSA-024 carry bounded
+  cultural and historical pressure; KALSA-033 owns Public entry-route,
+  dead-end, and narrator-voice repair.
+- **Verification:** seven diagnostic and seven regression artifacts; 23 memory
+  records projected to CultCache; nine seed witnesses; vault enclosure; 551
+  links across 69 canonical notes; Public-only source and output boundaries;
+  lore-tool negative tests; Quartz build of nine inputs and 33 outputs.
+- **Durable judgment promoted:** review specialties must speak independently,
+  preserve raw disagreement, and regress the same repaired body. AI-shaped prose
+  is diagnosed through recurrent construction and reading effect, never
+  authorship claims, token bans, or detector scores.
