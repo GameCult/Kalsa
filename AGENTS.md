@@ -1,0 +1,116 @@
+# Kalsa Vault Operating Contract
+
+## Purpose
+
+This repository is the canonical authoring vault and Quartz source for Kalsa, a
+high-fantasy setting built for Ghostlight Dungeon. The work is to turn the
+teenage seed into a causally dense setting without sanding away its peculiar
+bones.
+
+## Authority Map
+
+- **Owner:** canonical notes under `Kalsa/` own shared setting claims within
+  their stated subject. `workshop/Direction and Constraints.md` owns project
+  doctrine and canon rules.
+- **Inputs:** immutable files under `seed/original/`, the seed manifest, current
+  canonical notes, explicit operator decisions, Ghostlight play requirements,
+  and source-grounded comparison with AetheriaLore.
+- **Outputs:** linked canonical Markdown, index notes, bounded critique records,
+  verified Quartz projections, and reviewed project-memory judgments.
+- **Derived state:** Quartz output, link graphs, word/link/heading diagnostics,
+  benchmark comparisons, queues, pass reports, and `.cc` projections. Derived
+  state may report on canon; it may not decide canon.
+- **Forbidden writers:** seed witnesses, project memory, workshop notes,
+  generated site output, retrieval indexes, and site configuration may not
+  silently create or override lore truth.
+- **Shared path:** human and agent changes use the same source inventory,
+  critique, repair, falsification, verification, and record path described in
+  `workshop/deepening/README.md`.
+- **Cut line:** do not revive timestamp export files as live canonical pages,
+  create a second lore database, invent a public repo Persona, or copy
+  Aetheria-specific site/lore machinery into Kalsa.
+
+## Repository Boundaries
+
+- `Kalsa/` is the publishable canonical content root.
+- `seed/original/` is immutable evidence. Never edit, normalize, rename, or
+  re-encode these files. Verify them with `scripts/lore/verify-seed.ps1`.
+- `seed/manifest.md` owns witness filenames, sizes, hashes, and subject labels.
+- `workshop/` holds doctrine, critique packets, queues, and pass records. It is
+  not lore and must remain outside `Kalsa/`.
+- `.epiphany/project-memory.md` is the human-inspectable project-memory source.
+  Its `.cc` projection is runtime state, not canon.
+- `site/` is a Quartz overlay. `.quartz-build/` and `quartz-site/public/` are
+  generated projections and are never edited directly.
+
+## Canon And Provenance
+
+- A seed claim becomes shared canon only when a canonical owner note adopts it.
+- Distinguish seed evidence, adopted canon, provisional design, contested
+  in-world claims, rumor, and deprecated material. Do not use publication state
+  as a substitute for canon state.
+- Put proposals and unresolved design in `workshop/`. Put genuinely contested
+  setting facts in canonical notes only with clear in-world attribution.
+- Prefer one owner note plus links over repeated explanations. If two notes
+  appear to own the same claim, stop and resolve the boundary before expanding
+  either.
+- Preserve the source's strange specificity. Repair causal gaps; do not replace
+  them with generic medieval-Europe defaults wearing renamed hats.
+
+## Deepening Work
+
+Before editing an institution, region, practice, or cross-cutting system:
+
+1. Create a pass from `workshop/deepening/pass-template.md`.
+2. Inventory seed statements, adopted facts, contradictions, and unknowns.
+3. Name the canonical owner and model its inputs, outputs, dependencies,
+   beneficiaries, costs, failure modes, and neighboring interfaces.
+4. Critique generic defaults, unsupported consensus, missing material support,
+   absent subordinate perspectives, and consequences that stop at the page.
+5. Repair the smallest coherent set of owner notes.
+6. Falsify the result with one hostile or marginal perspective and one
+   historical stress case.
+7. Verify seed integrity, links, publication boundaries, and the Quartz build.
+8. Record the pass in the ledger and promote only durable judgment into project
+   memory.
+
+Passing prose is not enough. A mature institution must explain authority,
+reproduction, material support, doctrine versus practice, distribution of
+benefit and harm, dependencies, historical formation, internal contradiction,
+and consequences for play. Use `workshop/deepening/benchmark.md` as the parity
+standard; do not turn word count into a victory condition.
+
+## Project Memory
+
+- Project memory records durable judgment, operating lessons, adopted
+  decisions, open design pressure, and provenance.
+- Project memory does not store lore facts as an alternate canon, raw
+  transcripts, generated prose, task chatter, or a duplicate roadmap.
+- Update `.epiphany/project-memory.md` first. Regenerate the derived CultCache
+  state with `.epiphany/sync-project-memory.ps1`.
+- Retire stale judgments explicitly instead of leaving contradictory active
+  entries. Canonical decisions must also be visible in the owning Markdown
+  surface.
+
+## Retrieval And Inspection
+
+- Once Kalsa is indexed, use the global VoidBot source search for semantic
+  discovery and then open the returned source notes before editing.
+- Use `rg` for exact filenames, exact claims, links, and repository-wide
+  patterns. Do not build a repo-local semantic index.
+- Read and write Markdown explicitly as UTF-8 in Windows PowerShell.
+
+## Verification
+
+Run from the repository root:
+
+```powershell
+.\scripts\lore\verify-seed.ps1
+.\scripts\lore\check-wikilinks.ps1
+.\scripts\lore\check-publication-boundary.ps1
+.\scripts\lore\measure-depth.ps1
+.\scripts\lore\test-lore-tools.ps1
+```
+
+For a deepening pass, also run the production Quartz build and inspect affected
+rendered pages. Diagnostics observe the setting; they do not award canon.

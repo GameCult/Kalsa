@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian session and cache state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+.trash/
+.obsidian-git-data/
+.smart-connections/
+
+# Local runtimes and build output
+.tools/
+.npm-cache/
+.quartz-build/
+quartz-site/node_modules/
+quartz-site/public/
+quartz-site/*.log
+
+# Runtime-generated agent state; committed typed state remains visible
+.epiphany/artifacts/
+.epiphany/**/*.lock
+.voidbot/birth/
+.voidbot/logs/
+.voidbot/status/
+.voidbot/**/*.lock
+
+# Local environment
+.env
+.env.*
+!.env.example

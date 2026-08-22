@@ -1,0 +1,60 @@
+:root {
+  --kalsa-rule: color-mix(in srgb, var(--secondary) 42%, transparent);
+}
+
+body {
+  background-image:
+    radial-gradient(
+      circle at 18% 0%,
+      color-mix(in srgb, var(--tertiary) 8%, transparent),
+      transparent 32rem
+    ),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--light) 96%, var(--dark) 4%),
+      var(--light) 22rem
+    );
+  background-attachment: fixed;
+}
+
+.page-header {
+  border-bottom: 1px solid var(--kalsa-rule);
+  padding-bottom: 0.75rem;
+}
+
+.page-title a {
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+article h1,
+article h2,
+article h3 {
+  letter-spacing: 0.012em;
+  text-wrap: balance;
+}
+
+article h2 {
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 35%, transparent);
+  padding-bottom: 0.18em;
+}
+
+blockquote {
+  border-inline-start-color: var(--secondary);
+  background: color-mix(in srgb, var(--lightgray) 42%, transparent);
+}
+
+.explorer .folder-title,
+.toc .toc-header {
+  letter-spacing: 0.04em;
+}
+
+footer {
+  border-top: 1px solid var(--kalsa-rule);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body {
+    background-attachment: scroll;
+  }
+}
