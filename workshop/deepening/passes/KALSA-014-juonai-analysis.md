@@ -2,7 +2,7 @@
 pass_id: KALSA-014
 status: complete
 target: Ju'onai examination and analyst administration
-canonical_owner: Kalsa/Polities/Analysis - Ju'onai Hegemony.md
+canonical_owner: Kalsa/Spoilers/Polities/Analysis - Ju'onai Hegemony.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Make analytical governance genuinely capable of large public works and durable c
 
 ## Critique and repair
 
-[[Kalsa/Polities/Analysis - Ju'onai Hegemony|The Ju'onai Hegemony]] now owns geography, historical rule, status ecology, and client relations. [[Kalsa/Institutions/Ju'onai Examiners|Ju'onai Examiners]] owns bounded tests, domain certificates, records, review, and revocation. [[Kalsa/Institutions/Analyst Administration|Analyst Administration]] owns charters, office, taxation, budgets, public-work priorities, petitions, compacts, succession, and remedies.
+[[Kalsa/Spoilers/Polities/Analysis - Ju'onai Hegemony|The Ju'onai Hegemony]] now owns geography, historical rule, status ecology, and client relations. [[Kalsa/Spoilers/Institutions/Ju'onai Examiners|Ju'onai Examiners]] owns bounded tests, domain certificates, records, review, and revocation. [[Kalsa/Spoilers/Institutions/Analyst Administration|Analyst Administration]] owns charters, office, taxation, budgets, public-work priorities, petitions, compacts, succession, and remedies.
 
 ## Falsification
 

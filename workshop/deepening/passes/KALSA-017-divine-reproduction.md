@@ -2,7 +2,7 @@
 pass_id: KALSA-017
 status: complete
 target: divine offices, allocation, mortuary law, and Soiru'i succession
-canonical_owner: Kalsa/Events/The Three Ledgers Schism.md
+canonical_owner: Kalsa/Spoilers/Events/The Three Ledgers Schism.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -20,7 +20,7 @@ Repair the divine cluster's missing careers, support, discipline, audit, removal
 - **Death law** owns death declaration, mortuary custody, post-mortem claims, and mortuary severance, not living contract exit.
 - **Soiru'i sects** own champion and steward formation, shrines, stores, discipline, succession, aid, and organized resistance, not the dead's identity.
 - **Foundations** retain Projection, binding, potential, identity, and release mechanics.
-- [[Kalsa/Events/The Three Ledgers Schism|The Three Ledgers Schism]] alone owns the adopted event facts; each institution keeps only its jurisdictional consequence.
+- [[Kalsa/Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] alone owns the adopted event facts; each institution keeps only its jurisdictional consequence.
 
 ## Falsification and decision
 

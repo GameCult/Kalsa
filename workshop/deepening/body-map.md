@@ -1,17 +1,17 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-22T16:34:57Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-publication
+snapshot_at: 2026-08-22T17:26:42Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-and-kalsa-029-boundaries
 ---
 
 # Kalsa Canonical Body Map
 
-This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022 and publication authority through KALSA-026. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, and vault-level spoiler enclosure through KALSA-029. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
 
 ## Canonical substrate
 
-- **Owner:** `Kalsa/Foundations/` owns world, Ark/Fall, Prometheus, Kaos, Projection/God/thaumavore metaphysics, Gift taxonomy, and language/reckoning inheritance; `Kalsa/Reference/Canon and Provenance.md` owns canon-state vocabulary.
+- **Owner:** `Kalsa/Spoilers/Foundations/` owns world, Ark/Fall, Prometheus, Kaos, Projection/God/thaumavore metaphysics, Gift taxonomy, and language/reckoning inheritance; `Kalsa/Spoilers/Reference/Canon and Provenance.md` owns canon-state vocabulary.
 - **Inputs:** immutable seed witnesses, adopted corrections, adopted event facts, candidate design pressure, and explicit operator decisions.
 - **Outputs:** physical, historical, magical, linguistic, and provenance constraints consumed by polities, places, institutions, events, and dungeons.
 - **Derived/display-only state:** glossaries, timelines, taxonomies, links, and summaries expose the substrate; they do not override the subject owner.
@@ -37,7 +37,7 @@ This is an operational map of the live authoring machine, not lore and not a rep
 
 ### 1. Technical continuity and relic custody
 
-- **Owner:** `Kalsa/Institutions/The Techpriesthoods.md` owns plural training and maintenance lineages; `Kalsa/Institutions/Relic Custody.md` owns named possession, access, operational custody, dependency, claim, appointment, discipline/removal, appeal, and handoff distinctions.
+- **Owner:** `Kalsa/Spoilers/Institutions/The Techpriesthoods.md` owns plural training and maintenance lineages; `Kalsa/Spoilers/Institutions/Relic Custody.md` owns named possession, access, operational custody, dependency, claim, appointment, discipline/removal, appeal, and handoff distinctions.
 - **Inputs:** inherited systems, partial procedures, workers' observations, material support, host permission, hazards, dependents, and competing site/recovery/sacred claims.
 - **Outputs:** scoped competence, maintenance work, stop/restart decisions, records, warnings, trained successors, bounded appointments, support, custody grants, reviews, removals, and handoffs.
 - **Derived/display-only state:** lineage reputation, ordination, condition labels, priority, and custody summaries report evidence; none is title or universal competence.
@@ -233,7 +233,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Event-owner layer
 
-- **Owner:** each `status: adopted-history` note in `Kalsa/Events/` alone owns its named factual sequence and outcome; `Kalsa/Events/index.md` owns navigation and the layer's explanatory boundary.
+- **Owner:** each `status: adopted-history` note in `Kalsa/Spoilers/Events/` alone owns its named factual sequence and outcome; `Kalsa/Spoilers/Events/index.md` owns navigation and the layer's explanatory boundary.
 - **Inputs:** reconciled prior canon, explicit adoption through `adopted_in`, source witnesses where available, and bounded unknowns.
 - **Outputs:** linkable historical fact consumed by polity, institution, place, and dungeon owners as pressure and consequence.
 - **Derived/display-only state:** index summaries, timelines, translated event names, and consequence retellings are projections; they cannot change sequence or outcome.
@@ -245,26 +245,27 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication authority — KALSA-026
+### Publication and vault-navigation authority — KALSA-026 and KALSA-029
 
-- **Owner:** complete subject notes under `Kalsa/` own open author canon; situated notes under `Kalsa/Public/` own reader presentation; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
+- **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own reader presentation; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
 - **Outputs:** an open inspectable author vault, a high-fantasy reader surface, and future consumer-bounded Ghostlight packets or affordances.
 - **Derived/display-only state:** rendered Quartz pages, search, sitemap, RSS, backlinks, and future compiled Ghostlight packets lower owned sources without becoming canon or widening knowledge.
-- **Forbidden writers:** public prose cannot rewrite author truth; author-vault proximity cannot grant reader or character knowledge; Quartz and Ghostlight projections cannot become lore owners; resolver outcomes cannot grant causal understanding automatically.
-- **Shared paths:** author canon → audience/reveal review → situated `Kalsa/Public/` source or future Ghostlight compiler input → bounded consumer → receipt → explicit reveal or canonization in the owning author note.
-- **Deletion/demotion line:** membership in `Kalsa/` and the old `contentDir Kalsa` binding no longer decide publication eligibility; unrestricted author-vault retrieval is not a character-context path.
-- **Verification layer:** complete-vault links and seed hashes; public-only link containment; launcher/workflow binding to `Kalsa/Public`; sitemap/search/RSS/explorer leakage negatives; production build and affected-page inspection; future Ghostlight packet-leakage review in its owning repository.
+- **Forbidden writers:** public prose cannot rewrite author truth; the root gate cannot state lore; author-vault proximity cannot grant reader or character knowledge; Quartz and Ghostlight projections cannot become lore owners; resolver outcomes cannot grant causal understanding automatically.
+- **Shared paths:** `Kalsa/index.md` → `Public/index.md` by default or explicit `Spoilers/index.md` opt-in; author canon → audience/reveal review → situated `Kalsa/Public/` source or future Ghostlight compiler input → bounded consumer → receipt → explicit reveal or canonization in the owning author note.
+- **Deletion/demotion line:** no author/GM directory remains at the vault root; membership in `Kalsa/` and the old `contentDir Kalsa` binding no longer decide publication eligibility; unrestricted author-vault retrieval is not a character-context path.
+- **Verification layer:** vault-root allowlist; complete-vault links and seed hashes; public-only link containment; stale author-path negatives; launcher/workflow binding to `Kalsa/Public`; sitemap/search/RSS/explorer leakage negatives; production build and affected-page inspection; future Ghostlight packet-leakage review in its owning repository.
 
 | Surface | Owner and role | Allowed flow | Forbidden authority |
 | --- | --- | --- | --- |
 | `seed/original/` + `seed/manifest.md` | Immutable witnesses; manifest owns filenames, sizes, hashes, and subject labels. | Read into source inventories; verify with `scripts/lore/verify-seed.ps1`. | Never edit, normalize, rename, or let witness prose become canon without adoption. |
-| `Kalsa/` | Complete open author vault; subject notes own setting truth, while reference/index notes own navigation and provenance vocabulary. | Receives reviewed repair; feeds Obsidian, author inspection, bounded public authoring, and future reviewed compiler inputs. | Vault membership does not imply reader or character knowledge; workshop, projections, generated output, and indexes cannot override subject owners. |
+| `Kalsa/` + `Kalsa/index.md` | Obsidian vault container and navigation-only consent gate. | Leads casual explorers to `Public/` by default and deliberate spoiler readers to `Spoilers/`. | Owns no setting claims and cannot place author/GM domains beside the consent boundary. |
 | `Kalsa/Public/` | Sole Quartz input and owner of situated reader presentation, not a second author canon. | Selectively expresses lived high-fantasy accounts from author truth and links only within the public surface. | Cannot reveal by proximity, rewrite hidden mechanisms, become a duplicate encyclopedia, or link readers into author/GM material. |
-| `Kalsa/Events/` | Adopted-history owner layer; each event note owns one factual sequence, while the index owns navigation only. | Supplies linked historical pressure to subject owners; receives factual correction before consequence notes. | Cannot absorb general procedure or metaphysics; consumers cannot fork its facts. |
-| `Kalsa/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
-| `Kalsa/Dungeons/The Ashen Intake.md` | Canonical direct-entry dungeon owner for its threshold, route, clock, hazards, objectives, collisions, and local outcomes. | Consumes settlement admission and compacts; returns recovery/change evidence to settlement and custody owners. | Cannot grant title, universalize salvage law, or decide Ghostlight runtime truth. |
-| `.obsidian/` | Human authoring configuration for the repository vault. | Displays and edits `Kalsa/` and noncanonical project surfaces according to the operator's workspace. | Editor state, graph state, and plugins do not grant canon or publication authority. |
+| `Kalsa/Spoilers/` | Complete open author and GM surface; subject notes retain truth authority and the folder itself owns none. | Receives reviewed canonical repair; feeds author inspection, reveal review, and future compiler inputs. | Cannot escape into the vault root through duplicate notes, junctions, symlinks, or compatibility copies. |
+| `Kalsa/Spoilers/Events/` | Adopted-history owner layer; each event note owns one factual sequence, while the index owns navigation only. | Supplies linked historical pressure to subject owners; receives factual correction before consequence notes. | Cannot absorb general procedure or metaphysics; consumers cannot fork its facts. |
+| `Kalsa/Spoilers/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
+| `Kalsa/Spoilers/Dungeons/The Ashen Intake.md` | Canonical direct-entry dungeon owner for its threshold, route, clock, hazards, objectives, collisions, and local outcomes. | Consumes settlement admission and compacts; returns recovery/change evidence to settlement and custody owners. | Cannot grant title, universalize salvage law, or decide Ghostlight runtime truth. |
+| `Kalsa/.obsidian/` | Stable configuration for the sole canonical Obsidian vault root; workspace, graph, recents, and cache remain ignored derived state. | Opens `Kalsa/` with automatic link maintenance and the standard authoring tools while current neutral session state points at `index.md`. | Session state cannot be shared as authority or resume inside `Spoilers/` before consent; editor state and plugins grant no canon authority. |
 | `workshop/Direction and Constraints.md` | Project charter and governing editorial doctrine. | Constrains selection, provenance, depth, and public/private decisions. | Does not contain setting facts merely because a design direction is persuasive. |
 | `workshop/deepening/` | Critique/repair contract, benchmark, queue, pass evidence, ledger, and this map. | Reads seed/canon; records reasoning and verification; proposes bounded owner repair. | Never published as lore and never used as a parallel canon. |
 | `.epiphany/project-memory.md` | Human-inspectable durable judgment and open design pressure. | Receives only lessons that should steer future passes. | Cannot store raw lore, task chatter, or decide canon. |
@@ -272,7 +273,7 @@ These overlays record changed authority and shared paths. They are audit views o
 | `site/` | Kalsa-specific Quartz presentation overlay. | Combines only `Kalsa/Public/` with the shared `GameCult-Quartz` runtime. | Presentation cannot decide canon, admit the rest of `Kalsa/`, or widen the reader surface. |
 | `scripts/quartz/quartz.ps1` + deploy workflow | Build/deployment entrypoints; bind `contentDir` to `Kalsa/Public`, overlay to `site`, and output to `quartz-site/public`. | Replace the local output before each build and produce the same situated-reader projection locally and in GitHub Pages workflow. | Build configuration cannot rewrite source, retain stale author pages, fall back to complete `Kalsa/`, or broaden publication eligibility silently. |
 | `.quartz-build/` + `quartz-site/public/` | Generated build state and reader projection. | Replaced from `Kalsa/Public/`, then inspected for navigation, search, feed, and rendered leakage. | Never edit directly; old pages cannot survive a narrower input; rendered success is evidence, not canon or reader-source authority. |
-| `scripts/lore/` | Read-only integrity, link, boundary, generated-route, and structural diagnostics plus tool tests. | Observe seed, canon, source/output projection boundaries, and depth pressure. | Metrics and passing checks cannot award depth or setting truth. |
+| `scripts/lore/` | Read-only integrity, vault-layout, link, publication-boundary, generated-route, and structural diagnostics plus tool tests. | Observe seed, canon, vault enclosure, source/output projection boundaries, and depth pressure. | Metrics and passing checks cannot award depth or setting truth. |
 | Ghostlight runtime | Future owner of bounded character-context and adjudicator projections; implementation remains external to Kalsa. | Consumes reviewed author/public inputs plus character and campaign state, then returns receipts for explicit reveal or canon review. | Cannot use unrestricted author-vault retrieval as character knowledge, make resolver output author truth, or let Kalsa workshop prose impersonate its runtime contract. |
 
 ## Deepening loop and shared commit path
@@ -292,5 +293,5 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
 ## Remaining open surfaces at this snapshot
 
 - KALSA-007 through KALSA-022 are complete. The final bounded Soul review found parity defensible for the adopted institutional set; this closes the current depth cycle without declaring unfinished branches complete.
-- KALSA-026 establishes open author canon versus situated reader presentation. Ghostlight compiler schemas, campaign-package ownership, and deployment/domain authority remain unresolved in their owning projects.
+- KALSA-026 establishes open author canon versus situated reader presentation; KALSA-029 encloses the author/GM tree behind one explicit vault section. Ghostlight compiler schemas, campaign-package ownership, and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

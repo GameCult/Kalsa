@@ -2,7 +2,7 @@
 pass_id: KALSA-008
 status: complete
 target: god-cult covenants, potential economy, and death law
-canonical_owner: Kalsa/Institutions
+canonical_owner: Kalsa/Spoilers/Institutions
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -16,7 +16,7 @@ Make worship, finite potential, welfare, binding, death, and succession produce 
 ## Source inventory
 
 - `seed/original/page-2026-08-20-10-39-03.md` and `page-2026-08-20-10-39-12.md` establish God Beasts, worship, binding, potential, and magical predation.
-- [[Kalsa/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] owns the metaphysics.
+- [[Kalsa/Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] owns the metaphysics.
 - The seed distinguishes relationships of worship and submission but does not supply a universal church or single divine law.
 
 ## Authority map before repair
@@ -29,7 +29,7 @@ Make worship, finite potential, welfare, binding, death, and succession produce 
 
 ## Critique and repair
 
-[[Kalsa/Institutions/God-Cult Covenants|God-Cult Covenants]] distinguishes voluntary covenant, inherited attachment, and coerced submission. [[Kalsa/Institutions/The Potential Economy|The Potential Economy]] owns estimation, allocation, rationing, and leakage response. [[Kalsa/Institutions/Death and Binding Law|Death and Binding Law]] owns testimony, inventories, severance procedure, mortuary custody, and disputed succession.
+[[Kalsa/Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]] distinguishes voluntary covenant, inherited attachment, and coerced submission. [[Kalsa/Spoilers/Institutions/The Potential Economy|The Potential Economy]] owns estimation, allocation, rationing, and leakage response. [[Kalsa/Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] owns testimony, inventories, severance procedure, mortuary custody, and disputed succession.
 
 ## Falsification
 

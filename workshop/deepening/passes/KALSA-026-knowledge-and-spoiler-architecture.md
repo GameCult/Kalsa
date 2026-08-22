@@ -27,9 +27,9 @@ Preserve Kalsa's intended experience of reconstructing a genuine high-fantasy wo
 
 ### Current author canon
 
-- `Kalsa/Foundations/` owns deep origin, magic, and divine mechanisms.
+- `Kalsa/Spoilers/Foundations/` owns deep origin, magic, and divine mechanisms.
 - Institution and polity notes mix author truth with common, learned, restricted, and situated claims.
-- `Kalsa/Dungeons/The Ashen Intake.md` is a GM dossier with routes, clocks, answers, actors, and outcomes even though its in-world evidence discipline is sound.
+- `Kalsa/Spoilers/Dungeons/The Ashen Intake.md` is a GM dossier with routes, clocks, answers, actors, and outcomes even though its in-world evidence discipline is sound.
 
 ### Contradiction
 
@@ -58,7 +58,7 @@ The source is intentionally open, but the default experience must not expose it.
 - `workshop/Direction and Constraints.md` owns the reveal, open-source, compilation, play-to-canon, and influence doctrine.
 - `workshop/Knowledge and Spoiler Architecture.md` owns the consumer and knowledge-layer map.
 - `Kalsa/Public/` becomes the only Quartz input and contains only common or situated reader material.
-- The rest of `Kalsa/` remains the complete open author vault; its entrance warns before linking deeper.
+- The author material remained open and warned; KALSA-029 later enclosed it physically under `Kalsa/Spoilers/` after casual vault exploration showed that a warning inside the old root index was too late.
 - The divine cosmology owner gains explicit limits on divine knowledge and performed certainty.
 - Ghostlight compiler implementation remains external and honestly blocked rather than simulated with metadata that no consumer reads.
 

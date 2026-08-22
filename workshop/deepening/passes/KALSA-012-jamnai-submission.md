@@ -2,7 +2,7 @@
 pass_id: KALSA-012
 status: complete
 target: Jamnai submission hierarchy and Soiru'i sects
-canonical_owner: Kalsa/Polities/Sorcery - Jamnai and the Terjamna.md
+canonical_owner: Kalsa/Spoilers/Polities/Sorcery - Jamnai and the Terjamna.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Turn the seed's conquest hierarchy into a polity that can run a geothermal arcol
 
 ## Critique and repair
 
-[[Kalsa/Polities/Sorcery - Jamnai and the Terjamna|Jamnai and the Terjamna]] now owns geography, history, material life, and imperial reach. [[Kalsa/Institutions/Jamnai Submission Hierarchy|Jamnai Submission Hierarchy]] distinguishes magical defeat, civic oath, protected dependency, and tribute while modeling office, dues, protection, challenge, succession, appeal, and flight. [[Kalsa/Institutions/Soiru'i Sects|Soiru'i Sects]] owns diverse rites, memory, welfare, sanctuary, resistance, and release practice without proving the dead's identity.
+[[Kalsa/Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai and the Terjamna]] now owns geography, history, material life, and imperial reach. [[Kalsa/Spoilers/Institutions/Jamnai Submission Hierarchy|Jamnai Submission Hierarchy]] distinguishes magical defeat, civic oath, protected dependency, and tribute while modeling office, dues, protection, challenge, succession, appeal, and flight. [[Kalsa/Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] owns diverse rites, memory, welfare, sanctuary, resistance, and release practice without proving the dead's identity.
 
 ## Falsification
 

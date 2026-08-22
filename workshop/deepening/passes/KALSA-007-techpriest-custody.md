@@ -2,7 +2,7 @@
 pass_id: KALSA-007
 status: complete
 target: techpriesthoods and relic custody
-canonical_owner: Kalsa/Institutions
+canonical_owner: Kalsa/Spoilers/Institutions
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -16,7 +16,7 @@ Turn seed references to priestly maintenance into institutions that can keep inh
 ## Source inventory
 
 - `seed/original/page-2026-08-20-10-39-12.md` establishes surviving technical machinery, incomplete knowledge, priesthoods, and Promethean language inheritance.
-- [[Kalsa/Foundations/Ark and Fall|Ark and Fall]], [[Kalsa/Foundations/Prometheus|Prometheus]], and [[Kalsa/Foundations/Language and Reckoning|Language and Reckoning]] own the inherited substrate.
+- [[Kalsa/Spoilers/Foundations/Ark and Fall|Ark and Fall]], [[Kalsa/Spoilers/Foundations/Prometheus|Prometheus]], and [[Kalsa/Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] own the inherited substrate.
 - The seed does not establish a single order, central hierarchy, universal tribunal, or continent-wide law.
 
 ## Authority map before repair
@@ -29,7 +29,7 @@ Turn seed references to priestly maintenance into institutions that can keep inh
 
 ## Critique and repair
 
-The generic guild default hid who feeds specialists, who may refuse them, and what happens when a competent lineage splits. [[Kalsa/Institutions/The Techpriesthoods|The Techpriesthoods]] now owns plural training and maintenance lineages; [[Kalsa/Institutions/Relic Custody|Relic Custody]] owns possession, access, configuration, and handoff distinctions. Site authority, recovery labour, sacred claims, community dependency, title, and operational custody remain separable.
+The generic guild default hid who feeds specialists, who may refuse them, and what happens when a competent lineage splits. [[Kalsa/Spoilers/Institutions/The Techpriesthoods|The Techpriesthoods]] now owns plural training and maintenance lineages; [[Kalsa/Spoilers/Institutions/Relic Custody|Relic Custody]] owns possession, access, configuration, and handoff distinctions. Site authority, recovery labour, sacred claims, community dependency, title, and operational custody remain separable.
 
 ## Falsification
 

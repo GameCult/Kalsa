@@ -2,7 +2,7 @@
 pass_id: KALSA-016
 status: complete
 target: Selza'a territories, Luck harm, risk, and restitution
-canonical_owner: Kalsa/Polities/Luck - Selza'a.md
+canonical_owner: Kalsa/Spoilers/Polities/Luck - Selza'a.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Make the isolated Luck society capable of distributed government, shared infrast
 
 ## Critique and repair
 
-[[Kalsa/Polities/Luck - Selza'a|Luck — Selza'a]] now owns isolation, terrain, distributed family government, mutual defense, and the story/canon boundary. [[Kalsa/Institutions/Selza'a Family Territories|Selza'a Family Territories]] owns bounded land and use, membership, adoption, marriage, exit, succession, shared works, compacts, and temporary federation. [[Kalsa/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]] owns material evidence, emergency repair, risk pools, restraint, restitution, and correction without metaphysical culprit-finding.
+[[Kalsa/Spoilers/Polities/Luck - Selza'a|Luck — Selza'a]] now owns isolation, terrain, distributed family government, mutual defense, and the story/canon boundary. [[Kalsa/Spoilers/Institutions/Selza'a Family Territories|Selza'a Family Territories]] owns bounded land and use, membership, adoption, marriage, exit, succession, shared works, compacts, and temporary federation. [[Kalsa/Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]] owns material evidence, emergency repair, risk pools, restraint, restitution, and correction without metaphysical culprit-finding.
 
 ## Falsification
 

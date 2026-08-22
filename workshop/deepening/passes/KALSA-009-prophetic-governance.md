@@ -2,7 +2,7 @@
 pass_id: KALSA-009
 status: complete
 target: divided-city prophecy, houses, and forecast evidence
-canonical_owner: Kalsa/Polities/Prophecy - The Divided City.md
+canonical_owner: Kalsa/Spoilers/Polities/Prophecy - The Divided City.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -17,7 +17,7 @@ Make a divided prophetic city governable in ordinary life while preventing forec
 
 - `seed/original/page-2026-08-20-10-39-58.md` establishes noble prophetic houses, the divided Crown City, occupying powers, and the Sunwall.
 - `page-2026-08-20-10-39-32.md` establishes Luck's indirect observability.
-- [[Kalsa/Foundations/Kaos|Kaos]] and [[Kalsa/Foundations/Magic Styles|Magic Styles]] retain causal and evidentiary mechanics.
+- [[Kalsa/Spoilers/Foundations/Kaos|Kaos]] and [[Kalsa/Spoilers/Foundations/Magic Styles|Magic Styles]] retain causal and evidentiary mechanics.
 
 ## Authority map before repair
 
@@ -29,7 +29,7 @@ Make a divided prophetic city governable in ordinary life while preventing forec
 
 ## Critique and repair
 
-[[Kalsa/Polities/Prophecy - The Divided City|The Divided City]] now separates civic continuity, imperial claims, and Sunwall operation. [[Kalsa/Institutions/Prophetic Houses|Prophetic Houses]] owns estates, training, lineage records, and contracted forecasts without owning members or futures. [[Kalsa/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] owns disclosure, admissibility, judgment, remedy, and appeal.
+[[Kalsa/Spoilers/Polities/Prophecy - The Divided City|The Divided City]] now separates civic continuity, imperial claims, and Sunwall operation. [[Kalsa/Spoilers/Institutions/Prophetic Houses|Prophetic Houses]] owns estates, training, lineage records, and contracted forecasts without owning members or futures. [[Kalsa/Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] owns disclosure, admissibility, judgment, remedy, and appeal.
 
 ## Falsification
 

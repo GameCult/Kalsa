@@ -4,17 +4,23 @@ Kalsa is a high-fantasy setting for Ghostlight Dungeon: gods, prophets, shamans,
 
 This repository is the complete open author vault. It contains setting-level and dungeon spoilers in plain text. They are not secret, but they are not the intended first encounter either. The public reader surface is deliberately smaller so that people can choose when to inspect the machine.
 
+Open `Kalsa/`—not the repository root—as the Obsidian vault. Its file explorer
+shows the reader section and one explicitly named spoiler section.
+
 ## Start here
 
 - Readers and players: begin with [`Kalsa/Public/index.md`](Kalsa/Public/index.md). The [Quartz site](https://gamecult.github.io/Kalsa/) publishes only this spoiler-safe surface.
-- Deliberate spoiler readers and writers: continue through [`Kalsa/index.md`](Kalsa/index.md), which warns before opening author truth and GM material.
-- Writers: read [`workshop/Direction and Constraints.md`](workshop/Direction%20and%20Constraints.md), then the canon/provenance guide under `Kalsa/Reference/`.
+- Vault explorers: [`Kalsa/index.md`](Kalsa/index.md) is a navigation-only gate between the reader path and the warned spoiler section.
+- Deliberate spoiler readers and writers: continue through [`Kalsa/Spoilers/index.md`](Kalsa/Spoilers/index.md).
+- Writers: read [`workshop/Direction and Constraints.md`](workshop/Direction%20and%20Constraints.md), then [`Kalsa/Spoilers/Reference/Canon and Provenance.md`](Kalsa/Spoilers/Reference/Canon%20and%20Provenance.md).
 - Maintainers: the iterative repair system lives under `workshop/deepening/`; site-specific Quartz configuration lives under `site/`.
 
 ## Authority map
 
 - `Kalsa/Public/`: spoiler-safe common knowledge and situated sources; the only Quartz content root
-- `Kalsa/` outside `Public/`: open author canon and GM material; repository/Obsidian access only
+- `Kalsa/Spoilers/`: complete open author canon and GM material; deliberately entered repository/Obsidian section
+- `Kalsa/index.md`: navigation only; owns no setting claims
+- `Kalsa/.obsidian/`: stable configuration for the canonical vault; session and cache state remain local and ignored
 - `seed/original/`: immutable source witnesses
 - `seed/manifest.md`: source hashes and witness map
 - `workshop/`: critique, proposals, contradictions, and repair evidence; never automatic canon

@@ -43,6 +43,8 @@ Mystery therefore depends on **epistemic distance**, not an exposition embargo. 
 The deep setting is not proprietary secret material. The repository remains open and determined readers may inspect the complete author machinery. The required boundary is informed friction:
 
 - the default Quartz path contains only spoiler-safe, situated material;
+- the Obsidian vault root presents a reader-first index plus one explicitly
+  named `Spoilers/` section rather than exposing author domains beside Public;
 - repository and author-vault entrances warn before linking into author truth or GM dossiers;
 - deep material is labelled as deliberate opt-in reading rather than hidden behind false access control;
 - search, sitemap, RSS, backlinks, and navigation on the reader site must not surface author-only material accidentally;

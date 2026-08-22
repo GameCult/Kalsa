@@ -7,7 +7,7 @@ $ErrorActionPreference = "Stop"
 
 $repoRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 if (-not $ContentRoot) {
-    $ContentRoot = Join-Path $repoRoot "Kalsa"
+    $ContentRoot = Join-Path $repoRoot "Kalsa\Spoilers"
 }
 
 function Measure-Branch {

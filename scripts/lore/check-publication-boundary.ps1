@@ -26,7 +26,7 @@ if (-not $contentFull.StartsWith($repoFull + [System.IO.Path]::DirectorySeparato
 }
 
 $errors = @()
-$reserved = @('seed', 'workshop', '.epiphany', '.voidbot', 'site', '.github', 'scripts', 'quartz-site', '.quartz-build')
+$reserved = @('seed', 'workshop', 'spoilers', '.epiphany', '.voidbot', 'site', '.github', 'scripts', 'quartz-site', '.quartz-build')
 foreach ($directory in Get-ChildItem -LiteralPath $contentFull -Recurse -Directory -Force) {
     if ($directory.Name.ToLowerInvariant() -in $reserved) {
         $errors += "reserved project directory nested in publication root: $($directory.FullName)"

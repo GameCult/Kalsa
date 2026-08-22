@@ -2,7 +2,7 @@
 pass_id: KALSA-013
 status: complete
 target: High Lojban, descendant speech, measures, and machine formulae
-canonical_owner: Kalsa/Foundations/Language and Reckoning.md
+canonical_owner: Kalsa/Spoilers/Foundations/Language and Reckoning.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Implement the motivating discussion's clearest setting rule: Prometheus imposed 
 
 ## Critique and repair
 
-[[Kalsa/Foundations/Language and Reckoning|Language and Reckoning]] now owns the historical substrate and unresolved language map. [[Kalsa/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] owns teaching, certification, translation, notice, legal and treaty use, access, and contest. [[Kalsa/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] owns technical notation, conversion, machine-recognized sequences, scoped certification, failure, and appeal.
+[[Kalsa/Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] now owns the historical substrate and unresolved language map. [[Kalsa/Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] owns teaching, certification, translation, notice, legal and treaty use, access, and contest. [[Kalsa/Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] owns technical notation, conversion, machine-recognized sequences, scoped certification, failure, and appeal.
 
 ## Falsification
 

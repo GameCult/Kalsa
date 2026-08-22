@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-22T16:30:54Z
+snapshot_at: 2026-08-22T17:26:42Z
 ---
 
 # Kalsa Project Memory
@@ -24,7 +24,7 @@ database and does not grant canon status to any setting claim.
 - `memory-event-owner` — Each adopted named history has one factual event owner. Institution, polity, place, and dungeon notes consume it through links and retain only their current evidence, procedures, and consequences.
 - `memory-parity-scope` — Depth parity applies to the adopted high-impact institutional set and is judged by causal density, not bulk. Candidates and unresolved or preservation stubs remain visibly excluded rather than being inflated into false completeness.
 - `memory-play-proof` — Abstract institutional machinery is not enough for Ghostlight use. At least one concrete threshold, route, clock, claimant collision, and consequence surface must prove that the setting can be entered and played.
-- `memory-open-spoiler-friction` — Kalsa's author vault remains open and inspectable. Default delivery is spoiler-safe, fantasy-first, and physically separated under `Kalsa/Public/`; warnings and deliberate repository navigation provide opt-in friction rather than pretending the material is secret.
+- `memory-open-spoiler-friction` — Kalsa's author vault remains open and inspectable. `Kalsa/index.md` is a reader-first consent gate, `Kalsa/Public/` owns the fantasy-first reader path, and all author/GM material is physically enclosed under `Kalsa/Spoilers/`; warnings and deliberate navigation provide opt-in friction rather than pretending the material is secret.
 - `memory-epistemic-split` — Author truth, reader lore, character knowledge, and adjudicator affordances are different projections with different owners. Proximity in the vault does not grant a reader or character access.
 - `memory-divine-uncertainty` — Gods are powerful, situated witnesses rather than authorial oracles. Divine confidence, memory, doctrine, and testimony remain evidence shaped by binding, rivalry, self-conception, and blind spots.
 - `memory-play-canon` — Persistent play creates receipts and canon candidates. Runtime outcomes become shared setting canon only when an owning canonical note explicitly adopts them.

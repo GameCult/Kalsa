@@ -2,7 +2,7 @@
 pass_id: KALSA-020
 status: complete
 target: Santabi'u Silt Appeal and Ash-Valve Refusal provenance
-canonical_owner: Kalsa/Events
+canonical_owner: Kalsa/Spoilers/Events
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -15,9 +15,9 @@ Stop named adopted events from forking across polity and institution notes or ma
 
 ## Authority map and repair
 
-- [[Kalsa/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] alone owns the headworks model, excluded laterals, keeper records, appeal, remedy, and unrepaired loss.
+- [[Kalsa/Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] alone owns the headworks model, excluded laterals, keeper records, appeal, remedy, and unrepaired loss.
 - The Ju'onai polity, examiners, and administration retain only polity-, certification-, and administrative consequences.
-- [[Kalsa/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the diversion order, steward stop, detention, sect aid, custody record, appeal, inspection, and aftermath.
+- [[Kalsa/Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the diversion order, steward stop, detention, sect aid, custody record, appeal, inspection, and aftermath.
 - The Jamnai polity, hierarchy, and Soiru'i sects retain only polity-, civil-, and sect-specific consequences.
 - Event notes cannot absorb the procedures, metaphysics, or authority of institutions that acted within them.
 

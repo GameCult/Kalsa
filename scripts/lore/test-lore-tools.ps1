@@ -45,6 +45,44 @@ try {
     }
     Remove-Item -LiteralPath $staleOutput -Force
 
+    $vault = Join-Path $fixtureFull "KalsaVault"
+    $vaultPublic = Join-Path $vault "Public"
+    $vaultSpoilers = Join-Path $vault "Spoilers"
+    New-Item -ItemType Directory -Path $vaultPublic, $vaultSpoilers -Force | Out-Null
+    Set-Content -LiteralPath (Join-Path $vault "index.md") -Encoding utf8 -Value "# Vault`n`n[[Public/index|Readers]]`n`n[[Spoilers/index|Spoilers]]"
+    Set-Content -LiteralPath (Join-Path $vaultPublic "index.md") -Encoding utf8 -Value "# Readers"
+    Set-Content -LiteralPath (Join-Path $vaultSpoilers "index.md") -Encoding utf8 -Value "# Spoilers"
+    & (Join-Path $PSScriptRoot "check-vault-layout.ps1") -VaultRoot $vault
+
+    $exposed = Join-Path $vault "Foundations"
+    New-Item -ItemType Directory -Path $exposed | Out-Null
+    Set-Content -LiteralPath (Join-Path $exposed "Hidden.md") -Encoding utf8 -Value "# Hidden"
+    $caughtExposedDirectory = $false
+    try {
+        & (Join-Path $PSScriptRoot "check-vault-layout.ps1") -VaultRoot $vault | Out-Null
+    }
+    catch {
+        $caughtExposedDirectory = $true
+    }
+    if (-not $caughtExposedDirectory) {
+        throw "Vault-layout checker failed to reject an exposed author directory"
+    }
+    Remove-Item -LiteralPath $exposed -Recurse -Force
+
+    $vaultObsidian = Join-Path $vault ".obsidian"
+    New-Item -ItemType Directory -Path $vaultObsidian | Out-Null
+    Set-Content -LiteralPath (Join-Path $vaultObsidian "workspace.json") -Encoding utf8 -Value '{"main":{"file":"Spoilers/Foundations/Hidden.md"}}'
+    $caughtSpoilerSession = $false
+    try {
+        & (Join-Path $PSScriptRoot "check-vault-layout.ps1") -VaultRoot $vault | Out-Null
+    }
+    catch {
+        $caughtSpoilerSession = $true
+    }
+    if (-not $caughtSpoilerSession) {
+        throw "Vault-layout checker failed to reject spoiler-bound Obsidian session state"
+    }
+
     $broken = Join-Path $content "Broken.md"
     Set-Content -LiteralPath $broken -Encoding utf8 -Value "# Broken`n`nSee [[No Such Note]]."
     $caughtBrokenLink = $false
@@ -89,7 +127,7 @@ try {
     }
     Remove-Item -LiteralPath $brokenEscape -Force
 
-    $forbidden = Join-Path $content "workshop"
+    $forbidden = Join-Path $content "Spoilers"
     New-Item -ItemType Directory -Path $forbidden | Out-Null
     $caughtBoundary = $false
     try {
@@ -99,10 +137,10 @@ try {
         $caughtBoundary = $true
     }
     if (-not $caughtBoundary) {
-        throw "Publication checker failed to reject a nested workshop directory"
+        throw "Publication checker failed to reject a nested spoiler directory"
     }
 
-    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, escaped-link, stale-output, and publication-boundary negative checks."
+    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, escaped-link, stale-output, exposed-vault-directory, spoiler-session, and publication-boundary negative checks."
 }
 finally {
     $resolvedFixture = [System.IO.Path]::GetFullPath($fixtureFull)

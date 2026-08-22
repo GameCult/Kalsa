@@ -9,9 +9,10 @@ bones.
 
 ## Authority Map
 
-- **Owner:** canonical notes under `Kalsa/` own shared setting claims within
-  their stated subject. `workshop/Direction and Constraints.md` owns project
-  doctrine and canon rules.
+- **Owner:** subject notes under `Kalsa/Spoilers/` own shared setting claims
+  within their stated subject. `Kalsa/Public/` owns situated presentation, and
+  `Kalsa/index.md` owns navigation only. `workshop/Direction and Constraints.md`
+  owns project doctrine and canon rules.
 - **Inputs:** immutable files under `seed/original/`, the seed manifest, current
   canonical notes, explicit operator decisions, Ghostlight play requirements,
   and source-grounded comparison with AetheriaLore.
@@ -27,15 +28,21 @@ bones.
 - **Shared path:** human and agent changes use the same source inventory,
   critique, repair, falsification, verification, and record path described in
   `workshop/deepening/README.md`.
-- **Cut line:** do not bind Quartz directly to the complete author vault, revive timestamp export files as live canonical pages,
+- **Cut line:** do not place author or GM material outside `Kalsa/Spoilers/`,
+  bind Quartz directly to the complete author vault, revive timestamp export files as live canonical pages,
   create a second lore database, invent a public repo Persona, or copy
   Aetheria-specific site/lore machinery into Kalsa.
 
 ## Repository Boundaries
 
-- `Kalsa/` is the complete canonical authoring vault and contains opt-in spoilers.
+- `Kalsa/` is the sole canonical Obsidian vault root. Its `index.md` is a reader-first,
+  navigation-only consent gate.
 - `Kalsa/Public/` is the only publishable Quartz content root. Its notes own
   situated presentation, not the hidden facts they omit or reinterpret.
+- `Kalsa/Spoilers/` is the complete canonical author and GM surface. The folder
+  is a consent boundary, not a lore owner; its subject notes retain authority.
+- `Kalsa/.obsidian/` owns stable vault configuration. Workspace, graph, and
+  cache files are ignored derived state and must not resume inside `Spoilers/`.
 - `seed/original/` is immutable evidence. Never edit, normalize, rename, or
   re-encode these files. Verify them with `scripts/lore/verify-seed.ps1`.
 - `seed/manifest.md` owns witness filenames, sizes, hashes, and subject labels.
@@ -61,6 +68,8 @@ bones.
   them with generic medieval-Europe defaults wearing renamed hats.
 - Open source does not mean default omniscience. Public navigation, search,
   sitemap, RSS, and backlinks must not expose author-only or GM material.
+- Vault openness does not excuse root-level exposure. Author and GM notes remain
+  physically inside `Kalsa/Spoilers/` even though determined readers may enter.
 - Character knowledge is a projection from bounded evidence. The world compiler
   and resolver may consume hidden mechanics; Persona agents may not receive them
   through unrestricted vault retrieval.
@@ -114,6 +123,7 @@ Run from the repository root:
 
 ```powershell
 .\scripts\lore\verify-seed.ps1
+.\scripts\lore\check-vault-layout.ps1
 .\scripts\lore\check-wikilinks.ps1
 .\scripts\lore\check-publication-boundary.ps1
 .\scripts\lore\measure-depth.ps1

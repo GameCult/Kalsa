@@ -2,7 +2,7 @@
 pass_id: KALSA-019
 status: complete
 target: relic custodian lifecycle and Ghostlight launch dungeon
-canonical_owner: Kalsa/Dungeons/The Ashen Intake.md
+canonical_owner: Kalsa/Spoilers/Dungeons/The Ashen Intake.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -16,8 +16,8 @@ Repair custodian formation and succession while proving the institutional machin
 ## Authority map and repair
 
 - **Relic Custody** owns formation evidence, bounded appointment, support, discipline and removal, handoff, appeal, and return of emergency custody at a named configuration.
-- [[Kalsa/Places/Low Sere|Low Sere]] owns settlement life, heat and water dependency, present actors, resource burdens, and settlement-side admission.
-- [[Kalsa/Dungeons/The Ashen Intake|The Ashen Intake]] owns its threshold, controller, route, active clock, hazards, recoverable objectives, claimant collision, and outcome matrix.
+- [[Kalsa/Spoilers/Places/Low Sere|Low Sere]] owns settlement life, heat and water dependency, present actors, resource burdens, and settlement-side admission.
+- [[Kalsa/Spoilers/Dungeons/The Ashen Intake|The Ashen Intake]] owns its threshold, controller, route, active clock, hazards, recoverable objectives, claimant collision, and outcome matrix.
 - Techpriests retain training and operational competence; settlement dependence does not create technical competence; successful descent does not create unburdened salvage.
 
 ## Falsification and decision

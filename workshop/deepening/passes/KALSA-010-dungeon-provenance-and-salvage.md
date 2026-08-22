@@ -2,7 +2,7 @@
 pass_id: KALSA-010
 status: complete
 target: dungeon provenance, ruin law, and delving compacts
-canonical_owner: Kalsa/Dungeons/Dungeon Provenance.md
+canonical_owner: Kalsa/Spoilers/Dungeons/Dungeon Provenance.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Give Ghostlight Dungeon a setting-native procedure for entering, interpreting, s
 
 ## Critique and repair
 
-[[Kalsa/Dungeons/Dungeon Provenance|Dungeon Provenance]] owns evidence about how a site formed and changed. [[Kalsa/Institutions/Relic and Ruin Law|Relic and Ruin Law]] models local admission, danger, claims, removal, review, and appeal. [[Kalsa/Institutions/Delving Compacts|Delving Compacts]] binds expedition parties around labour, records, rescue, costs, breach, and only the residual movable salvage left after superior claims and hazard costs.
+[[Kalsa/Spoilers/Dungeons/Dungeon Provenance|Dungeon Provenance]] owns evidence about how a site formed and changed. [[Kalsa/Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]] models local admission, danger, claims, removal, review, and appeal. [[Kalsa/Spoilers/Institutions/Delving Compacts|Delving Compacts]] binds expedition parties around labour, records, rescue, costs, breach, and only the residual movable salvage left after superior claims and hazard costs.
 
 ## Falsification
 

@@ -19,6 +19,7 @@ play value.
 | KALSA-026 | Knowledge and spoiler architecture | The first publication collapsed author truth, reader lore, character knowledge, and GM answers into one surface. | complete | Eight situated reader notes, default-deny Quartz input, generated-route checks, and bounded Soul review passed. |
 | KALSA-027 | Kalsa world-compiler integration | Ghostlight needs world truth, retrieval evidence, and epistemic projections with typed affordances and leakage boundaries. | blocked | Ghostlight-owned compiler/runtime implementation and shared schema decision |
 | KALSA-028 | Spectacular surface adventure | The reader vault needs a magic-forward high-fantasy play proof alongside the industrial Ashen Intake. | queued | Bounded adventure selection and campaign demand |
+| KALSA-029 | Vault spoiler enclosure | The Quartz boundary was safe, but casual Obsidian exploration still exposed author domains and session recents. | complete | Author/GM tree enclosed, root gate neutral, workspace neutral and ignored, and negative checks passed. |
 
 Do not fill the queue with every imaginable fantasy topic. Add an item when a
 real owner, dependency, contradiction, or play requirement creates pressure.

@@ -2,7 +2,7 @@
 pass_id: KALSA-011
 status: complete
 target: papsenai agriculture, stormshield labour, and the Alliance
-canonical_owner: Kalsa/Polities/Shamanism - Papsenai.md
+canonical_owner: Kalsa/Spoilers/Polities/Shamanism - Papsenai.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Ground papsenai agricultural power in land, seed, storage, labour, protective ma
 
 ## Critique and repair
 
-[[Kalsa/Polities/Shamanism - Papsenai|Shamanism — Papsenai]] now owns land, agriculture, ordinary life, and polity consequences. [[Kalsa/Institutions/Stormshield Circles|Stormshield Circles]] owns training, handoff, rest, consent, refusal, warning, succession, and failure at the barrier. [[Kalsa/Institutions/The Alliance|The Alliance]] owns only negotiated exchange, protection, collection, receipts, review, arrears, and exit among participants.
+[[Kalsa/Spoilers/Polities/Shamanism - Papsenai|Shamanism — Papsenai]] now owns land, agriculture, ordinary life, and polity consequences. [[Kalsa/Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] owns training, handoff, rest, consent, refusal, warning, succession, and failure at the barrier. [[Kalsa/Spoilers/Institutions/The Alliance|The Alliance]] owns only negotiated exchange, protection, collection, receipts, review, arrears, and exit among participants.
 
 ## Falsification
 

@@ -14,13 +14,13 @@ This map keeps author truth, reader access, character knowledge, and adjudicatio
 
 ## Owner map
 
-- **Owner:** subject notes outside `Kalsa/Public/` retain author-canon and GM-dossier authority within their stated subjects. Notes under `Kalsa/Public/` own only their reader-facing presentation or in-world source text. Ghostlight owns runtime projection and adjudication.
+- **Owner:** subject notes under `Kalsa/Spoilers/` retain author-canon and GM-dossier authority within their stated subjects. Notes under `Kalsa/Public/` own only their reader-facing presentation or in-world source text. `Kalsa/index.md` owns navigation only. Ghostlight owns runtime projection and adjudication.
 - **Inputs:** author canon, in-world sources, explicit operator decisions, campaign state, character state, observed events, relationships, provenance, and reveal decisions.
 - **Outputs:** spoiler-safe Quartz pages, author/GM inspection surfaces, future world-truth packages, retrieval evidence, character-local projections, and typed resolver affordances.
 - **Derived state:** the public site, search index, sitemap, RSS, lore digests, graph indexes, prompt text, and compiled packages report or lower owned state. They do not create canon.
 - **Forbidden writers:** Quartz visibility cannot decide truth; author taxonomy cannot enter a character prompt by default; a character belief cannot mutate world truth; a resolver result cannot retroactively make the character understand its cause; a human's spoiler choice cannot widen a character agent's retrieval scope.
 - **Shared paths:** canonical edit → source/provenance review → audience/reveal review → reader publication or compiler input → bounded retrieval/projection → adjudication → event receipt → explicit reveal or canonization review.
-- **Cut line:** public Quartz no longer consumes all of `Kalsa/`. `Kalsa/Public/` is the only deployment input. Everything else requires deliberate repository or author-vault navigation.
+- **Cut line:** public Quartz consumes only `Kalsa/Public/`, and casual vault navigation exposes only `Public/`, `Spoilers/`, and a navigation-only root index. All author ontology and GM material lives under the explicitly named `Spoilers/` section.
 
 ## Knowledge classes
 
@@ -41,11 +41,13 @@ A claim can move between access classes only through an owned event: teaching, p
 
 | Surface | Role | Publication |
 | --- | --- | --- |
+| `Kalsa/index.md` | Navigation-only consent gate. | Vault entry, never Quartz truth |
 | `Kalsa/Public/` | Spoiler-safe high-fantasy entrance and canonical situated sources. | Default Quartz input |
-| `Kalsa/Foundations/` | Author-facing ontology, deep history, taxonomy, and constraints. | Repository/author vault only |
-| `Kalsa/Institutions/`, `Polities/`, `Places/`, `Events/` | Canon owners; currently mix common, learned, restricted, and author-level statements. | Repository/author vault only until projected |
-| `Kalsa/Dungeons/` | Site provenance and GM-ready play dossiers, including campaign-current answers. | Repository/author vault only |
-| `Kalsa/Reference/` | Author navigation, provenance policy, and design-state reference. | Repository/author vault only |
+| `Kalsa/Spoilers/index.md` | Warned author/GM entrance and navigation. | Deliberate repository access only |
+| `Kalsa/Spoilers/Foundations/` | Author-facing ontology, deep history, taxonomy, and constraints. | Repository/author vault only |
+| `Kalsa/Spoilers/Institutions/`, `Kalsa/Spoilers/Polities/`, `Kalsa/Spoilers/Places/`, `Kalsa/Spoilers/Events/` | Canon owners; currently mix common, learned, restricted, and author-level statements. | Repository/author vault only until projected |
+| `Kalsa/Spoilers/Dungeons/` | Site provenance and GM-ready play dossiers, including campaign-current answers. | Repository/author vault only |
+| `Kalsa/Spoilers/Reference/` | Author navigation, provenance policy, and design-state reference. | Repository/author vault only |
 | `workshop/` | Design reasoning, critique, queues, and pass evidence. | Never lore publication |
 
 The source stays open. The friction is physical, named, and default-deny at the publication entrypoint; it is not pretend secrecy.
@@ -76,6 +78,9 @@ This repository establishes the content boundary only. It does not claim that Gh
 ## Negative checks
 
 - A fresh reader can navigate and search the Quartz site without seeing the buried-world origin, formal magic taxonomy, divine mechanism, or dungeon answer key.
+- A casual Obsidian explorer sees no author domain until deliberately opening `Spoilers/`.
+- A fresh or shared Obsidian session cannot reopen a spoiler note or enumerate
+  spoiler recents before the root consent gate; local session state is ignored.
 - Generated search, sitemap, RSS, and HTML routes match the current `Kalsa/Public/` source exactly; stale pages from an older, broader build are a failed publication.
 - A deliberate repository reader sees a warning before entering author/GM surfaces and remains free to continue.
 - A god's testimony can be powerful evidence without becoming author truth.

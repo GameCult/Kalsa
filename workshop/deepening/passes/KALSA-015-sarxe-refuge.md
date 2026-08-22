@@ -2,7 +2,7 @@
 pass_id: KALSA-015
 status: complete
 target: Sarxe households, displacement, flight, and refuge
-canonical_owner: Kalsa/Polities/Channeling - Sarxe.md
+canonical_owner: Kalsa/Spoilers/Polities/Channeling - Sarxe.md
 started: 2026-08-22
 completed: 2026-08-22
 ---
@@ -29,7 +29,7 @@ Give Sarxe communal life, displacement, and refuge durable institutions without 
 
 ## Critique and repair
 
-[[Kalsa/Polities/Channeling - Sarxe|Channeling — Sarxe]] now owns polity history, social shape, static/mobile fracture, and diaspora relations. [[Kalsa/Institutions/Saxfoldi Households|Saxfoldi Households]] owns shared life, privacy, care, membership, movement, split/merge, and succession. [[Kalsa/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] owns warning, safe passage, admission, provision, records, recovery, appeal, and departure across both displacements.
+[[Kalsa/Spoilers/Polities/Channeling - Sarxe|Channeling — Sarxe]] now owns polity history, social shape, static/mobile fracture, and diaspora relations. [[Kalsa/Spoilers/Institutions/Saxfoldi Households|Saxfoldi Households]] owns shared life, privacy, care, membership, movement, split/merge, and succession. [[Kalsa/Spoilers/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] owns warning, safe passage, admission, provision, records, recovery, appeal, and departure across both displacements.
 
 ## Falsification
 
