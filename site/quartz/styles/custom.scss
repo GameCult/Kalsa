@@ -1,3 +1,5 @@
+@use "./base.scss";
+
 :root {
   --kalsa-rule: color-mix(in srgb, var(--secondary) 42%, transparent);
 }
