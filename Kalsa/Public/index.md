@@ -45,3 +45,7 @@ inventory that refused to become one answer.
 [[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] follows
 water, accusation, and repair across three Selza'a family territories after a
 shared work fails in the fog.
+
+[[Sources/Who Kept the Heat|Who Kept the Heat]] follows an unsafe order into
+Jamnai's heatworks, where a steward's refusal survives detention because stores,
+a copied record, and an appeal reach beyond one branch holder.

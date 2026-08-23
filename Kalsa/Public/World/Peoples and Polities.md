@@ -35,9 +35,19 @@ restore the keeper's work.
 
 ## Jamnai and the terjamna
 
-Jamnai stands deep in the coldward storm country, sustained by heat drawn through a vast undercity. Its hierarchy speaks the language of submission, but that word covers several different relations: defeat before a superior, a civil oath, dependence upon protection, and tribute imposed beyond the city's core.
+Jamnai stands deep in the coldward storm country, sustained by heat drawn
+through a vast undercity. Its branch rolls place households and tributary wards
+beneath holders who owe protection upward and down. The rolls do not settle how
+a relation began or what may be refused.
 
-Rank can mobilize defence and keep heat moving through crisis. It can also turn every dependency into obedience. Soiru'i sects preserve the names and powers of dead warriors, feed dependants, shelter refusers, sponsor champions, and quarrel over whether loyalty to the dead strengthens the living hierarchy or places a limit upon it.
+The arcology survives through heatworks no champion can repair by winning.
+Branch officers choose among safe demands; recognized stewards keep the working
+limits. Dead warriors called Soiru'i remain in branch and sect memory, where
+living champions may act in their names and disputed signs may enter an appeal.
+
+[[../Sources/Who Kept the Heat|Who Kept the Heat]] reconstructs one refusal
+through a threatened tributary ward, a detained steward, a sect store, a copied
+record, material inspection, and the superior who removed the holder.
 
 ## Papsenai and Ti'asantatca
 
@@ -89,4 +99,5 @@ Stories speak of a coldward people whose uncanny judgment serves trade, defence,
 
 See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]],
 [[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
-and [[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]].
+[[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]],
+and [[../Sources/Who Kept the Heat|Who Kept the Heat]].

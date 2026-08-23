@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-22T19:54:33Z
+snapshot_at: 2026-08-23T00:23:06Z
 ---
 
 # Kalsa Project Memory
@@ -48,6 +48,12 @@ database and does not grant canon status to any setting claim.
   exact projections of every admitted Public note. A renderer's default item
   limit is not permission to silently drop older reader sources as the vault
   grows.
+- `memory-institution-through-handoff` — Public should make institutional
+  distinctions visible through evidence-bearing handoffs among people,
+  records, tools, stores, and consequences. An exhaustive narrator taxonomy
+  remains author ontology even when every distinction is correct. A situated
+  case may omit the complete system while showing exactly who can act, what
+  they can inspect, and what their correction leaves unpaid.
 
 ## Open questions
 

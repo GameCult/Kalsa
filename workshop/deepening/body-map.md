@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T00:00:00Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-034
+snapshot_at: 2026-08-23T00:23:06Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-035
 ---
 
 # Kalsa Canonical Body Map
@@ -11,6 +11,10 @@ This is an operational map of the live authoring machine, not lore and not a rep
 
 KALSA-034 extends that Public ownership to Selza'a shared-work knowledge and
 tests projection growth past the former ten-item RSS default.
+
+KALSA-035 extends situated Public ownership to Jamnai heat allocation,
+technical refusal, sect-supported appeal, disputed shrine testimony,
+independent inspection, hierarchical correction, and tributary aftermath.
 
 ## Lore review and repair control
 
@@ -140,6 +144,46 @@ tests projection growth past the former ten-item RSS default.
 - **Deletion/demotion line:** conquest hierarchy as total society, all obligation as metaphysical submission, and Soiru'i interpretation as author truth are demoted.
 - **Verification layer:** KALSA-012 and KALSA-020 witnesses, Ash-Valve event exclusivity, Ji'esti responsibility boundary, hostile tributary/fugitive readings, duplicated-retelling negatives, links/build/render.
 - **Unresolved seam:** summit and branch ranks, submission-law boundaries, arcology capacity, tributary exit, Soiru'i personhood, and current Terjamna formations.
+
+#### Public Ash-Valve projection — KALSA-035
+
+- **Owner:** the Jamnai polity, Submission Hierarchy, Soiru'i Sects, Relic
+  Custody, and Ash-Valve event notes retain author truth. `Public/World/Peoples
+  and Polities.md` owns bearings; `Public/Sources/Who Kept the Heat.md` owns
+  presentation only. Branch, Hearth, technical, shrine, and tributary records
+  are situated carriers, not replacement canon owners.
+- **Inputs:** the adopted event sequence, branch rolls and diversion order,
+  steward custody record and copied page, sect stores and shelter, champion
+  appeal, disputed shrine testimony, independent material inspection, superior
+  challenge, levy, flight, dependant transfer, and explicit reveal decisions.
+- **Outputs:** a direct Public Jamnai route, one bounded reconstruction, an
+  inspectable order-to-aftermath handoff, distinct evidentiary limits, and
+  incomplete correction without a universal Jamnai constitution.
+- **Derived/display-only state:** the Public reconstruction, high-branch,
+  Hearth, and tributary interpretations, and reported shrine signs present
+  owned evidence; they cannot create event facts, technical safety, submission
+  relations, or general law.
+- **Forbidden writers:** Public narration cannot restore the four-relation
+  author taxonomy or invent native categories; rank cannot write technical
+  competence; sect testimony cannot own inspection or challenge; shrine knocks
+  cannot decide safety; one correction cannot write tributary equality or a
+  universal right of appeal.
+- **Shared paths:** hidden subject/event owner -> audience and reveal review ->
+  bounded Public source -> Public navigation -> Quartz projection. Within the
+  source: diversion order -> steward stop -> detention -> stores, shelter, and
+  copied record -> champion-carried appeal and disputed testimony -> independent
+  inspection -> superior challenge -> levy, flight, and dependant aftermath.
+- **Deletion/demotion line:** the unowned four-relation crosswalk, paired rank
+  moral ledger, generic sect function list, unsupported hereditary-steward
+  implication, and closing record-menu/checksum are cut.
+- **Verification layer:** 27-file raw-SHA-1 repaired-02 attestation, seven-seat
+  regression against the same repaired body, event-owner and unknown-
+  preservation negatives, Public-only links and publication boundary,
+  production Quartz build, complete feed/search projection, and rendered source
+  click-through.
+- **Unresolved seam:** names, branch and ward, date, machinery, quantities,
+  shrine identity, current stop enforcement, fugitive return, dependant
+  disposition, and wider Jamnai legal reach remain unresolved.
 
 ### 7. High Lojban, descendant speech, measures, and machine formulae
 
@@ -336,7 +380,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029, KALSA-030, KALSA-031, and KALSA-033
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-035
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -390,7 +434,10 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   scholarship; KALSA-031 adds distinct divine witness practices and a bounded
   Three Ledgers carrier; KALSA-033 gives concrete situated entry precedence
   over surveys and protects honest omission; KALSA-034 adds a Selza'a
-  windtrap carrier and complete feed projection. Ghostlight compiler schemas,
+  windtrap carrier and complete feed projection; KALSA-035 adds a bounded
+  Jamnai Ash-Valve carrier through divided branch, Hearth, technical, shrine,
+  and tributary evidence without publishing the author taxonomy as local
+  consensus. Ghostlight compiler schemas,
   campaign-package ownership, equivalent depth for the remaining traditions,
   and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

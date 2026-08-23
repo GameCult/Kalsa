@@ -209,3 +209,33 @@ promoted or retired.
   social repair are separate consequences. Generated reader indexes must grow
   with the admitted source set rather than silently dropping older notes.
 - **Next pressure:** Jamnai's submission hierarchy and Ash-Valve Refusal.
+
+## 2026-08-23 — Jamnai Ash-Valve knowledge and divided protection
+
+- **Scope:** [[passes/KALSA-035-jamnai-ash-valve-knowledge|KALSA-035]], covering
+  Jamnai submission, heatwork custody, Soiru'i aid, hierarchical appeal,
+  tributary protection, historical memory, and Public delivery.
+- **Authority cut:** the four-relation narrator crosswalk, paired rank
+  virtue/invoice, generic sect function chorus, and ideological checksum were
+  deleted. Hidden polity, hierarchy, sect, custody, and event owners remain
+  unchanged.
+- **Repair:** `Who Kept the Heat` follows an unsafe diversion through steward
+  refusal, detention, a Hearth store, family shelter, copied custody evidence,
+  champion-carried appeal, disputed shrine knocks, material inspection,
+  superior challenge, and a settlement that leaves levy, flight, and dependant
+  transfer unresolved.
+- **Council:** all seven diagnoses blocked. Repaired-01 leaked hereditary
+  steward office and ended in a record-menu checksum; History and AI-Isms
+  rejected it. Every seat reran and passed `KALSA-035-repaired-02`.
+- **Protected uncertainty:** no people, branch, ward, campaign, date, valve
+  design, inspection method, native office, shrine answer, levy amount, or
+  later fugitive/dependant outcome was invented.
+- **Verification:** nine immutable seed witnesses; 570 links across 72
+  canonical notes; vault and publication boundaries; lore-tool negative tests;
+  production Quartz build of twelve inputs and 39 outputs; rendered source
+  inspection and live click-through from the Jamnai survey.
+- **Durable judgment promoted:** a Public institution becomes legible through
+  evidence-bearing handoffs, not an exhaustive narrator taxonomy. Technical
+  correction, political correction, social repair, and metaphysical testimony
+  remain different consequences.
+- **Next pressure:** Papsenai shamanic risk and Shield Levy memory.
