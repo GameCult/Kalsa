@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T00:23:06Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-035
+snapshot_at: 2026-08-23T00:44:14Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-036
 ---
 
 # Kalsa Canonical Body Map
@@ -15,6 +15,10 @@ tests projection growth past the former ten-item RSS default.
 KALSA-035 extends situated Public ownership to Jamnai heat allocation,
 technical refusal, sect-supported appeal, disputed shrine testimony,
 independent inspection, hierarchical correction, and tributary aftermath.
+
+KALSA-036 extends situated Public ownership to Papsenai reserve practice,
+Stormshield relief and refusal, divided wartime evidence, and the incomplete
+Shield Levy settlement.
 
 ## Lore review and repair control
 
@@ -132,6 +136,50 @@ independent inspection, hierarchical correction, and tributary aftermath.
 - **Deletion/demotion line:** the Alliance is demoted from presumed canonical institution to adopted candidate; “agrarian empire,” natural defenselessness, automatic shaman duty, and protector-as-ruler remain demoted.
 - **Verification layer:** KALSA-011 and KALSA-021 witnesses, shift/failure negatives, Shield Levy event exclusivity, Alliance-participation and Intuition negatives, links, and build/render.
 - **Unresolved seam:** tribal tenure and offices, whether the Alliance exists, its membership/founding if adopted, Intuition government, druid/shaman distinction, and shield mechanism.
+
+#### Public Shield Levy projection — KALSA-036
+
+- **Owner:** the Papsenai polity, Stormshield Circles, and Shield Levy event
+  notes retain author truth. `Public/World/Peoples and Polities.md` owns
+  bearings; `Public/Sources/The Missing Relief Cohort.md` owns presentation
+  only. Store, Circle, household, and military records are situated carriers,
+  not replacement canon owners.
+- **Inputs:** the adopted double-demand sequence, store marks and missing paired
+  account, Circle shift papers, cohort assignment and warnings, household
+  reserve and exposure testimony, the campaign authority's wider-war claim,
+  later assessments and receipts, surviving material claims, and explicit
+  reveal decisions.
+- **Outputs:** a direct Public Papsenai route, one bounded reconstruction, an
+  inspectable demand-to-breach-to-settlement handoff, distinct evidentiary
+  limits, changed reserve/receipt/consent/replacement/refusal practice, and
+  incomplete restitution.
+- **Derived/display-only state:** the Public reconstruction, rendered event
+  name, later accounts, assessments, and receipts present owned evidence; they
+  cannot create a local calendar, named participant, technical verdict,
+  Alliance history, universal levy law, or proof that a claim was paid.
+- **Forbidden writers:** Public narration cannot make `Papsenai accounts` one
+  cultural voice; military need cannot decide reserve sufficiency or shield
+  safety; store evidence cannot decide handoff capacity; Circle evidence cannot
+  decide the wider war; Circle operation cannot own tribal land or civic rule;
+  the settlement cannot erase seed, dwelling, disability, or household claims.
+- **Shared paths:** hidden subject/event owner -> audience and reveal review ->
+  bounded Public source -> Public navigation -> Quartz projection. Within the
+  source: grain demand and local release -> cohort diversion before replacement
+  -> extended watch and yielded section -> store, Circle, household, and
+  military claims -> bounded reserve, receipt, levy, consent, replacement, and
+  refusal practice -> surviving losses.
+- **Deletion/demotion line:** `Papsenai accounts` as omniscient event carrier,
+  the compressed evidence bundle, repeated interpretive endings, balanced
+  viewpoint sections, office charts, universal procedure, and hook/checksum
+  closes are cut; none survives as a summary layer.
+- **Verification layer:** 23-file raw-SHA-1 repaired-02 attestation,
+  repaired-01 rejection and localized re-review, seven-seat final regression,
+  event-owner and unknown-preservation negatives, Public-only links and
+  publication boundary, production Quartz build, feed/search leakage checks,
+  and rendered source click-through.
+- **Unresolved seam:** event date, campaign, communities, people and offices,
+  quantities, exact shield geometry, compensation, later adopters, Alliance or
+  Intuition involvement, and present reach of the settlement remain unresolved.
 
 ### 6. Jamnai submission hierarchy and Soiru'i sects
 
@@ -380,7 +428,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-035
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-036
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -437,7 +485,9 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   windtrap carrier and complete feed projection; KALSA-035 adds a bounded
   Jamnai Ash-Valve carrier through divided branch, Hearth, technical, shrine,
   and tributary evidence without publishing the author taxonomy as local
-  consensus. Ghostlight compiler schemas,
+  consensus; KALSA-036 adds a bounded Shield Levy carrier through store,
+  Circle, household, and military evidence without granting any record or
+  claimant the whole finding. Ghostlight compiler schemas,
   campaign-package ownership, equivalent depth for the remaining traditions,
   and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

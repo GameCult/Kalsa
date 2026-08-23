@@ -51,11 +51,24 @@ record, material inspection, and the superior who removed the holder.
 
 ## Papsenai and Ti'asantatca
 
-Papsenai tribes are famous for agriculture guided by long attention to possible seasons. Their shamans can bind their work to a field, herd, road, or weather front and labor toward a favorable future over months or years. Before such work begins, households separate seed and subsistence from what they can risk, then argue over which bounded result the land, labor, and weather can still bear. A favorable field does not prove that hunger, lost hands, or the bad season vanished; the pressure may have moved beyond the shaman's chosen boundary.
+Papsenai tribes are famous for agriculture guided by long attention to possible
+seasons. Their shamans can bind their work to a field, herd, road, or weather
+front and labor toward a favorable future over months or years. Households set
+aside seed and subsistence before arguing over what the land and their own labor
+can risk. The chosen future has an edge; no harvest account proves what happened
+beyond it.
 
-Ti'asantatca stands beside a storm that does not end. Its Stormshield Circles maintain overlapping watches: the incoming shaman takes hold before the outgoing worker releases the threatened section, while observers compare both accounts against the weather. Relief depends upon food, dry rest, medicine, clear paths, and labor drawn from the same fields and households the shield protects. If provisions fail or a replacement arrives too late, an apparently whole barrier can lose a section to wind and water, exposing homes, stores, and the shield station itself.
+Ti'asantatca stands beside a storm that does not end. Its Stormshield Circles
+keep overlapping watches. The incoming shaman takes hold before the outgoing
+worker releases the threatened section, and observers compare both accounts
+against the weather. Relief comes from the same households and fields the
+barrier protects. A shield can still look whole after the people able to
+sustain its next watch have already been spent.
 
-Papsenai accounts remember an old campaign that demanded grain and diverted a relief cohort at the same time. The storm took dwellings and stores after the remaining workers extended their watches. Store marks, shift records, and household testimony from that failure are still cited when a levy claims both the harvest and the people who keep it sheltered.
+[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]] reconstructs
+an old campaign demand from the marks left at stores, the warnings kept by
+Circle workers, and testimony from households exposed when one shield section
+yielded. The campaign's claim upon the wider war survives in the same dispute.
 
 ## The Ju'onai Hegemony
 
@@ -100,4 +113,5 @@ Stories speak of a coldward people whose uncanny judgment serves trade, defence,
 See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]],
 [[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
 [[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]],
-and [[../Sources/Who Kept the Heat|Who Kept the Heat]].
+[[../Sources/Who Kept the Heat|Who Kept the Heat]], and
+[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]].

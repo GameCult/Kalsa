@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-23T00:23:06Z
+snapshot_at: 2026-08-23T00:47:34Z
 ---
 
 # Kalsa Project Memory
@@ -54,6 +54,11 @@ database and does not grant canon status to any setting claim.
   remains author ontology even when every distinction is correct. A situated
   case may omit the complete system while showing exactly who can act, what
   they can inspect, and what their correction leaves unpaid.
+- `memory-latent-capacity` — Reserve and relief are institutional state, not
+  background texture. A field, barrier, service, or office can still produce a
+  visible result after the seed, replacement body, recovery time, or household
+  support needed for its next result has already been spent. Public sources
+  should make that delayed failure legible through owned evidence.
 
 ## Open questions
 

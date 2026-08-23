@@ -49,3 +49,7 @@ shared work fails in the fog.
 [[Sources/Who Kept the Heat|Who Kept the Heat]] follows an unsafe order into
 Jamnai's heatworks, where a steward's refusal survives detention because stores,
 a copied record, and an appeal reach beyond one branch holder.
+
+[[Sources/The Missing Relief Cohort|The Missing Relief Cohort]] reconstructs a
+wartime demand for grain and shield workers from store marks, Circle warnings,
+household testimony, and the military claim that the taking protected others.

@@ -239,3 +239,32 @@ promoted or retired.
   correction, political correction, social repair, and metaphysical testimony
   remain different consequences.
 - **Next pressure:** Papsenai shamanic risk and Shield Levy memory.
+
+## 2026-08-23 — Papsenai shield-levy knowledge and spent relief
+
+- **Scope:** [[passes/KALSA-036-papsenai-shield-levy-knowledge|KALSA-036]],
+  covering Papsenai future-work, reserve classification, Stormshield handoff,
+  wartime collection and diversion, divided evidence, partial settlement, and
+  Public delivery.
+- **Authority cut:** `Papsenai accounts` as a collective narrator and the
+  compressed proof bundle were deleted. Hidden polity, Circle, and event notes
+  retain truth; the Public survey and `The Missing Relief Cohort` own only
+  situated presentation.
+- **Repair:** the new source follows unclassified grain release, a missing
+  paired account, cohort diversion before replacement, extended watches, a
+  yielded section, store/Circle/household/military claims, changed reserve and
+  handoff practice, and losses that the settlement did not finish.
+- **Council:** all seven diagnoses blocked. Repaired-01 resolved their findings
+  but introduced a `did not claim X; showed Y` correction frame. AI-Isms
+  rejected it; every seat reran and passed `KALSA-036-repaired-02`.
+- **Protected uncertainty:** campaign, date, calendar, communities, actors,
+  quantities, local terminology, shield geometry, compensation, later
+  adopters, Alliance, and Intuition remain unresolved.
+- **Verification:** nine immutable seed witnesses; 575 links across 73
+  canonical notes; vault and publication boundaries; lore-tool negative tests;
+  production Quartz build of thirteen inputs and 41 outputs; rendered source
+  inspection and live click-through from the Papsenai survey.
+- **Durable judgment promoted:** reserve and relief are future capacity. An
+  institution can be materially spent while its visible output still holds.
+- **Next pressure:** prophetic houses, Sunwall allocation, and the Closed Lift
+  Appeal.
