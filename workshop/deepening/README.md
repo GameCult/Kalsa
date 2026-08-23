@@ -20,8 +20,10 @@ A pass must:
    costs, failure modes, enforcement limits, and interfaces.
 4. **Critique** generic fantasy defaults, missing material constraints, false
    consensus, absent subordinate perspectives, and consequences that stop at
-   the page edge. Assemble an immutable packet and collect independent reports
-   from every seat in the [[../review-council/README|Lore Review Council]].
+   the page edge. Assemble an immutable packet and collect independent baseline
+   reports from every active Critic in the [[../review-council/README|Lore
+   Review Council]]. Record which seats are Guardians and whether any sanity
+   trigger applies.
 5. **Adjudicate** every substantive council finding as accepted, modified,
    rejected, or deferred. Preserve raw disagreement; do not vote lore into
    existence or give reports directly to a repair writer.
@@ -31,9 +33,11 @@ A pass must:
    magic, and playable pressure.
 8. **Falsify** the result through at least one hostile or marginal perspective
    and one historical stress case.
-9. **Regress** the repaired candidate through every council seat. Reader
-   Experience receives a fresh blind packet; other critics receive their raw
-   findings and the relevant dispositions.
+9. **Regress** the repaired candidate through every active Critic and route its
+   exact change packet through every relevant Guardian. Reader Experience
+   receives a fresh blind packet. A Guardian receives only changed notes and
+   their diff/context unless its periodic or early sanity trigger requires a
+   full-surface packet.
 10. **Verify** seed hashes, wikilinks, publication boundaries, the Quartz build,
    affected rendered pages, and the actual git diff.
 11. **Record** the result in `ledger.md`, update `queue.md`, and promote only a
@@ -55,8 +59,9 @@ not certify depth. The qualitative parity standard lives in `benchmark.md`.
 - authority map before and after;
 - unresolved questions and explicit non-decisions;
 - hostile/marginal and historical stress findings;
-- immutable review-packet identity, seven raw reports, finding dispositions,
-  repair brief, and seven regression reports;
+- immutable review-packet identity, active-Critic raw reports, finding
+  dispositions, repair brief, active-Critic regression reports, required
+  Guardian change or sanity reports, and updated Guardian counters;
 - verification commands and results;
 - rendered-page inspection when published content changed.
 

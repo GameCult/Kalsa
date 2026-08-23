@@ -84,9 +84,10 @@ Depth parity is argued through the seven independent remits in
 [[../review-council/README|the Lore Review Council]]. No aggregate score or
 majority vote substitutes for the reports. Institutional causality, culture and
 situated knowledge, material life, historical change, play consequence, prose,
-and reader navigation must each receive a turn. Canon fidelity, provenance,
-ownership, and spoiler safety constrain every remit and the final repository
-verification rather than living in one continuity-shaped critic.
+and reader navigation must each receive the turn required by its recorded
+Critic or Guardian mode. Canon fidelity, provenance, ownership, and spoiler
+safety constrain every remit and the final repository verification rather than
+living in one continuity-shaped critic.
 
 ## Aetheria Reference Sample
 

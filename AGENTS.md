@@ -90,15 +90,20 @@ Before editing an institution, region, practice, or cross-cutting system:
 2. Inventory seed statements, adopted facts, contradictions, and unknowns.
 3. Name the canonical owner and model its inputs, outputs, dependencies,
    beneficiaries, costs, failure modes, and neighboring interfaces.
-4. Assemble an immutable review packet and give every seat in
-   `workshop/review-council/README.md` an independent diagnostic turn.
+4. Assemble an immutable review packet and give every active Critic in
+   `workshop/review-council/README.md` an independent diagnostic turn. Record
+   Guardian seats and any periodic or early sanity trigger; Guardians skip the
+   ordinary baseline diagnosis.
 5. Adjudicate every substantive finding; critics diagnose and the coordinator
    decides the bounded repair brief.
 6. Repair the smallest coherent set of owner notes.
 7. Falsify the result with one hostile or marginal perspective and one
    historical stress case.
-8. Give every council seat a post-repair regression turn; Reader Experience
-   receives a fresh blind packet.
+8. Give every active Critic a post-repair regression turn; Reader Experience
+   receives a fresh blind packet. Give each relevant Guardian the exact diff,
+   complete changed notes, and affected context. A Guardian receives a full
+   surface only when the council's sanity-check cadence or reactivation trigger
+   requires it.
 9. Verify seed integrity, links, publication boundaries, and the Quartz build.
 10. Record the pass in the ledger and promote only durable judgment into project
    memory.

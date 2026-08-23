@@ -9,15 +9,15 @@ coordinator: replace-me
 
 ## Report inventory
 
-| Critic | Diagnostic report | Verdict | Regression report |
-| --- | --- | --- | --- |
-| Institutional Causality |  |  |  |
-| Culture and Situated Knowledge |  |  |  |
-| Material Life and Ecology |  |  |  |
-| History, Conflict, and Change |  |  |  |
-| Ghostlight Play and Consequence |  |  |  |
-| AI-Isms and Prose |  |  |  |
-| Reader Experience and Navigation |  |  |  |
+| Seat | Mode | Diagnostic or sanity report | Verdict | Regression or Guardian change report |
+| --- | --- | --- | --- | --- |
+| Institutional Causality | Critic |  |  |  |
+| Culture and Situated Knowledge | Critic |  |  |  |
+| Material Life and Ecology | Critic |  |  |  |
+| History, Conflict, and Change | Critic |  |  |  |
+| Ghostlight Play and Consequence | Critic |  |  |  |
+| AI-Isms and Prose | Guardian | n/a unless sanity triggered |  |  |
+| Reader Experience and Navigation | Critic |  |  |  |
 
 ## Protected-material ledger
 
@@ -40,9 +40,11 @@ coordinator: replace-me
 ## Regression closeout
 
 - Repaired packet identity:
+- Guardian diff base and changed-note packet identity:
 - Essential findings resolved:
 - Essential findings remaining:
 - Regressions accepted for repair:
 - Preferences rejected or deferred:
 - What must now be left alone:
+- Guardian counter and mode updates:
 - Final council decision:

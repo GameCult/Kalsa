@@ -16,6 +16,9 @@ public_blind_packet: false
 - Adjacent files supplied for context:
 - Reader entry path under test:
 - Coordinator:
+- Council mode snapshot:
+- Guardians omitted from baseline diagnosis:
+- Guardian sanity trigger, if any:
 
 ## Authority and provenance
 

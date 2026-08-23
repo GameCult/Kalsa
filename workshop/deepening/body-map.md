@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T01:14:41Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-037
+snapshot_at: 2026-08-23T09:30:23Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-038
 ---
 
 # Kalsa Canonical Body Map
@@ -23,34 +23,43 @@ Shield Levy settlement.
 KALSA-037 extends situated Public ownership to Divided-City forecast evidence,
 civic appeal, Sunwall actuation, competing records, and unfinished remedy.
 
+KALSA-038 exhausts the AI-Isms and Prose Critic on the complete Public surface
+and converts that seat into a change Guardian with periodic full-surface sanity
+checks. This changes review routing, not canon or publication authority.
+
 ## Lore review and repair control
 
 - **Owner:** `workshop/review-council/README.md` owns council membership,
   sequencing, packet boundaries, and report gates. The active pass coordinator
   owns finding dispositions, the bounded repair brief, integration, and
   closeout. Canonical subject notes retain lore authority.
-- **Inputs:** an immutable baseline packet, exact seed and canonical sources,
-  adopted authority maps, Public reader paths, protected strengths, operator
-  decisions, and one specialist prompt per council seat.
-- **Outputs:** seven independent diagnostic reports, one adjudication, one
-  bounded repair brief, seven regression reports, and a recorded completion
-  decision.
+- **Inputs:** an immutable baseline packet for active Critics, exact seed and
+  canonical sources, adopted authority maps, Public reader paths, protected
+  strengths, operator decisions, one specialist prompt per council seat, the
+  shared mode prompt, each seat's recorded mode, and exact change packets for
+  Guardians.
+- **Outputs:** independent reports required by each seat's mode, one
+  adjudication, one bounded repair brief, active-Critic regressions, Guardian
+  change or sanity reports, updated Guardian counters, and a recorded
+  completion decision.
 - **Derived/display-only state:** critic confidence, agreement, pattern counts,
-  aggregate impressions, and report summaries are evidence. They may not write
-  canon, publication, or project memory.
+  aggregate impressions, report summaries, seat modes, and Guardian counters
+  are evidence. They may not write canon, publication, or project memory.
 - **Forbidden writers:** no critic, majority, detector, vocabulary list,
   checklist, or generic Soul label may decide a setting claim or edit an owner.
   Repair writers cannot silently average raw reports.
-- **Shared paths:** frozen packet -> seven independent diagnoses -> coordinator
-  dispositions -> named-owner repair -> seven regressions -> ordinary seed,
-  link, layout, publication, Quartz, rendered-page, and diff verification.
+- **Shared paths:** frozen packet -> independent active-Critic diagnoses ->
+  coordinator dispositions -> named-owner repair -> active-Critic regressions
+  plus Guardian change review or triggered sanity -> ordinary seed, link,
+  layout, publication, Quartz, rendered-page, and diff verification.
 - **Deletion/demotion line:** the former omnibus critique and undifferentiated
   Soul checkbox are demoted. Canon fidelity, provenance, ownership, and spoiler
   safety remain cross-cutting constraints and final checks, not a continuity
   critic seat.
-- **Verification layer:** report inventory, every-finding disposition, blind
-  reader packet where Public is in scope, no unresolved accepted essential
-  defect, negative authority checks, and the repository verification suite.
+- **Verification layer:** mode-aware report inventory, every-finding
+  disposition, blind reader packet where Public is in scope, Guardian baseline
+  and counter checks, no unresolved accepted essential defect, negative
+  authority checks, and the repository verification suite.
 - **Unresolved seam:** report assembly and dispatch remain Markdown-first. No
   runtime or automation owns them until repetition justifies that machinery.
 

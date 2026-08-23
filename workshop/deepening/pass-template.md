@@ -69,6 +69,9 @@ What real setting and play outcome does this pass serve?
 - **Packet identity:**
 - **Repaired packet identity:**
 - **Packet path:**
+- **Council mode snapshot:** active Critics, Guardians, counters, and any sanity
+  trigger for this pass.
+- **Guardian diff base and changed-note packet:**
 - **Protected strengths:**
 - **In-scope inhabitant model boundary:** owner or synthesis; evidence and
   reproduction; useful domain; blind spot; protected unknown.
@@ -76,15 +79,15 @@ What real setting and play outcome does this pass serve?
   target-supported interventions; consequence horizon or play-bearing owner.
 - **Event-owner evidence or explicit evidence gap:**
 
-| Critic | Diagnostic report | Verdict | Regression report |
-| --- | --- | --- | --- |
-| Institutional Causality |  |  |  |
-| Culture and Situated Knowledge |  |  |  |
-| Material Life and Ecology |  |  |  |
-| History, Conflict, and Change |  |  |  |
-| Ghostlight Play and Consequence |  |  |  |
-| AI-Isms and Prose |  |  |  |
-| Reader Experience and Navigation |  |  |  |
+| Seat | Mode | Diagnostic or sanity report | Verdict | Regression or Guardian change report |
+| --- | --- | --- | --- | --- |
+| Institutional Causality | Critic |  |  |  |
+| Culture and Situated Knowledge | Critic |  |  |  |
+| Material Life and Ecology | Critic |  |  |  |
+| History, Conflict, and Change | Critic |  |  |  |
+| Ghostlight Play and Consequence | Critic |  |  |  |
+| AI-Isms and Prose | Guardian | n/a unless sanity triggered |  |  |
+| Reader Experience and Navigation | Critic |  |  |  |
 
 - **Synthesis and dispositions:**
 - **Accepted repair brief:**
@@ -128,9 +131,13 @@ claimed mechanism?
 - [ ] Affected rendered pages were inspected.
 - [ ] Git diff changes only intended owners and supporting indexes.
 - [ ] Benchmark review completed without treating counts as proof.
-- [ ] All seven independent diagnostic reports exist.
+- [ ] Every active Critic diagnostic report exists; Guardian diagnostic absence
+  is explained by recorded mode or a sanity report exists.
 - [ ] Every substantive finding has a coordinator disposition.
-- [ ] All seven regression reports exist; no essential accepted defect remains.
+- [ ] Every active Critic regression and required Guardian change or sanity
+  report exists on the exact final candidate; no essential accepted defect
+  remains.
+- [ ] Guardian counters and mode transitions are updated.
 - [ ] The final closeout names what should now be left alone.
 
 ## Decision record

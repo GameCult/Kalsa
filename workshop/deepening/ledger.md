@@ -329,4 +329,8 @@ promoted or retired.
   same argumentative sequence. Repair the carrier and sequence through action,
   custody, omission, and uneven emphasis instead of banning words or replacing
   one sentence formula with another.
+- **Council mode transition:** AI-Isms and Prose is exhausted on the exact
+  `KALSA-038-candidate-06` Public surface and now operates as a Guardian with a
+  zeroed relevant-review counter. It reviews future changes and returns to a
+  full surface on the fifth relevant review or an earlier council trigger.
 - **Next pressure:** Sarxe household dispersal and Grey Scald memory.

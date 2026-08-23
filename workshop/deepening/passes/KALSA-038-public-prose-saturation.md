@@ -130,3 +130,16 @@ scope checksum—was a house mechanism, not cultural depth. Candidate 05 is
 accepted because the same critic reread the complete surface and found no
 remaining substantive prose defect. The loop stops on that judgment, not on a
 round count or a favorable local excerpt.
+
+This pass exhausts the AI-Isms and Prose critic on its complete Public review
+surface. Its exact certified baseline is `KALSA-038-candidate-06`. The seat now
+operates as a Guardian: future passes send it the exact diff, complete changed
+notes, and affected context rather than an untouched full-vault baseline. Its
+relevant-review counter starts at zero; the fifth relevant review is a full
+sanity check. The earlier triggers and return-to-Critic rule are owned by
+`workshop/review-council/README.md`.
+
+The current AI-Isms and Prose specialist-prompt calibration, versioned in
+commit `198a14b`, distills examples from this completed loop and belongs to the
+transition baseline. Later material changes to either the specialist or
+Guardian prompt trigger an early sanity check.
