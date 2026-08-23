@@ -16,17 +16,17 @@ Kalsan gods are not metaphors made harmless by disbelief. They protect, conquer,
 No surviving cult, court, or mortuary tradition has established that they are
 all-knowing.
 
-A god can perceive dangers hidden from its worshippers and remain ignorant of
-the household cheating its storekeeper. It can preserve a city through war
-while misunderstanding why a dead rival still answers at one shrine. People
-who must act on such claims preserve different parts of the trouble. A
-covenant witness records who promised what and how the relation began. A
-miracle steward records the petition, the stores committed, the beneficiary,
-and what actually arrived. A mortuary witness records the body, last
-statements, and whatever later answered in the dead person's manner. Clergy,
-prophets, champions, and enemies may interpret all three. None of those records
-can establish alone what the god witnessed, what reached it through servants,
-or what it merely insists must be true.
+A god's warning may expose a danger hidden from its worshippers. Store ledgers
+still catch household fraud that passed beneath divine notice. Gods have
+preserved cities through war; mortuary disputes form around the shrines where a
+dead rival answers and the victor's cult cannot explain why. When such a claim
+enters public use, its pieces are often kept apart. The covenant book
+carries the beginning and terms of the promise. Store workers mark the petition,
+supplies, beneficiary, and what arrived in a miracle ledger. At death, the body,
+last statements, and any familiar answer pass to mortuary witnesses. Clergy,
+prophets, champions, and enemies argue across these holdings about what the god
+witnessed, what reached it through servants, and what it merely insists must be
+true.
 
 [[../Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows
 one old succession crisis in which combining those records nearly made a
@@ -34,12 +34,20 @@ divine claim impossible to contest.
 
 ## Covenant and submission
 
-People enter divine relations by different roads. A household may promise regular work and offerings in return for healing, burial, defence, or food. A child may inherit an attachment whose first agreement nobody can now produce. A defeated people may be told that survival proves rightful submission.
+People enter divine relations by different roads. One household promises work
+and offerings in return for healing, burial, defence, or food. Elsewhere a
+child inherits an attachment whose first agreement nobody can produce.
+Conquerors point to the survival of a defeated people as proof of rightful
+submission.
 
-Those histories matter. Two rites can look alike while one renews a chosen covenant and the other preserves a conquest. A cult ledger can establish what living officials promise to provide. It cannot by itself prove that the god accepted every clause or that an ancestor freely agreed.
+Living officials enter their current service and relief promises in the cult
+ledger. An inherited attachment may have no first agreement attached; after a
+conquest, its earliest surviving entry may be an order. Witnesses elsewhere
+must supply the god's acceptance or an ancestor's agreement, if either account
+survives.
 
-A god-cult may own a magnificent shrine and lack the grain to keep its relief
-promise. Its miracles still depend on people carrying aid, tending bodies,
+Some magnificent shrines have empty relief stores. Their miracles depend on
+people carrying aid, tending bodies,
 guarding stores, and preserving the terms under which the work was owed. When
 those people or stores disappear, sacred authority can survive long after its
 ordinary promises become impossible.
@@ -48,18 +56,16 @@ ordinary promises become impossible.
 
 Death does not guarantee silence. Names are heard in sealed rooms. Familiar gestures form in smoke or ash. A dead champion appears to answer a living oath. A burial ground consumes the edge of a miracle and returns memory, appetite, warning, or accusation.
 
-Kalsans disagree about what continues, and the disagreement changes what they
-do with the same body. Kin may keep a name and answer a familiar gesture. A
-release sect may dismantle obligations and ask the dead to relinquish the lower
-world. A ruler can order confinement while the mortuary witness recording the
-voice refuses to call it the person returned.
+When a familiar gesture forms over a body, kin may answer with the dead
+person's name while a release sect arrives to sever old obligations. A ruler's
+guard may come for the remains. The mortuary witness writes down the voice
+without entering a returned person in the record.
 
-A manifestation can attract worship, inheritance disputes, old enemies, and
-people eager to make the dead useful. Some mortuary offices keep the remains,
-testimony about the person, cult obligations, and protection from whatever
-returns in different hands. Other places trust kin, clergy, or rulers with
-several of those powers together. The division is a safeguard people struggle
-to preserve, not a law observed across Kalsa.
+Control of the body can decide who receives offerings, inheritance, and
+protection from whatever answered. Some mortuary offices separate the remains
+from testimony and keep cult debts out of the hand guarding the manifestation.
+Their warrants end at a jurisdiction's edge. Beyond it, kin, clergy, or ruler
+may take body and voice together.
 
 ## Hungry holy places
 
@@ -71,11 +77,10 @@ serves. A shrine keeper may call the answer a broken covenant while a mortuary
 witness recognizes a dead voice and a steward records every grant that weakens
 near the burial ground.
 
-Some shrine networks interrupt work or rotate miracles among smaller sites.
-The closure can protect a wider route while taking healing and burial away from
-households unable to travel. Those households may demand reopened petitions,
-copies of the failure record, or aid that does not require approaching the
-hungry place again.
+Some shrine networks close a hungry site. Healing and burial petitions move to
+smaller shrines along the wider route. The sick and bereaved who cannot travel
+wait beyond their reach. Closure orders therefore draw requests to reopen,
+copied failure records, and demands for itinerant aid.
 
 Read [[../Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]], or
 continue to [[Magic and Miracles]], [[Relics and Ruins]], and [[../Places/Low Sere|Low Sere]].

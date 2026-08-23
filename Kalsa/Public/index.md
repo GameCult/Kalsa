@@ -39,21 +39,21 @@ is a Ju'onai teaching dispute in which four schools explain one failure and the
 keeper refuses to vanish into their footnotes.
 
 [[Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows an
-old cult succession through the covenant book, miracle ledger, and death
-inventory that refused to become one answer.
+old cult succession. What happens when its successor demands the covenant book,
+miracle ledger, and death inventory at once?
 
-[[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] follows
-water, accusation, and repair across three Selza'a family territories after a
-shared work fails in the fog.
+Three Selza'a families depend on the same high windtrap.
+[[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] begins
+when its corroded anchor gives way.
 
-[[Sources/Who Kept the Heat|Who Kept the Heat]] follows an unsafe order into
-Jamnai's heatworks, where a steward's refusal survives detention because stores,
-a copied record, and an appeal reach beyond one branch holder.
+A branch holder orders a tributary ward's heat sent to siege foundries.
+[[Sources/Who Kept the Heat|Who Kept the Heat]] stays with the steward who
+closes the valve.
 
-[[Sources/The Missing Relief Cohort|The Missing Relief Cohort]] reconstructs a
-wartime demand for grain and shield workers from store marks, Circle warnings,
-household testimony, and the military claim that the taking protected others.
+Store marks and shift papers outlast a disastrous wartime levy in
+[[Sources/The Missing Relief Cohort|The Missing Relief Cohort]]. The wider war
+is still waiting at the review.
 
-[[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] follows rival
-forecasts, a detained lift captain, concealed sponsor plans, and a fatigued
-brake through a civic appeal whose correction left material claims behind.
+Why did two sponsored forecasts omit what their sponsors planned to do with
+them? [[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] makes the houses
+answer before the grain moves.

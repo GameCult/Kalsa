@@ -13,7 +13,10 @@ tags:
 
 No miracle supplies a constitution, and no ancestry dictates a complete way of life. Kalsa's peoples inherited powers, wounds, landscapes, prejudices, and old institutions; they continue to make societies from them under present pressure.
 
-The names below are broad handles used by travellers and learned writers. A person may belong through kin, adoption, residence, work, worship, exile, marriage, or choice while rejecting whatever outsiders think the name explains.
+Travellers and learned writers use the names below as broad handles. Kin and
+birthplace may place a person within one of them; adoption, work, worship,
+exile, marriage, and choice can pull the same life across several. The name
+settles less than outsiders usually want it to.
 
 ## Selza'a
 
@@ -28,10 +31,9 @@ cistern used by households that never touch its machinery. Family shrines keep
 stories of dimna protection and inherited fortune. Such stories become
 dangerous when one territory's survival follows another's loss.
 
-[[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]]
-follows a shared failure through emergency water, an accusation of hostile
-Luck, a prophet's refusal, corroded metal, and a corrected record that did not
-restore the keeper's work.
+In [[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]],
+three families open their water stores before they agree about fault. The
+keeper leaves with a corrected record and no old contracts.
 
 ## Jamnai and the terjamna
 
@@ -45,9 +47,10 @@ Branch officers choose among safe demands; recognized stewards keep the working
 limits. Dead warriors called Soiru'i remain in branch and sect memory, where
 living champions may act in their names and disputed signs may enter an appeal.
 
-[[../Sources/Who Kept the Heat|Who Kept the Heat]] reconstructs one refusal
-through a threatened tributary ward, a detained steward, a sect store, a copied
-record, material inspection, and the superior who removed the holder.
+In [[../Sources/Who Kept the Heat|Who Kept the Heat]], a branch holder tries to
+send a tributary ward's heat to siege foundries. A steward stops the valve; a
+Hearth sect keeps the steward's family and copied page beyond the holder's
+reach.
 
 ## Papsenai and Ti'asantatca
 
@@ -62,13 +65,13 @@ Ti'asantatca stands beside a storm that does not end. Its Stormshield Circles
 keep overlapping watches. The incoming shaman takes hold before the outgoing
 worker releases the threatened section, and observers compare both accounts
 against the weather. Relief comes from the same households and fields the
-barrier protects. A shield can still look whole after the people able to
-sustain its next watch have already been spent.
+barrier protects. When no competent replacement arrives, the outgoing worker
+remains on the threatened section beyond the planned release.
 
-[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]] reconstructs
-an old campaign demand from the marks left at stores, the warnings kept by
-Circle workers, and testimony from households exposed when one shield section
-yielded. The campaign's claim upon the wider war survives in the same dispute.
+[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]] begins with
+grain taken for a campaign and a relief watch sent elsewhere. When the shield
+yields, its workers bring store marks, shift papers, and household testimony to
+the review.
 
 ## The Ju'onai Hegemony
 
@@ -78,17 +81,17 @@ concordance, a trial survived, causes properly distinguished, or merely a frame
 whose edge has finally been named. Opened readers experience such moments;
 learned readers test and carry the knowledge without claiming the same gift.
 
-Houses of Attestation certify demonstrated kinds of reading. The Measured
-Offices use reports to tax, allocate, build, conquer, and correct. Neither owns
-the schools, and the schools do not acquire the right to govern by explaining a
-system well.
+A reading meant for public use passes from a school to a House of Attestation,
+which certifies what its reader demonstrated. The Measured Offices then decide
+whether to use the report for tax, works, conquest, or correction. Explaining a
+system grants the school no public office.
 
 Ju'onai client colleges circulate [[../Sources/Four Readings of a Broken Sluice|a teaching dialogue]] in which four schools explain a failed sluice and
 its keeper asks which of them will carry the repair. The Hegemony can repair
 such headworks and use the improved flow to justify a larger levy. Local rulers
-may keep their titles while Measured Offices decide which records make their
-land legible. An appeal can expose the edge of an official model, sometimes
-only after the people outside it have paid for the error.
+may keep their titles while Measured Offices decide which accounts will support
+a levy or public work. An appeal can expose the edge of an official model,
+sometimes only after the people omitted from it have paid for the error.
 
 ## The divided city
 
@@ -105,21 +108,33 @@ civic judges decide what those reports can support. Most residents farm the
 galleries, maintain lifts and pressure refuges, carry grain, keep records, or
 serve the garrisons.
 
-[[../Sources/The Closed Lift Appeal|The Closed Lift Appeal]] follows two
-sponsored forecasts into the closure of a grain lift and the detention of its
-non-house captain. The appeal survives in sponsor disclosures, a brake
-inspection, staged cargo orders, a corrected record, and claims the correction
-did not pay.
+In [[../Sources/The Closed Lift Appeal|The Closed Lift Appeal]], two sponsored
+forecasts close a grain lift and cost its non-house captain work and housing.
+The sponsors must disclose their own intended actions before the lift moves
+again.
 
 ## Sarxe and Saxfoldi
 
-Sarxe communities remember two great dispersals: conquest of their first Crown City and the later massacre at a refuge they had believed secure. Saxfoldi, their best-known political center, now moves and hides. Households split and recombine, carrying people, stores, records, routes, and care so that no single captured place can own survival.
+Sarxe communities remember two great dispersals: the conquest of their first
+Crown City and a later massacre at a refuge they had believed secure. Their
+best-known political center, Saxfoldi, now moves and hides so that no enemy can
+take it at one gate.
 
-Saxfoldi moves so that an enemy cannot seize the whole political center at one gate. Its route space is finite. Clinics, graves, farms, workshops, and mixed households remain in settled Sarxe communities, while moving stores and offices must choose whom they can reach before the road closes. Families divided between those places carry messages, medicine, claims, and resentment in both directions. Diaspora workers serve as mediators, guides, guards, salvagers, hunters, and mercenaries; some sought the road, and others were assigned its danger by people who stayed nearer the center.
+Every move chooses what enters its finite route space. Central stores and
+records travel; clinics, graves, fields, and workshops remain under settled
+care. Divided families send messages and medicine across the closing road,
+along with arguments about who was reached in time. Diaspora workers guide and
+guard those routes, salvage lost ground, and sometimes take mercenary
+contracts. Many received dangerous road assignments from people who remained
+nearer the political center.
 
 ## Peoples outside the great magical polities
 
-Many people express no recognized magic. That fact does not make them one people, politically neutral, resistant to miracles, or naturally suited to ordinary labor. Old communities without a Crown tradition live throughout the continent, as do mixed households and people whose abilities do not match the institution trying to classify them.
+Many people express no recognized magic. They belong to old communities without
+a Crown tradition, mixed households, and ways of life that cross the great
+polities. Courts and employers still turn the lack of a recognized gift into
+claims about allegiance, resistance to miracles, and fitness for ordinary
+labor.
 
 Technical lineages also cross these boundaries. Their members may inherit a family practice, enter by apprenticeship, leave one order for another, or arise around a local work with no prestigious ancestry at all.
 

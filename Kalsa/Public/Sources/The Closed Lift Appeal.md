@@ -13,10 +13,9 @@ tags:
 
 # The Closed Lift Appeal
 
-Civic copies preserve the appeal without the city's name, its date, the houses
-involved, or the captain's name. They join records made for different purposes:
-two sponsored forecasts, the first court's order, disclosures compelled on
-appeal, a material inspection, and the captain's corrected record.
+Courts copy the Closed Lift Appeal when a sponsored forecast is offered without
+the sponsor's intended response. The old case begins with two such forecasts
+and a grain lift already failing in improbable ways.
 
 ## The first closure
 
@@ -41,10 +40,8 @@ maintenance crews once the levy passed. A Terjamna commander had planned a
 public seizure if the convoy was delayed. Neither plan had reached the first
 court with the forecast it would alter.
 
-A material inspection found fatigue in a brake assembly. The reports still
-carried unresolved forecast pressure and incompatible imperial action. They
-supplied no means to identify a Luck bearer or make the captain the cause of
-the faults.
+A material inspection found fatigue in a brake assembly. The two forecasts
+remained in the file beside the sponsors' incompatible plans.
 
 ## The load moved in stages
 
@@ -56,13 +53,15 @@ Sunwall stewards set and executed the operating limits. Civic officers carried
 the release and revised movement order. The revised grain movement required
 both acts.
 
-Neither predicted catastrophe followed. Ju'onai copies kept the forecast that
-warned of famine; Terjamna claims kept the threat of seizure and riot. Lift
-workers kept the fatigued brake and the repair in their account. Disclosure,
-staging, repair, and changed imperial plans had made the earlier branch set
-unrecoverable.
+Neither predicted catastrophe followed. The staged load orders date the brake
+repair. Later courts continued to receive both forecasts, now attached to the
+disclosed plans and changed operating order.
 
 ## The corrected copy
+
+Lower-shadow accounts place the captain's lost work and housing standing at the
+front of the appeal. None of the surviving corrections grants compensation.
+The civic copies no longer name the city, date, houses, or captain.
 
 Later court practice required a sponsor's intended intervention to travel with
 a forecast offered as evidence. Inferred Luck could support precaution or
@@ -70,12 +69,9 @@ material inquiry, while personal identification required other evidence.
 Temporary restrictions acquired a duration and review point. Civic clerks kept
 competing reports and later corrections beyond a sponsor's sole custody.
 
-Houses could discipline incomplete reports or unsupported identity claims.
-Sunwall stewardship retained the lift. Civic judgment retained release,
-movement orders, and remedy. Both imperial claims upon the city survived.
-
-Lower-shadow accounts keep the captain's lost work and housing standing beside
-the appeal. The corrected files leave no answer about later compensation.
+Nothing in the correction removed either imperial claim upon the city. The lift
+remained with Sunwall, while each revised movement order still crossed a
+steward's worktable and a civic desk.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]] or
 [[../index|Kalsa]].

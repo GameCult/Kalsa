@@ -28,6 +28,7 @@ play value.
 | KALSA-035 | Jamnai submission and Ash-Valve knowledge | Public reduced submission, protection, sect practice, and heat dependence to an author taxonomy, balanced ledger, and function list. | complete | Ash-Valve Public carrier, rejected repaired-01, seven-seat repaired-02 regression, and full verification passed. |
 | KALSA-036 | Papsenai shield-levy knowledge | Public carried reserve and watch mechanics but collapsed the double demand, divided evidence, settlement, and residual loss into one collective memory and proof list. | complete | Missing Relief Cohort carrier, rejected repaired-01, seven-seat repaired-02 regression, and full verification passed. |
 | KALSA-037 | Prophetic Closed Lift knowledge | Public separated allocation, operation, forecast, and civic judgment but presented a timeless authority map with no inhabited evidence path or historical scar. | complete | Closed Lift carrier, rejected repaired-01 and repaired-02, seven-seat repaired-03 regression, and full verification passed. |
+| KALSA-038 | Public prose saturation | Locally polished Public passages repeatedly used the same archival waiver, balanced viewpoint chorus, reform-and-invoice ending, and managed-ambiguity checksum across cultures. | complete | One dedicated prose critic blocked five successive frozen full-Public candidates on 22 findings; candidate 05 passed with no remaining finding. |
 
 Do not fill the queue with every imaginable fantasy topic. Add an item when a
 real owner, dependency, contradiction, or play requirement creates pressure.

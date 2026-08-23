@@ -13,17 +13,19 @@ tags:
 
 # What the Three Ledgers Kept
 
-Cult reformers, centralizing clergy, household coalitions, and mortuary
-keepers preserve incompatible lessons from a crisis now called the Three
-Ledgers Schism. The surviving accounts do not name the cult, its god, the
-district, or the year. This rendering compares what its separate records kept;
-it is not a transcript of the dead or a verdict on what the god intended.
+Three records outlived the cult crisis now called the Three Ledgers Schism: a
+covenant book, a miracle ledger, and a death inventory. Reformers, centralizing
+clergy, household coalitions, and mortuary keepers still arrange them into
+incompatible lessons.
 
 ## The anchor dies
 
 The cult's living anchor died during a failed transport season and poor
 harvest. Witnesses agreed about the body. Afterward, some rites continued,
 some failed, and manifestations contradicted one another.
+
+No surviving copy names the cult, its god, the district, or the year. Nor did
+the dead leave a transcript or the god supply an agreed account of its intent.
 
 Senior clergy held the central sanctuary and its most visible ceremonies. A
 proposed successor claimed that the continuing rites confirmed his emergency
@@ -38,9 +40,6 @@ inventory became proof that the anchor meant the successor to inherit every
 relationship. The miracle ledger became a list of assets available to his
 office.
 
-No single false sentence made the register dangerous. The copy made three
-different questions answer to the same custodian.
-
 ## Grain before succession
 
 The miracle stewards refused to certify the merged register. Their store
@@ -50,12 +49,11 @@ Grain, medicine, carriers, and healers remained with households already on the
 relief rolls. Petitioners seeking new work waited. The successor lost the
 public miracles that might have made his claim look settled.
 
-That refusal preserved lives and sharpened the shortage. Outer settlements
-bore the delay while a sanctuary dispute consumed guards, messengers, and
-credit. Some households backed the successor because his champions still kept
-rivals away. Others defended the stewards because relief entered their homes
-through the smaller shrines. The ledger could show where the grain went. It
-could not show whether the god had refused the successor.
+Outer settlements bore the delay while a sanctuary dispute consumed guards,
+messengers, and credit. Some households relied on the successor's champions to
+keep rivals away and backed his claim. In districts fed through smaller shrines,
+grain arrived under the stewards' refusal and secured their support. Petitioners
+beyond the existing relief rolls continued to wait.
 
 ## The body leaves the shrine
 
@@ -65,18 +63,16 @@ succession custody, the witnesses moved the body and inventory beyond the
 central sanctuary. Memory keepers copied the anchor's conflicting last
 statements instead of choosing the one most useful to the living office.
 
-The covenant witnesses could still testify about entry and exit terms. They
-could not assign the body, count the reserve, or turn a manifestation into the
-dead anchor's final command. The stewards could keep a household alive without
-deciding whether its inherited service was lawful. The mortuary witnesses
-could preserve an accusation from the dead without giving it custody of the
-stores.
+Covenant witnesses continued hearing entry and exit terms. Stewards kept the
+household minimum moving from the miracle ledger. The mortuary witnesses stayed
+with the body and death inventory. An accusation copied from the dead anchor
+therefore carried no order to open the stores.
 
 ## What survived the hearing
 
 A mixed hearing let the successor retain high office, the central shrine, and
-the right to conduct public rites. It did not certify divine preference. The
-original covenant records kept the origins and limits of their claims. The
+the right to conduct public rites. No verdict on divine preference entered its
+order. The original covenant records kept the origins and limits of their claims. The
 miracle ledger stayed with its stewards; stores and open promises were audited
 together. The death inventory remained in separate custody until its objects,
 statements, and severance claims could be heard.
@@ -87,11 +83,10 @@ did not all return. Nobody established which manifestations belonged to the
 dead anchor, or whether the god had chosen anyone.
 
 Reform cults cite the crisis when they divide records and keep copies beyond a
-successor's reach. Centralizers remember a season when rival custodians delayed
-aid while enemies gathered. Household coalitions ask what relief was promised
-before service becomes hereditary. Mortuary keepers ask who wants the body and
-why. The three records preserve no neutral lesson. They preserve enough
-difference that one office cannot finish the argument by owning the paper.
+successor's reach. Centralizers remember the aid delayed while enemies
+gathered. Household coalitions bring the covenant book when inherited service
+is demanded. When a successor reaches for the stores, the promises, and the
+body at once, mortuary keepers ask who wants the body and why.
 
 Return to [[../World/Gods and the Dead|Gods and the Dead]], or begin again at
 [[../index|Kalsa]].

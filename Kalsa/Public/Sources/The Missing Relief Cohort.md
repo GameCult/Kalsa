@@ -13,11 +13,9 @@ tags:
 
 # The Missing Relief Cohort
 
-Later Papsenai accounts give this event a name rendered here as the Shield Levy
-Winter. The word does not settle the local calendar. No surviving copy names
-the campaign, its authorities, or the communities that supplied Ti'asantatca.
-What remains is narrower: marks at the stores, Circle shift papers, household
-testimony, and a military claim made during the review.
+Later Papsenai accounts call this the Shield Levy Winter. The name returns in
+arguments over what an emergency may take from the people maintaining
+Ti'asantatca.
 
 ## The grain left first
 
@@ -56,7 +54,14 @@ had weakened the households and stores supporting the shield while diversion
 removed the people meant to relieve its active workers. The Circles retained
 technical judgment over the barrier.
 
+The papers never name the campaign, its authorities, or the communities that
+supplied Ti'asantatca, and the word *winter* fixes no shared calendar date.
+
 ## What later claimants had to carry
+
+The first store marks stayed in later reviews beside demands for consumed seed,
+damaged dwellings, and support for disabled workers. The surviving papers give
+no disposition for those demands.
 
 Later local assessments identified subsistence and seed before declaring a
 surplus available for negotiation. An emergency collector had to leave a
@@ -68,10 +73,6 @@ volunteer for another target after the Circle recorded consent and a competent
 replacement accepted the handoff. An operational lead could refuse a diversion
 that left no credible overlap or recovery body. Emergency collection and
 volunteering remained possible.
-
-The first store marks survived beside claims for consumed seed, damaged
-dwellings, and disabled workers. The event does not record which of those
-claims were ever paid.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]] or
 [[../index|Kalsa]].

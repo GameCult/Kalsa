@@ -13,14 +13,9 @@ tags:
 
 # After the High Windtrap Broke
 
-Selza'a compact records remember this case as the Broken Windtrap Settlement.
-The families, keeper, prophet, worker, place, and date are missing from the
-account. This rendering follows the work and water preserved in the case. It
-does not describe every family compact.
-
-Territorial councils cite the case when they need to stop an armed crossing.
-Victims cite the keeper's lost contracts when a repaired structure is offered
-as the end of a dispute.
+Territorial councils still cite the Broken Windtrap Settlement when they need
+to stop an armed crossing. Victims answer with the keeper's lost contracts
+whenever a repaired structure is offered as the end of a dispute.
 
 ## Water first
 
@@ -45,9 +40,8 @@ Corrosion lay beneath a covering none of the families had removed. Each family
 had deferred part of the shared maintenance schedule. Each had kept better
 records of its neighbours' missed work than of its own.
 
-The case table found a failed shared system and proven maintenance breaches.
-It found no magical culprit. That finding assigned repair costs without
-deciding whether Luck had touched the sequence at all.
+The case table found a failed shared system and maintenance breaches by all
+three families. On that evidence it divided the repair costs among them.
 
 The risk pool paid for immediate care, replacement water, and reconstruction.
 Later contributions changed according to use and missed maintenance. Families
@@ -60,10 +54,9 @@ The rebuilt windtrap passed inspection, and reciprocal restrictions ended.
 Later compacts required every user to record completed maintenance and added
 support for work lost during a shared failure.
 
-The adopted keeper received a corrected record and no liability. Contracts
-did not return. The keeper changed family affiliation. The case does not say
-which family accepted them next, or whether anyone stopped watching for the
-same run of misfortune.
+The adopted keeper received a corrected record and no liability before changing
+family affiliation; the old contracts were never restored. Later copies have
+lost every name, the place, and the date.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]],
 [[../World/Magic and Miracles|Magic and Miracles]], or [[../index|Kalsa]].

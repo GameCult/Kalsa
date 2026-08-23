@@ -298,3 +298,35 @@ promoted or retired.
   carrier, remedy owner, and enforcement path cannot be collapsed into one
   successful appeal.
 - **Next pressure:** Sarxe household dispersal and Grey Scald memory.
+
+## 2026-08-23 — Public prose saturation
+
+- **Scope:** [[passes/KALSA-038-public-prose-saturation|KALSA-038]], covering
+  the root consent gate and every note in the Public reader surface.
+- **Authority cut:** no lore owner changed. Ten Public notes and the Public
+  index changed presentation only; hidden setting claims, source limits,
+  material consequences, and metaphysical uncertainty remain intact.
+- **Repair:** five prose rounds broke archival-waiver openings,
+  reform-and-invoice endings, serial correction, authority-matrix choruses,
+  survey comparison rows, list congestion, workshop dialect, and the repeated
+  managed-ambiguity sequence around uncanny and technical evidence.
+- **Critic loop:** the sole AI-Isms and Prose critic blocked the baseline and
+  candidates 01 through 04 on 22 total findings. Candidate 05 passed. After
+  wikilink verification required two line-wrap repairs, the critic verified all
+  fifteen hashes and passed the exact candidate 06 body with no finding at any
+  priority.
+- **Protected material:** functional play inventories, deliberate dialogue,
+  precise institutional terms, provenance limits, the Ash-Valve knocks,
+  independent inspections, unresolved compensation, and culture-specific
+  disagreement survived the repair.
+- **Verification:** nine immutable seed witnesses; 580 links across 74
+  canonical notes; vault and publication boundaries; lore-tool negative tests;
+  production Quartz build of fourteen inputs and 43 outputs; DOM and visual
+  inspection of every changed route with no missing article, broken image, or
+  horizontal overflow.
+- **Durable judgment promoted:** the prose defect may live at corpus scale.
+  Locally strong paragraphs fail when unrelated cultures repeatedly use the
+  same argumentative sequence. Repair the carrier and sequence through action,
+  custody, omission, and uneven emphasis instead of banning words or replacing
+  one sentence formula with another.
+- **Next pressure:** Sarxe household dispersal and Grey Scald memory.

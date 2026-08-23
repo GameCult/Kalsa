@@ -32,8 +32,11 @@ Distance is therefore measured in more than time. Travellers ask whose warning m
 
 ## A living high-fantasy world
 
-Most people do not spend their lives asking what the Crown Cities ultimately are. They plant, haul, study, marry, bargain, worship, refuse, raise children, keep watch, and repair what lets the next day resemble the last. The impossible is woven into those tasks.
-
-A household may owe grain to a shrine because its god diverted a flood. A clerk may compare three prophetic reports before scheduling a lift. A healer may refuse divine aid near a hungry burial ground. A worker may know from the sound of a pipe that the priest's inherited formula is being used in the wrong season.
+Most people meet the impossible while trying to make tomorrow resemble today.
+Grain pledged after a divine flood must still be planted and hauled. In a
+Sunwall ward, a clerk compares three prophetic reports before a lift crew moves
+the harvest. Elsewhere a healer turns divine aid away from a hungry burial
+ground, or a pipe worker hears an inherited formula used in the wrong season.
+Families form, bargain, worship, quarrel, and raise children through all of it.
 
 See [[Peoples and Polities]], [[Magic and Miracles]], and [[Relics and Ruins]].
