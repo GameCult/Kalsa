@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T12:45:18Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-039
+snapshot_at: 2026-08-23T14:13:58Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-040
 ---
 
 # Kalsa Canonical Body Map
@@ -30,6 +30,11 @@ checks. This changes review routing, not canon or publication authority.
 KALSA-039 adds an author-facing Oracle Ecology owner, situated Public models
 and case carriers, and a current Ghostlight dungeon without granting any
 inhabitant or character the author comparison.
+
+KALSA-040 distributes divine-scale processing, feeding/interception, great-rite
+procedure, one Ash-Halo history, and one current court across their rightful
+owners. It retires the originating proposal and adds a phase-boundary intake
+gate so committed handoffs cannot disappear outside a frozen review body.
 
 ## Lore review and repair control
 
@@ -66,6 +71,39 @@ inhabitant or character the author comparison.
   authority checks, and the repository verification suite.
 - **Unresolved seam:** report assembly and dispatch remain Markdown-first. No
   runtime or automation owns them until repetition justifies that machinery.
+
+### Phase-boundary intake gate — KALSA-040
+
+- **Owner:** the active pass coordinator owns receipt and disposition of
+  proposal/handoff notes before review and closure;
+  `scripts/lore/check-phase-boundary-intake.ps1` owns read-only detection and
+  validation only.
+- **Inputs:** the pass's full `intake_base_commit`, Git history since that
+  boundary, staged/unstaged/untracked Markdown, proposal/handoff filename and
+  frontmatter signals, the exact packet raw-SHA-1 manifest, and explicit
+  `defer` or `reject` rows for notes outside the packet.
+- **Outputs:** a blocking pass/fail result plus a packet, named deferral, or
+  concrete rejection receipt for every changed proposal/handoff surface.
+- **Derived/display-only state:** scan results, candidate classification,
+  packet membership, hashes, and intake messages are process evidence. They do
+  not promote a proposal, select lore, or replace the pass record.
+- **Forbidden writers:** the checker cannot edit canon, packets, passes, queue,
+  or memory; candidate status cannot promote itself; packet selection cannot
+  make an unreceived handoff cease to exist.
+- **Shared paths:** record the pass-start commit -> enumerate committed and
+  working-tree handoffs -> include each exact hash or record defer/reject -> run
+  before the first critic -> rerun against the exact final packet before
+  closure.
+- **Deletion/demotion line:** remembered-by-the-coordinator intake and packet-
+  selection-by-convenience are cut. No second proposal registry is introduced;
+  the pass table records only out-of-packet dispositions.
+- **Verification layer:** complete raw-SHA-1 Markdown manifests, review and
+  closure invocations, the dedicated fixture covering committed,
+  staged/working, deferred, rejected, packeted, and post-freeze-changed notes,
+  and the council completion gate.
+- **Unresolved seam:** detection remains deterministic filename/frontmatter
+  classification over Markdown. Broader semantic proposal discovery would
+  require a justified owner rather than a keyword bureaucracy.
 
 ## Canonical substrate
 
@@ -139,6 +177,66 @@ inhabitant or character the author comparison.
   multistyle interaction, Intuition, deliberate independence inside God
   hierarchies, first War-era collisions, the Second Gate's final outcome and
   liability forum, and the external Ghostlight compiler/campaign contract.
+
+### Divine-scale workings and Ash-Halo authority — KALSA-040
+
+- **Owner:** `Kalsa/Spoilers/Foundations/Kaos.md` owns the physical and causal
+  limits of divine-scale processing; `Projections, God Beasts, and
+  Thaumavores.md` owns feeding, interception, acquired potential bodies, and
+  the bounded ascent possibility; `Oracle Ecology.md` owns how concentrated
+  workings crowd rival horizons. `The Potential Economy.md`,
+  `God-Cult Covenants.md`, and
+  `Death and Binding Law.md` own allocation/return, ritual terms, and mortuary
+  evidence respectively. `The Ash-Halo Armament.md` alone owns the adopted
+  history; `The Ash-Halo Court.md` owns the current site, actors, access,
+  clock, and reachable outcomes. `The Faces in the Ash Halo.md` owns situated
+  Public presentation only; `Divine Manifestation and Thaumavore Interception
+  Proposal.md` owns a provenance pointer only; Ghostlight owns runtime
+  resolution.
+- **Inputs:** seed constraints, the retired proposal as provenance/design
+  evidence, named source matter and energy, prepared labor and machinery,
+  grants and withdrawals, covenant terms, answer rolls and household copies,
+  Jamnai branch claims, current site state, and future character/campaign state.
+- **Outputs:** constrained apparent materialization/summoning; observable
+  feeding, interception, and loss states; concentrated-working dockets and
+  returns; answer-roll and recognition procedure; one factual history; one
+  mutable current court; one spoiler-safe Public record; and runtime receipts
+  for explicit owner review.
+- **Derived/display-only state:** council packets and reports, index summaries,
+  Public/Quartz renderings, unplayed reachable outcomes, and runtime receipts
+  before explicit adoption describe owned sources. None is an alternate
+  mechanics, event, or dungeon owner.
+- **Forbidden writers:** the proposal cannot retain a live claim; Kaos cannot
+  write a factual miracle; the event cannot write universal procedure;
+  allocation, covenant, mortuary, or Soiru'i records cannot settle identity,
+  ascent, or divine intent; Public cannot publish backstage terminology; the
+  current dungeon and Ghostlight cannot preselect an outcome or silently write
+  canon.
+- **Shared paths:** causal and entity foundations -> Oracle Ecology collision
+  -> factual event -> owner-specific institutional consequence -> current court
+  actors, access, material stops, and three-horn clock. Publication follows
+  event/owner evidence -> reveal review -> situated Public source -> Quartz;
+  play follows bounded site evidence plus character/campaign state ->
+  Ghostlight resolution -> separate forge, potential, covenant, mortuary,
+  household, and delving receipts -> explicit reveal or canon review.
+- **Deletion/demotion line:** `Divine Manifestation and Thaumavore Interception
+  Proposal.md` is retired to `provenance-only`; its original prose survives in
+  Git, not as shadow authority. Generic divine spell lists, universal halo
+  meaning, automatic divine cleanup, a known historical population of ascended
+  thaumavores, unnamed material-risk overrides, and prewritten current outcomes
+  are cut.
+- **Verification layer:** all 28 raw SHA-1 identities for
+  `KALSA-040-candidate-03`; seven grounded exact-candidate regressions plus the
+  unchanged blind Public reader candidate, all passing; recognition-path parity
+  among Orsa, Melka, and Taru; Sedren's sole material-stop and replacement-
+  configuration authority; proposal retirement; owner/event exclusivity;
+  intake fixture; full-vault/Public links, publication boundary, Quartz, and
+  rendered-route checks at closeout.
+- **Unresolved seam:** potential conservation and measurement, surviving
+  memory/personhood/dormancy/return after stripping, exact stabilization and
+  first binding, historical occurrence of ascent, feeder identity, the Ash
+  Hook fracture claim, the current court's outcome, and the external Ghostlight
+  compiler/campaign contract.
 
 ## Provenance and repair markers
 
@@ -549,7 +647,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-039
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-040
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -571,28 +669,30 @@ These overlays record changed authority and shared paths. They are audit views o
 | `Kalsa/Spoilers/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
 | `Kalsa/Spoilers/Dungeons/The Ashen Intake.md` | Canonical direct-entry dungeon owner for its threshold, route, clock, hazards, objectives, collisions, and local outcomes. | Consumes settlement admission and compacts; returns recovery/change evidence to settlement and custody owners. | Cannot grant title, universalize salvage law, or decide Ghostlight runtime truth. |
 | `Kalsa/Spoilers/Dungeons/The Second Gate Understore.md` + `Kalsa/Public/Sources/At the Second Gate.md` | The Spoilers dossier owns the canonical current site, evidence, actors, levers, clock, and reachable changes; the Public source owns only the escort's threshold copy. | Supplies bounded site and character evidence to Ghostlight; runtime receipts return to explicit reveal or canon review. | Public cannot expose hidden responses or Oracle Ecology; the dossier cannot choose play's outcome; runtime resolution cannot silently become canon. |
+| `Kalsa/Spoilers/Events/The Ash-Halo Armament.md` + `Kalsa/Spoilers/Dungeons/The Ash-Halo Court.md` + `Kalsa/Public/Sources/The Faces in the Ash Halo.md` | The event owns the adopted factual sequence; the dungeon owns current actors, access, material routes, recognition, clock, and reachable outcomes; the Public source owns situated presentation only. | Event consequences feed local institutions and the current dossier; bounded evidence feeds Ghostlight; reviewed event evidence crosses reveal review into Public. | The event cannot universalize divine mechanics; the dungeon cannot choose play's result; Public cannot disclose acquired-body, interception, or ascent author models. |
 | `Kalsa/.obsidian/` | Stable configuration for the sole canonical Obsidian vault root; workspace, graph, recents, and cache remain ignored derived state. | Opens `Kalsa/` with automatic link maintenance and the standard authoring tools while current neutral session state points at `index.md`. | Session state cannot be shared as authority or resume inside `Spoilers/` before consent; editor state and plugins grant no canon authority. |
 | `workshop/Direction and Constraints.md` | Project charter and governing editorial doctrine. | Constrains selection, provenance, depth, and public/private decisions. | Does not contain setting facts merely because a design direction is persuasive. |
-| `workshop/deepening/` | Critique/repair contract, benchmark, queue, pass evidence, ledger, and this map. | Reads seed/canon; records reasoning and verification; proposes bounded owner repair. | Never published as lore and never used as a parallel canon. |
+| `workshop/deepening/` | Critique/repair contract, benchmark, queue, pass evidence, intake dispositions, ledger, and this map. | Reads seed/canon; records reasoning and verification; receives or explicitly defers/rejects changed handoffs before frozen review and closure. | Never published as lore, used as a parallel canon, or allowed to promote a proposal through packet membership. |
 | `.epiphany/project-memory.md` | Human-inspectable durable judgment and open design pressure. | Receives only lessons that should steer future passes. | Cannot store raw lore, task chatter, or decide canon. |
 | `.epiphany/state/project-memory.cc` | Generated typed CultCache projection of project memory. | Rebuilt only through `.epiphany/sync-project-memory.ps1`; consumed for runtime inspection. | Never hand-edited and never promoted to Persona, lore, or job authority. |
 | `site/` | Kalsa-specific Quartz presentation overlay. | Combines only `Kalsa/Public/` with the shared `GameCult-Quartz` runtime. | Presentation cannot decide canon, admit the rest of `Kalsa/`, or widen the reader surface. |
 | `scripts/quartz/quartz.ps1` + `site/quartz.config.ts` + deploy workflow | Build/deployment entrypoints; bind `contentDir` to `Kalsa/Public`, overlay to `site`, output to `quartz-site/public`, and admit every reader note to RSS. | Replace the local output before each build and produce the same complete situated-reader projection locally and in GitHub Pages workflow. | Build configuration cannot rewrite source, retain stale author pages, truncate RSS to an arbitrary recent-note limit, fall back to complete `Kalsa/`, or broaden publication eligibility silently. |
 | `.quartz-build/` + `quartz-site/public/` | Generated build state and reader projection. | Replaced from `Kalsa/Public/`, then inspected for navigation, search, feed, and rendered leakage. | Never edit directly; old pages cannot survive a narrower input; rendered success is evidence, not canon or reader-source authority. |
-| `scripts/lore/` | Read-only integrity, vault-layout, link, publication-boundary, generated-route, and structural diagnostics plus tool tests. | Observe seed, canon, vault enclosure, source/output projection boundaries, and depth pressure. | Metrics and passing checks cannot award depth or setting truth. |
+| `scripts/lore/` | Read-only intake, integrity, vault-layout, link, publication-boundary, generated-route, and structural diagnostics plus tool tests. | Observe changed handoffs, packet receipt, seed, canon, vault enclosure, source/output projection boundaries, and depth pressure. | Diagnostics cannot edit packets or passes, award depth, promote candidates, or decide setting truth. |
 | Ghostlight runtime | Future owner of bounded character-context and adjudicator projections; implementation remains external to Kalsa. | Consumes reviewed author/public inputs plus character and campaign state, then returns receipts for explicit reveal or canon review. | Cannot use unrestricted author-vault retrieval as character knowledge, make resolver output author truth, or let Kalsa workshop prose impersonate its runtime contract. |
 
 ## Deepening loop and shared commit path
 
 1. **Select:** `queue.md` identifies pressure; selection does not grant canon authority.
 2. **Inventory:** the pass records exact seed witnesses, current owner notes, adopted claims, contradictions, and unknowns.
-3. **Model:** name owner, inputs, outputs, derived state, forbidden writers, shared paths, and the deletion line before repair.
-4. **Critique:** test generic defaults, missing material support, false consensus, absent subordinate experience, and stopped consequences.
-5. **Cut/demote:** remove duplicate or overbroad authority before adding procedure.
-6. **Repair/connect:** edit the smallest canonical owner set and connect people, material, history, neighboring owners, and dungeon/play consequences.
-7. **Falsify:** add at least one hostile or marginal reading and one historical stress case.
-8. **Verify:** seed hashes → touched/global links → publication boundary → targeted negative checks → Quartz production build → affected-page inspection → git scope.
-9. **Record:** finish the pass, ledger result, re-rank queue, and promote only durable judgment to project memory before regenerating `.cc`.
+3. **Receive/freeze:** record the pass-start commit; enumerate changed proposal/handoff surfaces; include each exact hash in the packet or record a named defer/reject disposition; pass the review intake gate.
+4. **Model:** name owner, inputs, outputs, derived state, forbidden writers, shared paths, and the deletion line before repair.
+5. **Critique:** test generic defaults, missing material support, false consensus, absent subordinate experience, and stopped consequences.
+6. **Cut/demote:** remove duplicate or overbroad authority before adding procedure.
+7. **Repair/connect:** edit the smallest canonical owner set and connect people, material, history, neighboring owners, and dungeon/play consequences.
+8. **Falsify:** add at least one hostile or marginal reading and one historical stress case.
+9. **Verify:** freeze the final packet and rerun intake, then seed hashes → touched/global links → publication boundary → targeted negative checks → Quartz production build → affected-page inspection → git scope.
+10. **Record:** finish the pass, ledger result, re-rank queue, and promote only durable judgment to project memory before regenerating `.cc`.
 
 Direct human edits and agent repairs must converge on this path. A workshop pass is evidence of the change, not an alternate writer. Publication follows author canon → reveal review → situated `Kalsa/Public/` source → Quartz projection; future play follows bounded author/public input → Ghostlight projection/adjudication → receipt → explicit reveal or canon review. Repairs return to the owning author or public source rather than being patched into generated output, memory, site configuration, or runtime packets.
 
@@ -615,7 +715,11 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   without granting any account the whole finding; KALSA-039 adds the Oracle
   Ecology author owner, situated crowded-future carriers, and the current
   Second Gate dossier without granting Public or characters the author model
-  or deciding the live outcome. Ghostlight compiler schemas,
-  campaign-package ownership, equivalent depth for the remaining traditions,
-  and deployment/domain authority remain unresolved in their owning projects.
+  or deciding the live outcome; KALSA-040 adds bounded divine-scale processing,
+  an adopted Ash-Halo history, current court, and situated Public record while
+  retiring its proposal and preserving unknown ascent/identity mechanics.
+  `KALSA-040-candidate-03` is the council-certified exact body. Ghostlight
+  compiler schemas, campaign-package ownership, equivalent depth for the
+  remaining traditions, and deployment/domain authority remain unresolved in
+  their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

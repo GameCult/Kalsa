@@ -78,6 +78,18 @@ The initial foundation adopts these repairs:
 12. God hierarchies can produce local timeline capture by controlling
     information, potential, levers, and rival agency. Capture is bounded and
     contingent, not proof of one global deterministic future.
+13. Divine-scale Kaos can gather, transform, move, and assemble existing matter
+    through prepared causal routes at apparently impossible speed. Each case
+    still requires source matter, energy, levers, time, potential, and an open
+    branch.
+14. Repeated feeding can support an acquired potential body through which a
+    thaumavore manifests and acts. Interception can destroy that body and its
+    present foothold without establishing release or settling what memory and
+    personhood survive in the Individual Projection.
+15. Captured flow can establish durable independent agency and open an ascent
+    route for a thaumavore. Godhood additionally requires stabilization and the
+    binding of other Beasts or Projections. Historical occurrence, prevalence,
+    and divine recollection remain unresolved.
 
 ## Unresolved claims
 

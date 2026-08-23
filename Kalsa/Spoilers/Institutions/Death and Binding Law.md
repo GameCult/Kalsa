@@ -7,6 +7,7 @@ status: canonical-institution
 adopted_in: KALSA-008
 repaired_in:
   - KALSA-017
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-38.md
@@ -178,6 +179,28 @@ food, witnesses, or burial.
 
 ## Thaumavores, testimony, and recognition
 
+### Answer rolls around great rites
+
+Where a concentrated rite will cross graves, shrines, old battlefields, or
+known manifestation routes, a death witness may prepare an **answer roll**.
+Each entry names the earlier sign, the people able to recognize it, its last
+appearance, the site or relation through which it answered, and the custody of
+supporting copies. The roll is opened before the rite where local procedure
+allows it and checked again after the site cools.
+
+A later silence is evidence of a lost relation. A flash matching a familiar
+gesture is evidence that the sign appeared inside the working. Together they
+can justify preservation, search, temporary containment, material support, or
+a claim against the mortal offices that concealed the hazard. They do not show
+whether an acquired potential body was destroyed, which memory survived, or
+whether the continuing Projection can answer elsewhere.
+
+Keeping the roll can be dangerous. A cult may seize it as a list of intruders;
+a sect may add invented ancestors to seek a ritual share; a household may hide
+an embarrassing dead claimant; and prolonged testing can feed the presence
+being tested. Copies, access, expiry, and the conditions for closing the site
+belong in the mortuary warrant.
+
 The unquiet dead feed where potential passes. Some demand recognition because
 their names, deaths, submissions, or services were omitted from the public
 record. Institutions must decide whether to hear a manifestation as testimony,
@@ -221,6 +244,16 @@ Appeal may be brought by kin, a named dependant, cult, office, sanctuary, proper
 The settlement of [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] made the death inventory an independent jurisdictional record rather than an appendix a successor could absorb into the covenant register. In institutions carrying that precedent, the inventory preserves the deceased's statements, open severance claims, dependants, entrusted objects, and competing interpretations without declaring which faction a god preferred.
 
 Later death offices cite the event when demanding duplicate inventories and a custodian outside the succession faction. Cult continuity offices answer that separation can strand a dangerous body between rival claimants. The event did not prove a metaphysical release; it proved that uncertainty cannot be managed honestly when the successor owns the only evidence of what the dead refused.
+
+## The Ash-Halo consequence
+
+Mortuary offices carrying [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo
+Armament]] keep the pre-rite answer roll outside the branch registrar's sole
+custody. Their aftermath procedure visits each recorded site, preserves any
+flash or voice observed during the working, and keeps silence distinct from
+release. Households may claim food, safe lodging, burial support, replacement
+protection, witness costs, or access to a sealed site while the identity claim
+remains open.
 
 ## Dungeon pressure
 

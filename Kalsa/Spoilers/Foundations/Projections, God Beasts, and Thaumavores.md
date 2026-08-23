@@ -9,6 +9,7 @@ status: canonical-foundation
 repaired_in:
   - KALSA-026
   - KALSA-039
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-32.md
@@ -88,9 +89,43 @@ This limit is part of Kalsa's revelation structure. Reaching a god can reorder a
 
 Projections do not simply vanish at bodily death. Those without independent magical power may consume potential passing through their vicinity and use it to manifest. These **thaumavores** include lost souls, ancestral presences, and carcasses of unascended Chaos Beasts.
 
-Many seek recognition, remembrance, protection of descendants, or another route toward divine continuity. Their appetites limit concentrated miracles. A God Beast that extends too much potential in one place for too long attracts nearby thaumavores and risks losing control of the flow. A catastrophic divine collapse can become a magical fountain in which old ghosts and dead gods manifest for as long as stolen potential remains.
+Many seek recognition, remembrance, protection of descendants, or another route toward divine continuity. Their appetites limit concentrated miracles. A God Beast that extends too much potential in one place for too long exposes a feeding route to thaumavores whose Projections or existing footholds can reach it. A catastrophic divine collapse can become a magical fountain in which old ghosts and dead gods manifest while diverted potential remains available.
 
-This is not settled proof that the dead are fully resurrected. Manifestation, identity continuity, memory, and release require further adjudication.
+### Acquired potential bodies
+
+Potential taken across repeated feedings can support an **acquired potential
+body**: the organized capacity through which a thaumavore currently manifests,
+acts, and holds a lower-world foothold. Each feeder organizes that capacity
+differently. A lost person, remembered ancestor, and carcass of an unascended
+Beast may carry different memory, appetite, Gift, and agency. The available
+evidence reaches the active form; conserved substance and completeness of
+personhood remain open questions.
+
+Destroying an acquired body is a real destruction. The appropriated capacity supporting it is lost,
+the manifested form collapses, present agency ends, and relations depending on
+that foothold can go silent. The underlying Individual Projection keeps its
+grip on the lower world until voluntary release. Evidence after the collapse
+currently leaves memory, commitments, personhood, dormancy, and return open.
+
+### Feeding, interception, and ascent
+
+A feeding attempt uses an accessible part of a potential route. The diversion
+changes the amount, destination, timing, or coherence of the grant. Detection
+depends on relations exposed to that deformation; response depends on levers
+that can reach it. Retraction, dispersal, redirection, containment, negotiation,
+and binding are possible responses. A forceful interception can strip the
+feeder's acquired body before it establishes control; failure can leave a
+hidden loss, an overfed manifestation, or a fountain.
+
+Captured flow can establish durable independent agency and open an ascent
+route. A thaumavore following that route may later stabilize the agency and
+bind other Beasts or Projections into a God hierarchy. The exact stabilization,
+first binding, historical occurrence, prevalence among present Gods, and any
+memory of the earlier hunger remain unresolved.
+
+Visible crackling, faces, voices, cold, shadow, or light can accompany a feeding
+collision. Diagnosis rests on the event, route, and surviving evidence rather
+than the appearance.
 
 ## Release
 
@@ -99,6 +134,21 @@ The seed says a Projection remains until it willingly releases its grip on the l
 ## Institutional pressure
 
 This cosmology makes worship, submission, apostasy, funerals, ancestral claims, miracles, and divine succession questions of real power. It does not yet establish one universal law for them. Later institution notes must distinguish who owns a rite, what the rite changes, who can refuse, and who bears the risk of thaumavore attraction.
+
+## Unresolved
+
+- Whether potential is conserved, divisible, or measurable independently of a
+  particular reachable intervention.
+- Which memories, commitments, or parts of personhood survive destruction of
+  an acquired potential body.
+- Whether a stripped thaumavore becomes dormant, can rebuild the same agency,
+  or returns through a meaningfully different manifestation.
+- How durable independent agency stabilizes after captured divine flow and what
+  first binding turns it into a God hierarchy.
+- How many present Gods began through thaumavore ascent and which, if any,
+  remember it reliably.
+- Which visible signs distinguish feeding, interception, binding, ordinary
+  manifestation, and unrelated material effects.
 
 See [[Spoilers/Foundations/Kaos|Kaos]],
 [[Spoilers/Foundations/Magic Styles|Magic Styles]],

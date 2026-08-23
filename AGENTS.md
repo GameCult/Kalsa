@@ -90,7 +90,9 @@ Before editing an institution, region, practice, or cross-cutting system:
 2. Inventory seed statements, adopted facts, contradictions, and unknowns.
 3. Name the canonical owner and model its inputs, outputs, dependencies,
    beneficiaries, costs, failure modes, and neighboring interfaces.
-4. Assemble an immutable review packet and give every active Critic in
+4. Record the full pass-start commit, assemble an immutable review packet with
+   a complete raw SHA-1 Markdown manifest, and run
+   `scripts/lore/check-phase-boundary-intake.ps1` before review. Give every active Critic in
    `workshop/review-council/README.md` an independent diagnostic turn. Record
    Guardian seats and any periodic or early sanity trigger; Guardians skip the
    ordinary baseline diagnosis.
@@ -105,6 +107,7 @@ Before editing an institution, region, practice, or cross-cutting system:
    surface only when the council's sanity-check cadence or reactivation trigger
    requires it.
 9. Verify seed integrity, links, publication boundaries, and the Quartz build.
+   Run the phase-boundary intake check again against the exact final packet.
 10. Record the pass in the ledger and promote only durable judgment into project
    memory.
 

@@ -8,6 +8,7 @@ adopted_in: KALSA-008
 repaired_in:
   - KALSA-017
   - KALSA-039
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -117,6 +118,27 @@ hostels, workshops, archives, training houses, roads, burial grounds, and
 trusted suppliers are part of the miracle economy. Control of these inputs can
 outlast a weak god. It can also conceal that a celebrated miracle was largely
 the work of people whose names never entered the potential ledger.
+
+## Concentrated-working docket
+
+A steward opens a planned concentration after its docket names the intended
+result and beneficiary, source matter and energy, prepared site, material
+custodian, delegate, withdrawals from other work, known leakage sites,
+interruption authority, expiry, and recovery reserve. Unanswered fields remain
+marked, including burial or shrine routes that nobody inspected.
+
+Each contributing record keeps its own signature and custody. The material
+custodian signs for the inspected system. A death witness or shrine keeper
+attaches a presence list. A household preserves the withdrawal of its
+protection. The steward joins those records to the allocation without taking
+over their claims.
+
+After the working, a **concentration return** records what arrived, what was
+diverted or retracted, stores consumed, machinery and bodies harmed, sites that
+manifested, recognized presences that went silent, grants awaiting restoration,
+containment still active, labor performed, and claims sent elsewhere. Material
+support orders follow the return. Divine intent and posthumous identity stay on
+their covenant and mortuary evidence paths.
 
 ## The household bargain
 
@@ -241,6 +263,15 @@ bridge grant. The entry includes ordinary stores and fuel placed at risk,
 workers diverted to drainage and repair, and claims carried by households that
 could no longer reach the funded site. The ledger records those costs without
 acquiring jurisdiction over the upstream Channeler or divine intent.
+
+## The Ash-Halo consequence
+
+Stewards citing [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo
+Armament]] require source racks, furnace draw, withdrawn shrines, answer-roll
+custody, leakage perimeter, interruption owner, and recovery reserve to appear
+before a comparable grant opens. Their returns keep forge loss, bodily injury,
+blocked work, outer protection, manifestations, and later silences on separate
+lines.
 
 ## Dungeon pressure
 

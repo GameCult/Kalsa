@@ -22,8 +22,9 @@ A pass must:
    consensus, absent subordinate perspectives, and consequences that stop at
    the page edge. Assemble an immutable packet and collect independent baseline
    reports from every active Critic in the [[../review-council/README|Lore
-   Review Council]]. Record which seats are Guardians and whether any sanity
-   trigger applies.
+   Review Council]]. Before the first report, run the phase-boundary intake
+   check against that packet. Record which seats are Guardians and whether any
+   sanity trigger applies.
 5. **Adjudicate** every substantive council finding as accepted, modified,
    rejected, or deferred. Preserve raw disagreement; do not vote lore into
    existence or give reports directly to a repair writer.
@@ -42,6 +43,36 @@ A pass must:
    affected rendered pages, and the actual git diff.
 11. **Record** the result in `ledger.md`, update `queue.md`, and promote only a
    durable operating lesson or decision into `.epiphany/project-memory.md`.
+   Run the phase-boundary intake check again against the exact final packet
+   before closing the pass.
+
+## Phase-Boundary Intake
+
+Set `intake_base_commit` in the pass frontmatter to the full commit at the
+start of the pass, before pass work or adjacent proposals arrive. Frozen review
+packets must contain a complete raw SHA-1 Markdown manifest.
+
+Before review and before closure, run:
+
+```powershell
+.\scripts\lore\check-phase-boundary-intake.ps1 `
+  -Boundary review `
+  -PacketPath workshop/deepening/reviews/KALSA-000/baseline-packet.md `
+  -PassPath workshop/deepening/passes/KALSA-000-example.md
+
+.\scripts\lore\check-phase-boundary-intake.ps1 `
+  -Boundary closure `
+  -PacketPath workshop/deepening/reviews/KALSA-000/repaired-packet.md `
+  -PassPath workshop/deepening/passes/KALSA-000-example.md
+```
+
+The checker reads Git history since the pass boundary plus staged, unstaged,
+and untracked Markdown. It recognizes proposal or handoff notes by a filename
+token or frontmatter `status`, `type`, `owns`, or exact tag. A matching current
+hash in the packet is sufficient. An out-of-packet note blocks until the pass's
+`Phase-boundary intake` table records `defer` with a named destination or
+`reject` with a concrete reason. The checker reports only; it never edits the
+packet, pass, queue, or canon.
 
 ## Completion Standard
 
@@ -62,6 +93,9 @@ not certify depth. The qualitative parity standard lives in `benchmark.md`.
 - immutable review-packet identity, active-Critic raw reports, finding
   dispositions, repair brief, active-Critic regression reports, required
   Guardian change or sanity reports, and updated Guardian counters;
+- the pass-start intake commit and successful review/closure intake checks,
+  including explicit dispositions for changed proposal or handoff notes left
+  outside the frozen packet;
 - verification commands and results;
 - rendered-page inspection when published content changed.
 

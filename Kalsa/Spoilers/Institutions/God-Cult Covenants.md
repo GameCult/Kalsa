@@ -8,6 +8,7 @@ adopted_in: KALSA-008
 repaired_in:
   - KALSA-017
   - KALSA-039
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -176,6 +177,20 @@ forgotten share, a casualty omitted from the register, or the remnant of a god
 the current cult displaced. The label chosen determines whether champions,
 mortuary clergy, or negotiators answer it. See [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]].
 
+For a planned great rite, covenant procedure can name the beneficiary, mortal
+delegate, recognized shares, forbidden diversions, people whose ordinary
+protection will be withdrawn, stop authority, expiry, and support promised
+afterward. The terms bind the cult offices and claimants able to consent to
+them. They do not command the God or convert every dead presence near the route
+into a covenant party.
+
+Cult policy toward a feeder can include warning, ritual share, negotiation,
+binding, dispersal, forced interception, or withdrawal. Gods that remember
+hunger may be pitiful, ashamed, or fiercely protective of the same route.
+Others defend a champion without such a history. Doctrine may name the choice
+purification, hospitality, conquest, or prudence; the covenant record still
+owes the acts taken in its name.
+
 ## Succession and schism
 
 Cult office, property, doctrine, and divine hierarchy can separate during a
@@ -221,6 +236,15 @@ operator, outside route witness, withdrawn beneficiaries, and expiry. Others
 cite the vigil when seeking authority over intervention beyond the covenant.
 Neither reading
 gives clergy the God's complete thought or makes the copied procedure universal.
+
+## The Ash-Halo consequence
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] left some
+Jamnai cults with a great-rite addendum: the branch records its champion and
+recognized shares, the steward records withdrawn grants, the forge custodian
+retains a stop, and a mortuary answer roll enters before the route opens. A
+later silence can support welfare, burial, investigation, or appeal without
+proving that the God killed a named person.
 
 ## Dungeon pressure
 

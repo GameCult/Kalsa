@@ -8,6 +8,7 @@ adopted_in: KALSA-012
 repaired_in:
   - KALSA-017
   - KALSA-020
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-38.md
@@ -193,6 +194,18 @@ The factions retain organized capacities rather than only interpretations: high-
 - A fugitive says a forged ancestor still opened a real door when the lawful patron closed every one.
 
 The sects remain plural because these pressures cannot be solved by declaring all manifestations holy or all religion fraudulent.
+
+## The Ash-Halo consequence
+
+After [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo Armament]], some
+Soiru'i sects carry their own answer rolls to every branch rite capable of
+crossing a shrine or burial route. A memory keeper records familiar signs; a
+living witness carries the copy; a store steward prepares support if a shrine
+goes silent or a manifestation forces households to move. The sect can request
+recognition, warning, a share, or withdrawal. It cannot certify that the named
+dead entered the route.
+Custody and corroborating household copies decide whether the roll can support
+the sect's claim at a branch threshold.
 
 ## Institutional failure
 

@@ -68,6 +68,21 @@ database and does not grant canon status to any setting claim.
   should identify the record owner, harmed carrier, material evidence, remedy
   owner, and enforcement path without treating a corrected file as restored
   work, shelter, standing, care, or trust.
+- `memory-phase-boundary-intake` — A frozen packet certifies only the selected
+  body. At review and closure, the pass coordinator must scan committed and
+  working Markdown since the pass base and account for every changed proposal
+  or handoff with a matching raw hash or an explicit defer or reject
+  destination. The checker observes intake; it never promotes lore.
+- `memory-divine-scale-account` — High-fantasy spectacle and causal restriction
+  reinforce each other when the event owns its matter, energy, preparation,
+  levers, propagation, potential route, and rival action. Do not shrink the
+  visible miracle to make adjudication easy, and do not turn a spectacular case
+  into a universal divine spell list.
+- `memory-posthumous-reduction-boundary` — Destroying a dead presence's active
+  agency or present foothold is a consequential event, not an automatic verdict
+  about release, memory, personhood, dormancy, or return. Material, covenant,
+  mortuary, and household records should preserve the consequences they can
+  carry without merging into a cosmological answer.
 
 ## Open questions
 

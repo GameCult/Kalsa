@@ -23,6 +23,7 @@ Kalsa's dungeons are places where several histories occupy the same structure. A
 
 - [[Spoilers/Dungeons/The Ashen Intake|The Ashen Intake]] — a direct-entry Ghostlight dungeon beneath [[Spoilers/Places/Low Sere|Low Sere]], with a controlled threshold, three-shutter clock, contested custody, mortal remains, a language-and-measure failure, recoverable records, and consequences that continue after ascent.
 - [[Spoilers/Dungeons/The Second Gate Understore|The Second Gate Understore]] — a live urban Ghostlight pressure beneath a Divided City cargo gate, where a house comparison, Papsenai delivery bond, Ju'onai opening, public signals, and rival claims change while the party carries the grain.
+- [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo Court]] — a reopened Jamnai furnace court where source stores, divine armament, a sealed answer roll, and a route-connected dead claimant collide across three horns.
 
 ## Adjacent authority
 

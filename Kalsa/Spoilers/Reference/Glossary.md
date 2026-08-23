@@ -25,6 +25,8 @@ relevant polity and institution notes.
 | Term | Current use |
 |---|---|
 | **Analysis** | Signature 010; conscious causal resolution. See [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]]. |
+| **acquired potential body** | Author shorthand for the organized stolen capacity through which a thaumavore currently manifests and acts; its destruction does not settle release, memory, or surviving personhood. |
+| **answer roll** | A mortuary record of familiar signs, recognizing witnesses, sites, and last appearances prepared around a concentrated rite. |
 | **baltcadu** | Seed gloss: Great City. Exact language and modern usage unresolved. |
 | **Chaos Beast** | Upper-dimensional agency coupled to a prescient person-pattern. See [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Chaos Beasts|Chaos Beasts]]. |
 | **Children of Fire** | Ring populations shaped by Prometheus's worship and evolutionary games; not one present ethnicity. |

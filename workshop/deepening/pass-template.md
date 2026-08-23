@@ -6,6 +6,7 @@ canonical_owner: unresolved
 coordinator: replace-me
 started: YYYY-MM-DD
 completed:
+intake_base_commit: replace-with-full-commit-before-pass-work
 ---
 
 # KALSA-000 — Pass Title
@@ -13,6 +14,17 @@ completed:
 ## Objective
 
 What real setting and play outcome does this pass serve?
+
+## Phase-boundary intake
+
+Run `scripts/lore/check-phase-boundary-intake.ps1` before the first review turn
+and again against the exact final packet before closure. A changed proposal or
+handoff note passes automatically when its raw SHA-1 and path are in the frozen
+packet. Record only out-of-packet dispositions here.
+
+| Proposal or handoff note | Disposition | Reason or destination |
+| --- | --- | --- |
+|  | `defer` or `reject` | Named later pass/queue destination, or concrete rejection reason. |
 
 ## Source inventory
 
@@ -138,6 +150,8 @@ claimed mechanism?
 - [ ] Every active Critic regression and required Guardian change or sanity
   report exists on the exact final candidate; no essential accepted defect
   remains.
+- [ ] Phase-boundary intake passed before review and against the exact final
+  packet before closure.
 - [ ] Guardian counters and mode transitions are updated.
 - [ ] The final closeout names what should now be left alone.
 

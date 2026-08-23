@@ -31,5 +31,6 @@ These histories were deliberately adopted by named deepening passes. Their seed 
 - [[Spoilers/Events/The Road That Returned|The Road That Returned]] — Ju'onai road reforms become new Selza'a defensive levers across several generations without settling whether Luck caused the pattern.
 - [[Spoilers/Events/The Grain at Two Gates|The Grain at Two Gates]] — a forecasted grain route changes when its disclosure moves officials and buyers, while a Papsenai working group keeps the delivery target.
 - [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]] — a God concentrates finite protection at a bridge before an unbound Channeler changes the flood route and the refugees' need.
+- [[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] — divine raiment closes around a Jamnai champion while feeding dead enter the route and familiar presences fall silent afterward.
 
 Their absolute dates and mutual order remain unresolved. See [[Spoilers/Reference/Timeline|Timeline]] and [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]].

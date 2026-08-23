@@ -365,3 +365,31 @@ promoted or retired.
   remain no more specific than its evidence-bearing owner.
 - **Next pressure:** Sarxe household dispersal and Grey Scald memory remain
   queued; new oracle work must begin from the candidate-07 leave-alone line.
+
+## 2026-08-23 — Divine manifestation and thaumavore interception
+
+- **Scope:** [[passes/KALSA-040-divine-manifestation-and-interception|KALSA-040]],
+  integrating the committed divine-working proposal into its canonical owners,
+  one adopted Jamnai event, one current Ghostlight site, and one situated Public
+  source.
+- **Authority cut:** the proposal is retired provenance. `Kaos` owns sourced
+  divine processing; the Projection foundation owns feeding, acquired bodies,
+  interception, and the possible ascent route; events, institutions, and the
+  current Court own their consequences.
+- **Repair:** divine spectacle may assemble, move, reveal, or transform existing
+  matter through prepared causal routes. Concentration exposes reachable
+  feeding paths; interception can destroy an acquired body and present agency
+  while release, surviving personhood, and return remain unresolved.
+- **Play proof:** the Ash-Halo Court now has a contested heat gate, two branches,
+  seven current decision-makers, explicit evidence access, three horns,
+  material and ritual interventions, six outcomes, and separated receipts.
+- **Critic loop:** all eight baseline Critics spoke. Three exact candidates were
+  required; candidate 03 passed every seat on the same 28-file identity, and
+  the blind Reader passed the four-file Public surface.
+- **Process repair:** phase-boundary intake scans committed and working Markdown
+  since the pass base and requires every changed proposal or handoff to be
+  packeted at its raw hash or explicitly deferred or rejected.
+- **Protected uncertainty:** historical occurrence and prevalence of
+  thaumavore ascent, post-interception identity and memory, divine intent,
+  current feeder identity, Ash Hook's missing fracture record, and play outcome.
+- **Next pressure:** Sarxe household dispersal and Grey Scald memory.

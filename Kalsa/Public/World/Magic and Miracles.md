@@ -23,7 +23,9 @@ boundary in time to turn a patrol or danger aside.
 
 At larger scales a storm divides around a city or stone gives way along an old
 fault. A god may pour enough favor through a champion that witnesses begin the
-shrine before the smoke clears.
+shrine before the smoke clears. One Jamnai record follows
+[[../Sources/The Faces in the Ash Halo|faces appearing in the light while iron
+raiment closes]].
 
 The nearest thing Kalsa has to common rules is a trail of failed work. Empty sky
 gives a storm shaman nothing to divide; an unloaded wall offers a reader no

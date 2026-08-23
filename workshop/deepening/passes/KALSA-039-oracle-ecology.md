@@ -4,9 +4,19 @@ title: Oracle Ecology and Timeline Competition
 status: complete
 started: 2026-08-23
 coordinator: Codex root
+corrected_by: KALSA-040
 ---
 
 # KALSA-039 — Oracle Ecology and Timeline Competition
+
+## Post-closeout correction
+
+KALSA-039's frozen packets omitted the committed operator handoff
+`Divine Manifestation and Thaumavore Interception Proposal.md` at commit
+`eef546d`. Its completion claim therefore does not certify that adjacent
+divine-working surface. KALSA-040 owns the missing intake, adjudication, repair,
+and exact-candidate review. The KALSA-039 oracle-ecology body remains its
+baseline, not evidence that the proposal was previously considered.
 
 ## Objective
 

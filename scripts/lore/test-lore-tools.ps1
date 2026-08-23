@@ -140,7 +140,9 @@ try {
         throw "Publication checker failed to reject a nested spoiler directory"
     }
 
-    Write-Output "Lore tool tests passed, including broken-link, broken-anchor, escaped-link, stale-output, exposed-vault-directory, spoiler-session, and publication-boundary negative checks."
+    & (Join-Path $PSScriptRoot "test-phase-boundary-intake.ps1")
+
+    Write-Output "Lore tool tests passed, including phase-boundary intake, broken-link, broken-anchor, escaped-link, stale-output, exposed-vault-directory, spoiler-session, and publication-boundary negative checks."
 }
 finally {
     $resolvedFixture = [System.IO.Path]::GetFullPath($fixtureFull)

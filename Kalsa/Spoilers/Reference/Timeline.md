@@ -73,6 +73,7 @@ These events were established by recorded repair passes rather than found verbat
 - [[Spoilers/Events/The Road That Returned|The Road That Returned]]
 - [[Spoilers/Events/The Grain at Two Gates|The Grain at Two Gates]]
 - [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]]
+- [[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]]
 
 ## Unresolved
 

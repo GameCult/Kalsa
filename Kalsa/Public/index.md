@@ -42,6 +42,10 @@ keeper refuses to vanish into their footnotes.
 old cult succession. What happens when its successor demands the covenant book,
 miracle ledger, and death inventory at once?
 
+Iron crosses a furnace court in a divine flash while a mortuary roll remains
+sealed below. [[Sources/The Faces in the Ash Halo|The Faces in the Ash Halo]]
+follows the champion's victory to the shrines that stop answering.
+
 Three Selza'a families depend on the same high windtrap.
 [[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] begins
 when its corroded anchor gives way.

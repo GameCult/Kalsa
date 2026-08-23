@@ -8,6 +8,7 @@ adopted_in: KALSA-012
 repaired_in:
   - KALSA-020
   - KALSA-039
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -120,6 +121,17 @@ Terjamna forces later broke into Sarxe lands. A Soiru'i sacrifice at static Saxf
 Ji'esti is also an institutional scar inside Jamnai. Hierarchical sects remember the sacrifice as proof that a champion can open the way for conquest. Resistance sects remember that one dead warrior's cultivated presence exposed civilians to annihilation. Neither memory settles what the Soiru'i itself intended.
 
 The Terjamna power contesting [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]] uses submission, protection, hosted providers, and tribute beyond Jamnai. Its exact identity and relationship to the current Crown hierarchy remain unresolved.
+
+## Ash-Halo branch politics
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] gave high-branch
+doctrine an image of perfect protection: stored force entered a champion,
+divine raiment closed, and the gate held. Its living branch dispute concerns
+admission: whether a mortuary roll or recognized Soiru'i share may enter the
+court before the route opens, and which branch officer can enforce that choice.
+
+[[Spoilers/Dungeons/The Ash-Halo Court|The present court]] makes that conflict
+playable before another armament closes.
 
 ## Historical stress: the Ash-Valve Refusal
 

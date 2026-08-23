@@ -1,7 +1,7 @@
 ---
 pass_id: KALSA-000
 packet_id: KALSA-000-baseline-01
-candidate_identity: commit-or-file-hashes
+candidate_identity: raw-sha1-manifest-required
 audience: replace-me
 public_blind_packet: false
 ---
@@ -53,7 +53,9 @@ public_blind_packet: false
 
 ## Candidate or baseline
 
-- Exact files, commit, or attached excerpts:
+- Commit or tag, when useful:
+- Complete raw SHA-1 Markdown manifest in the form
+  `<40-hex-hash><two spaces><repository-relative-path>`:
 
 ## Evidence limitations
 

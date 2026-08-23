@@ -5,6 +5,8 @@ aliases:
   - Timeline capture
 status: canonical-foundation
 adopted_in: KALSA-039
+repaired_in:
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-32.md
@@ -161,6 +163,34 @@ cannot identify every source. It changes the useful forms of power. A lone
 superior seer can exploit an unobserved population; a crowded horizon rewards
 control of briefings, material levers, disclosure, response time,
 coordination, and the independence of potential rivals.
+
+## Great workings feed their rivals
+
+A concentrated miracle creates a crowded horizon around its own route. Bound
+contributors, delegates, material operators, intended beneficiaries, withdrawn
+claimants, and route-connected dead can all change which version of the working
+arrives. Scaling the grant increases the distance and number of relations able
+to touch it; it does not place the God outside their response.
+
+A feeding thaumavore need not perceive the working as a Prophet would. Its
+existing foothold, retained Gift, appetite, remembered relation, or another
+unknown operation may expose one accessible diversion. The hierarchy sees only
+what its own route reports: missing force, altered timing, a foreign
+manifestation, deformation in a bound oracle's evidence, or the champion's
+failing grant.
+
+Defense becomes another intervention inside the miracle. Retraction can save
+the hierarchy and abandon the intended effect. Dispersal can preserve more of
+the grant while weakening its visible result. Redirection or containment can
+move the danger into another site. Negotiation or binding can admit a rival.
+Forceful interception spends potential and may end the feeder's present causal
+foothold. A failed response can leave hidden feeding, an independent claimant,
+or a magical fountain.
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] owns one
+historical collision. [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo
+Court]] owns a present return to that machinery. Neither case establishes a
+universal meaning for divine radiance.
 
 ## Luck and large attractors
 

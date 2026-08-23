@@ -115,6 +115,13 @@ Create the packet before critics begin, using [[packet-template]]. Freeze its
 identity with a commit, tag, or recorded file hashes. Diagnostic critics do not
 see one another's reports.
 
+Before the first critic turn, run the phase-boundary intake check described in
+`workshop/deepening/README.md`. The packet carries a complete raw SHA-1 manifest
+for every Markdown file in its review body even when a commit or tag also names
+the candidate. A proposal or handoff changed after the pass boundary must be
+present at its matching hash or explicitly deferred or rejected in the pass
+record. Intake grants review, not canon authority.
+
 Record the coordinator in the packet, pass, and synthesis. One person or agent
 may hold more than one role when necessary, but the overlap must be explicit;
 no critic or repair writer silently inherits adjudication authority.
@@ -225,6 +232,9 @@ A deepening pass cannot close until:
   report names the same repaired candidate identity;
 - Guardian counters and mode transitions are updated in the seat table;
 - no accepted essential defect remains unresolved;
+- the phase-boundary intake check passes against the exact final packet and no
+  changed proposal or handoff remains without packet receipt or explicit
+  disposition;
 - the coordinator records what must now be left alone;
 - seed, wikilink, vault-layout, publication-boundary, Quartz, rendered-page,
   and actual-diff checks appropriate to the pass succeed.

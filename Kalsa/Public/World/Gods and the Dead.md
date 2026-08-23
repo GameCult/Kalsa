@@ -77,6 +77,10 @@ serves. A shrine keeper may call the answer a broken covenant while a mortuary
 witness recognizes a dead voice and a steward records every grant that weakens
 near the burial ground.
 
+[[../Sources/The Faces in the Ash Halo|The Faces in the Ash Halo]] follows an
+answer roll into a Jamnai furnace court where divine armour closes around a
+champion and familiar dead cease answering afterward.
+
 Some shrine networks close a hungry site. Healing and burial petitions move to
 smaller shrines along the wider route. The sick and bereaved who cannot travel
 wait beyond their reach. Closure orders therefore draw requests to reopen,

@@ -5,6 +5,7 @@ aliases:
 status: canonical-foundation
 repaired_in:
   - KALSA-039
+  - KALSA-040
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -59,6 +60,30 @@ Kaos creates neither matter nor energy. An outcome requires all of the following
 Large miracles therefore require large susceptible systems. Mountain-rending requires stressed geology and exceptional coordination. Heating a lake requires an existing thermal, geological, or technological source. A tale that names no source may be a compressed account or religious exaggeration rather than literal mechanics.
 
 Costs include depletion of magical potential, exposure to rival Beasts, corruption of forecasts by competing intervention, and attraction of [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|thaumavores]] when power concentrates. Individual styles impose their own practical costs: trance, setup, vulnerability, submission, or dependence on a suitable flow.
+
+## Divine-scale processing
+
+Divine scale increases the potential, relations, preparation, and causal
+territory available to a working. A God hierarchy can coordinate distinct
+Gifts, long records, delegates, material operators, and prepared sites. Each
+contributor retains its own limits: routing several partial views through one
+hierarchy does not turn them into one complete faculty.
+
+Within an open route, a divine working can locate, gather, separate, refine,
+transform, move, and assemble existing material. Available pressure, heat,
+gravity, metabolism, machinery, weather, geology, or another physical process
+supplies the work. Prescient preparation may place matter, people, instructions,
+and stored energy before observers recognize the later need.
+
+Witnesses can reasonably call the result materialization when raiment closes
+around a champion in a flash, or summoning when a concealed or long-guided
+entity arrives at the required instant. Those descriptions remain true to the
+experience. Adjudication still follows the source matter, energy, preparation,
+lever, propagation time, and rival actions that made the arrival reachable.
+
+Levitation, radiance, sudden armament, and catastrophic destruction are
+possible results rather than a common divine spell list. A factual event or
+site must own the causal account for each occurrence.
 
 ## Observing Kaos
 
