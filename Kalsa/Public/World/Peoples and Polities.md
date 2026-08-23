@@ -92,9 +92,24 @@ only after the people outside it have paid for the error.
 
 ## The divided city
 
-The City of Prophets survives beneath overlapping Ju'onai and terjamna power. Neither conqueror can safely give the other sole command of its prophetic houses, sunward farms, and strategic forecasts. Local courts, ward authorities, house estates, and imperial sectors govern through an unstable condominium. A civic allocation table schedules public grain, bright hours, cargo priority, pressure refuge, and emergency stores; the Sunwall stewards who operate the farms and lifts can stop unsafe work but cannot assign those shares. Allocation and operation remain separate because either office would otherwise conceal the dependence it controls.
+The Ju'onai first reduced the City of Prophets to tribute. Later terjamna power
+contested the same prize. Neither could cheaply take exclusive custody of the
+prophetic houses or the Sunwall farms, so local courts and ward authorities
+survived between their claims. Ju'onai and terjamna garrisons and tribute claims
+still cut through those local jurisdictions.
 
-Prophetic houses train people to compare possible futures. Their service can avert famine or make a patron's preference sound inevitable. Most residents are not house prophets. They farm vertical galleries, maintain lifts and pressure refuges, carry grain, keep records, serve garrisons, and live beneath decisions made in futures they may never be permitted to inspect.
+A civic allocation table schedules public shares from reports of available
+capacity. Sunwall stewards operate the farms and lifts and can stop an unsafe
+configuration. Prophetic houses supply comparisons among possible futures;
+civic judges decide what those reports can support. Most residents farm the
+galleries, maintain lifts and pressure refuges, carry grain, keep records, or
+serve the garrisons.
+
+[[../Sources/The Closed Lift Appeal|The Closed Lift Appeal]] follows two
+sponsored forecasts into the closure of a grain lift and the detention of its
+non-house captain. The appeal survives in sponsor disclosures, a brake
+inspection, staged cargo orders, a corrected record, and claims the correction
+did not pay.
 
 ## Sarxe and Saxfoldi
 

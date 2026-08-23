@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T00:44:14Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-036
+snapshot_at: 2026-08-23T01:14:41Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-037
 ---
 
 # Kalsa Canonical Body Map
@@ -19,6 +19,9 @@ independent inspection, hierarchical correction, and tributary aftermath.
 KALSA-036 extends situated Public ownership to Papsenai reserve practice,
 Stormshield relief and refusal, divided wartime evidence, and the incomplete
 Shield Levy settlement.
+
+KALSA-037 extends situated Public ownership to Divided-City forecast evidence,
+civic appeal, Sunwall actuation, competing records, and unfinished remedy.
 
 ## Lore review and repair control
 
@@ -112,6 +115,50 @@ Shield Levy settlement.
 - **Deletion/demotion line:** oracle rule, one prophetic consensus, and prophecy-as-fact are demoted to evidence under jurisdiction.
 - **Verification layer:** KALSA-009 and KALSA-018 source maps, forecast≠verdict negatives, lifecycle/funding/enforcement/remedy checks, hostile household/client perspectives, Closed Lift event exclusivity, links, and rendered pages.
 - **Unresolved seam:** city/polity and office names, district boundaries, house forms, imperial boundaries, record media, exact pay, and style interaction in forecast law.
+
+#### Public Closed Lift projection — KALSA-037
+
+- **Owner:** the Divided-City polity, Prophetic Houses, Forecast Evidence and
+  Courts, and Closed Lift event notes retain author truth.
+  `Public/World/Peoples and Polities.md` owns bearings;
+  `Public/Sources/The Closed Lift Appeal.md` owns presentation only. Civic,
+  imperial, house, technical, worker, and lower-shadow records are situated
+  carriers, not replacement canon owners.
+- **Inputs:** the adopted event sequence, divided jurisdiction, two sponsored
+  forecasts, a bounded house inference, undisclosed sponsor interventions,
+  owner-neutral material inspection, affected work and provisioning, later
+  procedure, protected unknowns, and explicit reveal decisions.
+- **Outputs:** a direct Public route, one incomplete civic-copy synthesis, an
+  inspectable forecast-to-appeal-to-actuation handoff, incompatible record
+  afterlives, narrow later practice, and an unfinished material claim.
+- **Derived/display-only state:** the Public synthesis, corrected copies,
+  sponsor claims, worker accounts, and lower-shadow memory present owned
+  evidence; they cannot name unresolved actors or places, identify Luck, select
+  a winning forecast, assign the material inspectors, decide compensation, or
+  prove present recognition of the precedent.
+- **Forbidden writers:** a forecast cannot become a verdict; house expertise
+  cannot become civic jurisdiction; civic judgment cannot become Sunwall
+  competence; technical custody cannot become inspection provenance; an
+  imperial claim cannot become city sovereignty; record correction cannot
+  impersonate material restoration.
+- **Shared paths:** hidden subject/event owner -> audience and reveal review ->
+  bounded Public source -> Public overview and index -> Quartz projection.
+  Within the source: sponsored reports and accusation -> detention and closure
+  -> compelled disclosure plus material inspection -> civic finding -> distinct
+  civic and Sunwall acts -> competing records, correction, and unresolved
+  remedy.
+- **Deletion/demotion line:** the unnamed competent narrator, office inventory,
+  unsupported inspection owner, symmetrical viewpoint catalogue, universal
+  precedent, and interpretive checksum endings are cut; no parallel Public
+  event owner or complete civic constitution survives.
+- **Verification layer:** 27-file raw-SHA-1 repaired-03 attestation,
+  repaired-01 and repaired-02 rejection receipts with localized re-review,
+  seven-seat final regression, event-owner and protected-unknown negatives,
+  Public-only links and publication boundary, production Quartz build, and
+  rendered source click-through.
+- **Unresolved seam:** city, date, houses, people, sectors, quantities,
+  inspector affiliations, exact operating limits, later compensation, current
+  recognizers, and native office names remain with their existing owners.
 
 ### 4. Dungeon provenance, ruin law, delving compacts, and direct entry
 
@@ -428,7 +475,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-036
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-037
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -487,7 +534,9 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   and tributary evidence without publishing the author taxonomy as local
   consensus; KALSA-036 adds a bounded Shield Levy carrier through store,
   Circle, household, and military evidence without granting any record or
-  claimant the whole finding. Ghostlight compiler schemas,
+  claimant the whole finding; KALSA-037 adds a bounded Closed Lift carrier
+  through civic, imperial, house, technical, worker, and lower-shadow records
+  without granting any account the whole finding. Ghostlight compiler schemas,
   campaign-package ownership, equivalent depth for the remaining traditions,
   and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

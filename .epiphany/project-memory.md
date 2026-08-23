@@ -1,7 +1,7 @@
 ---
 title: Kalsa Project Memory
 status: active
-snapshot_at: 2026-08-23T00:47:34Z
+snapshot_at: 2026-08-23T01:17:35Z
 ---
 
 # Kalsa Project Memory
@@ -59,6 +59,11 @@ database and does not grant canon status to any setting claim.
   visible result after the seed, replacement body, recovery time, or household
   support needed for its next result has already been spent. Public sources
   should make that delayed failure legible through owned evidence.
+- `memory-correction-is-not-remedy` — Correcting an official finding and
+  repairing the harm it caused are separate institutional outputs. A source
+  should identify the record owner, harmed carrier, material evidence, remedy
+  owner, and enforcement path without treating a corrected file as restored
+  work, shelter, standing, care, or trust.
 
 ## Open questions
 

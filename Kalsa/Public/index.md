@@ -53,3 +53,7 @@ a copied record, and an appeal reach beyond one branch holder.
 [[Sources/The Missing Relief Cohort|The Missing Relief Cohort]] reconstructs a
 wartime demand for grain and shield workers from store marks, Circle warnings,
 household testimony, and the military claim that the taking protected others.
+
+[[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] follows rival
+forecasts, a detained lift captain, concealed sponsor plans, and a fatigued
+brake through a civic appeal whose correction left material claims behind.

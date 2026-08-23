@@ -268,3 +268,33 @@ promoted or retired.
   institution can be materially spent while its visible output still holds.
 - **Next pressure:** prophetic houses, Sunwall allocation, and the Closed Lift
   Appeal.
+
+## 2026-08-23 — Prophetic Closed Lift knowledge and incomplete remedy
+
+- **Scope:** [[passes/KALSA-037-prophetic-closed-lift-knowledge|KALSA-037]],
+  covering the Divided City's conquest formation, sponsored forecasts,
+  inferred Luck, Sunwall material custody, civic appeal, later procedure,
+  divided memory, and Public delivery.
+- **Authority cut:** the timeless constitutional silhouette and office/output
+  checklist were compressed. Hidden city, house, court, and event notes retain
+  truth; the Public survey and `The Closed Lift Appeal` own presentation only.
+- **Repair:** the source follows rival forecasts, a false Luck accusation,
+  detention and closure, displaced grain and livelihood, concealed sponsor
+  plans, owner-neutral brake inspection, release, staged movement, separate
+  civic/Sunwall actuation, later record practice, and unfinished remedy.
+- **Council:** all seven diagnoses blocked. Repaired-01 invented Sunwall
+  inspection authorship and restored AI-shaped paragraph seams. Repaired-02
+  erased the lower-shadow carrier while preserving official uncertainty. Every
+  seat reran and passed `KALSA-037-repaired-03`.
+- **Protected uncertainty:** city, houses, people, date, sectors, quantities,
+  inspector affiliation, lift detail, detected Luck, forecast winner,
+  compensation, present recognition, and native office names remain unresolved.
+- **Verification:** nine immutable seed witnesses; 579 links across 74
+  canonical notes; vault and publication boundaries; lore-tool negative tests;
+  production Quartz build of fourteen inputs and 43 outputs; rendered source
+  inspection and live click-through from the Divided City survey.
+- **Durable judgment promoted:** official correction and material remedy are
+  separate outputs. The harmed person's record, livelihood evidence, memory
+  carrier, remedy owner, and enforcement path cannot be collapsed into one
+  successful appeal.
+- **Next pressure:** Sarxe household dispersal and Grey Scald memory.
