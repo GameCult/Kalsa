@@ -49,10 +49,11 @@ a god, disciplined trial, precise causal speech, or honest boundaries make
 that knowledge reliable. Houses of Attestation certify what a reader
 demonstrated; a court may still reject the reader's proposed judgment.
 
-Household and route testimony travels differently. Selza'a families may name
-good fortune as a territorial relation with a dimna or an inherited shelter;
-a rival family may call the same pattern predation. Sarxe listeners describe
-flows and crossings while denying outsiders' stories of a shared mind.
+Household and route testimony travels differently. One Selza'a compact history
+keeps a prophet's warning of persistent bias beside corroded metal and three
+families' maintenance records. The warning changed how people guarded one
+another; it did not identify a bearer. Sarxe listeners describe flows and
+crossings while denying outsiders' stories of a shared mind.
 
 ## What witnesses can know
 
@@ -62,10 +63,11 @@ their strictest accounts refuse to let the mark identify an actor or intention
 by itself. Prophetic houses record futures that deform around some unseen
 pressure without claiming the record names its source. Sarxe warnings can
 describe an active crossing while leaving a remote or dormant danger untouched.
-Selza'a families may recognize a pattern of protection that no outsider can
-turn into a universal test. Each practice makes some evidence legible and
-leaves other evidence outside its frame.
+The [[../Sources/After the High Windtrap Broke|Broken Windtrap finding]] could
+assign missed maintenance while leaving hostile Luck unresolved. Each practice
+makes some evidence legible and leaves other evidence outside its frame.
 
 See [[Gods and the Dead]], [[Relics and Ruins]],
-[[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken
-Sluice]], and [[../Sources/At the Basin Table|At the Basin Table]].
+[[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
+[[../Sources/At the Basin Table|At the Basin Table]], and
+[[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]].

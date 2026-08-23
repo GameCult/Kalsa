@@ -2,12 +2,15 @@
 title: Kalsa Canonical Body Map
 status: working-map
 snapshot_at: 2026-08-23T00:00:00Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-kalsa-030-kalsa-031-kalsa-032-and-kalsa-033
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-034
 ---
 
 # Kalsa Canonical Body Map
 
 This is an operational map of the live authoring machine, not lore and not a replacement for owner notes. It records institutional authority after KALSA-007 through KALSA-022, publication authority through KALSA-026, vault-level spoiler enclosure through KALSA-029, Public epistemic ownership through KALSA-030 and KALSA-031, council control through KALSA-032, and Public entry repair through KALSA-033. Waves 11–16 are repair overlays on existing subject owners, not new parallel authorities.
+
+KALSA-034 extends that Public ownership to Selza'a shared-work knowledge and
+tests projection growth past the former ten-item RSS default.
 
 ## Lore review and repair control
 
@@ -186,6 +189,35 @@ This is an operational map of the live authoring machine, not lore and not a rep
 - **Verification layer:** KALSA-016 witnesses, direct-Luck and escaped-bearer negative checks, the Broken Windtrap Settlement, poor/adopted/mixed/Null/outsider hostile readings, touched links, build/render.
 - **Unresolved seam:** family names and constitutions, membership variants, city entry/exit, windtrap custody and water baselines, compact enforcement, dimna/seltanzda metaphysics, citywide risk capacity, and external relations.
 
+#### Public windtrap projection — KALSA-034
+
+- **Owner:** the Selza'a polity, family-territory, restitution, and Broken
+  Windtrap notes retain truth. `Public/World/Peoples and Polities.md` and
+  `Public/World/Magic and Miracles.md` own bearings;
+  `Public/Sources/After the High Windtrap Broke.md` owns presentation only.
+- **Inputs:** shared windtrap and cistern, workers and keeper, forecast bias,
+  wreckage, corrosion, maintenance records, emergency stores and water, pool
+  payment, corrected record, council memory, and victim memory.
+- **Outputs:** a situated Public encounter, distinct evidence and response
+  roles, material allocation, historical formation, incomplete restitution,
+  and unresolved Luck.
+- **Derived/display-only state:** the Public source, family signs, allegation,
+  forecast, inspection, finding, memory, and review reports cannot identify a
+  bearer or become a universal family compact.
+- **Forbidden writers:** Luck cannot write guilt; prophecy cannot name causal
+  agency; operation cannot own water allocation; a repaired machine cannot
+  write repaired standing; Public cannot invent missing families or people.
+- **Shared paths:** failure -> emergency water and reciprocal restraint ->
+  preserved wreckage -> forecast and material inspection -> scoped maintenance
+  finding -> pool and repair -> corrected record and residual loss.
+- **Deletion/demotion line:** the outsider-praise/insider-correction hinge,
+  balanced family-claim chorus, and coincidence checksum were cut.
+- **Verification layer:** one 21-blob baseline, rejected repaired-01,
+  seven-seat repaired-02 regression, source/output boundary, full RSS
+  projection, and rendered click-through.
+- **Unresolved seam:** event names and place, exact machine design, keeper's
+  next affiliation, dimna relation, and whether Luck touched the failure.
+
 ## Repair overlays, Waves 11–16
 
 These overlays record changed authority and shared paths. They are audit views over the clusters above, never additional canon owners.
@@ -330,7 +362,7 @@ These overlays record changed authority and shared paths. They are audit views o
 | `.epiphany/project-memory.md` | Human-inspectable durable judgment and open design pressure. | Receives only lessons that should steer future passes. | Cannot store raw lore, task chatter, or decide canon. |
 | `.epiphany/state/project-memory.cc` | Generated typed CultCache projection of project memory. | Rebuilt only through `.epiphany/sync-project-memory.ps1`; consumed for runtime inspection. | Never hand-edited and never promoted to Persona, lore, or job authority. |
 | `site/` | Kalsa-specific Quartz presentation overlay. | Combines only `Kalsa/Public/` with the shared `GameCult-Quartz` runtime. | Presentation cannot decide canon, admit the rest of `Kalsa/`, or widen the reader surface. |
-| `scripts/quartz/quartz.ps1` + deploy workflow | Build/deployment entrypoints; bind `contentDir` to `Kalsa/Public`, overlay to `site`, and output to `quartz-site/public`. | Replace the local output before each build and produce the same situated-reader projection locally and in GitHub Pages workflow. | Build configuration cannot rewrite source, retain stale author pages, fall back to complete `Kalsa/`, or broaden publication eligibility silently. |
+| `scripts/quartz/quartz.ps1` + `site/quartz.config.ts` + deploy workflow | Build/deployment entrypoints; bind `contentDir` to `Kalsa/Public`, overlay to `site`, output to `quartz-site/public`, and admit every reader note to RSS. | Replace the local output before each build and produce the same complete situated-reader projection locally and in GitHub Pages workflow. | Build configuration cannot rewrite source, retain stale author pages, truncate RSS to an arbitrary recent-note limit, fall back to complete `Kalsa/`, or broaden publication eligibility silently. |
 | `.quartz-build/` + `quartz-site/public/` | Generated build state and reader projection. | Replaced from `Kalsa/Public/`, then inspected for navigation, search, feed, and rendered leakage. | Never edit directly; old pages cannot survive a narrower input; rendered success is evidence, not canon or reader-source authority. |
 | `scripts/lore/` | Read-only integrity, vault-layout, link, publication-boundary, generated-route, and structural diagnostics plus tool tests. | Observe seed, canon, vault enclosure, source/output projection boundaries, and depth pressure. | Metrics and passing checks cannot award depth or setting truth. |
 | Ghostlight runtime | Future owner of bounded character-context and adjudicator projections; implementation remains external to Kalsa. | Consumes reviewed author/public inputs plus character and campaign state, then returns receipts for explicit reveal or canon review. | Cannot use unrestricted author-vault retrieval as character knowledge, make resolver output author truth, or let Kalsa workshop prose impersonate its runtime contract. |
@@ -357,7 +389,8 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   KALSA-030 begins inhabitant-facing epistemic ownership with Ju'onai causal
   scholarship; KALSA-031 adds distinct divine witness practices and a bounded
   Three Ledgers carrier; KALSA-033 gives concrete situated entry precedence
-  over surveys and protects honest omission. Ghostlight compiler schemas,
+  over surveys and protects honest omission; KALSA-034 adds a Selza'a
+  windtrap carrier and complete feed projection. Ghostlight compiler schemas,
   campaign-package ownership, equivalent depth for the remaining traditions,
   and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

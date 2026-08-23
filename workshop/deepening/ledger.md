@@ -178,3 +178,34 @@ promoted or retired.
 - **Next pressure:** KALSA-034 gives Selza'a family signs, shared water work,
   and accusation repair an inhabited Public carrier grounded in the Broken
   Windtrap Settlement.
+
+## 2026-08-23 — Selza'a windtrap knowledge and incomplete repair
+
+- **Scope:** [[passes/KALSA-034-selzaa-windtrap-knowledge|KALSA-034]], covering
+  Selza'a family knowledge, shared water work, Luck accusation, prophecy,
+  inspection, restitution, historical memory, and Public delivery.
+- **Authority cut:** the `Outsiders say / Selza'a arguments` correction hinge,
+  balanced family-claim chorus, and coincidence-proof checksum were deleted.
+  Public now follows the Broken Windtrap event through distinct compact,
+  technical, prophetic, allocative, restitution, council, and victim carriers.
+- **Repair:** `After the High Windtrap Broke` joins shared infrastructure,
+  emergency water, preserved wreckage, selective maintenance records,
+  corrosion, pooled care, rebuilt service, poor-household lost work, and the
+  cleared keeper's lost contracts. Peoples and Magic provide bearings and
+  honest routes instead of duplicating the machinery.
+- **Council:** all seven diagnoses blocked. Repaired-01 passed six seats but
+  Culture retained one accepted high-value defect: compact records carried the
+  whole memory. One owner-backed council/victim attribution produced
+  repaired-02; every seat reran and passed that same body.
+- **Projection repair:** the eleventh reader note exceeded Quartz's default
+  ten-item RSS limit. The site overlay now emits every Public note, preserving
+  exact source/search/sitemap/RSS/HTML parity instead of weakening verification.
+- **Verification:** nine seed witnesses; 565 links across 71 canonical notes;
+  vault and publication boundaries; lore-tool negative tests; production
+  Quartz build of eleven inputs and 37 outputs; rendered overview and live
+  click-through to the windtrap source.
+- **Durable judgment promoted:** a culturally situated source needs distinct
+  memory carriers as well as distinct evidence roles. Infrastructure repair and
+  social repair are separate consequences. Generated reader indexes must grow
+  with the admitted source set rather than silently dropping older notes.
+- **Next pressure:** Jamnai's submission hierarchy and Ash-Valve Refusal.

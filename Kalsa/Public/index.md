@@ -41,3 +41,7 @@ keeper refuses to vanish into their footnotes.
 [[Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows an
 old cult succession through the covenant book, miracle ledger, and death
 inventory that refused to become one answer.
+
+[[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] follows
+water, accusation, and repair across three Selza'a family territories after a
+shared work fails in the fog.

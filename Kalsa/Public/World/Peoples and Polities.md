@@ -17,9 +17,21 @@ The names below are broad handles used by travellers and learned writers. A pers
 
 ## Selza'a
 
-The fogbound Selza'a country is organized through territorial families rather than one central government. Families maintain windtraps, cisterns, routes, dwellings, shrines, and boundaries. Adoption and marriage can be as politically important as descent. Feud is real, but so are third-family witnesses, shared-work compacts, emergency water, and temporary federations for mutual defence.
+The fogbound Selza'a country has no central government. Territorial families
+answer for dwellings, paths, stores, shrines, and stretches of shared work.
+Descent matters, but people also enter through adoption, marriage, residence,
+and work.
 
-Outsiders say the selza'a are impossibly fortunate. Selza'a arguments are more precise and less comforting. A family may speak of a dimna's protection, an inherited relation, a territorial balance, or a dangerous stranger. None of those claims makes coincidence proof against a person.
+Windtraps make that independence interdependent: an upper structure may stand
+on one family's ground, catch water for several territories, and fail into a
+cistern used by households that never touch its machinery. Family shrines keep
+stories of dimna protection and inherited fortune. Such stories become
+dangerous when one territory's survival follows another's loss.
+
+[[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]]
+follows a shared failure through emergency water, an accusation of hostile
+Luck, a prophet's refusal, corroded metal, and a corrected record that did not
+restore the keeper's work.
 
 ## Jamnai and the terjamna
 
@@ -75,6 +87,6 @@ Technical lineages also cross these boundaries. Their members may inherit a fami
 
 Stories speak of a coldward people whose uncanny judgment serves trade, defence, and craft. Travellers confidently describe their politics; the descriptions do not agree. Until a visitor can name the office, workshop, household, or road behind the claim, “they always know what to do” is a boast, a fear, or a sales pitch rather than useful knowledge.
 
-See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]], and
-[[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken
-Sluice]].
+See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]],
+[[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
+and [[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]].

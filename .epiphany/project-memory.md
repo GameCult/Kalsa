@@ -38,6 +38,16 @@ database and does not grant canon status to any setting claim.
   consequential evidence, never author narration. Protected historical blanks
   stay blank even when a reader would prefer a named cult or deity; situated
   ownership is provenance, not cosmetic naming.
+- `memory-situated-memory-carriers` — A Public historical source needs owners
+  for later memory as well as owners for evidence and action. Councils,
+  victims, households, sects, and offices may preserve incompatible lessons
+  from one event without becoming duplicate fact owners. If one neutral record
+  carries every later meaning, the culture has flattened even when the event
+  sequence remains correct.
+- `memory-projection-completeness` — Search, sitemap, RSS, and HTML routes are
+  exact projections of every admitted Public note. A renderer's default item
+  limit is not permission to silently drop older reader sources as the vault
+  grows.
 
 ## Open questions
 
