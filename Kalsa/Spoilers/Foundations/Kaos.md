@@ -3,6 +3,8 @@ title: Kaos
 aliases:
   - Chaos magic
 status: canonical-foundation
+repaired_in:
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -64,13 +66,27 @@ The backstage constraints below say what evidence each Gift can expose. They do
 not say that witnesses classify the evidence this way or agree about its cause.
 There is no universal detect-magic faculty.
 
-- **Analysis** detects local causal intervention signatures in systems being altered. It does not see a soul or Beast directly.
+- **Analysis** receives the later relevance of present connections inside an active, bounded system: which join will carry a change into consequence during the opening. It can detect local intervention signatures but does not see a soul or Beast directly.
+- **Sorcery** receives no observation. The coupled person-Beast relation's active local orientation presses backward upon unconscious motor choice and selects a lever able to produce the first reachable change. A superior's strategic aim is not that local result, even when obedience shaped it. Only the used lever, forced departure, and any causal scar become available to other witnesses.
 - **Prophecy** detects deformation or occlusion in forecast space caused by large-horizon actors. It can infer presence without automatically identifying actor or style.
-- **Channeling** feels active influence crossing local flows and can contain that crossing. It cannot locate a remote or dormant source.
+- **Channeling** feels an active flow's imminent continuation and its response to deflection before the crossing completes. It can redirect or contain that crossing but cannot locate a remote or dormant source.
 - **Shamanic bonding** senses future conflict or pressure upon the bonded target.
 - **Luck** has no discrete activation signature and is directly undetectable. A prophet may infer persistent Luck from futures that fail in a patterned way, but cannot identify a luck-user by magical sight alone.
 
 Chaos- and God-Beast trails are forecast occlusions or repeated causal scars, not universally visible tracks.
+
+## Oracles among oracles
+
+Every Gift is an oracular relation even when it produces no conscious forecast.
+Its user, Beast, intended response, and material intervention enter the causal
+systems available to other Gifts. Their collisions are asymmetric: an effect is
+blocked only when another act closes its route, consumes or redirects its
+potential, removes a lever, changes the observed system, or makes the question
+obsolete.
+
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns those interactions,
+crowded horizons, and local timeline capture. Kaos continues to own whether any
+individual intervention is physically and causally reachable.
 
 ## Unresolved
 
@@ -80,4 +96,6 @@ Chaos- and God-Beast trails are forecast occlusions or repeated causal scars, no
 - What Intuition perceives and whether Analysis can identify a style rather than an intervention.
 - The exact boundary between a physically zero-probability event and an event outside a particular Beast's reachable volume.
 
-See [[Spoilers/Foundations/Magic Styles|Magic Styles]] and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]].
+See [[Spoilers/Foundations/Magic Styles|Magic Styles]],
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]], and
+[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]].

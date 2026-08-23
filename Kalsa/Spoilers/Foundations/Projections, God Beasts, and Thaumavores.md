@@ -8,6 +8,7 @@ aliases:
 status: canonical-foundation
 repaired_in:
   - KALSA-026
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-32.md
@@ -53,6 +54,20 @@ These relations may resemble one another in upper-dimensional topology while rem
 
 God Beasts differ by style. Luck Gods seek survival and territory. Sorcerer Gods reproduce conquest and submission, and often collapse after the death of their living anchor. Analysis Gods embody ideas and feelings and contend through ideological hierarchies. The survival rules of other styles remain unresolved.
 
+A hierarchy also changes the competition among oracles. Priority routing lets
+one God coordinate potential and response across many bound actors. Where the
+same hierarchy also controls information, material levers, and rival movement,
+it can make its own anticipated response part of nearly every reachable future
+within a bounded horizon.
+[[Spoilers/Foundations/Oracle Ecology#Timeline capture|Oracle Ecology]] calls
+this local timeline capture.
+
+Binding does not make the God the only oracle present. Bound identities remain,
+rivals act from outside the hierarchy, and different Gifts expose pressures the
+God may not recognize. A Luck God's wide survival attractor, a Sorcerer God's
+submissions, and an Analysis God's ideological domain therefore narrow futures
+through different relations.
+
 ## Divine knowledge and performed certainty
 
 Power is not omniscience. A God Beast perceives through the relations, potential, manifestations, memories, and active conflicts available to its hierarchy. It can notice patterns beyond mortal reach, preserve perspectives across deaths, compare distant dependents, and infer causes from centuries of intervention. None of those capacities grants the complete author ontology.
@@ -85,4 +100,7 @@ The seed says a Projection remains until it willingly releases its grip on the l
 
 This cosmology makes worship, submission, apostasy, funerals, ancestral claims, miracles, and divine succession questions of real power. It does not yet establish one universal law for them. Later institution notes must distinguish who owns a rite, what the rite changes, who can refuse, and who bears the risk of thaumavore attraction.
 
-See [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Reference/Glossary|Glossary]].
+See [[Spoilers/Foundations/Kaos|Kaos]],
+[[Spoilers/Foundations/Magic Styles|Magic Styles]],
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]], and
+[[Spoilers/Reference/Glossary|Glossary]].

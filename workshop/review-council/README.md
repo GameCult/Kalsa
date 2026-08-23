@@ -24,7 +24,8 @@ reviews:
 | [[critics/Material Life and Ecology|Material Life and Ecology]] | Critic | — | — |
 | [[critics/History Conflict and Change|History, Conflict, and Change]] | Critic | — | — |
 | [[critics/Ghostlight Play and Consequence|Ghostlight Play and Consequence]] | Critic | — | — |
-| [[critics/AI-Isms and Prose|AI-Isms and Prose]] | Guardian | [[../deepening/reviews/KALSA-038/candidate-06-packet|KALSA-038 candidate 06]]; `Kalsa/index.md` and complete `Kalsa/Public/` surface | 0 |
+| [[critics/Oracle Ecology and Timeline Competition|Oracle Ecology and Timeline Competition]] | Critic | — | — |
+| [[critics/AI-Isms and Prose|AI-Isms and Prose]] | Critic | KALSA-038 certification invalidated by the KALSA-039 full-surface sanity failure; reactivated pending a new exhaustive loop | — |
 | [[critics/Reader Experience and Navigation|Reader Experience and Navigation]] | Critic | — | — |
 
 A **Critic** receives an independent baseline diagnostic turn and a post-repair
@@ -103,7 +104,7 @@ is redundant.
   plus Guardian change review or sanity check -> coordinator closeout ->
   ordinary repository verification.
 - **Cut line:** a generic `Soul review`, one omnibus opinion, or an aggregate
-  score cannot stand in for the seven named seats and their mode-required
+  score cannot stand in for the eight named seats and their mode-required
   reports. Continuity is not a dedicated seat; source fidelity, provenance,
   ownership, and spoiler safety constrain every seat and remain part of final
   verification.

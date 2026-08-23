@@ -7,6 +7,7 @@ status: canonical-polity
 adopted_in: KALSA-009
 repaired_in:
   - KALSA-018
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -46,6 +47,34 @@ No participant can cheaply abolish the others.
 Each empire can compel tribute and strategic cooperation within its reach. Neither owns the whole city, every prophet, or the Sunwall. Full annexation would give one rival exclusive access to prophetic lineages and threaten the other's future before the conqueror could stabilize the farms. Local authorities survive because both empires need an intermediary capable of making grain, light, forecast labor, and ordinary law cross hostile boundaries.
 
 The arrangement is not equality. Garrisons, collectors, divine patrons, and house clients exert different pressure by ward. The civic authority can bargain between empires but cannot pretend their force is absent. The empires can overrule local decisions in claimed strategic matters but depend upon local compliance to make an order real.
+
+## A horizon no claimant owns
+
+The city's division is also a struggle over who gets to become the expected
+actor in every future. Exclusive control of the houses would let one empire
+brief most long-range observers, receive their reports first, and condition
+rival planning upon responses it had already chosen. Exclusive control of the
+Sunwall, gates, and messengers would give those reports the levers needed to
+make themselves true.
+
+Neither claimant possesses that combination. Houses split archives and
+allegiances across sectors. Civic clerks preserve some reports beyond a
+sponsor's custody. Sunwall crews can stop an unsafe act that every patron has
+planned around. Kin, grain, and messages cross the imperial line. A hosted
+prophet may know the host's intention while remaining ignorant of a ward
+closure already changing the branch set.
+
+House comparers call such a field, in translation, a **crowded horizon**. The
+term is useful when a report must name other actors capable of responding
+inside its span. It becomes self-serving when houses use crowding to excuse a
+poor question or conceal which patron received warning first. The complete
+interaction belongs to [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]],
+not to house doctrine.
+
+The condominium preserves multiple futures by preserving multiple coercive
+authorities. That is not freedom. It is the reason conquest remains unfinished
+and the reason ordinary residents can be burdened by three precautions issued
+against one another.
 
 ## Tributary government
 
@@ -105,6 +134,15 @@ These accusations are not errors to be smoothed away. They identify where the ma
 ## Historical stress: the Closed Lift Appeal
 
 [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] is the factual owner of the event. Its polity consequence was to make the city's divided body harder to collapse: the City Mixed Bench retained civic judgment, imperial parties retained only their scoped claims, and the Sunwall Stewardship retained operational responsibility. The precedent did not abolish occupation or make the civic authority sovereign.
+
+## Historical pressure: the Three Orders at Sunwall
+
+Sunwall stewards and house comparers cite
+[[Spoilers/Events/The Three Orders at Sunwall|the Three Orders at Sunwall]] when a strategic report reaches civic
+machinery. The sponsor's intended response and the steward's operating change
+travel as separate leaves. The event did not found this practice or settle the
+city's constitution; it gives present workers a local reason to refuse a plan
+whose refuge, load, or mechanism cannot bear it.
 
 ## Unresolved
 

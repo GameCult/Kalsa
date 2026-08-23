@@ -22,13 +22,27 @@ During a severe storm and military mobilization, a branch holder ordered geother
 
 The branch holder treated the stop as insubordination, detained the steward, and ordered a champion to enforce compliance.
 
+The champion acted before the appeal. Under pressure to enforce the order, the
+answer came as a blow against the ash-valve collar. Its selected local
+departure was the reachable break: the locking lug split and freed the
+handwheel. The champion and branch holder treated that success as the first
+step of opening the main. The steward's stop had already removed the transfer
+pin and placed it with the custody record. The handwheel spun; the main did not
+open. Sorcery reached its local result while the higher-order assumption failed.
+
+An opened reviewer later found an intervention aftermark at the broken collar.
+That finding established a used causal lever, not the champion's private
+experience or an invisible culprit. Material inspection established why the
+force had failed to reach the valve and why replacing the pin under the loaded
+configuration remained unsafe.
+
 ## Aid and appeal
 
 A Hearth-aligned Soiru'i sect opened its mutual-aid stores, supplied the threatened ward, sheltered the steward's family, and copied the technical custody record before officials could seize it. Its memory keepers and advocates preserved the refusal while a living champion persuaded the holder's champion to carry appeal to the holder's superior rather than force the valve.
 
 Rhythmic pressure knocks appeared at the shrine of a dead valve keeper. Sect members received them as warning and support. Opponents described them as pipe stress or a manufactured omen. The appeal record preserved the manifestation as sect testimony and did not treat it as an infallible statement from the dead.
 
-Material inspection independently upheld the steward's warning.
+Material inspection upheld the steward's warning.
 
 ## Challenge and partial repair
 

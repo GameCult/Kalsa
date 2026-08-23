@@ -72,6 +72,12 @@ The initial foundation adopts these repairs:
 8. The two Channeler histories are successive: Ju'onai displacement, then the Terjamna Ji'esti massacre; the mercenary strand describes an external diaspora, not the entire Sarxe society.
 9. Magical descent is threshold expression of inherited strain-complexes, not a hierarchy of pure and diluted peoples.
 10. The returning Prometheus and Cabal plot remains a story seed.
+11. Every Gift is a differently shaped oracular relation. No oracle observes
+    from outside the causal field; observation, response, rival Gifts, and
+    material intervention can change reachable futures.
+12. God hierarchies can produce local timeline capture by controlling
+    information, potential, levers, and rival agency. Capture is bounded and
+    contingent, not proof of one global deterministic future.
 
 ## Unresolved claims
 

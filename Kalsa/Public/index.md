@@ -57,3 +57,26 @@ is still waiting at the review.
 Why did two sponsored forecasts omit what their sponsors planned to do with
 them? [[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] makes the houses
 answer before the grain moves.
+
+### Follow a crowded future
+
+Begin with [[World/Magic and Miracles#When futures crowd|When futures crowd]],
+then follow four kinds of collision:
+
+- [[Sources/The Three Orders at Sunwall|The Three Orders at Sunwall]] — the
+  steward responsible for a loaded wall removes two strategic openings.
+- [[Sources/The Narrow Shield|The Narrow Shield]] — a temporary command saves
+  central refuges and releases the outer road and fields.
+- [[Sources/The Empty Bridge Vigil|The Empty Bridge Vigil]] — divine protection
+  holds a bridge while river work sends evacuees toward unprotected shelters.
+- [[Sources/At the Second Gate|At the Second Gate]] — a live delivery whose
+  report is still sealed and whose first bell is about to sound.
+
+### Other crossings
+
+Ju'onai surveyors kept rebuilding one ascent toward the Luck Crown.
+[[Sources/The Road That Returned|The Road That Returned]] sets their road books
+beside three incompatible Selza'a recitations.
+
+[[Sources/The Grain at Two Gates|The Grain at Two Gates]] is a copied delivery
+record whose safe route became crowded as soon as the buyers acted on it.

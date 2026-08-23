@@ -8,6 +8,7 @@ adopted_in: KALSA-014
 repaired_in:
   - KALSA-020
   - KALSA-030
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -33,6 +34,10 @@ plain. An opened reader can carry some of that understanding after the episode
 passes and may interact unusually well with computers, Promethean nanites, and
 mechanical systems. An opening remains bounded. It does not choose its frame
 honestly, read motive, confer technical custody, or reveal the author's model.
+Readers describe the temporal part as **what will bear**: a hinge becomes plain
+because its consequence still runs through the opened interval. They do not
+receive a picture of the later state. A new actor, a changed premise, the end of
+the interval, or a consequence outside the framed system defeats the reading.
 [[Spoilers/Institutions/Ju'onai Schools of the Opening|Ju'onai Schools of the
 Opening]] owns the field's vocabulary, competing theories, archives, and
 teaching lineages.
@@ -76,6 +81,27 @@ An official model can improve a client's irrigation and also convert that improv
 
 The Hegemony's status gods sharpen these contests. A god associated with measurement, cultivated reason, obedience, harvest, or public order can gain power as the relevant office and vocabulary spread. That does not establish that each concept has one necessary divine owner. Clergy, officials, clients, and God Beasts contest the correspondence. [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]] owns binding procedure; administrative rank cannot prove a person's upper-dimensional allegiance.
 
+## Winning before the battle
+
+The Ju'onai ideal of entering battle already won depends upon more than tactical
+cleverness. Surveyors define the system, opened readers expose its levers,
+officials arrange tribute and movement, and divine offices teach clients which
+responses are thinkable. When those layers agree, an opponent can find every
+available choice already priced, supplied, or punished by the Hegemony's
+anticipated answer.
+
+Ju'onai schools dispute this condition. Some describe a complete concordance in
+which cause, office, and divine idea have been properly aligned. Named-Edge
+critics point to the actors omitted from the frame: a hidden store, a rival
+oracle, a worker who can stop the machine, or a population willing to abandon
+the modeled territory. Client archives preserve cases where the Hegemony's
+preparation made resistance take a form its readers had excluded as irrational.
+
+The author comparison is local timeline capture.
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns it. Ju'onai
+institutions know openings, concordances, trials, causes, and edges, and fight
+over which of those made the victory possible.
+
 ## Office and public works
 
 Administrative offices are bounded portfolios rather than a single ladder of cleverness. A holder receives a territory or system, records, staff, budget, obligations, and review path. Eligibility may require a relevant certificate. Appointment still depends on superior office, patronage, divine faction, lineage, and political trust.
@@ -117,6 +143,14 @@ In the Divided City, Ju'onai assessors must confront forecasts that change when 
 [[Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] alone owns the factual event. Its polity consequence is the Hegemony's characteristic contradiction: a bounded opening can be correct while imperial administration uses its frame to make a client territory false. The appeal demonstrates real self-correction and the class power to delay correction until damage fits an official model.
 
 Hegemony memory emphasizes preserved competence and narrowed authority. Valley memory emphasizes consumed seed, departure, and observations believed only after they became administratively legible. Neither interpretation changes the event record or makes examination identical to government.
+
+## Historical stress: the road that returned
+
+Hegemony schools cite [[Spoilers/Events/The Road That Returned|the Road That
+Returned]] when teaching moving boundaries. A reader can expose every join in a
+road plan while the surveying office changes guides, stores, warnings, and
+resistance before the next opening. The lesson limits what one examination may
+certify; it does not settle the Crown's cause.
 
 ## Resistance and dungeon seams
 

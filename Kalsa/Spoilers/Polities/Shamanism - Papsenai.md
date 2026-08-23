@@ -8,6 +8,7 @@ adopted_in: KALSA-011
 repaired_in:
   - KALSA-021
   - KALSA-022
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -29,6 +30,19 @@ The seed calls the papsenai the world's most profitable agricultural power and p
 Shamanism, signature 101 and Sequence III, grew from Sorcery after [[Spoilers/Foundations/Prometheus|Prometheus]] changed the conquest game. Tribes gained reproductive rights by holding a fixed objective for half a generation. The test selected for defense, planning, endurance, and intervention across a longer horizon as well as for direct violence.
 
 A shaman enters a dreamlike trance and bonds with a target's fate. Blessings and curses alter reachable futures; the bond can reveal approaching magical pressure or conflict around the target. Coordinated shamans can steer large systems by exploiting the energy and causal levers already present within them. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own those mechanics and their limits. Papsenai institutions own who is asked to work, who supplies the work, which target is chosen, and who bears the result.
+
+The bond is a long oracular commitment, not a forecast delivered before work.
+Seed withheld from eating, hands kept on one field, replacement watches, and
+the decision to continue after a warning all become part of the future the
+shaman can reach. A competing oracle may detect the storm, market, army, or
+field differently without ever entering the bond itself.
+
+Papsenai records therefore distinguish an **unheld possibility** from a future
+for which a household has begun paying. The distinction does not prove the held
+future should continue. It identifies who will lose stored labor when a patron,
+enemy, God, or second shaman changes the surrounding field.
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the author comparison
+among those oracles.
 
 The old narrator described papsenai bodies and temperament through the language of breeding stock: very large, bovine-featured, docile, unintelligent, kind, and ferocious in battle. The physique and Promethean selection pressure remain possible inheritances. Intelligence, docility, obedience, and a single cultural temperament are not facts. The papsenai contain landlords and tenants, cautious elders and ambitious delegates, shield workers and deserters, prosperous storekeepers and households one failed field away from flight.
 
@@ -77,6 +91,13 @@ External patrons or future compacts may bring [[Spoilers/Institutions/The Techpr
 [[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] owns the adopted wartime episode, its damage, and its settlement. Papsenai political memory owns what later bargains do with it. Tribes and households invoke the case when they demand that subsistence and seed be identified before negotiable surplus, that an emergency collector leave a reviewable receipt, and that shield labor not disappear inside an ordinary campaign levy.
 
 The memory cuts both ways. External demand did not make every papsenai refusal prudent, and later local elites can invoke the winter to hide a real surplus or protect their own stores first. The durable polity question is therefore evidentiary: which reserve was preserved for whom, what was actually taken, what protection or return was promised, and which households and shield stations absorbed the loss. The event settles none of the Alliance's founding chronology or the identity of the unresolved Intuition protector.
+
+## Historical consequence: the grain at two gates
+
+Some tribes cite [[Spoilers/Events/The Grain at Two Gates|the Grain at Two
+Gates]] when bargaining abroad. Their delivery promise names the grain,
+recipient, excluded reserve, and release conditions; a route can change without
+giving the buyer title to the people sustaining the bond.
 
 ## Fault lines and resistance
 

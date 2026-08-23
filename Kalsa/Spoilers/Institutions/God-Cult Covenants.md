@@ -7,6 +7,7 @@ status: canonical-institution
 adopted_in: KALSA-008
 repaired_in:
   - KALSA-017
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -91,6 +92,28 @@ The God Beast controls the actual routing relation to the extent that it can
 act. Clergy own records and public procedure. Champions own force only within
 the grant that supports them. None of these authorities is entitled to pretend
 it owns the others.
+
+## Oracular portfolios and divine strategy
+
+A cult may recruit several kinds of Gift without possessing one complete
+future. Prophets can extend a hierarchy's conscious horizon, opened readers can
+locate a material lever, Sorcerers and Channelers can act upon different parts
+of a conflict, and a shaman can keep a chosen body moving toward an outcome
+after the original vision expires. Luck can dominate the result without
+entering the council chamber as testimony.
+
+Clergy often describe successful coordination as proof that the God saw and
+ordered the whole. Rival sects preserve incompatible records: the champion
+acted before the oracle answered, the field bond was already in place, or the
+God's withdrawal forced the route later called providential. Such records can
+challenge performed omniscience without proving the God absent.
+
+When one hierarchy controls the witnesses, briefings, potential routes,
+material stores, and force that can answer a vision, its anticipated response
+can enter nearly every future available to its dependants. Cult doctrine may
+call that protection, concord, submission, or divine order. The author-facing
+condition belongs to
+[[Spoilers/Foundations/Oracle Ecology#Timeline capture|Oracle Ecology]].
 
 ## Cult formation and office reproduction
 
@@ -189,6 +212,15 @@ Organized resistance uses the same material surfaces as cult government. Apostat
 [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] established a durable warning against letting succession clergy merge covenant origin, miracle allocation, and mortuary evidence into one register. Covenant offices retained authority over living terms and contractual exit, but not over the allocation accounts or death inventory. Later cult reformers cite the settlement when demanding duplicate covenant records and independent witnesses. Centralizing clergy cite the same crisis to argue that separated records invite paralysis and fraud.
 
 The event did not establish a continent-wide rule, identify the god's preferred successor, or prove that any successful contractual exit changed a binding. Those remain decisions and uncertainties owned elsewhere.
+
+## The Empty Bridge consequence
+
+After [[Spoilers/Events/The Empty Bridge Vigil|the Empty Bridge Vigil]], some
+cults require a concentrated emergency grant to name its evidence, material
+operator, outside route witness, withdrawn beneficiaries, and expiry. Others
+cite the vigil when seeking authority over intervention beyond the covenant.
+Neither reading
+gives clergy the God's complete thought or makes the copied procedure universal.
 
 ## Dungeon pressure
 

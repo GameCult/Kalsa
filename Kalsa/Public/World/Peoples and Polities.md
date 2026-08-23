@@ -73,6 +73,11 @@ grain taken for a campaign and a relief watch sent elsewhere. When the shield
 yields, its workers bring store marks, shift papers, and household testimony to
 the review.
 
+In [[../Sources/The Narrow Shield|The Narrow Shield]], separate Papsenai and
+Sarxe workings keep correcting the pressure sent by the others. A Circle lead
+takes every target for one watch, saves the central refuges, and releases the
+outer road and fields.
+
 ## The Ju'onai Hegemony
 
 Ju'onai readers call sudden comprehension of a bounded system an **opening**.

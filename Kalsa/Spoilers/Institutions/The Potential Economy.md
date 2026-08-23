@@ -7,6 +7,7 @@ status: canonical-institution
 adopted_in: KALSA-008
 repaired_in:
   - KALSA-017
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -169,6 +170,21 @@ same economy explicit: submission subordinates a defeated Beast's remaining
 potential, but completing the submission also drains the victor. Victory can
 therefore produce a larger hierarchy and an immediate shortage at once.
 
+Strategic hierarchies also seek a mixture of oracular shapes. Prophets compare
+distant branches; opened readers expose local systems; Sorcerers force focused
+departures; shamans maintain long commitments; Channelers control crossings;
+Luck may bend survival beyond any steward's account. These capacities cannot be
+substituted unit for unit. A ledger that counts “three seers” without recording
+their operation is political fiction.
+
+Controlling several shapes can bring a hierarchy closer to
+[[Spoilers/Foundations/Oracle Ecology#Timeline capture|local timeline capture]]:
+the same patron learns the horizon, owns the lever, intercepts rival influence,
+and directs the response. It also creates internal competition. Bound agents
+may receive different evidence, a compartment may hide an essential response
+from the Prophet meant to assess it, and a Luck relation can preserve the God
+while ruining the campaign its steward thought survival required.
+
 ## Leakage and magical fountains
 
 Thaumavores consume potential passing near them. Stewards map recurrent losses
@@ -216,6 +232,15 @@ A claimant may appeal concealed priority, inconsistent treatment, an expired eme
 The settlement of [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] left the potential ledger institutionally separate from covenant and mortuary records. In institutions that inherit its lesson, material stores and miracle commitments are audited together, and open household obligations travel with a steward's succession rather than disappearing into the new office.
 
 Reserve factions remember the schism as proof that public ledgers can expose a hierarchy during weakness. Household coalitions remember that secrecy had already converted their contributions into elite continuity. The event owns those facts; this note owns the allocative lesson, not the cult succession or mortuary finding.
+
+## The Empty Bridge consequence
+
+Stewards citing [[Spoilers/Events/The Empty Bridge Vigil|the Empty Bridge
+Vigil]] put withdrawn shelter capacity on the same line as a concentrated
+bridge grant. The entry includes ordinary stores and fuel placed at risk,
+workers diverted to drainage and repair, and claims carried by households that
+could no longer reach the funded site. The ledger records those costs without
+acquiring jurisdiction over the upstream Channeler or divine intent.
 
 ## Dungeon pressure
 

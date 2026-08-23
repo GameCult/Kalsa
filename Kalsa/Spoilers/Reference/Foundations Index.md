@@ -17,6 +17,7 @@ tags:
 - [[Spoilers/Foundations/Kaos|Kaos]]
 - [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]
 - [[Spoilers/Foundations/Magic Styles|Magic Styles]]
+- [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]]
 - [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]]
 
 ## Control surfaces

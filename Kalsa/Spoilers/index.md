@@ -24,6 +24,7 @@ This vault distinguishes current setting canon from the exported seed, unresolve
 - [[Spoilers/Foundations/Ark and Fall|Ark and Fall]] — Logos, the colony Ark, eight Rings, and the Fall.
 - [[Spoilers/Foundations/Prometheus|Prometheus]] — rebel, ship-mind, breeder, god, and absent sovereign.
 - [[Spoilers/Foundations/Kaos|Kaos]] — causal branch steering and its hard constraints.
+- [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] — competing oracular shapes and local timeline capture.
 - [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] — persons, divine hierarchies, ghosts, and magical predation.
 - [[Spoilers/Foundations/Magic Styles|Magic Styles]] — the seven Gifts, Null, and the two numbering systems.
 - [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] — Lojban inheritance, octal design, and unresolved calendars.

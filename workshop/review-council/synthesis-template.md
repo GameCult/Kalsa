@@ -16,6 +16,7 @@ coordinator: replace-me
 | Material Life and Ecology | Critic |  |  |  |
 | History, Conflict, and Change | Critic |  |  |  |
 | Ghostlight Play and Consequence | Critic |  |  |  |
+| Oracle Ecology and Timeline Competition | Critic |  |  |  |
 | AI-Isms and Prose | Guardian | n/a unless sanity triggered |  |  |
 | Reader Experience and Navigation | Critic |  |  |  |
 

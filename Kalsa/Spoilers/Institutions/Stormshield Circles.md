@@ -7,6 +7,7 @@ adopted_in: KALSA-011
 repaired_in:
   - KALSA-021
   - KALSA-022
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-45.md
 tags:
@@ -78,6 +79,27 @@ When the barrier becomes uncertain, the Circle should:
 
 If a section must be yielded, operational leads identify which lives and structures will bear the transfer. “Save the city” is not a sufficient target when one district is quietly being sacrificed for another. Immediate decisions may remain brutal, but their ownership must be visible.
 
+Several honest targets can also become the failure. A field holder can pull
+rain away from seed, a shield cohort can press wind toward an outer section,
+and a Channeler boundary can turn active force aside. If each responds only to
+the changed pressure it receives, their corrections can recurse faster than
+messengers can establish the whole field.
+
+During an immediate cascade, a lead may issue a **narrowing order** for one
+named watch. The order identifies the observations admitted to the central
+signal, the targets to be released, the cohorts and stores reassigned, the
+boundaries other workers must not change independently, and the exact condition
+that ends the authority. This concentrates enough information, levers, and
+response to keep one shield configuration coherent. It can also decide which
+district, road, field, or outside group no longer has an independent future
+inside the barrier.
+
+[[Spoilers/Events/The Narrow Shield|The Narrow Shield]] made this emergency
+power durable and suspect. Its central refuges survived. Outer land and people
+bore the path the order abandoned. Later leads cite the rescue when they demand
+early control; households cite the same record when they demand an expiry,
+copies outside the Circle, and standing in the review.
+
 A failed shield does not automatically prove bad magic. Possible causes include a storm outside the reachable branch, rival intervention, thaumavore leakage, false observation, incompatible targets, poor handoff, exhausted workers, missing supplies, political delay, or sabotage. The review must test each layer against its own evidence.
 
 ## Succession
@@ -91,6 +113,13 @@ An exhausted veteran may remain valuable as trainer, observer, advocate, or keep
 [[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] owns the adopted wartime episode, damage, and settlement. The Circles own its operational consequences. Shield workers are outside ordinary military levy; voluntary service on another target begins only after a competent replacement accepts the handoff; and an emergency claimant must record the cohort, shift capacity, household support, and relief depth removed from the living barrier.
 
 Circle records treat withheld food and diverted attendants as shield failures before they become individual failures in trance. A city or ally may still request campaign assistance, but the operational lead can refuse a demand that leaves no credible overlap or relief. The event fixes no universal staffing ratio, shift length, exemption form, or account of how the barrier works.
+
+## Historical consequence: the Narrow Shield
+
+After [[Spoilers/Events/The Narrow Shield|the Narrow Shield]], a Circle's
+narrowing order names admitted signals, released targets, controlled
+boundaries, stores, expiry, and later review. Outer households watch the scope:
+officials have used the old one-watch rescue to ask for longer command.
 
 ## Hostile cases
 

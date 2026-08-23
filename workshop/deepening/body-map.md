@@ -1,8 +1,8 @@
 ---
 title: Kalsa Canonical Body Map
 status: working-map
-snapshot_at: 2026-08-23T09:30:23Z
-scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-038
+snapshot_at: 2026-08-23T12:45:18Z
+scope: deepening-waves-1-through-16-plus-kalsa-026-kalsa-029-through-kalsa-039
 ---
 
 # Kalsa Canonical Body Map
@@ -26,6 +26,10 @@ civic appeal, Sunwall actuation, competing records, and unfinished remedy.
 KALSA-038 exhausts the AI-Isms and Prose Critic on the complete Public surface
 and converts that seat into a change Guardian with periodic full-surface sanity
 checks. This changes review routing, not canon or publication authority.
+
+KALSA-039 adds an author-facing Oracle Ecology owner, situated Public models
+and case carriers, and a current Ghostlight dungeon without granting any
+inhabitant or character the author comparison.
 
 ## Lore review and repair control
 
@@ -74,6 +78,67 @@ checks. This changes review routing, not canon or publication authority.
 - **Deletion/demotion line:** Promethean design labels, narrator prejudice, and seed shorthand remain evidence or attributed history unless an owner adopts them.
 - **Verification layer:** seed hashes, source witnesses, link resolution, provenance labels, event-ownership review, candidate/history separation, and contradiction review.
 - **Unresolved seam:** present date/distance from the Fall, final map and chronology, language families, and which contradictions remain in-world disputes.
+
+### Oracle ecology and current-dungeon authority — KALSA-039
+
+- **Owner:** `Kalsa/Spoilers/Foundations/Oracle Ecology.md` owns author-facing
+  interaction invariants among differently shaped oracles and the conditions
+  of local timeline capture. `Kaos.md` retains physical constraints;
+  `Magic Styles.md` retains the Gift comparison; `Projections, God Beasts, and
+  Thaumavores.md` retains beings and binding. Polity, institution, and event
+  notes retain local practice and factual history. `Kalsa/Public/World/Magic
+  and Miracles.md` and its linked sources own situated presentation only.
+  `Kalsa/Spoilers/Dungeons/The Second Gate Understore.md` owns the canonical
+  current site; `Kalsa/Public/Sources/At the Second Gate.md` owns its bounded
+  courier-facing threshold copy; Ghostlight owns runtime resolution and
+  character/adjudicator projections.
+- **Inputs:** operations and limits from the three adjacent foundation owners;
+  acts emitted by situated people, Gods, institutions, and material systems;
+  single-owner event histories; attributed Public records and teaching
+  practices; the Second Gate's site state, participants, evidence, material
+  levers, response clock, and protected unknowns; and runtime character and
+  campaign state.
+- **Outputs:** cross-style constraints on altered reachable futures, crowded
+  horizons, asymmetric response, and local capture; bounded consequences for
+  local owners; situated Public explanations and case routes; a current
+  dungeon state with reachable changes; and Ghostlight receipts returned for
+  explicit reveal or canon review.
+- **Derived/display-only state:** reference summaries, timelines, council
+  packets, Quartz pages, search/feed entries, compiler diagnostics, and
+  unplayed reachable outcomes report or lower owned sources. Cultural theories,
+  forecasts, warnings, comparison files, and operating records remain scoped
+  evidence; none becomes the author model, a census, a verdict, or an actual
+  dungeon outcome by being collected.
+- **Forbidden writers:** Oracle Ecology cannot replace style mechanics,
+  metaphysics, local law, event facts, or material ownership. Prophecy cannot
+  become the universal oracle. Public cannot publish `oracle ecology` or
+  `timeline capture` as neutral inhabitant knowledge, invent a transmission
+  tradition, or assert unbroken institutional continuity. The current dungeon
+  cannot preselect a route or outcome; Ghostlight resolution cannot grant
+  characters hidden causal understanding or silently write canon.
+- **Shared paths:** foundation mechanics -> Oracle Ecology interaction
+  invariant -> local polity/institution/event consequence. Publication follows
+  local owner -> reveal review -> attributed Public model or source -> Quartz.
+  Current play follows Second Gate dossier plus bounded threshold copy,
+  character/campaign state, and live acts -> Ghostlight resolution -> receipt
+  -> explicit update or reveal in the owning source. Within the ecology, an
+  oracular act alters the reachable field before partial detection, rival
+  response, and institutionally distributed consequence.
+- **Deletion/demotion line:** `oracle = Prophet`, Prophecy as sole future owner,
+  homogeneous interference, universal oracle census or court, omniscient
+  Public narration, repeated neutral event summaries, preferred dungeon route,
+  and prewritten current-play outcome are cut. Author labels remain inside
+  `Spoilers/`; local carriers keep only evidence and consequences they own.
+- **Verification layer:** reconstructed 40-file raw-SHA-1 identity for
+  `KALSA-039-council-07`, the five-round saturation loop and final council
+  regression, event-owner and protected-unknown checks, author-term/Public
+  omniscience negatives, Second Gate key/slate/bell and no-preferred-outcome
+  checks, full-vault and Public-only links, publication boundary, Quartz build,
+  and rendered route inspection.
+- **Unresolved seam:** quantitative crowding/capture thresholds, same-style and
+  multistyle interaction, Intuition, deliberate independence inside God
+  hierarchies, first War-era collisions, the Second Gate's final outcome and
+  liability forum, and the external Ghostlight compiler/campaign contract.
 
 ## Provenance and repair markers
 
@@ -484,7 +549,7 @@ These overlays record changed authority and shared paths. They are audit views o
 
 ## Repository and projection boundaries
 
-### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-037
+### Publication, epistemic, and vault-navigation authority — KALSA-026, KALSA-029 through KALSA-031, and KALSA-033 through KALSA-039
 
 - **Owner:** subject notes under `Kalsa/Spoilers/` own open author canon; situated notes under `Kalsa/Public/` own inhabitant-facing reader presentation; each Public explanatory model requires a culture, institution, lineage, text, witness, or named synthesis as its epistemic owner; `Kalsa/index.md` owns navigation only; Ghostlight owns any future bounded character-context and adjudicator projections in its runtime; Quartz owns no truth.
 - **Inputs:** author canon, situated public-source prose, explicit reveal decisions, and—for future Ghostlight lowering—character, campaign, and adjudication state.
@@ -501,9 +566,11 @@ These overlays record changed authority and shared paths. They are audit views o
 | `Kalsa/` + `Kalsa/index.md` | Obsidian vault container and navigation-only consent gate. | Leads casual explorers to `Public/` by default and deliberate spoiler readers to `Spoilers/`. | Owns no setting claims and cannot place author/GM domains beside the consent boundary. |
 | `Kalsa/Public/` | Sole Quartz input and owner of inhabitant-facing situated presentation, not a second author canon. | Lets players explore common life, attributed schools, lineages, offices, witnesses, texts, and explicit comparison among their accounts; links only within the public surface. | Cannot reveal by proximity, speak author taxonomy as neutral knowledge, rename a backstage model and call it situated, become a duplicate encyclopedia, or link readers into author/GM material. |
 | `Kalsa/Spoilers/` | Complete open author and GM surface; subject notes retain truth authority and the folder itself owns none. | Receives reviewed canonical repair; feeds author inspection, reveal review, and future compiler inputs. | Cannot escape into the vault root through duplicate notes, junctions, symlinks, or compatibility copies. |
+| `Kalsa/Spoilers/Foundations/Oracle Ecology.md` + `Kalsa/Public/World/Magic and Miracles.md` | The Spoilers note owns author interaction invariants; the Public note owns attributed inhabitant models and reader presentation only. | Author constraints flow to local subject owners; only situated practices and bounded cases cross reveal review into Public. | The foundation cannot absorb style, entity, local-law, or event ownership; Public cannot expose or cosmetically rename the author comparison. |
 | `Kalsa/Spoilers/Events/` | Adopted-history owner layer; each event note owns one factual sequence, while the index owns navigation only. | Supplies linked historical pressure to subject owners; receives factual correction before consequence notes. | Cannot absorb general procedure or metaphysics; consumers cannot fork its facts. |
 | `Kalsa/Spoilers/Places/Low Sere.md` | Canonical settlement and admission owner for the direct-entry launch. | Supplies dependency, actors, burdens, and threshold access to the Ashen Intake. | Cannot write technical competence, relic title, or dungeon internals. |
 | `Kalsa/Spoilers/Dungeons/The Ashen Intake.md` | Canonical direct-entry dungeon owner for its threshold, route, clock, hazards, objectives, collisions, and local outcomes. | Consumes settlement admission and compacts; returns recovery/change evidence to settlement and custody owners. | Cannot grant title, universalize salvage law, or decide Ghostlight runtime truth. |
+| `Kalsa/Spoilers/Dungeons/The Second Gate Understore.md` + `Kalsa/Public/Sources/At the Second Gate.md` | The Spoilers dossier owns the canonical current site, evidence, actors, levers, clock, and reachable changes; the Public source owns only the escort's threshold copy. | Supplies bounded site and character evidence to Ghostlight; runtime receipts return to explicit reveal or canon review. | Public cannot expose hidden responses or Oracle Ecology; the dossier cannot choose play's outcome; runtime resolution cannot silently become canon. |
 | `Kalsa/.obsidian/` | Stable configuration for the sole canonical Obsidian vault root; workspace, graph, recents, and cache remain ignored derived state. | Opens `Kalsa/` with automatic link maintenance and the standard authoring tools while current neutral session state points at `index.md`. | Session state cannot be shared as authority or resume inside `Spoilers/` before consent; editor state and plugins grant no canon authority. |
 | `workshop/Direction and Constraints.md` | Project charter and governing editorial doctrine. | Constrains selection, provenance, depth, and public/private decisions. | Does not contain setting facts merely because a design direction is persuasive. |
 | `workshop/deepening/` | Critique/repair contract, benchmark, queue, pass evidence, ledger, and this map. | Reads seed/canon; records reasoning and verification; proposes bounded owner repair. | Never published as lore and never used as a parallel canon. |
@@ -545,7 +612,10 @@ Direct human edits and agent repairs must converge on this path. A workshop pass
   Circle, household, and military evidence without granting any record or
   claimant the whole finding; KALSA-037 adds a bounded Closed Lift carrier
   through civic, imperial, house, technical, worker, and lower-shadow records
-  without granting any account the whole finding. Ghostlight compiler schemas,
+  without granting any account the whole finding; KALSA-039 adds the Oracle
+  Ecology author owner, situated crowded-future carriers, and the current
+  Second Gate dossier without granting Public or characters the author model
+  or deciding the live outcome. Ghostlight compiler schemas,
   campaign-package ownership, equivalent depth for the remaining traditions,
   and deployment/domain authority remain unresolved in their owning projects.
 - Intuition and the Alliance remain intentionally outside the adopted institutional parity set until source-grounded or operator direction gives them a factual owner.

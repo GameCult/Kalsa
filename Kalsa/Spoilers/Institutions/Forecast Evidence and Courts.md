@@ -4,6 +4,7 @@ status: canonical-institution
 adopted_in: KALSA-009
 repaired_in:
   - KALSA-018
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -70,6 +71,20 @@ A party introducing prophecy must identify enough of its production for challeng
 
 This record is not a claim that futures are reproducible like static measurements. It makes the differences legible when a rival prophet observes a changed question or a later branch set.
 
+Divided City reviewers use the translated term **crowded horizon** when the
+record contains other branch-aware actors capable of responding before the
+forecast expires. The reviewer asks which actors received the question, which
+responses the prophet was briefed to expect, what material levers they control,
+and where the report encountered unexplained gaps. The term does not prove that
+every gap is magical or let a court infer an invisible culprit.
+
+Crowding can make a report more important and less suitable as a verdict. A
+warning may show that several patrons are steering toward the same disaster
+while leaving the court unable to rank their private explanations. The court
+can stage action, expose assumptions, preserve records, or change the material
+system. It cannot stand outside the causal field and recover the future that
+would have occurred without its order.
+
 A forecast reviewer checks completeness, conflicts, relevance, and expiry, then writes a scoped recommendation on admissibility. The reviewer does not certify that a future is true. Reviewers may be trained prophets, Analysts, or legal specialists, but they serve the court under disclosed conflict rules rather than carrying a house or Ju'onai rank into the judge's seat.
 
 ## Admissibility
@@ -102,6 +117,27 @@ Instead, it compares inputs and asks which disagreement matters:
 - Does material evidence show that both reports began from a false premise?
 
 The comparison often produces a narrower decision than either patron wanted. A court may choose a reversible intervention and require a new forecast after the system changes.
+
+## A held future entering forecast litigation
+
+A shamanic bond record is not a forecast. When one enters a Divided City case,
+the bonded shaman or working group owns its account of the target, the material
+commitment already made, pressure sensed around it, interventions attempted,
+and the conditions under which the bond will continue or release. Papsenai
+practice owns how that account is formed; a house reviewer cannot rewrite it
+into branches the shaman never observed.
+
+The court can use the record to establish that a live commitment exists, that a
+sponsor's proposed act will enter its causal field, or that grain, labor, land,
+or a person is already carrying a named burden. The bond cannot prove every
+future of the target, identify an unseen rival, or decide whether the existing
+commitment should prevail.
+
+A material intervention affecting the target can expire both the bond account
+and a Prophetic report built around it. The judge may stage the act and require
+new evidence from each owner afterward. This interface does not make the court
+a universal tribunal for Shamanism; it governs only a non-prophetic claim
+offered inside a case the court already has authority to hear.
 
 ## Luck
 
@@ -184,7 +220,8 @@ The court's legitimacy rests not on pleasing these parties but on keeping any on
 - Exact appellate composition and how deadlock is resolved.
 - Standards for emergency duration, compensation, and restoration after wrongful precaution.
 - Archive access, record retention, and penalties for concealed branches.
-- Treatment of divine commands, shamanic bonds, Analysis reports, and Channeler observations when combined with prophecy.
+- Treatment of divine commands, Analysis reports, and Channeler observations
+  when combined with prophecy beyond the bounded shamanic interface above.
 - Whether neighboring polities recognize the city's forecast judgments.
 
-See [[Spoilers/Polities/Prophecy - The Divided City|The Divided City]], [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]], [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]], [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].
+See [[Spoilers/Polities/Prophecy - The Divided City|The Divided City]], [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]], [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]], [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]], [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].

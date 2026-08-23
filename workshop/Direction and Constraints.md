@@ -106,6 +106,42 @@ The operator-owned language direction is the High-Latin/Vulgar-Latin analogy: fo
 
 The durable theme is not “logical language fails.” It is that a designed system becomes alive when people inherit, misuse, repair, ritualize, weaponize, localize, and love it.
 
+## Fundamental setting question
+
+Kalsa asks what a world becomes when causality is inhabited by innumerable
+competing oracles, none privileged, whose different powers perceive and steer
+possibility through different shapes. Conscious Prophecy is only the most
+legible form. Luck, Sorcery, Shamanism, Analysis, Channeling, Intuition,
+Projections, Chaos Beasts, and God hierarchies participate without all producing
+visions or propositions.
+
+The comparison to a singular prescient ruler is diagnostic: timeline collapse
+becomes possible when one oracle's observation and response dominate the field.
+Kalsa normally contains too many partially legible competitors for that global
+monopoly. Luck and Luck Gods come closest through broad, continuous survival
+pressure. God hierarchies, conquest, submission, ideological assimilation,
+prophetic custody, reproductive control, and archive seizure can all attempt to
+manufacture local timeline capture by reducing independent sources of
+intervention.
+
+Every deepening wave that touches magic, gods, state capacity, war, law,
+kinship, trade, migration, scholarship, infrastructure, or play must therefore
+ask:
+
+- which differently shaped oracles enter the causal system;
+- what each can perceive, steer, conceal, or only infer about the others;
+- which institution controls observation, material levers, communication, and
+  response;
+- whether the arrangement preserves competing futures or routes them through a
+  dominant hierarchy;
+- what that coordination protects, what it forecloses, and who bears the
+  transition; and
+- how inhabitants explain the result without possessing the author model.
+
+`Oracle ecology` and `timeline capture` are author-facing working terms. Living
+cultures require their own models, evidence practices, scholarly lineages,
+interests, and characteristic mistakes.
+
 ## Institutional depth standard
 
 A mature institution should answer, in setting terms:

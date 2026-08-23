@@ -5,6 +5,8 @@ aliases:
   - Saxfoldi
 status: canonical-polity
 adopted_in: KALSA-015
+repaired_in:
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -26,6 +28,25 @@ Mobility is now the best-known center of Sarxe political life, not the measure o
 Channeling, signature 110 and Sequence VI, was developed from Analysis and Sorcery. Prometheus gave its Ring Analysis-like virtual interfaces that resonated only at close range, binding physical conflict to an augmented contest of perception. After generations, inherited Kaos replaced the implants.
 
 A Channeler perceives active energy, momentum, and magical influence as flows and can redirect or contain them. Channelers can predict from local dynamics, turn directed force, and weave barriers that prevent influence from crossing a boundary. They do not thereby read arbitrary thoughts, sense remote or dormant sources, know every person nearby, or share one consciousness. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own those mechanics. Sarxe institutions own the permissions, habits, labor, and conflicts built around proximity.
+
+Sarxe workers sometimes gloss the predictive sensation as **arrival already in
+the crossing**. A current's next pressure is felt before it reaches the body or
+boundary that will receive it, but only while the current is active and within
+reach. A turn, barrier, or new source changes what is arriving; nothing grants
+knowledge of a dormant reserve or a force that has not entered the local flow.
+
+A boundary can preserve an independent future when it prevents an oracle's
+active influence from reaching the people or system on the other side. It does
+not erase plans already carried across, Luck accumulating through remote events,
+or a dormant relation that has not begun to flow. Sarxe workers consequently
+ask what crossed, who carried it, and when the boundary changed; outsiders
+often retell the result as universal anti-magic.
+
+After Ji'esti, movement and divided custody also prevent one place from
+containing every lever of Sarxe survival. This political answer is broader than
+Channeling and exacts costs from households forced to move or remain behind.
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns its relation to
+timeline capture; Sarxe memory owns why one exposed center is intolerable.
 
 Channeling is a composite style and does not normally found an independent God Beast. Sarxe people can still enter [[Spoilers/Institutions/God-Cult Covenants|covenants]], join divine hierarchies, reject them, or disagree about the uses of magic. No common Sarxe god or religious settlement has been adopted.
 
@@ -104,6 +125,14 @@ Ji'esti survivors and their descendants carry different authority claims. Direct
 Ji'esti tested the original consolidation model to destruction. A fixed center made mutual aid, population, memory, and resistance possible; the same concentration allowed an infiltrating Soiru'i sacrifice to become a beacon for mass attack. Sarxe resistance was significant and still failed to protect civilians once the refuge was exposed.
 
 The mobile answer distributes people, route knowledge, supplies, records, and decision authority so that no single site owns survival. It preserves repeated commemoration while refusing a permanently exposed capital. That answer is not costless. Secrecy can conceal authority, split families, deny admission, erase static communities, or allow missing people to vanish between records. The proper test is not whether Saxfoldi moves. It is whether movement keeps persons, care, memory, and refusal alive.
+
+## Historical pressure: the Narrow Shield
+
+Route keepers citing [[Spoilers/Events/The Narrow Shield|the Narrow Shield]]
+require a shared outside signal to name its scope and ending before a convoy
+answers it. A household may still depart under its own record. When command
+separates people, a witness who traveled outside the central shelter list can
+carry the appeal; the Circle's signal copy cannot stand in for that testimony.
 
 ## Resistance and dungeon seams
 

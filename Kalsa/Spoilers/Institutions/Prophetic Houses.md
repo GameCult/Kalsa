@@ -4,6 +4,7 @@ status: canonical-institution
 adopted_in: KALSA-009
 repaired_in:
   - KALSA-018
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -85,6 +86,25 @@ Each assignment changes the future being studied. A prophet who knows that a Ter
 
 No house owns the future it reports. Suppressing a rival forecast may still be profitable, and archives can create an information advantage long after the vision itself expires.
 
+House archives describe a **crowded horizon** when other actors can observe or
+intervene inside the span of a report. A complete record names the competitors
+the team could distinguish, the actions expected after disclosure, and the
+places where branches vanished without an identifiable source. Comparers may
+separate the question among teams or commission a later reading after one
+intervention changes the field. They do not combine reports into a fictional
+view from outside every participant.
+
+This practice makes briefing custody strategic. A house that receives a
+garrison plan can see branches unavailable to a rival, while the garrison gains
+a forecast already conditioned upon its own intended response. Delaying a
+message, excluding an unrecognized prophet, or keeping a Sunwall steward out of
+the room can narrow the future before any report is falsified. Houses preserve
+methods against that danger and profit from controlling them.
+
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the complete author
+comparison. House doctrine can identify crowding within its evidence; it cannot
+classify every Gift or declare itself the neutral observer.
+
 ## Hostages, students, and providers
 
 Both imperial claimants demand reliable access to house expertise. A strategically important member may reside in an imperial sector or foreign court as a student, honored guest, resident forecaster, marriage partner, debt guarantee, or hostage. These categories often share a locked door.
@@ -156,6 +176,13 @@ These views identify live authority disputes. None is the vault's universal verd
 
 [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] owns the event facts. Its house consequence was a narrower charter boundary: a house owns its forecast and internal discipline, not civic guilt, and a sponsor's intended intervention belongs in any report offered to a court. Houses retained public service standing while gaining correction and discipline duties for reports that cross into civic custody.
 
+## Historical stress: the grain at two gates
+
+Houses that cite [[Spoilers/Events/The Grain at Two Gates|the Grain at Two
+Gates]] attach a response list and expiry conditions to merchant work. The fee
+buys a comparison and its corrections; spoiled grain and added road labor stay
+on the delivery account.
+
 ## Unresolved
 
 - House count, names, genealogies, estates, divine affiliations, and sector loyalties.
@@ -164,4 +191,4 @@ These views identify live authority disputes. None is the vault's universal verd
 - Whether hosted providers possess a recognized right of refusal, counsel, correspondence, or return.
 - How much forecast labor is owed to city, occupiers, patrons, and kin.
 
-See [[Spoilers/Polities/Prophecy - The Divided City|The Divided City]], [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]], [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]], [[Spoilers/Foundations/Kaos|Kaos]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].
+See [[Spoilers/Polities/Prophecy - The Divided City|The Divided City]], [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]], [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]], [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].

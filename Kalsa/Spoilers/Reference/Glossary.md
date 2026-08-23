@@ -43,6 +43,7 @@ relevant polity and institution notes.
 | **Kaos** | Prescient steering of reachable causal branches. |
 | **Luck** | Signature 001; constant, broad, unconscious bias toward survival or benefit. |
 | **Null** | Signature 000; no expressed Kaos Gift. A condition, not an ethnicity. |
+| **oracle ecology** | Author-facing comparison for interactions among differently shaped prescient people, Beasts, Gods, and institutions. Not common inhabitant vocabulary. See [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]]. |
 | **Promethean Sequence** | Development order N, I–VII; distinct from binary Kaos signatures. |
 | **Prophecy** | Signature 011; conscious long-horizon perception of possible futures. |
 | **Saxfoldi** | Mobile hidden center of Sarxe civilization; seed gloss “harmonious field.” |
@@ -56,6 +57,7 @@ relevant polity and institution notes.
 | **Sunwall** | Vast sunward wall and vertical-farm complex in the City of Prophets. |
 | **thaumavore** | Persisting Projection or Beast carcass that consumes passing magical potential to manifest. |
 | **Techpriesthoods** | Plural post-Fall maintenance lineages with bounded operational competence. See [[Spoilers/Institutions/The Techpriesthoods|The Techpriesthoods]]. |
+| **timeline capture** | Author-facing name for a bounded condition in which one oracle or hierarchy controls enough information, levers, and rival agency that nearly every reachable outcome inside a named horizon passes through its response. |
 | **Ti'asantatca** | Papsenai Crown City beside a storm front; seed gloss “stormshield.” |
 
 See [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] for the limits of seed translations.

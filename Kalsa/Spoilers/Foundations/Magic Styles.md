@@ -4,6 +4,8 @@ aliases:
   - Kaos signatures
   - Seven Gifts
 status: canonical-foundation
+repaired_in:
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -66,6 +68,15 @@ The exact inheritance model, frequency of multistyle expression, and relation be
 ## Observability
 
 Each style exposes different evidence. See [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]]. Luck cannot be directly detected; prophecy can only infer its bias. Analysis reads altered systems, prophecy reads deformed forecasts, channeling reads active flows, and shamanism reads pressure on a bonded target.
+
+## Interaction
+
+All seven Gifts are differently shaped oracular operations. Conscious
+prediction is not the boundary of the category. Their effects do not add into
+one shared perception score and do not cancel through a universal contest.
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns how their users,
+Beasts, and hierarchies crowd, occlude, converge upon, or capture reachable
+futures.
 
 ## Style notes
 

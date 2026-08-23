@@ -7,6 +7,7 @@ status: canonical-polity
 adopted_in: KALSA-016
 repaired_in:
   - KALSA-022
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -38,6 +39,34 @@ Selza'a identity is organized around family territory and the propagation of sel
 The seed describes no central government. Families govern their own membership, stores, territory, and protection under varied internal arrangements. Boundary compacts govern shared paths, cisterns, windtraps, and restitution. Wider federations assemble for external defense, major works, or hazards too large for one territory. They dissolve or narrow when the named work ends.
 
 This distributed order is stable because no family can safely assume every misfortune was caused by a rival's Luck. It is volatile because no family can prove the opposite. Records, witnesses, material inspection, risk pools, reciprocal restraint, and third-family mediation exist in the gap. See [[Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]].
+
+## Long fortune and territorial survival
+
+Selza'a conflict unfolds inside pressures broader than any accusation. A dimna
+does not need to issue a plan for paths, marriages, breakdowns, births, shelter,
+and hostile mistakes to accumulate around its continued survival. Families can
+prosper for generations without knowing which turns were protection, ordinary
+competence, or cost displaced across a boundary.
+
+Several dimna can press upon the same catchment, pass, or marriage network.
+Their effects do not meet as visible spells. One family's safe detour can leave
+another family carrying the failed bridge; an outsider repeatedly prevented
+from departing may be prisoner, protected guest, or a lever kept inside a
+territorial God’s reach. Selza'a traditions disagree because the Gift supplies
+no report that could settle those categories.
+
+Family government therefore controls information as well as land. Hosts limit
+which routes a guest learns. Mediators carry claims without revealing every
+store or refuge. Marriage can connect two survival histories and can be treated
+as peace, infiltration, or an attempt to make a rival dimna protect the same
+descendants. A feud becomes most dangerous when both families reorganize daily
+life around defeating the other's fortune: each has made the rival's survival
+part of its own causal field.
+
+[[Spoilers/Foundations/Oracle Ecology#Luck and large attractors|Oracle Ecology]]
+owns the author comparison. Selza'a institutions possess stories, repeated
+outcomes, shrine relations, and material evidence—not a view of the whole
+attractor.
 
 ## Territory and water
 
@@ -90,6 +119,17 @@ Apparent coincidence is not proof. Prophecy may infer a persistent bias in forec
 ## Historical consequence: the Broken Windtrap Settlement
 
 [[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] alone owns the adopted event facts. Its polity consequence is that collective defence gained a reciprocal-restraint path before armed crossing, while the cleared keeper and poor households exposed how distributed correction can stop feud without restoring standing or lost work.
+
+## Historical consequence: the road that returned
+
+Families around [[Spoilers/Events/The Road That Returned|the Road That
+Returned]] inherited cut paths, numbered stones, guide claims, and abandoned
+depots. These became warning routes and defensive stores as well as levers over
+water, work, and refuge access.
+
+Some family recitations say the dimna taught an invader to build the means of
+its own defeat. Road workers answer that people did the learning, carrying, and
+coordination. Ju'onai audits preserve the unpaid claims and abandoned works.
 
 ## Institutional failure and dungeon seams
 

@@ -334,3 +334,34 @@ promoted or retired.
   zeroed relevant-review counter. It reviews future changes and returns to a
   full surface on the fifth relevant review or an earlier council trigger.
 - **Next pressure:** Sarxe household dispersal and Grey Scald memory.
+
+## 2026-08-23 — Oracle ecology and timeline competition
+
+- **Scope:** [[passes/KALSA-039-oracle-ecology|KALSA-039]], covering the
+  heterogeneous temporal transactions of six Gifts, density by horizon, Luck
+  attractors, capture and escape, five adopted collision histories, and the
+  current Second Gate Ghostlight situation.
+- **Authority cut:** Prophecy no longer implicitly owns future knowledge.
+  `Oracle Ecology` owns author-facing interaction invariants; Gift foundations
+  own their operations; events, institutions, polities, and the current dungeon
+  own situated consequence; Public owns presentation only.
+- **Repair:** added five unlike histories, one current three-bell delivery,
+  bounded divine and emergency command, physical shelter withdrawals, present
+  cultural/institutional carriers, and a guided Public route through crowded
+  futures.
+- **Critic loop:** all five demanded Oracle Ecology rounds blocked and deepened
+  the candidate. The full eight-seat council required seven more frozen
+  candidates before all seats passed the same forty-file identity. The failed
+  full-surface prose sanity returned AI-Isms from Guardian to Critic.
+- **Protected uncertainty:** Gift frequency, Intuition, exact chronology,
+  casualty counts, divine intent, Luck attribution, final Second Gate liability,
+  and the result of current play remain unresolved.
+- **Verification:** nine seed witnesses; 668 links across 88 canonical notes;
+  vault and publication boundaries; lore-tool negative tests; twenty-input,
+  55-output Quartz build; emitted HTML route inspection; final council hashes;
+  memory projection; Body map; clean diff.
+- **Durable judgment promoted:** Kalsa's future is shaped by innumerable
+  heterogeneous oracles, but every public theory and historical carrier must
+  remain no more specific than its evidence-bearing owner.
+- **Next pressure:** Sarxe household dispersal and Grey Scald memory remain
+  queued; new oracle work must begin from the candidate-07 leave-alone line.

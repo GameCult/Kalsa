@@ -68,6 +68,11 @@ These events were established by recorded repair passes rather than found verbat
 - [[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]]
 - [[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]]
 - [[Spoilers/Events/The Grey Scald|The Grey Scald]]
+- [[Spoilers/Events/The Three Orders at Sunwall|The Three Orders at Sunwall]]
+- [[Spoilers/Events/The Narrow Shield|The Narrow Shield]]
+- [[Spoilers/Events/The Road That Returned|The Road That Returned]]
+- [[Spoilers/Events/The Grain at Two Gates|The Grain at Two Gates]]
+- [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]]
 
 ## Unresolved
 

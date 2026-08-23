@@ -68,6 +68,27 @@ change the future it described. City courts therefore ask what a sponsor meant
 to do after hearing it. The surviving files of [[../Sources/The Closed Lift Appeal|the Closed Lift Appeal]]
 keep those intended interventions with the forecasts offered in court.
 
+## When futures crowd
+
+Divided City house comparers call a forecast's horizon **crowded** when people
+inside it can act on the report or answer through another Gift. Their comparison
+files keep the question, recipients, intended responses, operating changes,
+and expiry on separate leaves. An unexplained gap stays a gap until a named
+witness or material trace narrows it.
+
+The practice grew around disputes like
+[[../Sources/The Three Orders at Sunwall|the Three Orders at Sunwall]]. Two patrons prepared incompatible armed
+movements; the steward responsible for the loaded wall closed the machinery and
+removed both openings. The houses now ask what a sponsor meant to do after
+hearing a report. Sunwall records what its operators changed while the report
+was live.
+
+The phrase also travels beyond Prophetic work. In
+[[../Sources/The Narrow Shield|the Narrow Shield]], Papsenai targets and a Sarxe boundary began returning
+pressure through one another until a single watch lead narrowed the defense.
+Circle tenders describe that collision through signals and released targets,
+not through a Prophet's missing vision.
+
 See [[Gods and the Dead]], [[Relics and Ruins]],
 [[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
 [[../Sources/At the Basin Table|At the Basin Table]], and

@@ -7,6 +7,7 @@ status: canonical-polity
 adopted_in: KALSA-012
 repaired_in:
   - KALSA-020
+  - KALSA-039
 source_witness:
   - page-2026-08-20-10-39-03.md
   - page-2026-08-20-10-39-12.md
@@ -22,7 +23,21 @@ tags:
 
 Sorcery, signature 100 and Sequence II, was Prometheus's first designed refinement of Luck. He repeatedly divided its Ring into conquest tribes, granted reproduction to victors, exterminated losers, and restarted the conflict among their descendants. The resulting Gift is focused, intermittent, and useful under immediate pressure.
 
-A sorcerer's unconscious perception selects precise interventions in local conflict. When Sorcerer Beasts directly overlap, their potential drains until one submits. Submission routes the defeated power beneath the victor. Sorcery can independently found God Beasts, and its Gods tend to reproduce conquest hierarchies. The mechanics remain owned by [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]]. Jamnai law interprets them; it does not make every oath a magical fact.
+A sorcerer's unconscious perception selects precise interventions in local conflict. Champion traditions describe **the answer in the motion**: the body commits a strike, step, word, or refusal under pressure before the performer can explain why that act can reach its first local result. There is no inner forecast to report.
+
+High-branch schools say a proper answer carries the superior's victory through
+the subordinate's hand. Challenger schools say rank merely creates the
+conflict and the answer belongs to the champion who acts. Some Soiru'i sects
+attribute a divided or self-defeating motion to friction among living person,
+Beast, dead exemplar, and bound power. The backstage constraint is narrower:
+the active coupled person-Beast relation supplies the local orientation. An
+order, oath, fear, or divine route may shape it but does not magically turn the
+superior's complete strategy into the selected result. No outcome reveals
+consent or the actor's morally authentic wish.
+
+If the opening has been removed, lies outside the local conflict, or demands unavailable matter, energy, or potential, the motion can fail like any other act.
+
+When Sorcerer Beasts directly overlap, their potential drains until one submits. Submission routes the defeated power beneath the victor. Sorcery can independently found God Beasts, and its Gods tend to reproduce conquest hierarchies. The mechanics remain owned by [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]]. Jamnai law interprets them; it does not make every oath a magical fact.
 
 ## Jamnai
 
@@ -51,6 +66,23 @@ Most obligation moves upward through branch dues: labor shifts, goods, food, wor
 A recognized branch holder claims protection and service from direct subordinates. Direct subordinates claim the same from those beneath them. Champions deter lateral attack, enforce judgments, and may hold a branch together during succession. Registrars preserve who submitted, who swore, what protection was promised, and which duties were inherited or imposed.
 
 Civil office follows branch support but is not identical to raw magical power. A strong Sorcerer may seize a command and still require clerks, stewards, mediators, and workers whose competence cannot be won in combat. A weakly Gifted champion may hold great legitimacy by keeping promises and preventing a superior's branch from being cut apart.
+
+Sorcerous submission is the most explicit attempt to remove a competing oracle
+from the field. The defeated Beast remains but its potential is routed beneath
+the victor, allowing the superior to act through power that would otherwise
+oppose it. Jamnai political language extends that success to households,
+tributaries, offices, and foreign peoples even when no magical relation exists.
+
+That extension is useful because a branch whose scouts, stores, registrars,
+champions, and Sorcerers answer one holder can close many local alternatives
+before a fight. It also fails at the seams. A heat steward's knowledge, a
+Prophet's changed horizon, a Sarxe barrier, a fugitive's unknown route, or a
+Soiru'i sect's duplicate record can remain outside the victor's submission.
+The hierarchy then confronts an independent cause it had entered as property.
+
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the wider
+interaction. Jamnai institutions own the repeated political claim that ordered
+submission is the only future in which everyone survives.
 
 Succession exposes the difference between magical hierarchy and material government. When a holder dies, their God Beast may weaken or collapse, subordinates may contest the routing relation, and rivals may attack. Champions temporarily guard stores, records, dependents, and public obligations. They do not automatically inherit every binding. Direct subordinates may recognize a successor, compete, split, or seek protection higher in the tree. Essential heat and water duties continue during the open interval; using succession to suspend them is treated as failure of protection even when no independent court can enforce that principle cleanly.
 
