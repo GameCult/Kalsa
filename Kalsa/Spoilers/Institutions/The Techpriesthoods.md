@@ -69,6 +69,76 @@ Schisms form around practice as much as theology. Practitioners may disagree ove
 
 A schism does not make one side false by definition. Its test is the live claim: what each branch can observe, what it can safely do, which assumptions it preserves, who bears the risk, and whether the machine and its dependents survive contact with the answer.
 
+## Authored elaboration: Low Sere's three-copy challenge
+
+Low Sere's basin table uses a **three-copy challenge** when a keeper's
+competence, refusal, or removal cannot be judged by the settlement alone. It is
+a local procedure built around [[Spoilers/Places/Low Sere|the settlement's]]
+split control of the Cistern House and [[Spoilers/Dungeons/The Ashen Intake|the
+Ashen Intake]], not a court above the Techpriesthoods.
+
+Any person who depends upon the intake may open a challenge through a household
+water witness. A worker or renter without one may instead bring two named
+people who shared the work, loss, or warning. The petition names the act being
+challenged, the system boundary, the harm or unsafe condition, the evidence
+believed to exist, and the remedy sought. The basin recorder must mark it even
+when the table thinks the petitioner is wrong. Refusing to record it is itself
+grounds to demand an outside copy.
+
+Opening the challenge produces three copies before testimony begins: one for
+the basin table, one for the challenged keeper, and one for an independent
+comparer. Tools, keys, wages, and service records stay with their current
+custodians unless a specific hazard requires a hold. The disputed intervention
+stops where the boundary can be isolated safely; ordinary minimum service and
+unrelated duties continue. This prevents a technical appeal from becoming
+either a general strike imposed by one keeper or a pretext for the table to
+seize the whole machine.
+
+The comparison seat belongs to a practitioner who can show bounded experience
+with the relevant configuration and no current claim on its appointment,
+output, or salvage. The keeper and petitioners may each expose one material
+conflict; neither may veto every available stranger. A basin recorder and an
+affected worker witness the inspection, preserve questions and displaced
+parts, and attest which evidence was actually available. They do not vote on
+technical safety merely because they hold copies.
+
+The comparer inspects the live arrangement, the keeper's stated scope, prior
+failures, measures, formula versions, worker warnings, and the people who bear
+interruption. The resulting finding may confirm competence, narrow it to named
+acts, require supervised work, suspend one operational grant, or state that the
+evidence cannot yet distinguish error from changed machinery. It cannot award
+water, land, compensation, relic title, or cult standing. Those decisions
+return to the authorities that own them.
+
+Removal and succession remain with the parties that made the appointment. A
+table may transfer the spindle, support share, relief roster, and duplicate
+records to a provisional successor after a comparison shows that continued
+access is unsafe or impossible. That transfer must be recorded as a change of
+appointment, not as proof that the former keeper was fraudulent or that the
+successor inherited every competence. The former keeper retains a copy and may
+serve as a bounded witness without regaining control of the work. This is how a
+quiet replacement becomes legible instead of simply becoming true one morning.
+
+Low Sere pays the comparer's travel, lodging, and ordinary fee from the same
+water-and-work reserve that supports intake maintenance. It also preserves the
+petitioners' minimum water and replaces the work-watch spent at inspection
+where stores allow. No lineage, patron, or successful party may make the fee
+depend upon the verdict. The cost is real: every comparison spends food,
+specialist time, and a portion of the remaining safe interval.
+
+A second comparison requires new material evidence, an exposed conflict, or a
+changed configuration. It does not erase the first record. Emergency action
+may proceed while review remains open only under the Intake's existing split
+keys and material stops; the actor records what could not wait and who bore the
+risk. If no competent stranger can arrive before the safe interval closes, the
+procedure yields no comforting authority. Low Sere must choose degraded
+service, evacuation, or a recorded override, and every option leaves a claim
+for the next hearing.
+
+The present challenge involving Sera Venn, Teren Vey, and Ressa Orr has not yet
+produced a final finding. Its existence gives commoners a way to force evidence
+into three hands. It does not make evidence cheap, neutral, or timely.
+
 ## Bargaining with polities and temples
 
 Transborder standing depends on negotiated passage. A priesthood offers continuity: procedures recognizable beyond one ruler's court, records that can follow a component, and specialists able to compare a local failure with one seen elsewhere. In return it seeks safe conduct, access to worksites, material support, permission to carry tools and contested relics, and some protection from conscription or confiscation.
