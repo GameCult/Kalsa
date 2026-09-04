@@ -207,6 +207,112 @@ dead entered the route.
 Custody and corroborating household copies decide whether the roll can support
 the sect's claim at a branch threshold.
 
+## Authored elaboration: the Ash-Below Compact
+
+**Authored elaboration — Spoilers tier.** The **Ash-Below Compact** is a local
+alliance around Ninth Furnace and the reopened Ash-Halo Court. `Ash-Below` is a
+translation used in branch hearings, not a universal sect name. The compact
+joins Taru's Hearth following, a last-refusal circle among tributary bakehouse
+families, and release-oriented mortuary workers who do not agree about the
+identity or proper fate of any Soiru'i. They agree on one narrower demand: no
+great working may cross their shrines, graves, or household protections while
+one branch officer can seal the answer roll and leave the affected households
+without food, heat, or a witness able to appeal.
+
+The compact is clandestine because Ninth Furnace recognizes each office and
+petition separately but treats coordination among them as a rival branch in
+embryo. It is not leaderless. Its current working membership is deliberately
+small and recorded by responsibility:
+
+- **Taru**, the public recognizer for a defeated champion's silent shrine,
+  carries the claim that can enter a recognized-share hearing.
+- **Enka**, the Ninth Furnace hostel's Hearth store steward, keeps three days of
+  food and lamp fuel for households whose ordinary protection is withdrawn.
+- **Ves**, a tally keeper at the tributary bakehouse, preserves the household
+  copy of each withdrawal and can prove which branch promise failed to arrive.
+- **Salen**, a release-tradition carrier, moves sealed copies and will ask for
+  dispersal or closure without claiming that silence proves release.
+- **Melka** serves as an outside mortuary witness, not a member. The compact
+  pays her material costs and accepts that her evidence may injure its case.
+
+This is the compact's **office list**. It can be disclosed because every named
+task is lawful in isolation. A second **route list** names substitute carriers,
+sleeping places, and the order in which copies move if a threshold closes. No
+member keeps the whole route list. The recognizer knows the next carrier; the
+store steward knows which household can shelter one; the tally keeper knows
+which ordinary bread delivery can carry a sealed leaf. The arrangement limits
+what arrest, purchase, fear, or divine scrutiny can extract from one person. It
+also ensures that a missing carrier looks, at first, like what they usually
+are: a baker, mourner, hostel porter, or shrine visitor doing necessary work.
+
+### The three claims
+
+Before a concentrated rite, the compact tries to place three claims in three
+jurisdictions before the branch can isolate any one of them:
+
+1. Taru files the recognized-share, warning, or withdrawal petition through
+   covenant procedure.
+2. Ves places the affected household and the missing protection on the
+   potential ledger through a shrine countersign.
+3. Salen or a substitute gives Melka the matching answer-roll copy under
+   mortuary custody.
+
+None of those acts stops a working by itself. Together they make a concealed
+withdrawal difficult to describe as a purely sacred decision. The branch must
+either hear the share, provision the households, dispute the mortuary copy, or
+place its refusal in records held by different people. The compact's plot is
+therefore not to forge a divine command. It is to make the mortal offices of a
+divine faction contradict one another where witnesses can preserve the
+contradiction.
+
+Ninth Furnace's continuity faction answers through the branch registrar,
+potential steward, recognized intermediary, and champion. It argues that the
+compact gives possible feeders advance knowledge of a great route and lets
+rival branches delay defense without openly challenging the holder. That risk
+is real. Ash Hook can offer safe passage, coin, or access to its fracture copy
+in exchange for delay, although the compact has no adopted agreement with Ash
+Hook and cannot know whether that copy justifies the diversion. Accepting such
+support would turn a mortuary safeguard into one side of the gate war.
+
+### Cutouts and fallbacks
+
+The compact uses ordinary delivery chains as cutouts because its constituencies
+cannot abandon them. A bakehouse porter carries a sealed tally leaf to the
+hostel; a burial-meal basket carries it from the hostel to a shrine; a shrine
+visitor carries the final packet to the court threshold. Each carrier knows
+the custody receipt for the packet they hold and one fallback destination.
+They are not told whose sign the answer roll may contain. The packet is evidence,
+not a licence to recruit the dead.
+
+If the mortuary copy is seized, Ves's household withdrawal marks still support
+a material claim. If the store is sealed, Taru's public petition identifies
+who lost protection and turns the seal into a visible act of branch discipline.
+If Taru is detained, Salen asks for dispersal rather than recognition and sends
+the route copy to a mortuary office beyond Ninth Furnace. If all three court
+claims fail, Enka spends the reserve on food, lamps, and departure instead of
+waiting for a miracle ledger to become kind. Every fallback preserves less
+than the full case. The compact survives by losing ambition before it loses the
+people for whom the records exist.
+
+### Leverage after exposure
+
+Exposure does not dissolve the compact because secrecy is not its principal
+asset. Ninth Furnace can name the members, bar a carrier, seize a packet, or
+challenge the compact's sponsorship. It still depends on the hostel to house
+branch families, the bakehouse to feed a tributary ward, mortuary witnesses to
+make later succession credible, and shrine copies to distinguish protected
+dependency from coerced submission. Destroying those offices to defeat the
+compact would make the holder's promised protection visibly fail.
+
+That leverage cuts both ways. The compact can starve an unpopular household by
+calling its claim unsafe, can conceal a genuine feeder behind a familiar name,
+or can make every defense grant answer so many coordinated petitions that the
+gate fails before review ends. A cutout may sell the route list. A rival branch
+may supply food until dependence merely changes patrons. A release carrier may
+spend a copy meant for testimony in order to close a site. The compact's split
+custody prevents one seizure from ending the alliance; it does not make the
+alliance innocent.
+
 ## Institutional failure
 
 Soiru'i practice fails when:
