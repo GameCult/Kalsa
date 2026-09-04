@@ -47,6 +47,40 @@ Rest is part of the shield. After a shift, workers need food, sleep, examination
 
 Exhaustion debt accumulates when emergency shifts consume future capacity. Records therefore track more than who served. They track missed relief, shortened recovery, households deprived of a worker, and cohorts approaching unsafe load. A stable barrier with an exhausted relief body is a delayed failure, not a success.
 
+## Fixture elaboration: an outer-road handoff room
+
+*This local elaboration was authored for the Ghostlight fixture
+`stormshield-handoff-v0`. It establishes one station at Ti'asantatca and is not
+a universal plan for Circle buildings or proof of a fixed number of stations.*
+
+One outer-road station conducts handoffs in a thick-walled stone room reached
+from a covered road stair. A shuttered observation bay occupies the roadward
+wall. Its slatted openings face the exposed approach, runoff channels, and the
+storm, while a low interior rail keeps visitors and wet equipment out of the
+trance floor. A waist-high table stands behind the rail. Fired-clay pieces on
+its scored surface mark the road section, drainage line, station, and cityward
+gate named in the watch; moving a piece records a changed target but does not
+change the shield by itself. Wall hooks hold waxed observation slates, knotted
+wind cords, colored signal tiles, and several differently sized bronze
+handbells whose meanings are copied into the current watch record.
+
+The sheltered side of the room has two woven trance mats laid side by side so
+an incoming shaman can take contact before the outgoing worker releases it. A
+continuous wooden grip rail runs beside both mats. During the overlap, the
+observer remains at the scored table and places one plain transfer peg between
+the two target markers only after both workers have described the same held
+section and the observations do not contradict them. The peg is evidence of a
+witnessed handoff, not a substitute for either worker's account.
+
+An inner curtained opening leads to a recovery bench, water crock, broth pot,
+blankets, and the dry stair used by relief workers and attendants. The outgoing
+worker's first cup is given after release and before the detailed shift
+questions. Keeping recovery out of the roadward sightline lets tenders examine
+tremor, confusion, and fixation without turning an exhausted body into a
+public warning signal. A runner can still bring an urgent road report through
+the visitor stair, but cannot cross the low rail or enter the trance floor
+without the observer or tender admitting them.
+
 ## Consent, duty, and refusal
 
 The shield protects lives, but that fact does not make every act of service voluntary. A defensible admission records what the candidate understands, who requested service, what term or review point applies, what support their household will receive, and how they may report harm or refuse a target. Continuing consent is checked before a new shift, not presumed from the first oath.
