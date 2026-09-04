@@ -154,6 +154,12 @@ quiet funerals far from cult miracle sites. Temples answer that clandestine
 burial exposes entire districts to unregistered thaumavores and leaves binding
 disputes to become hauntings. Both claims can be true in the same case.
 
+Where even a complete duplicate would expose every claimant to one God Beast,
+some networks use [[Spoilers/Institutions/The Cinder Concord|the Cinder
+Concord]] to divide the inventory's dangerous claims among rival custodians.
+The death office still owns any mortuary finding; fragment custody does not
+turn a secret into testimony by itself.
+
 Refusal is divided by role. A death witness may refuse to certify a cause they did not observe. A clerk may refuse to flatten coerced submission into covenant. Mortuary workers may stop a rite when the body, mourners, or district face an undisclosed hazard. Kin may refuse a cult funeral while still accepting containment. A champion may prevent looting without acquiring authority to decide the inventory. Each refusal names its boundary and passes the unresolved decision to the proper forum.
 
 ## Dead anchors and divine succession

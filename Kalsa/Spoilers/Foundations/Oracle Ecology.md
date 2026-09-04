@@ -269,6 +269,11 @@ choice open therefore depends on ordinary work: feeding the courier, admitting
 the appellant, maintaining the second store, and returning the tools after a
 failed intervention.
 
+[[Spoilers/Institutions/The Cinder Concord|The Cinder Concord]] applies the
+same separation to god-dangerous archives. It disperses fragments, memory, and
+disclosure paths across rival bindings; it does not make a record invisible or
+place its bearers outside the oracle ecology.
+
 ## Historical and political pressure
 
 The War of the Magi forced separately designed Ring populations and their

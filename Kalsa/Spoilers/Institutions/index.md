@@ -27,6 +27,7 @@ Kalsa's institutions grew around needs that survived the [[Spoilers/Foundations/
 
 ## Evidence, language, and administration
 
+- [[Spoilers/Institutions/The Cinder Concord|The Cinder Concord]] — dispersed fragment custody for records that no single divine hierarchy can safely be allowed to learn whole.
 - [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]] and [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] — training, forecast service, disclosure, admissibility, civic judgment, and appeal in the divided city.
 - [[Spoilers/Institutions/Ju'onai Schools of the Opening|Ju'onai Schools of the Opening]], [[Spoilers/Institutions/Houses of Attestation|Houses of Attestation]], and [[Spoilers/Institutions/Measured Offices|Measured Offices]] — competing causal scholarship, scoped certification, and the class-bearing government that consumes both.
 - [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] — teaching, certification, translation, public notice, treaty use, and elite gatekeeping.

@@ -143,6 +143,11 @@ a binding, but it can erase every lower-world remedy attached to it. Forged
 ancestry and laundered submission are therefore ordinary instruments of cult
 politics.
 
+[[Spoilers/Institutions/The Cinder Concord|The Cinder Concord]] burns a narrow
+class of such records only after distributing their claims and provenance
+across rival human memories. Its practice can preserve an appeal from one
+god's archive while making the bearers themselves targets of cult power.
+
 ## The ordinary welfare bargain
 
 Most adherents encounter a cult through maintenance rather than revelation.

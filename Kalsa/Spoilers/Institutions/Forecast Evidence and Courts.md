@@ -186,6 +186,12 @@ An opposing party must receive a usable statement of the claim, horizon, assumed
 
 Imperial assessors frequently claim security privilege. Houses claim archive privilege. Civic courts claim the minimum disclosure needed to keep judgment public. The condominium endures because none of these claims can wholly erase the others without giving the rival a reason to refuse the result.
 
+Records held through [[Spoilers/Institutions/The Cinder Concord|the Cinder
+Concord]] sharpen the conflict. A spark notice can justify a temporary stay,
+but lasting remedy requires a disclosure path the burdened party can answer;
+the court cannot call several secret fragments adversarial process merely
+because several rival gods possess different pieces.
+
 ## Ordinary court life
 
 Most disputes do not receive a grand prophecy. Forecast labor is scarce, expensive, politically encumbered, and capable of changing the matter it examines. Rent, assault, debt, work injury, ration error, and neighborhood conflict are usually decided through testimony, records, physical inspection, and custom.
