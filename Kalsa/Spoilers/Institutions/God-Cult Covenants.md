@@ -246,6 +246,43 @@ retains a stop, and a mortuary answer roll enters before the route opens. A
 later silence can support welfare, burial, investigation, or appeal without
 proving that the God killed a named person.
 
+### Authored elaboration: the answer-roll opening
+
+At Ninth Furnace, the opening belongs between the first horn, when stores and
+material routes are exposed, and the second, when the divine grant enters the
+working. A death witness unseals the roll at the court threshold beside one
+household recognizer and one witness who can leave by a route the branch does
+not control. The branch registrar may compare seals and custody but does not
+read the dead into its register. For each admitted entry, the death witness
+names the earlier site and last appearance; the recognizer performs or
+describes the familiar sign once; and the claimant asks for one bounded act:
+warning, a negotiated share, withdrawal, or interruption. The rite opens a
+petition. It does not summon a person or establish identity.
+
+The material custodian then names every physical path by which the working may
+cross that site and keeps the stop over furnaces, weights, water, or other
+machinery. The potential steward records delay, withdrawn protection, leakage
+risk, and support owed if a shrine goes silent. A divine intermediary may
+carry the bounded request and report the hierarchy's offered terms. None may
+answer for the others. If the roll is excluded, the docket stays marked as an
+uninspected mortuary route rather than being made clean by omission.
+
+The opening costs the branch its safest preparation interval. Furnaces remain
+below final heat while a disputed path is traced; the champion waits under
+fasting and guard; withdrawn shrines remain exposed; carriers, recognizers,
+and their households may need food, lodging, escort, or replacement
+protection. Repeating a sign to force an answer is forbidden because the test
+itself holds potential and attention at the route. A face in quench water, a
+gesture in ash, a voice from iron, an answer given before its entry is read,
+or complete silence is copied in sequence and left uninterpreted.
+
+After the opening, the named owners may proceed, disperse, divert, postpone, or
+stop. If a branch proceeds over an unresolved entry, later harm remains a
+claim against the offices that accepted that risk. If it stops, the households
+depending on the working receive a claim as well. The procedure preserves who
+chose and who paid; it does not make the God, the dead, or the danger fully
+legible.
+
 ## Dungeon pressure
 
 A ruined cult site is rarely an empty church. It may contain covenant archives
