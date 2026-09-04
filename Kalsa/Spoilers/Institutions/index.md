@@ -31,6 +31,7 @@ Kalsa's institutions grew around needs that survived the [[Spoilers/Foundations/
 - [[Spoilers/Institutions/Ju'onai Schools of the Opening|Ju'onai Schools of the Opening]], [[Spoilers/Institutions/Houses of Attestation|Houses of Attestation]], and [[Spoilers/Institutions/Measured Offices|Measured Offices]] — competing causal scholarship, scoped certification, and the class-bearing government that consumes both.
 - [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] — teaching, certification, translation, public notice, treaty use, and elite gatekeeping.
 - [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] — technical notation, conversion, machine-recognized sequences, operational refusal, and review.
+- [[Spoilers/Institutions/Courts of Returned Seals|Courts of Returned Seals]] — temporary mixed courts seated by three jurisdictional refusals, with material redress for acts no recognized author will own.
 
 ## Polity institutions
 
