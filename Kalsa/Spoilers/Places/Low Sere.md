@@ -42,6 +42,33 @@ Reed, greyroot, medicinal moss, and tough kitchen crops grow in beds warmed by s
 
 The dry shelf above the basin holds guest sheds, pack animals, salvage too suspect for the hearths, and the road marker used by traders. Outsiders stay here until a household, work crew, or the basin table accepts responsibility for their use of water and their exit route.
 
+#### Authored elaboration — paired return-shards
+
+Low Sere makes that acceptance visible with **return-shards**. A water witness
+or the person tending the guest sheds takes a thumb-long tally fired from the
+settlement's grey-ash clay, copies the sponsor's current water mark onto it,
+scratches a line toward the exit named aloud, and snaps it along a scored
+middle. One half fits a shallow socket in the road marker. The traveller carries
+the other on a cord until departure. In the vault's English, the local advice is
+**let the break remember**: put an agreement in two hands before either hand can
+improve the story.
+
+While the marker holds an open half, the sponsor's water allotment bears the
+guest's drawing and the sponsor owes the current warnings, a competent
+description of the promised way out, or an escort when marks are unsafe. The
+traveller may demand that the two halves be brought before the basin table if
+the route changes or the sponsor tries to substitute another path. Returning
+halves that still fit closes the hosting claim.
+
+A missing, traded, or mismatched half proves no crime by itself. It does stop
+that sponsor from accepting another outsider until witnesses hear both accounts
+and decide what water, guidance, delay, or loss remains owed. The clay is cheap;
+the open claim is not. The custom depends on the road marker, the water
+witnesses, and enough local standing to make a delayed departure matter. It
+breaks down for travellers nobody will sponsor, for hosts able to dominate the
+hearing, and whenever danger makes the promised exit unusable before the pair
+can be closed.
+
 ## The basin table
 
 Low Sere has no universal village council. The **basin table** is the compact among household water witnesses, Grey Bed workers, Cistern House maintainers, and whoever currently speaks for the intake appointment. It owns water schedule, shared stores, work obligations, local threshold admission, and emergency action affecting the basin.
