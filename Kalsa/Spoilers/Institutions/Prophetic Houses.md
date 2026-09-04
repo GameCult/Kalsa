@@ -121,6 +121,48 @@ The houses cannot perfectly control lineage. Evasion includes unrecorded partner
 
 “Purity” is house political language. Current canon treats Kaos inheritance as threshold expression of strain-complexes shaped by development and training. See [[Spoilers/Foundations/Magic Styles#Expression and descent|Expression and descent]].
 
+## Authored elaboration — the marriage-rumor path
+
+**Veil elaboration, 20260904-175158.** When a house forecast is used to delay a
+marriage, alter residence, withdraw work, or burden the people involved, three
+records must remain distinguishable. The working archive keeps the prophet's
+question, branches, horizon, briefing, and uncertainty. A civic disclosure
+copy keeps the narrower substance needed for challenge: the sponsor, the
+adverse consequence claimed, and every action the sponsor already intends to
+take if the marriage proceeds. The marriage, tenancy, work, or ration office
+keeps the actual notice it was asked to enforce. Sealing the first record does
+not permit the other two to disappear.
+
+The dangerous fourth form is the marriage rumor. A service steward, patron,
+senior relative, broker, landlord, or employer repeats one vivid consequence
+without its planned intervention. A report in which a house intends to remove
+training, housing, protection, or forecast labor can thus become “the marriage
+darkens the lift,” “their child closes the line,” or “the ward has already seen
+the funeral.” The claim may contain a real image from a forecast and still be
+misinformation: the sponsor's threatened act has been laundered into fate.
+Repeating the rumor costs little. Recovering the omitted action requires access
+to records held by people whose food, residence, archive standing, or hosted
+kin may depend on the house.
+
+The people named by the rumor may demand the usable disclosure without gaining
+access to unrelated intimate branches in the working archive. A civic clerk
+compares the house seal, the accepted disclosure, and the notices already sent
+to employers, landlords, or ward offices. A forecast reviewer can then expose
+an omitted intervention, and a court can stay the burden or require a corrected
+notice while leaving marriage and bodily consent with the people involved.
+Sunwall crews, provision offices, employers, and landlords still own the acts
+within their competence; the house cannot make their compliance part of the
+future and then deny that it acted.
+
+Correction must travel along the material path taken by the rumor. Amending a
+sealed archive does not restore a shift, a room, a sun-court hour, a contract,
+or a reputation. The office that carried each burden needs a corrected notice,
+and support at risk during review needs an identified temporary owner. Broadly
+publishing the raw forecast can expose intimate choices and alter the very
+branches under dispute. Publishing nothing lets the sponsor's threat perform
+the prediction. The disclosure path survives by separating those costs, not by
+pretending secrecy and truth are opposites.
+
 ## Internal pressures
 
 Every house must allocate scarce prophetic attention among public obligation, imperial patrons, divine affiliation, paid clients, and its own survival. The people choosing assignments may not be the people entering trance or carrying the consequences of a failed prediction.
