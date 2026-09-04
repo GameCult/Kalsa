@@ -129,6 +129,95 @@ A defensible intervention record states:
 
 An opening does not eliminate maintenance. The Hegemony's proudest works depend on repetitive labor its examination hierarchy may classify as low.
 
+## The open margin
+
+Several Measured Offices require a consequential public work to preserve an
+**open margin**: a named part of its land, route, structure, stores, or work
+schedule kept capable of more than one materially reachable use. A road may
+remain clear of permanent building so its bed can carry evacuation or be cut
+into a flood channel. Removable market stalls can leave a granary court able to
+receive carts or shelter a ward. A lift schedule can preserve one staffed
+interval without a contracted load so relief workers can move when the ordinary
+queue has already become part of the failure.
+
+The practice follows a narrow reading of [[Spoilers/Foundations/Kaos#Hard
+constraints|Kaos]]: an oracle or God can act only through matter, energy,
+people, time, and levers that remain available. It also answers the crowded
+horizons described by [[Spoilers/Foundations/Oracle Ecology#Keeping futures
+independent|Oracle Ecology]]. A single efficient configuration may become a
+single captured route. Keeping another configuration physically reachable can
+let a later worker, steward, Prophet, or divine delegate answer a cause the
+original model did not contain.
+
+An open margin is maintained capacity, not pious neglect. Its roll names the
+ordinary use, alternate uses, physical work needed to change between them,
+trigger and expiry, material stop owner, stores and crew kept ready, people
+whose access or livelihood will be interrupted, and reserve owed for return or
+restoration. [[Spoilers/Institutions/The Techpriesthoods|Techpriests]] and other
+qualified keepers can reject an alternate configuration that is no longer safe
+or real. They do not decide which ward must supply it. An opened reader can
+identify a hinge. The commissioned portfolio and the local authorities named
+in its charter own the decision to keep that hinge available.
+
+The margin has a visible price. Duplicate routes need inspection. Empty
+intervals earn no carriage fee. Removable buildings are colder and wear
+faster. A field kept low-rooted for emergency earthwork produces less than an
+orchard. Households near a convertible work cannot build, plant, lease, or
+schedule as though its ordinary use were secure. Some offices count this
+foregone improvement and readiness labor as a public contribution. Others tax
+the district on the benefit the complete system is expected to provide while
+treating the margin's lost income as absence rather than payment.
+
+Powerful patrons practice **margin substitution**. A temple estate, merchant
+court, garrison, or high ward funds an alternate route elsewhere and petitions
+to have its own land struck from the roll. No common measure can prove two
+margins equivalent. The office compares load, access, conversion time,
+maintenance, forecast crowding, and whose refusal can stop the change. Patrons
+bring readers, advocates, and stores to that comparison. Client wards and poor
+quarters bring land already classified as cheap, tenants whose standing is
+easy to shorten, and losses the central archive can call temporary.
+
+The result is a distinct class relation. Margin households may live for
+generations on roads that are never finished, courts that cannot become durable
+workshops, or fields whose best improvements are forbidden because the public
+work might need them otherwise. Their local knowledge is indispensable: they
+know which gate still opens, which soil will carry carts, and how long a room
+takes to clear. The same administration can treat that knowledge as an input
+while refusing the durable use claim that would make clearance expensive. A
+margin district pays ordinary levy and also pays by being kept movable.
+
+Cult and [[Spoilers/Institutions/The Potential Economy|potential]] stewards may
+fund an open margin around a shrine road, defense work, or prepared miracle
+site because alternative material routes make a failed grant easier to disperse
+or redirect. The margin is not magical potential and cannot be entered as such
+in a miracle ledger. Divine sponsorship still changes placement: a hierarchy
+that protects its own estates while financing convertible ground among
+unbound, client, or rival households has made its theology into a map of who
+may be sacrificed.
+
+The arrangement can preserve lives. The smaller routes used after
+[[Spoilers/Events/The Three Orders at Sunwall|the Three Orders at Sunwall]] show
+why an uncommitted path matters after armed plans capture the obvious one. It
+can also become a ceremonial fiction. A portfolio that leaves an alternate on
+the roll while withholding maintenance has not preserved a future; it has
+prepared an explanation for why a poorer district failed to supply one.
+Worker copies, physical conversion drills, and review against the omitted
+laterals exposed by [[Spoilers/Events/The Santabi'u Silt Appeal|the Santabi'u
+Silt Appeal]] are the strongest checks.
+
+### Hooks
+
+- When generations of residence and maintenance make a margin work, do those
+  households acquire a durable use claim, or would recognizing it destroy the
+  reversibility their labor created?
+- Which divine patron is keeping its own covenant lands fixed by ensuring that
+  every usable alternative lies among people outside its relief rolls?
+- If an invoked margin saves the central work and ruins the ward assigned to
+  move, who can prove that the loss was an emergency use rather than the
+  intended destination of risk all along?
+
+*Elaboration: Ledger pass, 20260904-182029.*
+
 ## The ordinary petition
 
 Most inhabitants meet Measured Offices through a clerk, queue, or local representative rather than a gifted official.
