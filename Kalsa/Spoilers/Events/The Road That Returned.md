@@ -101,6 +101,61 @@ to recover the last office ledger; Selza'a families can disagree over whether
 that ledger proves wages owed, collaboration, territorial use, or a road claim
 that must not return.
 
+## Fixture elaboration: the final depot audit
+
+> **Authored elaboration — Ember pass, 2026-09-04.** This section establishes
+> one present pressure at the existing final depot for the Ghostlight fixture
+> `ember-final-depot-audit-v0`. It does not name the old campaign, settle the
+> wider road's ownership, or make this depot's practice universal in Selza'a.
+
+Families adjoining the final depot now open its roofed court for announced
+hosted crossings, small exchange, and shelter. A depot witness keeps current
+guest entries and copies of the old guide claims at opposite ends of the
+imperial stone weigh table. Above the court, the turned numbered stone faces
+the plateau while the upper cut is closed. A knotted cord running from the
+stone to the depot lintel makes the closure a maintained warning rather than an
+antique marker travelers may safely ignore.
+
+The present audit began when a Ju'onai road claimant asked a recovery auditor
+to find the final road-office ledger. The waxed volume lifted from the table
+chest bears the old office seal, but it is the guide-pay book: its early leaves
+record shifts, porter loads, depot withdrawals, and wages left unpaid. A later
+road steward reused blank leaves for detour orders and supply movements without
+making a closing inventory. The book is therefore the wrong ledger for the
+claimant's stated search and dangerous evidence for several narrower claims.
+
+Guide claimants need the original tallies and named witnesses. The Ju'onai
+claimant needs the later orders to argue that the road portfolio never lawfully
+ended. Host families answer that an office record cannot grant passage their
+territorial compacts withhold. Current depot users need the court, dry stores,
+and approach to remain usable while those arguments travel to people with
+standing to hear them. No one actor owns all four consequences.
+
+The audit has teeth because water from a repaired catchment is seeping through
+the retaining wall above the upper cut. Local maintainers closed the road until
+they can unload and inspect it. Before the ledger was opened, the claimant sent
+the old numbered route sequence to a laden porter train climbing from below.
+The depot can shelter its people, but not the whole train's handcarts and loads
+under roof. Admitting the loads risks the wall, the catchment, and a concealed
+refuge reached from the imperial detour. Holding them outside the court exposes
+porters, handcarts, and trade goods to cold fog while the claimant calls the
+closure obstruction of an extant office.
+
+The depot witness can record custody, make witnessed copies, maintain or alter
+the local warning, and refuse to certify a title the book does not prove. Those
+acts buy different kinds of time; none decides the wage claim, the imperial
+portfolio, territorial passage, or the wall's safety. If the auditor seizes the
+original, superior review gains a cleaner chain while local claimants depend on
+whatever copies survived. If the families hide it, the road claim weakens and
+so may the unpaid workers' evidence. If the claimant opens the cut under the
+old seal, material failure can arrive before any appeal. If the train is held,
+the depot must spend stores and political credit on people brought into danger
+by somebody else's announcement.
+
+This elaboration narrows current use only for the final depot court, its lower
+hosted approach, and the presently closed upper cut. The condition and custody
+of every other surviving approach work remain unresolved.
+
 ## Unresolved
 
 - All dates, names, precise geography, expedition count, forces, losses, and
