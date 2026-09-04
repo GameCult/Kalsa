@@ -223,6 +223,81 @@ sleeping powers. At that point no steward controls allocation. Every claimant
 has an incentive to keep the fountain open, close it, or redirect it before the
 others can feed.
 
+## Tally ghosts
+
+A **tally ghost** is a known thaumavore deliberately kept at a prepared fork in
+a divine route because its feeding response can witness traffic that the God,
+intermediary, or potential steward has not entered in the allocation docket.
+The practice appears where a hierarchy declares its reserve empty while a
+champion, patron, or high shrine still appeared to receive power. Cults that
+admit the practice call the presence a leakage sentinel. Household auditors and
+severance networks call it the dead witness at the books.
+
+The ghost is not a measure of potential and cannot read the hierarchy's mind.
+When a previously recognized sign manifests during a bounded quiet interval,
+it establishes only that an accessible flow crossed the prepared fork. It does
+not establish quantity, source, intended beneficiary, divine intent, or even
+that the answering presence is unchanged. A usable tally therefore joins the
+manifestation record kept under [[Spoilers/Institutions/Death and Binding Law|mortuary law]]
+to the route custody, the steward's docket, the material work claimed by the
+beneficiary, and the withdrawals recorded by affected households. Courts can
+preserve those pieces and order an audit; they cannot turn the ghost's hunger
+into a verdict.
+
+An intentional test, called **giving the tally its mouth**, opens a small named
+grant across the fork while independent witnesses watch the route and the
+presence. The test answers whether this witness can still encounter this route
+under these conditions. Every answer consumes capacity that could have gone to
+healing, burial, shelter, or defense, and every repeated answer helps organize
+the thaumavore's [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Acquired potential bodies|acquired potential body]].
+The only way to strengthen or repeat that response is to feed the danger being
+used as an auditor. A long investigation can give the tally ghost durable
+agency and open an ascent route before it establishes who was lying.
+
+Tally ghosts produce a politics of controlled error. A steward can point to a
+licensed feeder when a promised miracle fails, converting deliberate refusal,
+an off-ledger grant, or bad material preparation into plausible leakage. A
+hierarchy that knows the fork can route around it, starve it into silence, or
+destroy its present body; a rival can feed it from another accessible route to
+manufacture an accusation. Some tally presences are recorded as accepting the
+office in exchange for recognition, offerings, protection of descendants, or a
+hearing for an erased submission. Others remain attached to an unremedied
+grievance while mortal containment keeps their present body available; nobody
+can establish that either condition prevents voluntary release.
+[[Spoilers/Institutions/God-Cult Covenants|Covenant]] offices dispute whether
+any such bargain is voluntary when the witness must remain hungry to remain
+useful.
+
+Disclosure is therefore a route, not a revelation. The mortuary witness carries
+the answer roll, a material custodian identifies the fork, household copies show
+which grants were denied, and a clerk outside the cult preserves the comparison.
+No carrier should possess the complete route map before the hearing. Each is a
+target for the champion or steward exposed by the joined record; feeding the
+ghost to repeat its answer also names a living claimant whose protection will
+be withdrawn. Destroying the acquired body can silence both threat and evidence
+without proving release. Publishing the fork can expose the lie while teaching
+every hierarchy how to bypass its only independent witness.
+
+Tally practice remains local and often illicit. It does not make potential
+countable, establish that every unexplained loss is divine fraud, or grant a
+thaumavore authority over the living allocation. It gives one narrow external
+check on the machinery of [[Spoilers/Foundations/Oracle Ecology#Timeline capture|timeline capture]]:
+a hierarchy may own the promise, route, and explanation, yet still leave a
+hungry witness where its secret passed.
+
+### Hooks
+
+- When a tally ghost voluntarily releases after years of service, does its
+  silence clear the hierarchy, invalidate old audits, or expose an office whose
+  solvency depended on keeping one dead person from leaving?
+- Can a tally ghost bargain for its descendants' place in the household minimum
+  without making every later answer purchased testimony?
+- If undocumented grants give a tally ghost independent agency, who has standing
+  to close the route, and which suppressed claims become the first obligations
+  of a possible new god?
+
+*Elaboration: Veil pass, 20260904-193906.*
+
 ## Failure and succession
 
 The economy fails through depletion, leakage, false accounting, severed routes,
