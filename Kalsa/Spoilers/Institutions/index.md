@@ -32,6 +32,8 @@ Kalsa's institutions grew around needs that survived the [[Spoilers/Foundations/
 - [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] — teaching, certification, translation, public notice, treaty use, and elite gatekeeping.
 - [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] — technical notation, conversion, machine-recognized sequences, operational refusal, and review.
 
+- [[Spoilers/Institutions/Borrowed Rosters|Borrowed Rosters]] — conspiracy lists that mix sworn hands with indispensable outsiders and successors, using institutional precaution as forced recruitment.
+
 ## Polity institutions
 
 - [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] — maintained weather protection, consent, rest, handoff, warning, and failure response. [[Spoilers/Institutions/The Alliance|The Alliance]] is a non-factual `adopted-candidate` awaiting an Intuition-side owner.
