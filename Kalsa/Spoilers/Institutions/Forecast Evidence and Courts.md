@@ -214,6 +214,73 @@ A Terjamna officer calls the process a machine for turning urgent command into p
 
 The court's legitimacy rests not on pleasing these parties but on keeping any one of them from converting a possible future directly into custody over the present.
 
+## Authored elaboration: disclosure laundries
+
+Divided City clerks call one recurring conspiracy pattern a **disclosure
+laundry**. The phrase is a translated functional label, not the name of a
+single faction. A laundry divides one patron's intended intervention among
+several institutions so that each surviving record is narrowly truthful and no
+single custodian holds enough of the plan to disclose it.
+
+A working cell usually needs five roles. The **plan-holder** chooses the result
+and keeps the complete sequence. A **house service steward** commissions a
+forecast on only the first material premise. A **briefing scribe** removes
+references to later orders while preserving a defensible copy of the question
+actually asked. A **cutout**â€”often a contract messenger, hosted-provider
+factor, shrine provisioner, or garrison supplierâ€”carries the activation terms
+between offices that need not admit a common sponsor. Finally, an **action
+holder** controls the lever that makes the forecast politically useful: troops,
+credit, housing, a warehouse release, a tribute demand, or access to a
+Prophetic House member. The reporting prophet need not belong to the
+conspiracy and is often more useful when they do not.
+
+The ordinary method has three leaves. The house receives a question whose
+declared sponsor plans only a reversible precaution. A second patron gives the
+cutout a contingent instruction that activates if the forecast reaches a named
+finding or delay. The action holder prepares transport, guards, credit, or
+custody under an existing authority without attaching that preparation to the
+forecast. When challenged, every participant can produce a true record of the
+piece they owned. The concealed fact is the relationship among the pieces.
+
+Laundries are alliances of leverage, not trust. Imperial patrons use them to
+keep a rival from seeing the full response. House officers accept them to
+protect contracts, hosted kin, archive access, or sector housing. Suppliers and
+messengers earn safe conduct, debt relief, or preferred grain. A compromised
+civic clerk may protect a ward from immediate collection by delaying the copy
+that would expose the bargain. Those constituencies can benefit while lower-
+shadow tenants, lift crews, non-house prophets, and the ward expected to absorb
+the precaution carry the first cost.
+
+Exposure breaks secrecy before it breaks the alliance. The plan-holder can
+sacrifice the cutout, cancel the written order, and continue through ordinary
+tribute, garrison, patronage, housing, or archive powers that were lawful before
+the plot. A house can discipline one scribe while retaining the patron whose
+protection keeps its hosted providers alive. An empire can admit that two
+offices failed to compare records while leaving its troops and claims in place.
+This is why proof of the laundry matters without behaving like a chosen key:
+it can exclude a report, stay an order, release a defendant, or support
+restitution, but it does not dissolve the dependencies that made concealment
+worth buying.
+
+Cells prepare fallbacks accordingly. If sponsor disclosure is compelled, the
+cutout becomes the nominal requester. If the cutout is exposed, activation
+moves through housing, supply, or protection rather than a written command. If
+the house copy is seized, the patron relies on the action holder's existing
+authority and calls the resulting intervention an independent response. If the
+material owner changes the system, the cell abandons the expired forecast and
+preserves its pressure for the next assignment.
+
+Reviewers and opposing parties attack the join rather than hunting for one
+master forgery. They compare who paid for the question, who received it first,
+which stores or troops moved before filing, which messenger crossed offices,
+who gained from delay, and whether supposedly independent actions share an
+expiry or beneficiary. Civic clerks can preserve those records; [[Spoilers/Polities/Prophecy - The Divided City#Tributary government|Sunwall
+operators]] can record a material intervention on their own leaf; and a court
+can stage or suspend an act while the links are heard. The laundry fails when
+an independent copy joins the leaves before the irreversible act, when an
+insider preserves the activation chain, or when the material owner changes the
+system so the hidden plan no longer has a lever.
+
 ## Unresolved
 
 - Native office names, exact selection, tenure lengths, pay scales, and removal panels for judges, clerks, forecast reviewers, assessors, and order officers.
