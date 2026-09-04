@@ -38,6 +38,35 @@ Most households occupy stone terraces warmed by channels carrying outflow from t
 
 Reed, greyroot, medicinal moss, and tough kitchen crops grow in beds warmed by spent water. The beds consume flow after drinking and washing claims are met. Ash skimmed from the settling basin becomes ceramic temper, abrasive, pigment, and a small export. A bad intake cycle therefore harms water, warmth, food, craft, and trade together.
 
+#### Fixture elaboration: the lower head-sluice
+
+*This local elaboration was authored for the Ghostlight fixture
+`grey-beds-first-water-v0`. It establishes one Grey Beds work surface at Low
+Sere and is not a universal plan for the beds, a fixed allocation formula, or
+proof that every water handoff uses the same tools.*
+
+At the lower Grey Beds, spent water arrives from the Warm Steps in a covered
+stone header and spills across a shallow sampling apron beneath a timber and
+woven-mat rain roof. A waist-high stone ledge keeps paired marked vessels,
+cloth ash filters, reed floats, a scoop, and a slotted board holding the current
+work-watch tiles. Three hand-lifted wooden stop boards divide this local flow:
+one opens toward a reed settling strip, one toward raised medicinal-moss
+benches, and one toward narrow kitchen-bed channels. Duckboards cross the wet
+ground between them. Workers can reach every stop board from the apron without
+standing in the hottest flow.
+
+The first-water handoff brings two accounts together. A household water witness
+arrives with the marked vessel filled when the Cistern House released the
+delivery. A Grey Bed worker samples the water that actually reached the apron,
+then reports temperature, taste, ash, sound, and visible crop stress. They place
+the delivery tile into an accepted, locally diverted, or returned slot only
+after naming any disagreement. Acceptance lets the bed crew distribute the
+flow inside the crop compact. Local diversion can spend one bed to settle ash
+or protect another, but cannot take drinking or minimum household heat. A
+returned delivery closes the three bed boards and sends the vessel, ash cloth,
+and observed difference back to the basin table; it does not make the missing
+water reappear.
+
 ### Upper Shelf
 
 The dry shelf above the basin holds guest sheds, pack animals, salvage too suspect for the hearths, and the road marker used by traders. Outsiders stay here until a household, work crew, or the basin table accepts responsibility for their use of water and their exit route.
