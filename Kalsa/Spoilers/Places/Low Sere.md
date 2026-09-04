@@ -90,6 +90,52 @@ Children learn safe paths around hot channels before they learn the inherited se
 
 The intake is not mysterious scenery to these people. It is the reason soup cooks, joints loosen, crops grow, pots sell, and lower rooms remain habitable. Its failure is experienced first as more time carrying water and less time owning one's labor.
 
+## Authored elaboration: the forty-second bowl
+
+Low Sere calls the custodian's shared supper the **forty-second bowl**. The name
+does not add another household to the basin. It names the covered meal that one
+of the forty-one hearths carries to the Cistern House each evening work-watch,
+along with that hearth's report of channel sound, wall damp, water taste, and
+who has been pulled from ordinary labor to keep the service going.
+
+The turn is marked beside the water schedule. Hearths may exchange it, but the
+replacement and any food or labor debt are recorded before the next ration.
+Two signals hang beside those marks: a broad bronze water-cut bell audible
+down the terraces and a smaller fired-clay turn bell whose higher or lower
+strike calls a replacement from the corresponding Steps. Neither signal says
+what the intake is doing; it says what Low Sere's people must do next.
+The carrier owes delivery, not obedience. They may remain for one short witness
+interval if pressure interrupts the meal: long enough to preserve what Sera
+observed, who was warned, and which work she stopped. A longer watch needs a
+named substitute. The witness stands at a scored place on the dry basin lip,
+outside the pressure grate and clear of the drain wheel. Otherwise a supper
+custom becomes an unpriced way to recruit assistants from households already
+paying in wet rooms and missed work.
+
+The bowl supports the acting custodian without recognizing a permanent title.
+Sera may eat from it, share it with an assistant, or send it unopened to a
+household whose labor the Cistern House displaced. Maro records a full, short,
+exchanged, refused, or returned turn. A short bowl is not dishonor when stores
+are short; an unrecorded shortfall is. If the rotation cannot provide food or a
+witness without consuming household minimums, that is a support failure at the
+site. Sera may narrow service rather than let the basin table describe hunger
+and solitary work as successful custody.
+
+Bel Orra's lower-step hearth exposes the bargain. Its walls are wet, Bel's
+eldest carries drinking water instead of working the Grey Beds, and the
+household has already supplied food for the planned descent. Bel still wants
+Sera fed and the intake watched. What she rejects is the claim that loyalty
+makes the same meal, witness time, and lost bed work free whenever the office
+needs them.
+
+The rotation binds Low Sere because every recognized hearth eventually feeds
+the person keeping heat beneath all of them. It also displays class. A large
+dry hearth can exchange a turn or spare a carrier; a lower-step household may
+choose between the common bowl and its own supper. When that choice is hidden,
+belonging becomes a levy no one admits imposing. When it is recorded, the
+bowl's return can force the basin table to find food, relief, or a safer level
+of service before care itself breaks.
+
 ## Class and burden
 
 Upper-step households keep private vessels and can endure a short ration. Lower-step renters lose warmth and work together. Grey Bed laborers receive water through the crop compact and can be reclassified as nonessential when the basin table panics. Ash workers bear skin and lung damage that rarely appears in technical records.
