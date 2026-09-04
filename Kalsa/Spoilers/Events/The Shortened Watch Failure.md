@@ -24,6 +24,52 @@ During a maintenance closure, a clerk converted the inherited interval as though
 
 Workers were injured, equipment and channel works were damaged, and water reached places the clearance schedule had treated as empty. The exact casualties and extent of damage are unresolved.
 
+## Fixture elaboration: the last clearance bell
+
+*This local elaboration was authored for the Ghostlight fixture
+`ember-shortened-watch-clearance-v0`. It furnishes one workface during the
+adopted failure without fixing the polity, date, languages, exact durations,
+regional signal practice, or the total casualties and damage.*
+
+The last staffed clearance house stood above a bend where the covered service
+stair opened onto the reservoir's main outflow channel. From its roadward door,
+workers could descend to the channel floor or cross a short stone landing to a
+raised rescue shelf. An upstream signal shutter faced the operator's distant
+gatehouse. A bell frame beside the lower door carried warnings down the open
+channel toward work yards and occupied ground that the maintenance order had
+declared clear. The keeper at this house could warn, muster, and protest. They
+could not directly cancel a formula already submitted at the gatehouse.
+
+On the failure watch, clearance keeper **Isca Rel** worked beside channel
+foreperson **Anet Vos**, brace worker **Pel Orra**, and conversion clerk **Dema
+Tern**. Their ordinary handoff used four objects kept together beneath one
+painted watch heading: a protected copy of the inherited source interval,
+Dema's signed conversion slip, the managers' work board, and the tally of
+notices actually delivered along the channel. Their proximity made comparison
+possible. The shared heading also let a later reader mistake agreement about
+the word for agreement about the duration.
+
+The channel supplied its own warning. Before a normal release reached the open
+bend, vibration travelled through the old metal throat, seep lines darkened the
+stone below the rescue shelf, and slack water lifted grit from a side hollow.
+Those signs were familiar enough to clear a crew but not precise enough to
+reconstruct the inherited interval by themselves. During the failed closure,
+they appeared while the approved board still showed work time remaining. Anet
+began pulling workers and braces toward the stair. Dema defended the signed
+conversion because the same value had already been accepted upstream. Isca had
+to decide which warning to send while people, tools, the comparison copies,
+and the route to the lower yards could not all be secured at once.
+
+Each delay made a different loss more likely. Waiting for gatehouse
+confirmation kept the formal chain intact and left crews in the channel.
+Ringing the lower warning before authorization could clear occupied ground but
+also draw carts and residents onto the same narrow service stair the workers
+needed. Carrying the comparison copies to the rescue shelf preserved evidence
+for review while spending hands needed on the lines. Hauling a person up first
+left brace frames and tools where the release could turn them into wreckage.
+The accepted formula therefore became irreversible downstream before the
+people bearing it agreed what its watch meant.
+
 ## The first inquiry
 
 The first inquiry treated the failure as corrupt pronunciation or inadequate High Lojban. Its proposed remedy was stricter recitation. Surviving machine and work records defeated that account: the system had accepted the submitted formula, but acceptance did not show that the clerk's conversion, the managers' schedule, or the warning delivered to the crews expressed the same duration.
