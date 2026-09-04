@@ -122,6 +122,77 @@ Mutual aid changes who can refuse. A household that will lose food and heat the 
 
 This leverage attracts capture. Branch holders seek seats over store stewards, require donor loyalty, or redefine emergency aid as a superior's gift. A sect preserves independence through multiple storekeepers, public beneficiary rules, duplicate records, and support spread across more than one branch.
 
+## Authored elaboration: five-hand refuge rings
+
+*Tangle pass, 2026-09-04.* The **five-hand refuge ring** is a translated
+description for one conspiracy pattern used by some Hearth, unbound, and
+release-oriented sects when a branch can seize a witness faster than an appeal
+can protect one. It is not a universal sect, native title, or fixed
+denomination. High-branch adherents condemn the pattern as concealed rebellion
+and sometimes use the same arrangement to keep pensions and succession records
+away from a reckless holder.
+
+A complete ring lists five living members and the office each is willing to
+risk:
+
+1. a **memory keeper** selects the disputed record and preserves the adverse
+   testimony rather than only the useful claim;
+2. a **store steward** releases a bounded interval of food, heat, lodging, or
+   witness pay before retaliation can make the claimant surrender;
+3. a **mortuary or covenant witness** certifies what was observed and what
+   remains interpretation;
+4. a **sanctuary advocate** names the forum, stay, or host whose authority can
+   receive the person and record;
+5. a **route holder** controls an ordinary work path by which copies, food, and
+   people can cross the branch boundary.
+
+The membership list is closed but not deniable. One witnessed copy stays with
+the memory keeper and another with a shrine or household outside the threatened
+branch. Each names patron ties and conflicts. If the ring is exposed, those
+copies let an appeal distinguish organized protection from a champion's
+invented tale of spontaneous rescue. They also give a hostile holder an exact
+map of whom to punish. Joining is therefore a wager on surviving disclosure,
+not a promise that disclosure will never come.
+
+Cutouts carry acts, not authority. A runner receives one destination and one
+custody mark, not the full route. A hostel keeper may admit a witness under an
+existing beneficiary rule without learning which archive copy prompted the
+stay. A living champion may present the public grievance without holding the
+membership list, store keys, or sanctuary destination. The ring loses a cutout
+without losing the office behind the act; it does not ask the cutout to swear
+to a conspiracy they were never permitted to understand.
+
+Its fallbacks are similarly divided. If the record copy is seized, the witness
+and household testimony can demand reconstruction. If the route closes, the
+store interval has already begun and another sanctuary may hear the claim. If
+the public champion defects, no archive or store passes with the weapon. If the
+whole membership list is read aloud, each member invokes their own office and
+forces the holder to attack five separately reviewable acts: copying evidence,
+releasing declared aid, witnessing a claim, seeking sanctuary, and carrying a
+lawful passenger or packet. Exposure can end concealment while leaving the
+leverage intact.
+
+That resilience has a cost. Five people must trust one another without
+collapsing their duties into friendship. Duplicate support consumes stores,
+slow handoffs can miss the useful hearing, and host households bear danger they
+did not create. Registered families are easier to protect than migrants,
+tributaries, or descendants omitted from the memory roll. A false claimant can
+use the ring's shelter while the witnesses test them, and a frightened route
+holder can strand every other hand at once.
+
+The pattern breaks when one faction owns both copies, when aid remains a future
+promise instead of released support, when the sanctuary is only another branch
+of the same holder, or when the champion quietly acquires the store and archive
+along with public voice. At that point the five hands are one hand wearing
+several rings.
+
+The reopened [[Spoilers/Dungeons/The Ash-Halo Court|Ash-Halo Court]] contains
+the offices and pressure from which such a ring could form: an answer roll, a
+household recognizer, withdrawn shrine support, a branch registrar, an
+under-gallery route, and a champion whose standing depends on the working.
+The site does not preselect whether those people cooperate, whether a refuge
+ring exists, or which claim survives play.
+
 ## Resistance and appeal
 
 Soiru'i Sects resist through Jamnai's own pressure points:
