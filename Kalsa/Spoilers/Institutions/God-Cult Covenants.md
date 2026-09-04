@@ -184,6 +184,42 @@ afterward. The terms bind the cult offices and claimants able to consent to
 them. They do not command the God or convert every dead presence near the route
 into a covenant party.
 
+### Authored elaboration — recognized ritual shares
+
+This subsection is an authored Numen elaboration (2026-09-04).
+
+A **recognized ritual share** is a bounded place for a recognized claimant inside the
+lower-world procedure of a concentrated rite. It is not a measured fraction of
+potential. Before the route opens, the covenant witness records the relation
+claimed and the act requested; a mortuary witness attaches any earlier sign and
+the custody of its copies; a living recognizer repeats what they can identify
+without certifying who or what produced it. The divine intermediary states the
+offer it can carry, the potential steward records which grant and reserve bear
+the attempt, and the material custodian marks the physical outlet and the stop
+that remain under their authority.
+
+Local offers may permit one warning, one answer, departure along a prepared
+route, service within the working, or an attempted binding. A living advocate
+can promise attendance, custody, repayment, or their own service. They cannot
+consent for a silent dead claimant or turn an ambiguous manifestation into the
+dead person's acceptance. Recognition makes a diversion legible enough to hear
+or negotiate; it does not make the God perceive it correctly, require the God
+to admit it, or prove that the presence kept to the offered share.
+
+The share has material costs. The main working may weaken or take longer;
+workers must keep the outlet, witness place, and escape route usable; withdrawn
+beneficiaries wait longer for protection to return; and the hearing itself may
+feed a dangerous or imitative presence. The concentration return therefore
+records the interval offered, matter and labor exposed, observed draw, the
+God's response, any stop used, later appearances or silences, and the support
+owed to people displaced by the attempt.
+
+Failure does not resolve the claimant. Nothing may answer. Several presences
+may answer one recorded sign. The God may retract, strike, or change its offer.
+A sign may recur after the witnessed interval closes, or appear at a different
+site that received no share at all. Priests can preserve those differences and
+still have no agreed name for what crossed the rite.
+
 Cult policy toward a feeder can include warning, ritual share, negotiation,
 binding, dispersal, forced interception, or withdrawal. Gods that remember
 hunger may be pitiful, ashamed, or fiercely protective of the same route.
