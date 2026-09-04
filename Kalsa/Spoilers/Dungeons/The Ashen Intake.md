@@ -311,6 +311,55 @@ The chest contains:
 
 The Measure and folio are reserved. Taking the beads without recording them turns later formula comparison into a custody dispute.
 
+### Fixture elaboration: the undelivered notices
+
+*This local elaboration was authored for the Ghostlight fixture
+`veil-undelivered-warnings-v0`. It fixes the recoverable objects and their
+present disclosure paths inside the Custodian Gallery. It does not settle the
+Grey Scald, prove who stopped either notice, or establish a universal Low Sere
+notice form.*
+
+Both notices are palm-sized sheets of ashproof service cloth folded around
+split-reed routing tags and sealed with cheap grey wax. The earlier sheet orders
+the maintenance platform cleared at the first hammer of the seventh relief
+baffle and explicitly says that a household work-watch is not the interval. It
+is addressed to the lower-step water witnesses and platform lead. Its routing
+tag carries a Cistern House receipt notch, then an unsigned hold stroke beside
+the basin table's dry-store tally. The later sheet orders the lower-step feed
+closed after a pressure surge, sleeping pallets moved above the third water
+mark, and the first ash, water, and burn cloth preserved for comparison. Its
+tag is slit beside the custodian-review mark and bears the instruction not to
+release it before the cause is compared.
+
+Teren countersealed both sheets before locking the chest. That proves he later
+preserved and withheld them with the Measure and folio; it does not prove that
+he made either earlier hold. The first mark can support an accusation that the
+basin table delayed warning to avoid an expensive precaution. The second can
+support an accusation that custodians protected their account of the failure
+before exposed households received care instructions. The damaged tags leave
+both accusations answerable and neither complete.
+
+The wax is threaded through the brittle routing tags. A recorder who opens a
+sheet before rubbing or copying its marks destroys part of the interception
+evidence. Rubbing both tags, comparing their hands with the handoff folio, and
+making the compact's three copies takes a work interval; if nobody stabilizes
+the intake during that work, the pressure clock advances. The quickest path for
+one copy runs through the archive crawl, across the Memorial Sump, and up the
+Relief Crawl. A lone runner can warn the Warm Steps sooner, but at one pale
+shutter is also the person most exposed to a scalding pulse and whatever is
+answering names in the sump. The longer return through the Eight Screens and
+Settling Walk exposes a courier to fewer pressure seams but costs more time.
+Taking it as a group keeps the crew together while lower-step households remain
+uninformed.
+
+Above ground, the notices become usable only when a lower-step water witness
+receives an intelligible copy. Ressa can compare the technical interval; Tavi
+can keep the deaths and delayed care attached to the record; the expedition
+recorder can preserve the route and seals; Maro can order evacuation or feed
+closure. None may take every copy. Disclosure can save the Warm Steps while
+costing repair time, a courier, or the political cover on which the next
+technical act depends.
+
 ### Hazards
 
 - Wrong wheel settings open an ash purge and advance the clock.
