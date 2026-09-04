@@ -191,6 +191,11 @@ Others defend a champion without such a history. Doctrine may name the choice
 purification, hospitality, conquest, or prudence; the covenant record still
 owes the acts taken in its name.
 
+In the first-share practice described by
+[[Spoilers/Institutions/Hunger Saints|Hunger Saints]], a cult makes one such
+claimant part of repeated great-rite preparation without acquiring certainty
+about its identity, consent, or position in the divine hierarchy.
+
 ## Succession and schism
 
 Cult office, property, doctrine, and divine hierarchy can separate during a

@@ -24,6 +24,7 @@ Kalsa's institutions grew around needs that survived the [[Spoilers/Foundations/
 - [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]] — voluntary, inherited, and coerced routes into reciprocal cult obligation.
 - [[Spoilers/Institutions/The Potential Economy|The Potential Economy]] — material support, estimation, allocation, rationing, and leakage around finite divine capacity.
 - [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] — testimony, severance, funerary custody, and succession where persons and divine structures may continue after bodily death.
+- [[Spoilers/Institutions/Hunger Saints|Hunger Saints]] — deliberately fed dead maintained as first-share leakage claimants, and the ascent pressure created by making a thaumavore into ritual safety infrastructure.
 
 ## Evidence, language, and administration
 

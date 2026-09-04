@@ -218,6 +218,12 @@ claim each voice, and every prolonged hearing feeds the event. Closing the
 fountain may protect the living while ending the only interval in which the
 dead can contest their erasure.
 
+Some cults go further and maintain a recognized feeder as ritual
+infrastructure. [[Spoilers/Institutions/Hunger Saints|Hunger Saints]] owns the
+first-share procedure, the consent problem created by keeping a dead person
+hungry for public safety, and the ascent inquiries that mortuary evidence can
+open but cannot settle.
+
 ## Organized mortuary positions
 
 Mortuary conflict produces organizations with different capacities.

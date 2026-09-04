@@ -223,6 +223,12 @@ sleeping powers. At that point no steward controls allocation. Every claimant
 has an incentive to keep the fountain open, close it, or redirect it before the
 others can feed.
 
+[[Spoilers/Institutions/Hunger Saints|Hunger Saints]] are one bounded answer to
+that uncertainty: some cults deliberately offer a known dead claimant the first
+share at a side route. The account may make later loss more legible while the
+repeated feeding cultivates the independent agency the practice claims to
+contain.
+
 ## Failure and succession
 
 The economy fails through depletion, leakage, false accounting, severed routes,
