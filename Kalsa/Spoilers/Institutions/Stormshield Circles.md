@@ -81,6 +81,66 @@ public warning signal. A runner can still bring an urgent road report through
 the visitor stair, but cannot cross the low rail or enter the trance floor
 without the observer or tender admitting them.
 
+## Ledger elaboration: provisions below the outer-road station
+
+*This material elaboration was authored for the Ghostlight fixture
+`ledger-stormshield-provisions-v0`. It establishes one local provisioning
+practice at the outer-road station above. It is not a universal Circle account,
+a common currency, or proof of a citywide office.*
+
+The dry stair descends from the recovery alcove to a roofed provision landing
+on the cityward side of the station. A cart ramp enters through one broad arch.
+Beside it, a stone drain and slatted rack receive wet sacks, fuel, and cloth
+before anything crosses to the barred dry store. A waist-high tally bench stands
+between ramp and store. Hand-porters carry accepted goods up the narrow stair;
+the cart and its team never enter the handoff room.
+
+The landing separates four uses that become dangerously easy to call one
+"shield store": the current watch's food, water, lamp fat, and recovery issue;
+the ration carried by an approaching relief cohort; the meals and dry clothing
+for tenders, observers, runners, porters, and family caregivers; and the
+contributor return owed to households that supplied grain or lost workers to
+the station. Viable seed and identified household subsistence stay outside
+these uses unless an emergency taking names them plainly. The separation puts
+the settlement after [[Spoilers/Events/The Shield Levy Winter|the Shield Levy
+Winter]] into a room where wet grain, tired people, and impatient carts can
+test it.
+
+Each accepted delivery produces a paired fired-clay tally. The station half
+hangs on a peg above the relevant store bay; the contributor half leaves with
+the carrier. Matching marks name the source, recognizable load, condition,
+intended use, and any return promised. The pieces are evidence of an exchange,
+not coins, transferable title, or proof that the assessment was fair. A
+station provision witness may refuse an unmarked release or record a disputed
+one. That witness does not decide the Circle's target, command tribal stores,
+or turn a contributor's seed into surplus by changing its peg.
+
+Circle leads state the operational need. Tenders state what bodies can eat,
+wear, and carry safely. Tribal or city delegates state what they have authority
+to send or recall. Porters and store workers state what physically arrived and
+in what condition. A shortage becomes coercive when one claimant collapses
+those accounts: a central order calls every bay reserve grain, a tribal patron
+calls an attendant's ration private charity, or a Circle lead counts only the
+people in trance as shield workers. Each description can preserve one urgent
+claim by making another dependency disappear.
+
+The disappearance follows class. A household with a recognized witness, dry
+storage, and its own cart can preserve a matching tally and contest a missing
+return. Land-poor growers, migrants, hired carriers, and attendants may have
+their work entered under a patron's delivery while their own dependants appear
+nowhere on the contributor half. They can feed the shield for years and still
+be first described as outside it when stores narrow.
+
+The four uses fail at different speeds. Spend the current issue and the active
+watch weakens now. Spend the relief ration and the replacement arrives late,
+hungry, or not at all. Spend attendant issue and recovery becomes unpaid
+household labor until caregivers stop coming. Spend contributor return and the
+station may survive the watch while households hide the next load, withdraw a
+worker, or consume seed they meant to plant. [[Spoilers/Events/The Narrow
+Shield|A narrowing order]] can reassign named stores for a named watch; it does
+not make these later costs vanish or make every sack on the landing the same
+kind of promise.
+
 ## Consent, duty, and refusal
 
 The shield protects lives, but that fact does not make every act of service voluntary. A defensible admission records what the candidate understands, who requested service, what term or review point applies, what support their household will receive, and how they may report harm or refuse a target. Continuing consent is checked before a new shift, not presumed from the first oath.
