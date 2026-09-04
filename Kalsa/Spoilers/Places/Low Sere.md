@@ -79,6 +79,90 @@ It does not appoint household successors, settle every debt, decide cult doctrin
 
 The table records water by marked vessels and work-watches rather than a single currency. Households owe cleaning, hauling, bed work, pipe watching, or stores according to use and capacity. A household that cannot work after injury may draw support. A household without a recognized witness can perform labor for years while remaining first to lose water in a shortage.
 
+### Fixture elaboration: the empty-spindle review
+
+*This local elaboration was authored for the Ghostlight fixture
+`charter-empty-spindle-review-v0`. It establishes Low Sere's present procedure
+for reviewing the Ashen Intake appointment and receiving a resident's related
+claim. It is not a universal Techpriest law and does not decide Sera's final
+appointment, Teren's appeal, or the Eighth Baffle lineage's standing.*
+
+Low Sere calls an appointment review when the intake office falls vacant, an
+emergency suspension survives the named danger, a provisional keeper reaches a
+material limit, or the live arrangement no longer matches the formation on
+which the appointment rested. The review is called **empty-spindle** because
+the eight-tooth spindle is laid in a stone cradle on the basin lip while the
+black pressure door remains shut. No claimant holds it while asking to be
+recognized. If reduced service cannot wait, the acting keeper takes the
+spindle for one witnessed act and returns it to the cradle with the result
+recorded.
+
+Before the review sits, the basin table posts three separate accounts. A
+Cistern House maintainer records the live configuration, tools, missing parts,
+open hazards, and acts still required. A household water witness and a Grey Bed
+worker record what water, heat, work, food, or shelter has already been lost.
+The candidate records formation, limits, requested authority, relief needs,
+and any practice or warning they dispute. An independent competent comparer
+examines the technical claim when one can be obtained. The comparer can narrow
+or refuse recognition of competence; they do not appoint the custodian or
+acquire Low Sere's water claim by making the journey.
+
+The basin table hears the candidate, workers who performed the disputed work,
+dependants who carried its interruption, the former keeper if one is answering
+discipline, and the independent comparison. It then issues one bounded
+appointment record. That record names the threshold and configuration, acts
+the custodian may perform, acts still requiring supervision, the public warning
+used for each dangerous interval, records and tools transferred, promised
+assistants and relief, household support owed to the office, the next material
+review trigger, and the removal and handoff path. The candidate may accept,
+narrow, or refuse the appointment. The table cannot widen a technical finding
+by vote, and a lineage cannot convert recognition into appointment by pedigree.
+
+When competent comparison is missing, only provisional custody passes. A
+provisional keeper may inspect, isolate, stop, and preserve degraded service
+inside the formation already witnessed. Each additional act is entered beside
+the empty-spindle notice. Holding the spindle, sleeping in the custodian's
+warm room, or keeping the settlement alive does not quietly make the office
+permanent. The vacancy remains posted at the Cistern House and lower Grey Beds
+until the review is completed or the appointment is narrowed honestly enough
+to stand.
+
+Either threshold holder may stop their own side of the work immediately: the
+cistern reeve can close the drain and grate, and the appointed custodian can
+refuse the pressure seal. Suspension of the custodian additionally names the
+hazard, which authority is paused, who may preserve ordinary service, what
+support continues to the suspended household, and what evidence must be held
+for review. Removal requires the service state and tool inventory, notice to
+dependants, an answer from the custodian and affected workers, and competent
+comparison of the disputed act. The successor receives unresolved claims and
+failed procedures with the keys. They do not receive a clean past.
+
+Any resident or worker can open a related claim without offering a technical
+theory. They bring the table an observed difference: a marked water vessel, a
+work-watch tile, a damaged object, an injury account, a missed warning, or a
+witness. The receiver scores one damp clay strip across its middle, hangs one
+half beside the appointment record, and returns the matching half to the
+claimant. This **return mark** proves that the table received the claim even if
+a recorder, patron, or acting custodian later rearranges the board.
+
+At the next allocation hearing, the claimant can match the halves and require
+the table to do one of three things before it assigns water to craft or trade:
+grant immediate water, heat, work credit, injury care, or record correction;
+name the missing evidence and the review at which the claim will return; or
+record a refusal with the households and work surface bearing the loss. A
+technical finding, an appointment decision, and compensation remain separate.
+Vindicating a custodian does not make a wet room dry or restore a lost shift.
+Removing one does not prove every interruption was their fault.
+
+The procedure consumes what it protects. Draining the west basin for a
+witnessed walk reduces service. Copies cost ash cloth, clay, lamp time, and
+the labor of people already carrying water. An outside comparer needs lodging,
+assistants, formula copies, and safe passage, giving distant lineages leverage
+over a local vacancy. Large hearths can still crowd the witness places, and an
+absent folio can keep a provisional office open for years. The empty-spindle
+notice and return mark make that delay legible. They do not make Low Sere rich
+enough to end it.
+
 ## Current actors
 
 ### Sera Venn — provisional intake custodian
