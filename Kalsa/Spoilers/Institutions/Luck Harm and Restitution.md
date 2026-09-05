@@ -22,223 +22,231 @@ tags:
 
 # Luck Harm and Restitution
 
-Luck Harm and Restitution is the family and compact practice used when improbable events injure people, damage shared works, or threaten feud in the [[Spoilers/Polities/Luck - Selza'a|Luck Crown]]. It restores immediate safety, preserves material evidence, assigns proven responsibility, and pools losses whose cause cannot be identified honestly.
+In the [[Spoilers/Polities/Luck - Selza'a|Luck Crown]], families and the compacts that govern shared resources use restitution practices to help people after improbable accidents. These practices cover injuries, damage to shared works, and accusations that could start a feud. They get people to safety, release emergency supplies, preserve evidence, and decide who owes repair. When the cause cannot honestly be established, contributors share the loss through a risk pool.
 
-Luck is not directly detectable. Prophecy can infer persistent bias in forecast space but cannot identify a bearer or culprit. Apparent coincidence, improbable survival, family reputation, and prophetic discomfort are not proof. Those limits are owned by [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]] and cannot be relaxed by local fear.
+For someone hurt or left without water, the first question is where help will come from. A household reserve, family store, or shared-work pool can provide that help before anyone proves responsibility. Investigation follows: did someone sabotage the work, neglect maintenance, break an agreement, or fail another duty? A proven act or breach can require repayment. An unexplained coincidence cannot.
 
-## Owner map
+That distinction matters because Luck cannot be directly detected. Prophecy can infer a persistent bias in possible futures, but it cannot identify a Luck bearer or culprit. Improbable survival, family reputation, apparent coincidence, and a prophet's discomfort do not close that gap. [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]] owns these limits; frightened families cannot relax them.
 
-| Surface | Owner | Does not own |
+A city organized around Luck must be able to repair damage without obtaining certainty that is beyond its means. It must also prevent that uncertainty from becoming permission to accuse anyone.
+
+## Help first, then responsibility
+
+The practice separates three questions and answers them in order:
+
+1. **What needs attention now?** Rescue people, provide water, shelter, and medical care, control fire, contain danger, secure safe passage, and preserve evidence before pursuing blame.
+2. **What did someone do or fail to do?** Inspect for sabotage, unsafe access, neglected maintenance, broken compacts, and ordinary hazards.
+3. **What loss still has no responsible party?** Use risk pools and negotiated shares for losses that the evidence cannot fairly assign.
+
+A family may also ask what a dimna intended or whether hostile Luck was involved. Those religious and strategic questions remain open to it. They cannot take the place of rescue, material investigation, or provision for the remaining loss.
+
+## Who opens the case and who decides
+
+The affected owner starts the record. A household does so for private harm, a family for harm within its territory, and a compact for damage to a shared work. When the alleged cause crosses a boundary, each side names a witness and invokes the relevant compact. They may agree to bring in a third family, domain worker, travelling specialist, or another trusted party for that case.
+
+There is no universal tribunal. Authority to hear a case comes from a shared resource, a prior agreement, immediate dependence, and the consent of parties who can grant access. The partners and an accepted third witness form the cross-boundary case table. That arrangement does not give them continuing jurisdiction over unrelated families.
+
+The different participants retain separate responsibilities:
+
+| Work or decision | Who owns it | Limit of that authority |
 |---|---|---|
-| Immediate rescue and service restoration | The affected family, work owner, or compact named for the resource | A finding of magical guilt |
-| Damaged configuration and material inspection | Its maintainers, domain workers, and any recognized custodian | The social verdict merely because they understand the object |
-| Household or family loss record | The harmed people and witnesses | The cause beyond what they observed |
-| Cross-boundary case table | The compact partners and mutually accepted third witness for that case | Permanent jurisdiction over unrelated families |
-| Prophetic bias report | The prophet within a stated horizon and question | Identity, intent, or direct detection of Luck |
-| Risk-pool payment | Store stewards under the pool's beneficiary rules | Admission of guilt by every contributor |
-| Restitution for proven act or breach | The responsible person, family, or office under the accepted finding | Ownership of the harmed person after payment |
-| Review | A third family or wider compact accepted by the parties | Universal tribunal or automatic coercion beyond the compact |
+| Immediate rescue and restoration of service | The affected family, work owner, or compact responsible for the resource | Helping or restoring service does not establish magical guilt. |
+| Inspection of the damaged configuration and its materials | Maintainers, domain workers, and any recognized custodian | Understanding the object does not entitle them to decide the social verdict. |
+| Household or family loss record | Harmed people and witnesses | They can record what they observed, not claim a cause beyond it. |
+| Cross-boundary case table | Compact partners and the mutually accepted third witness for that case | They gain no permanent jurisdiction over unrelated families. |
+| Report of prophetic bias | The prophet, answering a stated question within a stated horizon | The report cannot establish identity, intent, or direct detection of Luck. |
+| Risk-pool payment | Store stewards applying the pool's beneficiary rules | Contributions and payments do not make every contributor guilty. |
+| Restitution for a proven act or breach | The responsible person, family, or office under the accepted finding | Payment gives no ownership over the harmed person. |
+| Review | A third family or wider compact accepted by the parties | Review creates neither a universal tribunal nor automatic coercive power outside the compact. |
 
-The procedure exists because a city organized around Luck cannot wait for certainty it is metaphysically unable to obtain. It also cannot survive if uncertainty becomes permission to accuse anyone.
+A family may refuse every proposed neutral witness. Other parties may then suspend its compact, guard their boundaries, withdraw pool coverage, or pursue a feud. Those are forms of political pressure. None proves the family's guilt.
 
-## Three questions in order
+The opening record must identify:
 
-Every case separates three questions.
-
-1. **What must be restored now?** Rescue, water, shelter, medical care, fire control, containment, safe passage, and preservation of evidence precede blame.
-2. **What material action or duty contributed?** Inspection can identify sabotage, unsafe access, neglected maintenance, broken compact, or ordinary hazard.
-3. **What loss remains unassigned?** Risk pools and negotiated shares cover what no evidence can fairly place.
-
-A family may also ask what a dimna intended or whether hostile Luck operated. That is a religious and strategic question. It cannot replace the three material questions.
-
-## Opening a case
-
-The affected owner opens the record: household for private harm, family for territorial harm, or compact for a shared work. If the alleged cause crosses a boundary, each side names a witness and invokes the relevant compact. They may accept a third family, domain worker, travelling specialist, or other trusted party for the named case.
-
-There is no universal tribunal. Standing comes from the shared resource, prior agreement, immediate dependence, and consent of parties able to grant access. A family that refuses every neutral witness can still face compact suspension, guarded boundaries, loss of pool coverage, or feud. Those consequences are political pressure, not proof of guilt.
-
-The opening record names:
-
-- people harmed and service interrupted;
-- site, time, weather, and known sequence;
-- owners, maintainers, users, and access holders;
-- damaged objects and evidence requiring protection;
+- who was harmed and which service was interrupted;
+- the site, time, weather, and known sequence of events;
+- owners, maintainers, users, and people with access;
+- damaged objects and evidence that needs protection;
 - urgent measures already taken;
-- alleged acts without naming magical identity as fact;
-- pool, bond, or store expected to provide immediate aid;
-- reciprocal restraint during inquiry.
+- alleged acts, without presenting a supposed magical identity as fact;
+- the pool, bond, or store expected to provide immediate aid;
+- the reciprocal restraints to be observed during the inquiry.
 
-## Evidence standards
+## What evidence can establish
 
-Evidence is strongest when it attaches a person or office to a material act, omission, false record, threat, access, or breached duty. Useful evidence includes physical inspection, maintenance history, boundary records, witness accounts, possession, communications, work rosters, motive, ordinary causal reconstruction, and whether the claimed action could produce the harm.
+The strongest evidence connects a person or office to something they did, omitted, recorded falsely, threatened, accessed, or had a duty to prevent. Investigators can use physical inspection, maintenance histories, boundary records, witness accounts, possession, communications, work rosters, and motive. They must also reconstruct ordinary causes and ask whether the alleged action could actually have produced the harm.
 
-Patterns matter but do not identify Luck. Repeated breakage after one visitor arrives can justify inspection, a route change, or temporary limits. It cannot prove the visitor is a bearer. A family that benefits from every accident deserves scrutiny of access, records, and conduct. Benefit is not magical authorship.
+Patterns can justify investigation and precautions. If things repeatedly break after one visitor arrives, a family may inspect the work, change a route, or impose temporary limits. The pattern cannot prove the visitor bears Luck. If one family benefits from every accident, investigators have reason to examine its access, records, and conduct. The benefit alone does not show that the family magically caused anything.
 
-Prophecy may report that expected branches disappear around the case or that a persistent bias affects the system. The report must state question, horizon, sponsor, observed alternatives, and planned interventions. It can justify wider precautions. It cannot name the source. See [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] for the same constraint in the Divided City.
+A prophet may find that expected futures keep disappearing or that a persistent bias affects the system under investigation. Their report must state the question, forecast horizon, sponsor, observed alternatives, and planned interventions. Such a report can support wider precautions, but it cannot identify the source of the bias. [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] applies the same constraint in the Divided City.
 
-Null status is not magical neutrality. A Null witness cannot detect Luck and can still lie, neglect, misremember, or act for a patron. Strong Luck expression is not a presumption of guilt or innocence.
+A Null witness offers no magical shortcut. Null status does not allow someone to detect Luck or make them neutral: they can lie, neglect a duty, misremember, or serve a patron. Strong expression of Luck likewise establishes neither guilt nor innocence.
 
-## Findings
+## Findings and their consequences
 
-A case table can make several findings without pretending they are one.
+The case table must distinguish what it has established from what remains uncertain. More than one finding may apply:
 
-- **Proven act:** evidence shows a person or office performed a material act causing harm.
-- **Proven breach:** a named owner failed maintenance, warning, access, or other duty, whether or not the final trigger was ordinary or lucky.
-- **Shared-system failure:** several owners contributed or the compact allocated responsibility poorly.
-- **Ordinary hazard:** no breach is shown and the loss falls within recognized environmental or operational risk.
-- **Unresolved bias:** evidence or prophecy supports unusual patterned influence without identifying source.
-- **Unresolved cause:** available evidence does not support a narrower conclusion.
+- **Proven act:** a person or office performed a material act that caused harm.
+- **Proven breach:** a named owner failed a duty of maintenance, warning, access, or another responsibility. The final trigger may have been ordinary or lucky; the duty still went unmet.
+- **Shared-system failure:** several owners contributed to the failure, or their compact divided responsibility poorly.
+- **Ordinary hazard:** no breach has been shown, and the loss falls within a recognized environmental or operational risk.
+- **Unresolved bias:** evidence or prophecy supports an unusual pattern of influence but does not identify its source.
+- **Unresolved cause:** the available evidence supports no narrower conclusion.
 
-The final two categories authorize precaution and pooling, not punishment. “Unknown Luck attack” is not a person-shaped finding.
+Unresolved bias and unresolved cause permit precautions and pooled support. They do not permit punishment. Writing “unknown Luck attack” in a record does not produce a person who can fairly be held responsible.
 
-If later evidence proves sabotage or neglected duty, the pool may recover an agreed share from the responsible party. It does not charge magical damages merely because the event was improbable.
+A case can change when new evidence arrives. If sabotage or neglected duty is later proved, the pool may recover an agreed share from the responsible party. It cannot add magical damages simply because the event was improbable.
 
-## Reciprocal restraint
+## Keeping the inquiry from causing more harm
 
-Restraint prevents inquiry from becoming the next cause of harm. A compact may require:
+Reciprocal restraint sets limits on what the parties may do while the case remains open. A compact may require them to:
 
-- no armed crossing except rescue and witnessed inspection;
-- no public naming of a Luck bearer or attacker without material finding;
-- continuation of baseline water, shelter, and safe passage;
-- preservation of wreckage, records, and witness access;
-- temporary separation of rival work crews;
-- disclosure of planned retaliation or defensive changes to any prophet comparing futures;
-- a review point after which emergency restrictions lapse;
-- return of stores, paths, and people held only for the inquiry.
+- allow armed crossings only for rescue and witnessed inspection;
+- refrain from publicly naming a Luck bearer or attacker without a material finding;
+- continue baseline water, shelter, and safe passage;
+- preserve wreckage, records, and access to witnesses;
+- separate rival work crews temporarily;
+- disclose planned retaliation or defensive changes to any prophet comparing futures;
+- set a review point after which emergency restrictions lapse;
+- return stores, paths, and people held only for the inquiry.
 
-Restraint is reciprocal, not passive. A family preserving evidence may guard it. A victim need not share a home with an accused person. A threatened family can close a route while maintaining an alternate path for dependents.
+These terms leave room for protection. A family may guard the evidence it preserves. A victim need not live with an accused person. A threatened family may close a route if it maintains an alternative for dependents.
 
-Powerful families can abuse restraint by freezing a poor household's work or movement for months. Every restriction must name owner, harm addressed, duration, and restoration. An indefinite precaution is punishment that evaded the evidence standard.
+Restrictions themselves need scrutiny. A powerful family can use an inquiry to stop a poor household from working or moving for months. Each restriction must therefore name who owns it, the harm it addresses, its duration, and how normal access or activity will be restored. A precaution with no end is punishment imposed without meeting the evidence standard.
 
 ## Risk pools and insurance
 
-Selza'a institutions spread uncertain harm across several layers.
+Several kinds of reserve let people receive help while responsibility is still disputed or unknown. Each covers a different range of dependence, from household accidents to dangers affecting the city.
 
 ### Household reserve
 
-Households keep food, water claims, repair material, and reciprocal promises for ordinary accidents. Poor households often cannot hold enough reserve and become dependent upon employers or family patrons.
+Households keep food, water claims, repair materials, and promises of reciprocal help for ordinary accidents. Poor households often cannot save enough. An accident can leave them reliant on an employer or family patron.
 
 ### Family store
 
-A family supports rescue, burial, temporary shelter, tools, and members suspended during dispute. Contributions may be goods, labor, maintenance, transport, or shares of trade. Access can be a real protection and a means of enforcing loyalty.
+A family store provides rescue, burial, temporary shelter, tools, and support for members suspended during a dispute. Members may contribute goods, labor, maintenance, transport, or shares of trade. Access can keep someone secure, but it can also give the family a way to demand loyalty.
 
 ### Shared-work pool
 
-Windtrap, cistern, path, or market compacts collect contributions according to use, maintenance burden, exposure, or negotiated share. The pool pays immediate repair and care without waiting for guilt. Later proven breaches can change future contributions or require repayment.
+Compacts for windtraps, cisterns, paths, or markets collect contributions from those involved. Shares may reflect use, maintenance burden, exposure to harm, or negotiation. The pool pays for immediate repair and care before guilt is decided. A later proven breach may require repayment or change future contributions.
 
 ### Travel or outsider bond
 
-A host and guest can place goods, labor credit, or guarantor promises against accidental harm during a visit. The bond caps and clarifies exposure. It cannot make a guest liable for every improbable event nearby or give the host ownership of their person.
+A host and guest may pledge goods, labor credit, or a guarantor's promise against accidental harm during a visit. The bond specifies and caps what is at stake. It cannot make the guest responsible for every improbable event nearby, and it gives the host no ownership over the guest.
 
 ### Federation reserve
 
-Families may assemble temporary stores for external threat, major drought, widespread contamination, or city-scale infrastructure failure. The federation owns that reserve only for the named danger and must return or account for unused contributions afterward.
+Families may gather temporary stores against an external threat, major drought, widespread contamination, or city-scale infrastructure failure. The federation controls those stores only for the named danger. Afterward, it must return unused contributions or account for them.
 
-Contribution cannot be based on alleged Luck strength as though a bloodline were an actuarial hazard. Use, prior maintenance, material exposure, and ability to contribute are legitimate factors. Work shares, waivers, and baseline coverage keep the poor from being excluded where a compact recognizes them.
+Contribution rules cannot treat alleged Luck strength as a measurable insurance risk attached to a bloodline. Legitimate factors include use, prior maintenance, material exposure, and ability to contribute. Where a compact recognizes work shares, waivers, and baseline coverage, those provisions keep people who cannot afford ordinary contributions from being excluded.
 
 ## Restitution
 
-Restitution begins with the person or service harmed, not the dignity of rival families.
+Restitution addresses what happened to the harmed person or service. Rival families' dignity does not determine what repair is owed.
 
-Possible remedies include:
+Depending on the harm and finding, a remedy may provide:
 
-- medical care, burial, water, food, shelter, and replacement tools;
-- repair or replacement of the damaged work;
-- lost labor or use support;
-- restoration of passage, household, membership, or compact standing;
+- medical care, burial, water, food, shelter, or replacement tools;
+- repair or replacement of a damaged work;
+- support for lost labor or lost use;
+- restored passage, household, membership, or compact standing;
 - corrected records and public withdrawal of an unsupported accusation;
-- changed maintenance duty, contribution share, or access control;
-- temporary supervision where a proven breach exposed others;
-- payment from responsible actor to the pool that carried immediate loss.
+- changes to maintenance duties, contribution shares, or access controls;
+- temporary supervision after a proven breach put others at risk;
+- repayment by the responsible actor to the pool that met the immediate loss.
 
-No payment buys a person, erases intent, or proves reconciliation. A family can accept repair while preserving a feud over deliberate harm. A cleared person may require record correction even when no one can restore reputation fully.
+Payment has limits. It cannot buy a person, erase intent, or establish that reconciliation has occurred. A family may accept repair and continue a feud over deliberate harm. Someone cleared of responsibility may still need the record corrected, even when a correction cannot fully recover their reputation.
 
-Where cause remains unresolved, the pool pays according to prior rules and affected need. Calling that no-fault does not mean no one failed; it means the current evidence does not license invention.
+When the cause remains unresolved, the pool pays under its prior rules and according to affected need. “No-fault” describes what the present evidence allows the parties to assign. It does not establish that nobody failed.
 
-## Ordinary dispute workflow
+## How an ordinary case proceeds
 
-For most accidents, the work is small and local:
+Most accidents are handled locally, without an elaborate inquiry. The usual sequence is:
 
-1. rescue and isolate danger;
-2. notify the relevant household, family, and compact;
-3. record the scene before repair changes it;
-4. release immediate stores;
-5. inspect material causes and maintenance duties;
-6. state finding categories and remaining uncertainty;
-7. restore service and allocate repair shares;
-8. correct public accusations and review restrictions;
-9. preserve the case for future maintenance and compact revision.
+1. Rescue people and isolate the danger.
+2. Notify the relevant household, family, and compact.
+3. Record the scene before repairs alter it.
+4. Release immediate stores.
+5. Inspect material causes and maintenance duties.
+6. State the applicable findings and what remains uncertain.
+7. Restore service and allocate repair shares.
+8. Correct public accusations and review restrictions.
+9. Preserve the case record so it can inform later maintenance and compact revision.
 
-Most cases never involve a prophet. Forecast labor is scarce, and adding a prophet can change family plans enough to contaminate the question. Prophecy is useful when the hazard continues across time or competing interventions threaten wider cascade.
+Most cases never involve a prophet. Forecast labor is scarce. Bringing in a prophet can also change the families' plans enough to contaminate the question being examined. Prophecy is useful when a hazard persists over time or when competing responses could cause a wider cascade of harm.
 
 ## Review, refusal, and exit
 
-A party may refuse a proposed witness, unsafe inspection, indefinite restriction, demand for lineage proof, or compact finding outside the compact's subject. Refusal should name the boundary and propose a safer or mutually legible alternative where possible.
+A party can refuse a proposed witness, an unsafe inspection, an indefinite restriction, a demand for proof of lineage, or a finding beyond the compact's subject. Where possible, the refusal should explain the boundary and offer an alternative that is safer or understandable to both sides.
 
-Review may go to a third family named in advance, a wider network of compacts sharing the same resource, or a new case table accepted by both parties. Review checks procedure, evidence, contribution rules, and restoration. It does not become a city supreme court.
+Review may be conducted by a third family named in advance, a wider network of compacts sharing the resource, or a new case table accepted by both parties. It examines procedure, evidence, contribution rules, and restoration. Its authority remains tied to those arrangements; it does not become a city supreme court.
 
-A family can withdraw from a compact under its exit terms. Shared works make exit material: water, access, unfinished repairs, dependents, and outstanding pool claims must be settled. A powerful family may leave and build private capacity; a poor household rarely has that option.
+Families can also leave a compact under its exit terms. Leaving a shared work requires settling practical obligations: water, access, unfinished repairs, dependents, and outstanding claims on the pool. A powerful family may be able to withdraw and build its own facilities. A poor household rarely can.
 
-If no review or settlement is accepted, parties may close boundaries, suspend trade, seek federation pressure, transfer affiliation, or feud. The institution reduces escalation; it cannot outlaw conflict from a society whose government is distributed among the parties.
+When parties accept neither review nor settlement, they may close boundaries, suspend trade, seek federation pressure, transfer affiliation, or feud. These practices reduce escalation, but government remains distributed among the parties. The institution cannot simply outlaw their conflict.
 
-## Poor, mixed, Null, and outsider perspectives
+## Who remains exposed
 
-Poor residents experience no-fault pooling as the difference between survival and debt. They also pay through labor and rationing while wealthy stores remain private. A compact that covers infrastructure but not lost wages can restore the windtrap and ruin its keepers.
+For poor residents, pooled support without a finding of fault can decide whether an accident ends in survival or debt. Yet they also contribute through labor and rationing while wealthy families retain private stores. A compact can pay to rebuild a windtrap and still ruin its keepers if it provides nothing for lost wages.
 
-Mixed and adopted people are vulnerable to claims that unfamiliar lineage disturbed a family dimna. The evidence standard protects them formally. Gossip, lost clients, marriage refusal, and quiet exclusion remain outside many remedies.
+Mixed and adopted people face accusations that an unfamiliar lineage disturbed a family dimna. The evidence rules formally protect them. Many remedies cannot reach the gossip, lost clients, refused marriages, and quiet exclusion that follow.
 
-Null residents are often invited as witnesses because they are presumed outside rival Luck lines. This can give them work and place them in danger without granting authority. They cannot see Luck and should not be used as ritual instruments of neutrality.
+Null residents are often asked to witness cases because families presume them to stand outside rival Luck lines. The role may bring work and danger without giving them authority. They cannot see Luck; treating them as ritual guarantees of neutrality misuses their testimony.
 
-Outsiders face bonds and host responsibility because families lack a central jurisdiction over them. A fair bond names material exposure and duration. An abusive bond turns every accident into debt and every debt into prevented exit.
+Outsiders face bonds and host responsibility because families have no central jurisdiction over them. A fair bond states the material exposure and its duration. An abusive one turns every accident into a debt, then uses the debt to prevent departure.
 
 ## Fraud and institutional failure
 
-Luck claims invite fraud because the alleged mechanism leaves no direct trace.
+Claims about Luck are useful to fraud because the alleged mechanism leaves no direct trace. The practical failures include:
 
-- A family can sabotage its own work and blame a rival's bias.
-- A maintainer can hide neglect beneath an impossible sequence.
-- A prophet's limited inference can be retold as identification.
-- A risk pool can deny payment by alleging excluded magical attack.
-- Wealthy families can preserve private reserves while socializing repair costs.
-- Repeated emergency restrictions can become permanent boundary seizure.
-- A host can use an outsider bond to demand lifelong service.
-- A cleared person can remain socially guilty because no finding explains every coincidence.
+- a family sabotaging its own work and blaming a rival's bias;
+- a maintainer using an apparently impossible sequence to conceal neglect;
+- someone retelling a prophet's limited inference as the identification of a culprit;
+- a pool refusing payment on the claim that a magical attack falls outside coverage;
+- wealthy families keeping their reserves private while making others share repair costs;
+- repeated emergency restrictions becoming permanent seizure of a boundary;
+- a host using an outsider bond to demand lifelong service;
+- a cleared person remaining socially guilty because the finding cannot explain every coincidence.
 
-The institution fails when it spends more effort naming a Luck bearer than restoring the harmed system. It also fails when no-fault procedure becomes an excuse never to investigate material power.
+An inquiry has lost its purpose when identifying a Luck bearer takes priority over helping victims and restoring the damaged system. It also fails when “no-fault” becomes a reason to stop investigating the people whose actions, resources, and authority could have contributed to the harm.
 
-## Historical consequence: the Broken Windtrap Settlement
+## What the Broken Windtrap Settlement changed
 
-[[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] alone owns the adopted event facts. Restitution practice retains its repair-before-blame order, evidence preservation, pooled immediate loss, maintenance-based later contribution, corrected records, and the lesson that material remedy does not automatically restore reputation or lost work.
+[[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] owns the adopted facts of that event. The continuing restitution practice draws several procedures from it: repair before blame, preserve evidence, pool the immediate loss, adjust later contributions according to maintenance responsibility, and correct the records.
+
+It also retains the settlement's limit. Repairing a work and clearing a person do not automatically restore that person's reputation or lost work.
 
 ## Dungeon seams
 
-- A damaged Ring mechanism creates a field of improbable accidents. Families need material inspection while every survivor appears suspiciously lucky.
-- A buried risk-pool store still contains goods owed after an old feud and records naming the families that diverted them.
-- A dimna shrine sits beside a failing cistern. Concentrated rites may attract thaumavores and contaminate the evidence everyone came to seek.
-- A delver bond assigns accidental damage but says nothing about an awakened system altering probability around the party.
-- A lost compact proves an outsider family had permanent water use before its witnesses vanished.
-- A dungeon route crosses several territories; each family can authorize its threshold but none owns the danger moving beneath all of them.
-- A salvage party finds the component whose removal caused generations of windtrap failures. [[Spoilers/Institutions/Relic Custody|Possession does not settle restitution or present use]].
+- A damaged Ring mechanism causes a field of improbable accidents. Families need a material inspection, but every survivor looks suspiciously lucky.
+- A buried risk-pool store contains goods still owed after an old feud, alongside records identifying the families that diverted them.
+- A dimna shrine stands beside a failing cistern. Concentrated rites may attract thaumavores and contaminate the evidence people came to investigate.
+- A delver bond allocates accidental damage but says nothing about an awakened system changing probability around the party.
+- A lost compact establishes that an outsider family had permanent water use before its witnesses vanished.
+- A dungeon route passes through several territories. Each family can authorize entry across its own threshold; none owns the danger moving beneath them all.
+- A salvage party discovers the component whose removal caused generations of windtrap failures. [[Spoilers/Institutions/Relic Custody|Possession does not settle restitution or present use]].
 
 ## Marginal and hostile readings
 
-- A feud victim says no-fault procedure is a fine shelter for enemies clever enough to leave no ordinary evidence.
-- A Luck-line mother says every accident becomes an invitation to put her children on trial for surviving.
+The same procedure looks different from each position within it:
+
+- A feud victim calls no-fault procedure a fine shelter for enemies clever enough to leave no ordinary evidence.
+- A Luck-line mother says every accident gives someone another chance to put her children on trial for surviving.
 - A Null witness says families call her neutral when they need testimony and foreign when she asks for a water share.
-- A prophet says the city demands an identity the Gift cannot provide and calls refusal cowardice.
+- A prophet says the city demands an identity the Gift cannot provide, then calls refusal cowardice.
 - A poor keeper says pooled repair saved the cistern while unpaid rationing sold his next year to the family store.
 - A compact steward says the alternative is retaliation against shadows until the water itself becomes collateral.
 
-The institution earns legitimacy where it prevents uncertainty from becoming custody and keeps victims alive before families finish arguing.
+People have reason to trust the practice where it keeps victims alive while families argue and prevents an unresolved accusation from becoming control over someone's life.
 
 ## Unresolved
 
-- Native names and actual variation of case tables, pools, bonds, and restraint practices.
-- Which family compacts recognize third-party review and how decisions are enforced.
+- Native names and the actual variation among case tables, pools, bonds, and restraint practices.
+- Which family compacts recognize third-party review, and how their decisions are enforced.
 - Baseline coverage, contribution formulas, compensation, and protection for people unable to prepay.
-- Remedies for reputation, affiliation loss, and coerced outsider debt.
-- How cases involving actual admitted magical intent differ from invisible alleged Luck.
+- Remedies for damaged reputation, loss of affiliation, and coerced outsider debt.
+- How cases involving actual admitted magical intent differ from allegations of invisible Luck.
 - Relations with Techpriests, prophets, God-cult witnesses, and neighboring legal systems.
-- Whether any durable citywide catastrophe pool exists.
+- Whether a durable citywide catastrophe pool exists.
 
 See [[Spoilers/Polities/Luck - Selza'a|Luck — Selza'a]], [[Spoilers/Institutions/Selza'a Family Territories|Selza'a Family Territories]], [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]], and [[Spoilers/Institutions/The Potential Economy|The Potential Economy]].

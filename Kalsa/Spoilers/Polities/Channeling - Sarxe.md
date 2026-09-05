@@ -19,128 +19,145 @@ tags:
 
 # Channeling — Sarxe
 
-The Sarxe are Channeler-descended communities shaped by two successive displacements. The [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]] first annexed the original Channeler Crown City and dispersed its communities. Survivors later consolidated at a static Saxfoldi. Terjamna forces then broke through Sarxe resistance after a Soiru'i sacrifice exposed that refuge, producing the massacre remembered as **Ji'esti**, “Extinction.” Saxfoldi became mobile and hidden afterward.
+The Sarxe are communities descended from Channelers: people whose magic lets them sense and redirect nearby flows of force and magical influence. Many organize daily life through households whose members work closely together while retaining their own memories, commitments, and right to refuse contact.
 
-Mobility is now the best-known center of Sarxe political life, not the measure of who counts as Sarxe. People remained under Ju'onai rule, settled elsewhere, joined mixed communities, or entered an external diaspora as mediators, hunters, scavengers, guards, mercenaries, and assassins. That outsider-facing strand is real and dangerous. It is not the whole society wearing one profession.
+Their best-known political center, Saxfoldi, moves and stays hidden. This is a response to two displacements. The [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]] annexed the original Channeler Crown City and scattered its communities. Survivors later gathered at a fixed Saxfoldi, which Terjamna attackers destroyed after a Soiru'i sacrifice exposed it. Sarxe remember that massacre as **Ji'esti**, “Extinction.”
 
-## Channeling and its boundary
+Keeping Saxfoldi mobile makes another such attack harder. It also means finding food, carrying shelter, protecting routes, and deciding who can travel or must remain behind. Some Sarxe still live under Ju'onai rule; others have settled elsewhere, formed mixed communities, or entered a diaspora. Movement does not determine who belongs.
 
-Channeling, signature 110 and Sequence VI, was developed from Analysis and Sorcery. Prometheus gave its Ring Analysis-like virtual interfaces that resonated only at close range, binding physical conflict to an augmented contest of perception. After generations, inherited Kaos replaced the implants.
+Outsiders may know Sarxe as mediators, hunters, scavengers, guards, mercenaries, or assassins. Such work is a real and sometimes dangerous part of Sarxe life. It tells only part of the story.
 
-A Channeler perceives active energy, momentum, and magical influence as flows and can redirect or contain them. Channelers can predict from local dynamics, turn directed force, and weave barriers that prevent influence from crossing a boundary. They do not thereby read arbitrary thoughts, sense remote or dormant sources, know every person nearby, or share one consciousness. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own those mechanics. Sarxe institutions own the permissions, habits, labor, and conflicts built around proximity.
+## What Channeling lets people do
 
-Sarxe workers sometimes gloss the predictive sensation as **arrival already in
-the crossing**. A current's next pressure is felt before it reaches the body or
-boundary that will receive it, but only while the current is active and within
-reach. A turn, barrier, or new source changes what is arriving; nothing grants
-knowledge of a dormant reserve or a force that has not entered the local flow.
+A Channeler senses active energy, momentum, and magical influence as flows. Within reach, they can feel how a flow is about to continue, turn directed force, or weave a barrier that prevents influence from crossing a boundary.
 
-A boundary can preserve an independent future when it prevents an oracle's
-active influence from reaching the people or system on the other side. It does
-not erase plans already carried across, Luck accumulating through remote events,
-or a dormant relation that has not begun to flow. Sarxe workers consequently
-ask what crossed, who carried it, and when the boundary changed; outsiders
-often retell the result as universal anti-magic.
+Sarxe workers sometimes call the predictive sensation **arrival already in the crossing**. They feel the next pressure before it reaches the body or boundary that will receive it. This works only while the current is active and close enough to sense. A turn, a barrier, or a new source changes what is coming.
 
-After Ji'esti, movement and divided custody also prevent one place from
-containing every lever of Sarxe survival. This political answer is broader than
-Channeling and exacts costs from households forced to move or remain behind.
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns its relation to
-timeline capture; Sarxe memory owns why one exposed center is intolerable.
+These limits matter. Channelers cannot locate a remote or dormant source through this sensing. They do not learn about a reserve of force before it enters the local flow. Nor does Channeling let them read arbitrary thoughts, identify everyone nearby, or share one consciousness.
 
-Channeling is a composite style and does not normally found an independent God Beast. Sarxe people can still enter [[Spoilers/Institutions/God-Cult Covenants|covenants]], join divine hierarchies, reject them, or disagree about the uses of magic. No common Sarxe god or religious settlement has been adopted.
+A barrier can keep an oracle's active influence from reaching people or a system beyond it. In that circumstance, it can preserve their ability to follow a future independent of that influence. It cannot undo plans already carried across, prevent Luck from accumulating through remote events, or block a dormant relation that has not begun to flow. Workers therefore ask what crossed, who carried it, and when the boundary changed. Outsiders often compress these careful distinctions into a claim that Sarxe can stop all magic.
 
-## Bodies, language, and personhood
+[[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own the mechanics. This note concerns the work, permissions, habits, and disputes that Sarxe communities build around those close-range abilities.
 
-The seed describes small, thin bodies with large eyes and heads, prominent incisors, nocturnal foraging pressures, and reduced reliance on vocal speech. These are inherited observations from a narrow narrator, not a complete range of bodies or a moral taxonomy. The same source calls Sarxe pacifistic, unsightly, hive-like, and “insane” when able to tolerate solitude. Those judgments are not neutral canon.
+### Origin and religious limits
 
-High-bandwidth communal life does not require a hive. In close work, Sarxe Channelers can notice active shifts in movement, tension, attention, magical pressure, and the shared environment quickly enough that coordination may look effortless to an outsider. That sensitivity is partial. A person can misread, mask, refuse, become overwhelmed, lack strong expression, or simply possess information nobody else has.
+In the author-facing classification, Channeling is signature 110 and Sequence VI. It was developed from Analysis and Sorcery. Prometheus gave its Ring Analysis-like virtual interfaces that resonated only at close range. Physical conflict thus also became a contest over augmented perception. After generations, inherited Kaos replaced the implants.
 
-The seed's claim that Sarxe rely less on voice does not establish a voiceless people or a final language. Present communities may use speech, writing, gesture, touch, spatial arrangement, ritual, magical cueing, interpreters, or other practices in combinations that remain undesigned. A squeak is preserved only as a source-described exclamation, not a language. [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] owns the unresolved linguistic inheritance.
+Channeling is a composite style and does not normally found an independent God Beast. That does not settle Sarxe religion. Sarxe people can enter [[Spoilers/Institutions/God-Cult Covenants|covenants]], join divine hierarchies, refuse them, and disagree over how magic should be used. No common Sarxe god or religious settlement has been adopted.
 
-## Communal life without possession
+## Living close without sharing a mind
 
-The [[Spoilers/Institutions/Saxfoldi Households|Saxfoldi household]] is the main adopted unit through which close communal awareness becomes food, work, care, shelter, privacy, and decision. A household is a chosen and inherited social body, not a psychic organism. Its members can cooperate intensely while retaining separate bodies, memories, commitments, and rights to stop contact.
+The seed describes Sarxe with small, thin bodies, large eyes and heads, and prominent incisors. It also describes pressures toward nocturnal foraging and less reliance on vocal speech. These observations come from a narrow narrator; they do not establish the full range of Sarxe bodies.
 
-Privacy is practical rather than impossible. People create distance, quiet compartments, screened sleeping places, separate work intervals, trusted mediators, and explicit limits on touch or magical attention. A communal warning can interrupt privacy for an immediate hazard; it cannot become proof that every inner state belongs to the group. Bodily distress that others notice remains the distressed person's experience, not public property.
+That narrator also calls Sarxe pacifistic, unsightly, hive-like, and “insane” when they can tolerate solitude. Those judgments are not neutral canon.
 
-Children learn how to enter and leave shared work before they can carry adult obligations. Caregivers teach warning cues, consent, observation, repair, speech across different capacities, and the difference between noticing a pressure and knowing its cause. Adults rotate provisioning, movement, defense, mediation, craft, childcare, and rest according to capacity. Elders and disabled people can carry route memory, technical practice, language, kinship, or judgment without being reduced to what their bodies can contribute to a move.
+Close cooperation can nevertheless be striking. Sarxe Channelers working together may notice active changes in movement, tension, attention, magical pressure, and their surroundings quickly enough to make coordination look effortless. They still have incomplete information. Someone can misread a cue, mask it, refuse contact, become overwhelmed, express little magic, or know something nobody else knows.
 
-## Saxfoldi as a mobile polity
+Reduced reliance on voice does not establish a voiceless people. Present communities may combine speech, writing, gesture, touch, spatial arrangement, ritual, magical cues, and interpreters in ways that remain undesigned. The seed preserves a squeak as an exclamation; it does not establish a language. [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] owns the unresolved linguistic inheritance.
 
-Saxfoldi is the mobile, hidden center formed after Ji'esti. It is not adopted as one caravan, one household, or one permanent camp. A moving polity must divide and recombine to cross difficult ground, gather supplies, avoid forming a beacon, protect route secrecy, and prevent a single failure from exposing the main body.
+## Households, care, and privacy
 
-Households and working groups hold bounded use claims over shelters, stores, tools, paths, camps, water access, and temporary work sites. Mobility does not make empty whatever land they cross. Host communities may possess prior land, burial, grazing, water, or sacred claims. Sarxe labor can establish a real claim to a structure or route without producing universal title. Agreements, emergency necessity, continued dependence, and the possibility of repair must be argued at each site.
+The [[Spoilers/Institutions/Saxfoldi Households|Saxfoldi household]] is the main adopted unit for arranging food, shelter, work, care, privacy, and decisions. Membership can be chosen or inherited. Close awareness helps its members cooperate, but the household is a social body: each member retains a separate body, memory, commitments, and the right to stop contact.
 
-The material base includes food, water, portable shelter, clothing, medicine, childcare, transport, maintenance, route observation, guarded rest, salvage, and exchange with people outside the moving body. Channeling can reduce some hazards and improve coordinated movement. It cannot create supplies, make an inaccessible route passable, or keep exhausted people from needing sleep.
+Privacy requires practical arrangements. Members can use distance, quiet compartments, screened sleeping places, separate work intervals, and trusted mediators. They can set explicit limits on touch and magical attention. An immediate hazard may justify interrupting privacy with a communal warning. It does not give the group a continuing claim over someone's inner life. Noticing another person's bodily distress does not make that experience public property.
 
-Polity coordination follows the body that bears consequence. Households decide internal work and membership. Several households can coordinate a movement, common store, warning boundary, refuge decision, or split. Bounded delegates carry those decisions between groups and to outsiders. The exact offices, number of assemblies, route authority, and scale of Saxfoldi remain unresolved.
+Children first learn how to enter shared work and leave it. Adult obligations come later. Caregivers teach warning cues, consent, observation, repair, and communication across different capacities. They also teach a necessary distinction: noticing pressure does not mean knowing its cause.
 
-## An ordinary movement
+Adults rotate provisioning, movement, defense, mediation, craft, childcare, and rest according to capacity. Elders and disabled people may preserve route memory, technical practice, language, kinship, or judgment. Their place in a household is not reducible to how much they can carry when it moves.
 
-Before moving, a household accounts for people, dependents, water, food, shelter, carried records, tools, injuries, route knowledge, and obligations at the current site. Scouts and Channelers report active pressures within their actual reach. Caregivers state who can travel, who needs a slower route, and what cannot safely be abandoned. The household then chooses a route or raises the decision to a wider group when its movement affects common secrecy, stores, or refuge.
+## How Saxfoldi moves and decides
 
-Loads and work are assigned by capacity, not by a fiction that communal awareness makes burden equal. Children and people in recovery require carriers, time, and protected attention. Weak-expression and Null people may not contribute magical sensing but can preserve records, notice material signs, maintain tools, mediate with outsiders, or perform any other work for which they have skill. Strong Channelers can be more vulnerable to continuous communal pressure and may require deliberate distance.
+Saxfoldi is a mobile, hidden polity, rather than one adopted caravan, household, or permanent camp. Its exact scale remains unresolved. Its groups must be able to separate and meet again: difficult ground, supply gathering, route secrecy, and the need to avoid becoming a beacon all require it. Division also keeps one failure from exposing the main body.
 
-At departure, the group records who left, who remained by choice or necessity, which goods are held for another household, what use claim ends, what repair is owed, and when a separated route should be treated as overdue. Movement ends with another accounting. Missing people, broken custody, or an exhausted scout are not absorbed into “the household arrived.”
+The work is material as well as magical. People need food, water, portable shelter, clothing, medicine, childcare, transport, maintenance, route observation, guarded rest, salvage, and exchange with people outside the moving groups. Channeling can make some movement safer and better coordinated. It cannot create supplies, make an inaccessible route passable, or remove the need for exhausted people to sleep.
+
+Decisions belong with the groups that will bear their consequences. A household decides its internal work and membership. Several households can jointly decide a movement, common store, warning boundary, refuge, or separation. Delegates carry those decisions between groups and to outsiders under limited authority. The exact offices, number of assemblies, and control of routes remain unresolved.
+
+### Claims along a route
+
+Households and working groups hold limited rights to use shelters, stores, tools, paths, camps, water access, and temporary work sites. Those rights do not make the land they cross unclaimed. Host communities may already hold rights involving land, graves, grazing, water, or sacred places.
+
+Sarxe labor can establish a real claim to a structure or route without granting ownership of everything around it. At each site, people must work through existing agreements, emergency need, continued dependence, and what damage can be repaired. Movement does not settle those arguments for them.
+
+### Preparing, departing, and arriving
+
+Before departure, a household accounts for its people and dependents, water and food, shelter, carried records, tools, injuries, route knowledge, and obligations where it is staying. Scouts and Channelers report pressures they can actually sense. Caregivers identify who can travel, who needs a slower route, and what cannot safely be abandoned.
+
+The household then chooses a route. If its movement affects shared secrecy, stores, or refuge, the decision goes to the wider group concerned.
+
+Work and loads are assigned by capacity. Shared awareness does not make burdens equal. Children and people recovering from injury or illness need carriers, time, and protected attention. People with weak magical expression and Null people may contribute no magical sensing, while preserving records, reading material signs, maintaining tools, mediating with outsiders, or doing other skilled work. Strong Channelers may need deliberate distance because continuous communal pressure can overwhelm them.
+
+Departure requires a record of who left and who stayed, whether by choice or necessity. It also records goods held for another household, use claims that end, repairs still owed, and the point at which a separated group should be considered overdue.
+
+Arrival requires another accounting. Saying that the household arrived cannot close the record on missing people, goods whose custody has broken down, or an exhausted scout.
 
 ## The two displacements
 
-The histories must remain successive.
+The loss of the Crown City and the destruction of static Saxfoldi are successive events, not two versions of one catastrophe.
 
-1. After the Fall, the Ju'onai Hegemony annexed the original Channeler Crown City and dispersed Channeler communities. The current owner of the site and the forms of annexation, resistance, collaboration, and continuing Sarxe life there remain unresolved.
-2. Survivors consolidated at a static Saxfoldi, a main population center and gathering place.
-3. Terjamna forces later broke through Sarxe lands. A Soiru'i God infiltrated or reached Saxfoldi and sacrificed itself there, creating a magical beacon that enabled the attackers to overwhelm resistance and massacre civilians.
-4. Sarxe memory names the massacre Ji'esti and commemorates it every cycle. The exact calendar, casualties, rite, Soiru'i intention, and metaphysical mechanism remain unresolved.
-5. Saxfoldi became mobile, hidden, and continuously relocated so that no fixed center could be exposed in the same way.
+1. **The Crown City was annexed.** After the Fall, the Ju'onai Hegemony took the original Channeler Crown City and dispersed Channeler communities. Who owns the site now remains unresolved, as do the forms of annexation, resistance, collaboration, and continuing Sarxe life there.
+2. **Survivors gathered at static Saxfoldi.** It became a main population center and gathering place.
+3. **Terjamna forces exposed and overwhelmed the refuge.** They later broke through Sarxe lands. A Soiru'i God infiltrated or reached Saxfoldi and sacrificed itself there. The sacrifice created a magical beacon that enabled the attackers to overcome resistance and massacre civilians.
+4. **The massacre became Ji'esti in Sarxe memory.** It is commemorated every cycle. The exact calendar, casualties, rite, Soiru'i intention, and metaphysical mechanism remain unresolved.
+5. **Saxfoldi became mobile.** It stayed hidden and relocated continuously so that no fixed center could be exposed in the same way.
 
-[[Spoilers/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] owns the procedures built around warning, flight, admission, separated people, safe passage, records, recovery, and return. [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] owns Jamnai interpretations of the sacrifice. Neither can make the dead speak with authorial certainty.
+[[Spoilers/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] owns the resulting procedures for warning, flight, admission, separated people, safe passage, records, recovery, and return. [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] owns Jamnai interpretations of the sacrifice. Neither account can establish what the dead intended with authorial certainty.
 
-## Static and mobile fractures
+## What flight protects—and what it costs
 
-The decision to move solved one vulnerability by creating others. A mobile center is harder to target and harder to provision. It protects the main body by keeping its route secret and can leave settled Sarxe without timely warning, refuge access, or a recognized voice. A fixed clinic, workshop, archive, grave, farm, or mixed household can sustain kinds of care the moving body cannot carry. It can also become a hostage, tax base, surveillance point, or beacon.
+Static Saxfoldi concentrated people in a place where they could support one another, preserve memory, and resist attack. Sarxe resistance was significant. Once the sacrifice exposed the refuge, it still could not protect the civilians gathered there.
 
-Mobile factions may accuse static communities of teaching enemies how Sarxe live. Static communities may accuse Saxfoldi of treating danger borne by settled people as the acceptable cost of secrecy. Return advocates can seek the Crown City without denying Ji'esti; perpetual-flight advocates can reject a new center without rejecting settled kin. Neither mobility nor settlement is automatic proof of courage, betrayal, authenticity, or health.
+The mobile polity distributes people, route knowledge, supplies, records, and decision-making so that one site no longer contains every means of survival. It continues repeated commemoration while refusing a permanently exposed capital. This response extends beyond anything Channeling alone can do. [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns its relationship to timeline capture—the restriction of reachable futures by oracular influence. Sarxe memory explains why another exposed center is intolerable.
 
-This fracture crosses families. A child may move while an elder remains near a grave or workshop. A disabled person may prefer stable infrastructure and still need access to mobile records or refuge. A mixed Sarxe household may be legible to a host polity and suspect to route keepers. The political question is whether connection survives different risk choices without one side owning the other's body.
+Movement brings its own risks. A hidden mobile center is harder to attack and harder to supply. Keeping its routes secret can leave settled Sarxe without timely warnings, access to refuge, or a recognized voice. Secrecy can also hide the people exercising authority, split families, exclude people seeking admission, remove static communities from political consideration, or let missing people disappear between incomplete records.
 
-## Diaspora and outsider-facing work
+Fixed places offer things the moving groups cannot always carry. A clinic, workshop, archive, grave, farm, or mixed household can sustain lasting forms of care. The same place may become a hostage, a source of taxes for another power, a surveillance point, or a beacon.
 
-Displacement placed some Sarxe in work that rewards local sensing, containment, pursuit, and controlled force. The seed names mercenary warfare, hunting, assassination, and technological scavenging, including service connected to Prophetic and Intuition powers. Those alliances and employers remain underdesigned.
+These choices divide communities and families. Mobile factions may accuse settled Sarxe of showing enemies how Sarxe live. Settled communities may accuse Saxfoldi of protecting its secrecy by accepting danger for everyone left in place. Advocates of return can seek the Crown City while taking Ji'esti seriously. Advocates of perpetual flight can reject another fixed center while remaining committed to settled kin.
 
-Outsider-facing workers also serve as interpreters, negotiators, guides, escorts, recovery specialists, witnesses, and mediators. Some may prefer wider social distance or move comfortably between communication regimes. Some are selected because a household finds them inconvenient. Some enter dangerous work through debt, exile, loss of route access, captivity, or the need to provision dependents. The old category of solitary “insanity” can therefore hide a labor regime: people marked as socially deviant are made responsible for every contact the center does not want to perform.
+A child may travel while an elder stays near a grave or workshop. A disabled person may prefer stable infrastructure while still needing mobile records or refuge. A mixed Sarxe household may be recognizable to a host polity yet distrusted by route keepers. None of these choices automatically proves courage, betrayal, authenticity, or health.
 
-Diaspora workers are not empty interfaces. A mediator can refuse to translate a coercive demand. A mercenary contract does not grant access to Saxfoldi. A scavenger who recovers a relic gains possession and a recovery claim, not automatic title or operating competence; see [[Spoilers/Institutions/Relic Custody|Relic Custody]] and [[Spoilers/Institutions/The Techpriesthoods|the Techpriesthoods]].
+The dispute concerns how people remain connected when they choose different risks. Neither side gains the right to decide what happens to the other's bodies. Movement succeeds only if it preserves people, care, memory, and the ability to refuse; keeping the polity in motion is not sufficient by itself.
 
-## Class, expression, and mixed lives
+## Unequal burdens and belonging
 
-Mobility produces class through access to transport, stores, route knowledge, stable hosts, and the right to be heard when movement is chosen. A well-provisioned household can split before scarcity and rejoin later. A poor household may accept an unsafe route because it cannot carry enough food to wait. People who control foreign exchange or guarded route knowledge can turn protective secrecy into durable authority.
+Access to transport, supplies, route knowledge, dependable hosts, and a hearing in movement decisions creates differences of class. A well-provisioned household can separate before scarcity becomes acute and return later. A poor household may take an unsafe route because it lacks enough food to wait. Control over foreign exchange or guarded route knowledge can turn a protective responsibility into lasting authority.
 
-Strong expression does not confer social completeness. Weak-expression, Null, disabled, traumatized, mixed-lineage, and non-Sarxe members can belong to households and the wider polity. They may require different ways to receive warnings or protect privacy. A person unable to participate in rapid magical coordination is not outside the decision whose consequences reach their body.
+Magical strength does not determine full membership. People with weak expression, Null people, disabled and traumatized people, mixed-lineage people, and non-Sarxe members can belong to households and the wider polity. Some need different warning methods or ways to protect privacy. Inability to follow rapid magical coordination does not remove a person's right to take part in decisions that affect them.
 
-Ji'esti survivors and their descendants carry different authority claims. Direct witness can correct ceremonial simplification; it cannot make one survivor the owner of every later generation. Young people inherit the consequences, routes, missing kin, and commemorations of displacement without inheriting a duty to live one approved response forever.
+Memory also gives people unequal authority. Ji'esti survivors can use direct witness to challenge simplified commemorations. That experience does not give any survivor the right to decide how every later generation must live. Young people inherit displacement's consequences, routes, missing kin, and commemorations. They do not inherit an obligation to choose one approved response forever.
 
-## Historical stress: the flight from static Saxfoldi
+## Work beyond Saxfoldi
 
-Ji'esti tested the original consolidation model to destruction. A fixed center made mutual aid, population, memory, and resistance possible; the same concentration allowed an infiltrating Soiru'i sacrifice to become a beacon for mass attack. Sarxe resistance was significant and still failed to protect civilians once the refuge was exposed.
+Displacement brought some Sarxe into occupations that reward close-range sensing, containment, pursuit, and controlled force. The seed names mercenary warfare, hunting, assassination, and technological scavenging. It includes service connected to Prophetic and Intuition powers, though the employers and alliances remain underdesigned.
 
-The mobile answer distributes people, route knowledge, supplies, records, and decision authority so that no single site owns survival. It preserves repeated commemoration while refusing a permanently exposed capital. That answer is not costless. Secrecy can conceal authority, split families, deny admission, erase static communities, or allow missing people to vanish between records. The proper test is not whether Saxfoldi moves. It is whether movement keeps persons, care, memory, and refusal alive.
+Sarxe working with outsiders also act as interpreters, negotiators, guides, escorts, recovery specialists, witnesses, and mediators. Their reasons for doing so vary. Some may prefer greater social distance or move comfortably between different ways of communicating. Others are selected because their household finds them inconvenient. Debt, exile, lost route access, captivity, or the need to feed dependents can push people into dangerous work.
 
-## Historical pressure: the Narrow Shield
+The seed's description of solitary Sarxe as “insane” can therefore conceal a system of labor. A community can label someone socially deviant and then make that person handle the outside contacts it does not want to undertake itself.
 
-Route keepers citing [[Spoilers/Events/The Narrow Shield|the Narrow Shield]]
-require a shared outside signal to name its scope and ending before a convoy
-answers it. A household may still depart under its own record. When command
-separates people, a witness who traveled outside the central shelter list can
-carry the appeal; the Circle's signal copy cannot stand in for that testimony.
+Workers retain the ability to refuse and the limits of their authority. A mediator can decline to translate a coercive demand. Hiring a Sarxe mercenary does not buy access to Saxfoldi. Recovering a relic gives a scavenger possession and a claim based on recovery; it does not automatically give them title or the competence to operate it. [[Spoilers/Institutions/Relic Custody|Relic Custody]] and [[Spoilers/Institutions/The Techpriesthoods|the Techpriesthoods]] govern those distinctions.
 
-## Resistance and dungeon seams
+## When a convoy accepts outside command
 
-Resistance includes concealing routes from conquerors and from Sarxe officials who overclaim need; refusing unsafe communal contact; keeping duplicate Ji'esti and Crown records; forming static support houses; deserting a mercenary employer; opening refuge against a delegate's order; and demanding that mixed or weak-expression people be counted in decisions they cannot sense magically.
+[[Spoilers/Events/The Narrow Shield|The Narrow Shield]] informs present route practice. In that storm, common command protected central refuges but also closed the departure on which the Sarxe convoy had depended and left some people separated outside the shelter claim.
 
-The lost Channeler Crown contains occupied archives, resonant interfaces, old combat spaces, and evidence of the first displacement. Static Saxfoldi can leave mass shelters, severed household records, escape passages, stores, and the remains of the Ji'esti beacon. Mobile camps can abandon caches, warning boundaries, broken vehicles, hidden graves, or sealed relics whose custody was never handed off.
+Route keepers citing the event require an outside signal's authority to state its scope and ending before a convoy agrees to follow it. A household may still leave under its own record.
 
-A party may be hired to recover separated-person records, reach a static household cut off from the route, identify a false magical beacon, escort a refugee witness, retrieve a household's tools without exposing Saxfoldi, or determine whether an old barrier contains a living threat. Discovery does not cancel survivor, site, burial, custody, or refuge claims.
+When command separates people, someone who traveled outside the central shelter list can bring the appeal as a witness. The Circle's copy of its signal cannot substitute for that person's testimony.
+
+## Resistance, ruins, and recovery
+
+Sarxe resistance can be directed against conquerors, employers, or Sarxe authorities. It includes hiding routes from officials who claim more need than their role warrants, refusing unsafe communal contact, and keeping duplicate Ji'esti and Crown records. People may form static support houses, desert mercenary employers, open refuge against a delegate's order, or demand that mixed and weak-expression members be counted in decisions they cannot follow through magical sensing.
+
+The two displacements and continuing movement leave different kinds of sites:
+
+- **The lost Channeler Crown** contains occupied archives, resonant interfaces, old combat spaces, and evidence of the first displacement.
+- **Static Saxfoldi** can preserve mass shelters, severed household records, escape passages, stores, and remains of the Ji'esti beacon.
+- **Abandoned mobile camps** can hold caches, warning boundaries, broken vehicles, hidden graves, or sealed relics whose custody was never transferred.
+
+A party may be hired to recover records of separated people, reach a static household cut off from the route, identify a false magical beacon, or escort a refugee witness. Other work may involve retrieving household tools without exposing Saxfoldi, or finding out whether an old barrier still contains a living threat.
+
+Finding a site or recovering its contents does not cancel the claims of survivors, site holders, burial custodians, relic custodians, or people entitled to refuge.
 
 ## Unresolved
 
