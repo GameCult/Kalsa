@@ -12,104 +12,83 @@ tags:
 
 # Four Readings of a Broken Sluice
 
-Versions of this teaching dialogue circulate through Ju'onai client colleges.
-The stream, offices, and speakers change with the copy. This rendering uses
-trade speech and preserves the argument rather than claiming an original text.
+A sluice gate closes correctly during a test. After the crew leaves, it fails to divide water across three fields. Four Ju'onai teachers explain what the test proved, while the canal keeper asks what their explanations will do for the people left without water.
 
-The exercise begins with a sluice that closes correctly when tested and fails
-to divide water across three fields after the crew leaves.
+This teaching dialogue circulates through Ju'onai client colleges. Different copies name different streams, offices, and speakers. The rendering below uses trade speech to preserve the argument; it does not claim to reproduce an original text. The speakers discuss an **opening**: a reader's sudden understanding of how the parts of a particular system work together.
 
-The Concordance teacher speaks first.
+The Concordance teacher begins.
 
-“The gate answered the opened reader because gate, reader, and the divine idea
-of division briefly agreed. The later failure tells us that the concordance did
-not extend to the whole watercourse.”
+“For a moment, the gate, the reader, and the divine idea of division agreed. That is why the gate responded to the opened reader. But the fields did not receive their water afterward. The agreement reached the gate; it did not reach the whole watercourse.”
 
 The keeper asks, “Which god did the mud offend?”
 
-“That is not what I said.”
+“I have said nothing about an offended god.”
 
-“It is what the estate priest will say when the lower field asks for seed.”
+“When the lower field asks for seed, the estate priest will.”
 
-The Trial tutor sets three gate models on the bench.
+The Trial tutor places three model gates on the bench.
 
-“The test was too gentle. Give the reader an unfamiliar gate, change the load,
-hide one damaged pin, and make another candidate challenge the stopping point.
-A claim that survives pressure deserves to travel.”
+“We did not test the reader hard enough. Use a gate they have never seen. Change the load. Conceal a damaged pin. Have another candidate question where the test should stop. Before we carry a claim elsewhere, we should see whether it survives those challenges.”
 
 The keeper turns the third model upside down.
 
-“Does the field travel with it?”
+“And when you carry the claim elsewhere, do you take the field?”
 
-“The Board certifies a performance. The office decides how to use it.”
+“The Board certifies what the reader did in the test. The office decides how to use that result.”
 
-“Then the Board teaches governors which sentence lets everybody keep their
-hands clean.”
+“So you give governors a sentence to recite when everyone wants clean hands.”
 
-The Four-Because scholar opens a case roll.
+The Four-Because scholar unrolls a case record.
 
-“We have four questions and one answer pretending to serve them all. What
-brought the gate's motion about? What moved the governor to increase the levy?
-What reason justified taking grain? What follows under the client compact when
-the lower fields fail? An opening at the gate may answer the first. It cannot
-answer the other three by contagion.”
+“We are trying to make one answer settle four different questions. What made the gate move? What led the governor to raise the levy? What justified taking the grain? And when the lower fields fail, what does the client compact require?
 
-The keeper points to the empty margin beside the witness list.
+“An opening may explain the gate's motion. Understanding that motion does not also explain the governor's motive, justify the levy, or settle what anyone owes under the compact.”
 
-“Your language has four causes and no name for the person who cleared the
-channel.”
+The keeper points to a blank space beside the witness list.
 
-The scholar writes the keeper's name.
+“You have made room for four kinds of cause. Where is the person who cleared the channel?”
 
-“Now it does.”
+The scholar writes in the keeper's name.
 
-“Now this copy does.”
+“There.”
 
-The Named-Edge reader waits until the others have drawn their frames.
+“In this copy.”
 
-“Name what lies outside each edge: the lateral ditch, the lower households,
-the next flood, the worker who knows where silt returns, the office paid by the
-larger levy, and the season at which the claim must be reviewed. Then we can
-say what the opening carried and what the report invented.”
+The Named-Edge reader waits until the others have drawn the boundaries of what they are considering.
 
-The Trial tutor asks, “How wide must the frame become before nobody may repair
-anything?”
+“Now name what each of you has left out. The lateral ditch. The lower households. The next flood. The worker who knows where the silt comes back. The office that receives money from the larger levy. The season when someone must review the claim.
 
-“Wide enough to name who bears the risk of haste.”
+“Once those limits are on the page, we can distinguish what the reader understood during the opening from what the report added without support.”
 
-“That is not a measurement.”
+The Trial tutor asks, “How much must we include before we are allowed to repair a gate?”
 
-“Neither is pretending the risk disappeared because you stopped drawing.”
+“Enough to name the people who bear the risk if you hurry.”
 
-At this point most copies let a student choose the strongest school. The client
-version continues.
+“That gives us no measurement.”
 
-The keeper puts a fifth document on the bench: a work roster, sediment marks,
-and three households' missing seed.
+“Stopping your drawing does not make their risk disappear.”
 
-“The gate can be sound. The reading can be true. The trial can be fair. The
-causes can be distinguished. The edge can be named. The lower field is still
-dry. Which of you owns the repair?”
+Most copies end this part of the exercise by asking a student to choose the strongest school. The client version goes on.
 
-The Concordance teacher says the temple can release grain if the relevant cult
-accepts the obligation.
+The keeper lays a fifth document on the bench. It records the work roster, the sediment marks, and the seed missing from three households.
 
-The Trial tutor says a House of Attestation can narrow a certificate but cannot
-command the water office.
+“Suppose the gate is sound and the reading is true. Suppose the trial was fair, you have kept the causes distinct, and every boundary is named. The lower field is still dry. Who is responsible for getting it repaired?”
 
-The Four-Because scholar says the compact may require remedy, depending on the
-adopted text and jurisdiction.
+The Concordance teacher answers first.
 
-The Named-Edge reader says the keeper's record must travel with every later
-account.
+“The temple can release grain, if the relevant cult accepts that obligation.”
 
-“So none of you,” says the keeper.
+The Trial tutor says, “A House of Attestation can reduce what a certificate claims to prove. It cannot order the water office to act.”
 
-“Not alone,” says the scholar.
+The Four-Because scholar says, “The client compact may require a remedy. That depends on which text was adopted and whose jurisdiction applies.”
 
-The exercise ends there. Some teachers call the ending a lesson in separated
-authority. Some call it an evasion copied so often that it acquired prestige.
-Canal keepers tend to ask whether the next page records who brought the grain.
+The Named-Edge reader says, “Every later account must include the keeper's record.”
+
+“None of you, then,” says the keeper.
+
+“None of us alone,” says the scholar.
+
+The exercise gives no further answer. Some teachers say it shows why different institutions hold different powers. Others say it avoids the question, and that repeated copying has given the evasion prestige. Canal keepers tend to ask whether the next page names whoever brought the grain.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]],
 [[../World/Magic and Miracles|Magic and Miracles]], or [[../index|Kalsa]].

@@ -15,77 +15,55 @@ tags:
 
 # The Grain at Two Gates
 
-The Grain at Two Gates is an adopted delivery between a Papsenai working group
-and buyers in [[Spoilers/Polities/Prophecy - The Divided City|the Divided
-City]]. This note alone owns the transaction and settlement. Papsenai and house
-notes own the practices later copied from it.
+The Grain at Two Gates was a Papsenai grain delivery to buyers in [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. A Prophetic House recommended an arrival gate, but the people who received its report changed conditions there by preparing for the delivery. The carriers used the other gate. Enough grain arrived to avert the ward's immediate shortage, though the longer journey caused losses and extra work.
 
-The city, date, gates, ward, house, tribe, merchants, quantity, prices, and
-personal names remain unresolved.
+The delivery and its settlement are adopted history. This note owns those facts; Papsenai and house notes own the practices later copied from the event. The city's name, date, gates, ward, house, tribe, merchants, quantity, prices, and personal names remain unresolved.
 
-## Promise and forecast
+## What the parties agreed
 
-After a poor local harvest, ward merchants purchased Papsenai grain for a named
-store. The working group identified the grain committed, the households and
-labor carrying it, the seed and subsistence reserve excluded from the bargain,
-the recipient, and the conditions under which its long-held target would be
-released.
+After a poor local harvest, ward merchants bought grain from a Papsenai working group for delivery to a specified store. The group identified which grain it had committed, which households and workers would carry it, and who would receive it. It also stated which seed and subsistence reserves were excluded from the sale.
 
-The buyers commissioned a Prophetic House to compare two cargo gates. The
-report favored one gate during a named interval, provided its inspection staff,
-porter availability, traffic, weather, and the disclosed responses remained as
-briefed. The merchants copied the recommendation to their guarantors, the ward
-store, carriers, and officials whose approval the delivery required.
+The group had held the delivery as a long-term target. Its promise named the conditions under which it would release that target: the circumstances in which it would stop pursuing the promised outcome.
 
-## The report moved the route
+The buyers hired a Prophetic House to compare two cargo gates. Its report favored one gate during a specified interval, on the condition that inspection staffing, porter availability, traffic, weather, and the responses disclosed to the house remained as briefed. The merchants sent the recommendation to their guarantors, the ward store, carriers, and officials whose approval the delivery needed.
 
-Ju'onai levy officers assigned more inspection staff to the favored gate so
-the grain could be counted on arrival. Competing buyers sent agents and carts
-there in the hope of purchasing any rejected or delayed load. Porters moved
-toward the expected work. Each response was locally sensible. Together they
-changed traffic, waiting time, prices, and the space available to unload.
+## How the forecast changed the journey
 
-The Papsenai workers did not compare new branches. They sensed growing conflict
-around the promised grain and its arrival at the named store. Their carrier
-delegate took the second gate, keeping the target while abandoning the route
-on which the report depended. Some grain spoiled during the longer movement,
-some carts and road labor exceeded their agreed interval, and the ward received
-enough grain to avoid the immediate shortfall.
+Ju'onai levy officers sent more inspection staff to the favored gate to count the grain on arrival. Competing buyers sent agents and carts there, hoping to buy any load that was rejected or delayed. Porters gathered where they expected work.
 
-## Settlement
+Each response made sense on its own. Together, they changed the gate's traffic, waiting times, prices, and unloading space—the conditions on which the house's recommendation depended.
 
-The parties preserved the house report, recipient copies, gate logs, working
-group promise, reserve statement, porter rolls, spoilage inspection, and the
-carrier's route change. The settlement did not decide that the report was
-false. Its stated conditions had been altered by people acting upon it.
+The Papsenai workers sensed growing conflict around the promised grain and its arrival at the store. They did not compare new possible futures. Their carrier delegate chose the second gate, preserving the delivery target while leaving the recommended route.
 
-The ward buyers paid for accepted grain and the extra road labor caused by the
-route change. Spoilage remained divided because the surviving copies did not
-settle whether late inspection, the carrier's choice, or the original bargain
-had owned that risk. The Papsenai group retained its excluded reserve. The
-house corrected the service record to show when the comparison expired and who
-had received it.
+The longer journey spoiled some grain and kept some carts and road workers in use beyond their agreed interval. Even so, the ward received enough grain to avoid the immediate shortfall.
 
-Some later house contracts copy a **response list**: named recipients, actions
-expected after disclosure, and conditions that end the report. Some Papsenai
-delivery promises separately name the target and the route so a carrier can
-change one without silently abandoning the other. Neither practice binds every
-house, tribe, merchant, or city office.
+## What the settlement resolved
+
+The parties kept the evidence needed to reconstruct both the forecast and the delivery: the house report and recipients' copies, gate logs, the working group's promise and reserve statement, porter rolls, the spoilage inspection, and the record of the carrier's route change.
+
+The settlement did not declare the forecast false. It recognized that people acting on the report had changed its stated conditions.
+
+The ward buyers paid for the grain they accepted and for the extra road labor caused by the route change. Responsibility for spoilage remained divided. The surviving copies did not establish whether late inspection, the carrier's decision, or the original bargain placed that risk on a particular party. The Papsenai group kept the reserve it had excluded from the sale.
+
+The house amended its service record to identify when the comparison ceased to apply and who had received it.
+
+## Practices copied afterward
+
+Some later house contracts include a **response list**. It names the report's recipients, the actions expected after they learn its contents, and the conditions that end the report's validity.
+
+Some Papsenai delivery promises name the intended outcome and the route separately. This lets a carrier change the route without silently abandoning the delivery commitment.
+
+Neither practice applies to every house, tribe, merchant, or city office.
 
 ## Adventure consequences
 
-A gate archive may preserve the only copy showing who moved carts after the
-forecast circulated. A sealed store can hold spoiled grain records beside a
-later claim that the full load never arrived. Delvers may be asked to recover a
-route token, house copy, or promise witness from an abandoned road station.
-Each object changes a bounded payment or reputation claim; none grants the
-party ownership of Papsenai reserves or a Prophetic House.
+Missing records can still affect a specific payment dispute or reputation. A gate archive may hold the only copy showing who moved carts after the forecast circulated. Records of spoiled grain may remain in a sealed store beside a later claim that the full load never arrived.
+
+Delvers may be hired to recover a route token, a house copy, or a witness to the promise from an abandoned road station. Each recovery bears on a limited claim. Possessing the evidence gives the party no ownership of Papsenai reserves or of a Prophetic House.
 
 ## Unresolved
 
-- Names, dates, locations, quantity, price, spoilage share, and the exact
-  language of the promise, report, and settlement.
+- Names, dates, locations, quantity, price, spoilage share, and the exact language of the promise, report, and settlement.
 - Whether the second gate lay in a Ju'onai, Terjamna, or civic sector.
 - Which current houses, working groups, and merchants copy either practice.
-- Whether any unpaid porter, grower, carrier, or ward claim survived the
-  recorded settlement.
+- Whether any unpaid porter, grower, carrier, or ward claim survived the recorded settlement.
