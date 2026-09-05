@@ -16,103 +16,114 @@ tags:
 
 # The Three Ledgers Schism
 
-The Three Ledgers Schism is adopted Kalsan history. It was added in KALSA-017 to explain why some cults separate covenant, allocation, and mortuary records during succession. The seed witnesses establish the deeper substrate—God Beasts, binding, finite potential, post-Fall cult institutions, death persistence, and Sorcerous championing—but do not name this event, its cult, its participants, or its settlement.
+The Three Ledgers Schism was a succession dispute in a god-cult. After its living anchor died, a proposed successor tried to bring three kinds of records under one authority: the promises that bound people to the cult, the accounts governing miracles and material relief, and the evidence concerning the dead. Those who kept the records resisted. The resulting conflict interrupted food distribution, displaced witnesses, and left settlements without agreed divine protection.
 
-The schism occurred after post-Fall god-cults had become durable institutions and before the present practices described in [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]], [[Spoilers/Institutions/The Potential Economy|The Potential Economy]], [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]], and [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]]. Its exact date, region, divine style, and relation to the War of the Magi remain unresolved.
+The eventual settlement let the successor hold high office but kept the three records under separate custody. Some later cults adopted that separation to limit what a new leader could claim. Others learned how to prevent the same resistance.
 
-## The cult before the death
+The event belongs to adopted Kalsan history. KALSA-017 introduced it to explain succession practices now described in [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]], [[Spoilers/Institutions/The Potential Economy|The Potential Economy]], [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]], and [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]]. It occurred after post-Fall god-cults had become lasting institutions and before those present practices. Its exact date, region, divine style, and relation to the War of the Magi remain unresolved.
 
-The affected cult served a shrine district and several attached settlements. Its formal name and god remain unresolved. It combined a central sanctuary, covenant archive, miracle routes, defended stores, burial ground, trained clergy, and champion protection. Households contributed food, work, ritual service, information, and potential-bearing relationships in return for relief, mediation, burial, and protection.
+The seed witnesses support the underlying setting: God Beasts, binding, finite magical potential, post-Fall cult institutions, persistence after death, and Sorcerous championing. They do not name this event, its cult, its participants, or its settlement.
 
-Authority was already divided in practice.
+## How the cult worked
 
-- Covenant witnesses and senior clergy maintained the register of voluntary promises, inherited attachments, coerced submissions, office duties, and recognized exit terms.
-- Potential stewards maintained expected commitments, failed grants, leakage warnings, beneficiary order, and the grain, medicine, travel, and skilled labor required for interventions.
-- Mortuary witnesses maintained death inventories, bodies, last statements, disputed severance claims, entrusted objects, and the evidence needed when an anchor or officeholder died.
-- Several Soiru'i sects supplied champions, storekeepers, memory keepers, sanctuary routes, and support for dependants. They disagreed about whether dead authority should continue, be restrained, or be released.
+The cult served a shrine district and several attached settlements. Its formal name and god have not been established. It maintained a central sanctuary, covenant archive, routes for miracles, defended stores, a burial ground, trained clergy, and protection by champions. Households supplied food, labor, ritual service, information, and relationships through which magical potential could be contributed. In return, they received relief, mediation, burial, and protection.
 
-The three records overlapped because the same household could appear as covenant party, miracle contributor or beneficiary, and claimant after a death. They were not interchangeable. The cult functioned while its high office could negotiate among them.
+Keeping those arrangements working required several groups with different responsibilities:
 
-## The initiating crisis
+- **Covenant witnesses and senior clergy** recorded what people owed and how those obligations had begun. Their register distinguished voluntary promises, inherited attachments, coerced submissions, office duties, and recognized terms for leaving.
+- **Potential stewards** tracked expected commitments of magical potential, failed grants, warnings of leakage, and the order in which beneficiaries would receive help. They also accounted for the grain, medicine, travel, and skilled labor needed to turn an intervention into practical relief.
+- **Mortuary witnesses** kept death inventories, bodies, last statements, disputed claims that an attachment had been severed, and objects entrusted to an office or person. These supplied evidence when an anchor or officeholder died.
+- **Several Soiru'i sects** provided champions, storekeepers, memory keepers, sanctuary routes, and support for dependants. They disagreed about whether the authority of the dead should continue, be restrained, or be released.
 
-The cult's living anchor and senior public mediator died during a period of failed transport, poor harvest, and increasing demands upon the miracle reserve. The bodily death was witnessed. What happened to the divine hierarchy was not.
+A household could appear in all three records: as a party to a covenant, as a contributor to or recipient of miracles, and as a claimant after someone's death. Each record answered a different question. Until the crisis, the cult's high office could negotiate between their keepers.
 
-Observed delegations became irregular. Some rites continued, some failed, and some manifestations contradicted one another. The event establishes no finding about whether the God Beast weakened, selected a successor, divided, or remained unchanged. Every faction acted before that uncertainty could be resolved because food, burial, protection, and office could not wait.
+## The death and the disputed register
 
-A succession coalition formed around senior clergy, shrine guards, patron households, and high-branch champions. It controlled the central sanctuary, the most visible rites, and the primary covenant archive. Its proposed successor claimed emergency authority to unite the cult until the divine route stabilized.
+The cult's living anchor, who also served as its senior public mediator, died while transport was failing, harvests were poor, and demands on the miracle reserve were rising. Witnesses confirmed the bodily death. They could not establish what had happened to the divine hierarchy.
 
-The coalition ordered the three records copied into one succession register. In that copy, temporary emergency pledges appeared beside inherited attachments and voluntary covenants without their different origins. Households receiving relief were treated as having accepted continuing service. The death inventory became evidence that the dead anchor had intended the successor to inherit the whole relationship. The allocation ledger became a schedule of assets available to the new office.
+Delegated divine power began behaving irregularly. Some rites still worked, others failed, and manifestations contradicted one another. The history does not settle whether the God Beast weakened, chose a successor, divided, or remained unchanged. The cult nevertheless had to make immediate decisions about food, burial, protection, and office.
 
-No single forgery caused the conflict. Each compression made administration easier and transferred authority toward the successor.
+Senior clergy, shrine guards, patron households, and high-branch champions formed a succession coalition. They controlled the central sanctuary, the most visible rites, and the primary covenant archive. Their proposed successor claimed emergency authority to hold the cult together until divine power could be routed reliably again.
 
-## The three coalitions
+The coalition ordered all three records copied into a single succession register. The copying changed what the records could be used to claim:
 
-The **succession coalition** held sanctuary access, public ritual, armed champions, patron credit, and the archive copy most distant authorities recognized. It could present continuity and protect the cult against opportunistic rivals. It could not make outer settlements deliver food or make an irregular miracle route obey.
+- Temporary emergency pledges, inherited attachments, and voluntary covenants appeared together without their different origins.
+- Households that had received relief were treated as having accepted continuing service.
+- The death inventory was used to argue that the dead anchor had intended the successor to inherit the entire relationship.
+- The allocation ledger became a list of assets available to the new office.
 
-The **steward and household coalition** held granaries, beneficiary rolls, minor shrines, local delegates, healers, carriers, and the people able to turn a promised miracle into material relief. Potential stewards refused to certify the merged register as an allocation account. Store workers maintained the existing household minimum and suspended non-emergency grants whose authority depended solely on the disputed succession. This preserved lives while also depriving the successor of the public miracles needed to prove continuity.
+The conflict did not turn on one forged entry. Combining the records made administration easier while repeatedly enlarging the successor's authority.
 
-The **mortuary and severance coalition** held the body, the working death inventory, household testimony, pending severance claims, and sanctuary routes maintained by unbound and release-oriented sects. Mortuary witnesses moved the body and inventory out of the central sanctuary after champions attempted to place both under succession custody. Memory keepers copied the anchor's conflicting statements rather than selecting one as a final command.
+## What each coalition controlled
 
-The coalitions were not moral blocks. Some patrons joined the stewards to protect their district's allocation. Some households backed the successor because only its champions kept rivals away. Some mortuary witnesses opposed release but still refused to let clergy rewrite the inventory. High-branch, Hearth, unbound, and release sects supplied different capacities to different sides.
+The **succession coalition** could offer a recognized leader, public rites, and defense against opportunistic rivals. It held sanctuary access, armed champions, patron credit, and the archive copy that most distant authorities recognized. Those advantages did not let it compel the outer settlements to deliver food or make an unreliable miracle route work.
 
-## Escalation
+The **steward and household coalition** controlled granaries, beneficiary rolls, minor shrines, local delegates, healers, and carriers. It included the people needed to turn a promised miracle into actual relief. Potential stewards refused to certify the merged register as a valid allocation account. Store workers continued the existing household minimum but suspended non-emergency grants that relied solely on the disputed succession for authority. That decision kept people alive. It also withheld the public miracles the successor needed to demonstrate continuity.
 
-The succession coalition narrowed access to the central shrine and declared unauthorized copying a theft from the god. The steward coalition rerouted food and minor grants through local shrines. The mortuary coalition used sanctuary roads to move witnesses and copies beyond the champion cordon.
+The **mortuary and severance coalition** held the body, the working death inventory, household testimony, and pending claims to end attachments. Unbound and release-oriented sects supplied sanctuary routes. When champions tried to take the body and inventory into succession custody, mortuary witnesses moved both out of the central sanctuary. Memory keepers preserved the anchor's contradictory statements in copies rather than choosing one to stand as a final command.
 
-Champions attempted to seize one store and detain several record keepers. Store workers stopped distribution rather than let the inventory disappear into military custody. Households gathered at local shrines, some to defend the minimum and others to demand that full rites resume. Relief was delayed, witnesses were injured or displaced, and outer settlements bore the first cost of a dispute centered at the sanctuary.
+Loyalties did not divide neatly by moral position or sect. Some patrons supported the stewards to protect their district's allocation. Some households supported the successor because its champions alone kept rivals away. Some mortuary witnesses opposed release but still would not let clergy rewrite the death inventory. High-branch, Hearth, unbound, and release sects contributed different forms of help to different sides.
 
-The successor could occupy the main shrine but could not operate the distributed welfare body. The stewards could feed registered households but could not provide uncontested divine protection. The mortuary coalition could preserve evidence but not resolve the public succession. The schism endured because each authority held something real and none could replace the others.
+## How the dispute became a schism
+
+The succession coalition restricted entry to the central shrine and declared unauthorized copying a theft from the god. Stewards responded by sending food and minor grants through local shrines. Mortuary supporters carried witnesses and copies along sanctuary roads beyond the champions' cordon.
+
+Champions then tried to seize a store and detain several record keepers. Store workers halted distribution rather than surrender the inventory to military custody. Households gathered at local shrines. Some came to defend the minimum provision; others demanded the return of full rites. Relief was delayed, and witnesses were injured or driven from their homes. The outer settlements paid the first costs of a struggle centered on the sanctuary.
+
+No coalition could take over the others' work. Occupying the main shrine did not let the successor run a welfare system spread across settlements. The stewards could feed registered households but could not give them uncontested divine protection. Mortuary witnesses could preserve evidence but could not settle the public succession. Each side could prevent a settlement; none could make the cult function alone.
 
 ## The settlement
 
-A mixed hearing was eventually accepted because continued seizure threatened the cult's stores and exposed every faction to outside attack. It included covenant witnesses not appointed by the proposed successor, allocation stewards and household delegates, mortuary witnesses, sect representatives from more than one tendency, and the local political authority responsible for violence and public danger. The exact composition and name of the forum remain unresolved.
+The factions eventually accepted a mixed hearing because further seizures threatened the stores and left all sides vulnerable to outside attack. The hearing brought together covenant witnesses who had not been appointed by the proposed successor, allocation stewards, household delegates, mortuary witnesses, representatives of more than one sect tendency, and the local political authority responsible for violence and public danger. The forum's name and exact composition remain unresolved.
 
-The settlement made six findings:
+Its six findings divided the successor's office from claims that the office could not decide on its own:
 
-1. The successor retained high clerical office, central shrine custody, and authority to conduct the cult's public rites. The finding did not certify divine preference.
-2. The original covenant register and its duplicate copies retained the origin and limits of each claim. Temporary relief, inherited attachment, voluntary covenant, and coerced submission could not be merged into one hereditary duty by succession decree.
-3. Living contractual exits already pending could proceed before covenant witnesses independent of the successor. The hearing made no finding that social exit severed a binding.
-4. The potential ledger remained with its steward office. Open household obligations, material stores, failed grants, and emergency reserve were audited together. Succession could change policy after review but could not make a false reserve real.
-5. The death inventory remained under separate mortuary custody until the body, entrusted objects, last statements, and pending post-mortem claims were heard. It did not become the successor's property.
-6. Champion grants were narrowed to protection of named sites, people, and transfers. Record seizure and coercion of witnesses fell outside that protection.
+1. **The successor kept high clerical office, custody of the central shrine, and authority to conduct public rites.** This recognized an officeholder without declaring that the god preferred them.
+2. **The original covenant register and its duplicates retained the origins and limits of each claim.** A succession decree could not turn temporary relief, inherited attachment, voluntary covenant, and coerced submission into a single hereditary duty.
+3. **Living people with contractual exits already pending could proceed before covenant witnesses independent of the successor.** The hearing did not find that leaving the cult socially severed a binding.
+4. **The potential ledger stayed with the steward office.** Outstanding household obligations, material stores, failed grants, and the emergency reserve had to be audited together. The succession could change policy after review, but declaring resources available did not create them.
+5. **The death inventory stayed in separate mortuary custody** until claims concerning the body, entrusted objects, last statements, and pending post-mortem matters had been heard. The successor did not acquire it as property.
+6. **Champion grants were limited to protecting named sites, people, and transfers.** They did not authorize record seizure or coercion of witnesses.
 
-The settlement restored distribution unevenly. It did not undo deprivation during the cordon, return every displaced witness, reconcile the sects, or identify which manifestations belonged to the dead anchor. Some households completed contractual exit and lost cult welfare. Others stayed because the reconstructed minimum was their only reliable food and burial system.
+Distribution resumed unevenly. The settlement did not reverse the deprivation caused by the cordon, bring back every displaced witness, reconcile the sects, or identify which manifestations belonged to the dead anchor. Some households completed their contractual exits and lost cult welfare. Others remained because the restored minimum was their only dependable source of food and burial.
 
 ## Path dependence
 
-The schism made separated records a visible defense against total succession. Later cults copied different lessons.
+The schism showed later cults how separate records could prevent a successor from claiming every obligation, resource, and right associated with the previous officeholder. What they did with that lesson varied.
 
-Reform cults placed covenant, allocation, and mortuary records under different keepers, required duplicate copies, and prevented one champion from holding all three. Household coalitions used the precedent to demand an intelligible account before relief became hereditary service. Mortuary offices cited it when resisting a successor's claim to body and inventory. Potential auditors cited it when comparing material stores with miracle promises.
+Reform cults assigned covenant, allocation, and mortuary records to different keepers, required duplicate copies, and barred a single champion from holding all three. Household coalitions invoked the settlement when demanding an understandable account before accepting that relief had created hereditary service. Mortuary offices used it to contest a successor's claim to a body and its inventory. Potential auditors cited it when checking whether material stores could support promised miracles.
 
-Centralizing cults also learned. Some created explicit emergency clauses allowing temporary shared custody, improved succession provisioning, and trained deputies before an anchor's death. Others narrowed independent archives, moved stores closer to the sanctuary, or required officeholders to swear that separation itself was schism. The event did not produce linear reform. It taught every faction where the others kept their leverage.
+Centralizing cults also changed their practices. Some wrote explicit emergency clauses permitting temporary shared custody, provisioned more carefully for succession, and trained deputies before an anchor died. Others reduced the independence of archives, brought stores nearer the sanctuary, or required officeholders to swear that separating custody was itself schism. Later institutions did not all become more open or accountable. Each faction had learned what resources and evidence allowed the others to resist it.
 
-Soiru'i sects carry the most divided memory. High-branch accounts emphasize that a recognized successor and defended shrine kept the cult from collapsing. Hearth accounts emphasize the stores and household minimum. Unbound accounts emphasize the copies carried through the cordon. Release traditions emphasize the living exits completed without a metaphysical verdict.
+Soiru'i traditions remember different parts of the same settlement. High-branch accounts credit the recognized successor and defended shrine with preventing collapse. Hearth accounts emphasize the stores and household minimum. Unbound accounts remember the copies carried through the cordon. Release traditions emphasize the living people who completed their exits without waiting for a metaphysical verdict.
 
-## Authority limits
+## What the event does and does not establish
 
-The event establishes historical action and settlement, not universal law. It does not establish:
+This history establishes what people did and what the hearing decided. Its settlement is a precedent that some institutions use, not universal Kalsan law. It does not establish:
 
 - the identity or wishes of the dead anchor's Projection;
-- the state, preference, or survival of the God Beast;
-- that contractual exit changed any binding;
+- the God Beast's condition, preference, or survival;
+- that contractual exit changed a binding;
 - that the household minimum became common Kalsan law;
-- a continent-wide cult, mortuary, or allocation court;
-- that every cult uses three physical books or even a written medium;
-- that separated custody is safe in every emergency.
+- a continent-wide court for cult, mortuary, or allocation disputes;
+- that every cult keeps three physical books, or uses writing at all;
+- that separate custody is safe in every emergency.
 
-Those metaphysical questions remain with [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]. Other institutions own only their consequences from the adopted event.
+The metaphysical questions belong to [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]. Other institutional notes own the consequences they draw from this adopted event, without deciding those underlying questions.
 
 ## Dungeon and campaign consequences
 
-Copies and fragments of the three records can alter current covenant, welfare, succession, burial, and property claims. A ruin attributed to the schism may contain a ledger, but age and location alone do not authenticate it. A party might be asked to recover a mortuary copy without disturbing the remains it inventories, carry an allocation record through a territory whose ruler inherited the successor's claim, or compare a sanctuary copy with a public register that erased coerced entries.
+Surviving copies or fragments could change present claims about covenants, welfare, succession, burial, and property. Finding a ledger in a ruin attributed to the schism does not authenticate it: neither its age nor its location is enough.
 
-The event also supplies institutional enemies and allies without assigning clean sides. A high-branch sect may protect the expedition from raiders while demanding the record return to the shrine. Household stewards may fund recovery but conceal allocations that favored their members. Severance advocates may want publication even when it exposes descendants still claimed by a dangerous hierarchy.
+A party might be hired to recover a mortuary copy while leaving the inventoried remains undisturbed. It might carry an allocation record across territory whose ruler inherited the successor's claim, or compare a sanctuary copy with a public register from which coerced entries have disappeared.
+
+Such work can produce allies whose demands conflict with the expedition's purpose. A high-branch sect might protect the party from raiders while insisting that the recovered record be returned to the shrine. Household stewards might fund the search while hiding allocations that favored their own members. Severance advocates might press for publication even if the names expose descendants still claimed by a dangerous hierarchy.
 
 ## Unresolved
 
-- The cult, god, region, sanctuary, settlements, and participants' names.
-- The event's date and relation to the War of the Magi and later imperial expansions.
+- The names of the cult, god, region, sanctuary, settlements, and participants.
+- The date of the event and its relation to the War of the Magi and later imperial expansions.
 - The magical style and fate of the dead anchor and God Beast.
 - Which copies, sites, offices, and successor traditions survive in the present.
-- The duration of the cordon, scale of deprivation, and remedies later paid.
-- Whether any manifestation during the schism can be tied to the anchor rather than another Projection, Beast, or thaumavore.
+- How long the cordon lasted, how much deprivation it caused, and what remedies were later paid.
+- Whether any manifestation during the schism can be traced to the anchor rather than another Projection, Beast, or thaumavore.
