@@ -15,44 +15,52 @@ tags:
 
 # Ark and Fall
 
-## Logos and the Ark
+The Ark was an interstellar colony ship built by a society from Earth. Its eight inhabited Rings became Kalsa's eight Crown Cities after rebels cut them free from the ship's drive core. That emergency descent is known as the Fall.
 
-Logos began as an artificial island polity in Earth's Indian Ocean, founded by self-described egalitarian billionaires who sought freedom from existing governments. Its wealth and research produced a space elevator, orbital industry, and an interstellar colony vessel cast from asteroid material.
+## From Logos to Kalsa
 
-The Ark's habitable body consisted of eight rotating Rings. Each Ring had its own atmosphere and eight urban Spokes connecting it to a central zero-gravity hub containing power, management, and drive systems. Embodied Primitivists largely occupied the Rings. Posthumans increasingly abandoned their bodies for a shared simulation and occupied the Spokes and machine systems.
+The Ark's builders came from Logos, a polity on an artificial island in Earth's Indian Ocean. Its founders were self-described egalitarian billionaires seeking freedom from existing governments. Logos's wealth and research supported a space elevator, orbital industry, and eventually the Ark, cast from asteroid material.
 
-The Ark reached Kalsa with insufficient fuel for its intended journey. Its remaining Posthuman stewards redirected it and began a millennia-long terraforming program.
+People lived in eight rotating Rings, each with its own atmosphere. Eight urban Spokes connected each Ring to a central zero-gravity hub, which housed the ship's power, management, and drive systems.
 
-## Seizure and experiment
+Ark society increasingly divided over whether to remain in a body. Primitivists largely lived embodied lives in the Rings. Posthumans increasingly gave up their bodies to inhabit a shared simulation, occupying the Spokes and machine systems.
 
-A Primitivist resistance group called Mathys opposed Posthuman control. Its final survivor seized the simulation and Ark systems, imprisoned the uploaded Posthumans, and became [[Spoilers/Foundations/Prometheus|Prometheus]]. Prometheus transformed the Rings into evolutionary experiments and used Control-descended labor on Kalsa's surface.
+The Ark reached Kalsa with too little fuel for its intended journey. Its remaining Posthuman stewards redirected the ship and began a terraforming program that would last millennia.
 
-Seven Rings eventually carried distinct [[Spoilers/Foundations/Magic Styles|Kaos Gifts]]. The eighth was the Control Ring and carried no engineered Kaos strain. The Control population had already been dispersed through repeated surface deployments, so the eighth lineage cannot be reduced to one later polity.
+## Prometheus takes control
 
-The Spokers remained historically distinct. Prometheus excluded them from his sacred breeding project and called them polluted. Both Spokers and original Controls were generally Null, but [[Spoilers/Foundations/Magic Styles|Null is a magical condition, not an ethnicity]].
+Mathys was a Primitivist resistance group opposed to Posthuman rule. Its last survivor seized the shared simulation and the Ark's systems, imprisoned the uploaded Posthumans, and became [[Spoilers/Foundations/Prometheus|Prometheus]].
+
+Under Prometheus, the Rings became evolutionary experiments. Seven eventually carried distinct [[Spoilers/Foundations/Magic Styles|Kaos Gifts]]: inherited magical capabilities. Luck first appeared spontaneously; Prometheus's later experiments developed the other Gifts. The eighth housed the Control population and received no engineered Kaos strain. Prometheus repeatedly sent Control-descended labor to Kalsa's surface. Their settlements therefore existed before the Fall, and the eighth Ring's lineage cannot be traced into just one later polity.
+
+Spokers descended from embodied people who lived in the Spokes after the simulated Posthumans withdrew from ordinary life. They had a separate history from the Controls. Prometheus called them polluted and excluded them from his sacred breeding project. Both Spokers and original Controls were generally Null: they lacked an expressed Gift. That similarity did not make them one people; [[Spoilers/Foundations/Magic Styles|Null is a magical condition, not an ethnicity]].
 
 ## The Fall
 
-Rebels from the Ring where Luck first appeared, aided by Spokers, severed the Rings from the drive core before Prometheus could descend in full. All eight Rings made emergency re-entry. Their wrecks became the eight Crown Cities.
+Luck first appeared in one of the Rings. Rebels from that Ring, helped by Spokers, severed all eight Rings from the drive core before Prometheus could descend in full. Each Ring made an emergency re-entry, and their wrecks became the eight Crown Cities.
 
-Prometheus's integrated manufacturing ceased to serve them. Early Spokers could still work technological wonders, but infrastructure, parts, and knowledge failed unevenly. Relics became sacred, maintenance became ritual, and transborder Techpriesthoods emerged. Children of Fire who had depended on Prometheus's direction were initially subdued by Spoker and control-descended powers. The overlap of the new Ringlands led to the War of the Magi.
+Severance also cut the Rings off from the integrated manufacturing system that had served them under Prometheus. Early Spokers could still accomplish technological wonders, but the infrastructure, spare parts, and knowledge needed to sustain that technology failed unevenly. Relics became sacred objects, maintenance took ritual forms, and Techpriesthoods emerged whose work crossed borders.
+
+The Children of Fire—the Ring populations shaped by Prometheus's Gift experiments—had depended on his direction. In the early period after the Fall, Spoker and control-descended powers subdued them. As the new Ringlands came to overlap, their conflicts led to the War of the Magi.
 
 ## Eight Crowns and Seven Gifts
 
-The canonical count is:
+There are eight Crown Cities because all eight Rings descended. Only seven carried Kaos Gifts. The canonical count distinguishes:
 
-- eight Rings and eight Crown Cities;
-- seven Gifted Cities bearing Kaos strains 001 through 111;
-- one Control Crown associated with 000/Null;
-- many older control-descended surface settlements outside every Crown City.
+- **Eight Rings and eight Crown Cities.**
+- **Seven Gifted Cities**, bearing Kaos strains 001 through 111.
+- **One Control Crown**, associated with 000/Null.
+- **Many older control-descended surface settlements**, outside every Crown City.
 
-Bare references to "seven Great Cities" are retained only as the in-world shorthand **Seven Gifted Cities**. The location, name, and present fate of the Control Crown remain unresolved.
+References to “seven Great Cities” survive only as the in-world shorthand **Seven Gifted Cities**. They do not count the Control Crown, whose name, location, and present fate remain unresolved.
 
 ## Unresolved
 
-- Ark dimensions, travel duration, landing sequence, and the physical distribution of ring wreckage.
-- How many Controls remained in the eighth Ring at the Fall.
+The broad sequence is established, but these details remain open:
+
+- The Ark's dimensions, travel duration, the Rings' landing sequence, and the physical distribution of their wreckage.
+- How many Controls were still aboard the eighth Ring when it fell.
 - Which Ark systems, Posthuman minds, and Promethean processes survived severance.
-- The chronology between the Fall, Spoker ascendancy, War of the Magi, and present day.
+- The detailed chronology connecting the Fall, Spoker ascendancy, the War of the Magi, and the present day.
 
 See [[Spoilers/Reference/Timeline|Timeline]], [[Spoilers/Polities/Null and Control Descendants|Null and Control Descendants]], [[Spoilers/Polities/Spokers|Spokers]], and [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]].

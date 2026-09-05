@@ -11,46 +11,37 @@ tags:
 
 # Relics and Ruins
 
-A ruin in Kalsa is rarely empty enough to belong to the first armed party through its door.
+Kalsa's ruins include old works that still supply people above with water, heat, air, pressure, signals, or movement. Entering one can disturb a working system, someone's home, or a burial place. Arriving armed does not settle who owns what.
 
-The account below is a practical synthesis circulated among settlement
-councils, delving companies, shrine keepers, mortuary witnesses, and technical
-lineages. Jurisdictions disagree about its legal force. Its questions survive
-because expeditions that ignore them keep returning with damage somebody else
-must own.
+This account brings together practical guidance circulated among settlement councils, delving companies, shrine keepers, mortuary witnesses, and technical lineages. Jurisdictions disagree about its legal force. People continue using it because expeditions that ignore these questions leave others to deal with the damage.
 
-The deepest works may still carry water, heat, air, pressure, signals, or movement to people above. Later generations built houses in them, sealed sickness behind them, buried their dead in them, used them as forts, cut them for parts, worshipped at their thresholds, and forgot which alterations belonged to whom.
+## Who has a claim?
 
-A single descent can therefore cross several living claims:
+Generations have put the same structures to different uses. People built houses inside them, sealed sickness behind their walls, buried their dead, made forts, cut out parts, and worshipped at their thresholds. Often, nobody remembers who made which alteration.
 
-- a settlement depends upon an unseen output;
-- a technical lineage can operate one system but owns neither land nor water;
-- kin claim remains and death records;
-- a cult recognizes a holy presence;
-- residents hold rooms an old map labels as service space;
-- a ruler claims public danger;
-- a delving crew claims wages, rescue, its own record, and whatever movable salvage remains after prior claims.
+An expedition may therefore encounter several claims at once:
 
-Opening the door brings dormant claims back into use.
+- A settlement depends on something the ruin still supplies, though the system producing it is out of sight.
+- A technical lineage knows how to operate a system but owns neither the land nor the water.
+- Kin claim the remains of their dead and the records of their deaths.
+- A cult recognizes a holy presence.
+- Residents occupy rooms that an old map calls service space.
+- A ruler claims authority over a public danger.
+- The delving crew claims wages, rescue, a record of its own work, and whatever movable salvage remains after prior claims are met.
+
+Some of these claims may have gone unused for years. Opening a door can make them matter again.
 
 ## Techpriesthoods
 
-Techpriesthoods are plural lineages of practical memory. They preserve formulae, tools, apprenticeship, warning signs, service histories, and the discipline to stop when a familiar procedure meets an unfamiliar machine.
+Techpriesthoods are lineages that preserve the knowledge needed to maintain and operate old machinery. There are many of them. They pass on formulae, tools, warning signs, service histories, and skills through apprenticeship. Their training includes knowing when to stop: a familiar procedure may be unsafe on an unfamiliar machine.
 
-Some words in their rites have been inherited without a surviving explanation.
-The sequence may still close a pressure seal. Incense reveals airflow; a chant
-keeps time while several workers turn distant controls; a sacred restriction
-holds a hazard boundary after its warning has vanished.
+Ritual can preserve useful practice even when part of its explanation has been lost. Words whose meaning no longer survives may accompany a sequence that still closes a pressure seal. Incense makes airflow visible. A chant keeps several workers in time as they turn controls far apart. A sacred restriction can keep people outside a dangerous area after the original warning has vanished.
 
-Competence creates leverage. A priest who condemns a conduit can change a
-harvest or siege. Town councils often answer the repair with one contract for
-the work and another for access to land or water. Rival lineages bring real
-technical disagreements into those hearings alongside disputes over patronage,
-jurisdiction, and blame.
+That expertise gives priests influence over people who depend on the machinery. A priest's judgment that a conduit is unsafe can affect a harvest or a siege. Town councils often separate permission to repair it from permission to use the land or water, making a contract for each. When rival lineages appear at those hearings, their technical disagreements can be real even as they also dispute patronage, jurisdiction, and blame.
 
 ## Layered dungeons
 
-Many compacts and ruin courts teach delvers to ask:
+Before a crew changes anything, it needs to understand both the structure's present function and what later occupants have done with it. Many compacts and ruin courts teach delvers to ask:
 
 1. What is this chamber doing now?
 2. Who depends upon that work?
@@ -58,18 +49,16 @@ Many compacts and ruin courts teach delvers to ask:
 4. What changed the last time someone opened it?
 5. Which claims can be heard before the act becomes irreversible?
 
-The answers often run out before the passage does. A wall can be both tomb and
-pressure boundary. A voice may belong to a trapped person, an unquiet dead
-presence, a god's servant, a fraud, or a failing system repeating what it
-heard. Compacts preserve what can still be tested, name witnesses to each
-irreversible decision, and slow the armed party with the most profitable
-explanation.
+Investigation does not always produce an answer. A wall may enclose a tomb and hold back pressure at the same time. A voice could come from a trapped person, an unquiet dead presence, a god's servant, a fraud, or a failing system repeating something it heard.
+
+Compacts help crews act under that uncertainty. They preserve what remains available for testing and name witnesses to decisions that cannot be undone. They also slow an armed party that stands to profit from treating its preferred explanation as settled.
 
 ## Delving compacts
 
-A compact names what an expedition may enter, what it is asked to recover, who can stop unsafe work, how rescue is funded, how injury and death are handled, what must be recorded, and how remaining salvage is divided. Its authority ends with its participants; residents, kin, cults, and settlements bring their own standing to the descent.
+A delving compact is an agreement governing an expedition. It specifies where the crew may enter, what it is being asked to recover, who can stop unsafe work, and how rescue will be funded. It also sets out how injury and death will be handled, what the crew must record, and how the remaining salvage will be divided.
 
-When everyone returns with a different story, the signed stops, duties, and
-shares show where a promise broke.
+The agreement binds its participants. It does not settle the rights of residents, kin, cults, or settlements, who bring claims of their own to the descent.
+
+If the survivors return with conflicting accounts, the signed terms provide something to check: who had authority to stop the work, who owed which duty, and who was promised which share. Those terms can show where a promise was broken.
 
 See [[../Places/Low Sere|Low Sere]], [[../Sources/At the Basin Table|At the Basin Table]], and [[Gods and the Dead]].

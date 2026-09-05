@@ -10,38 +10,40 @@ tags:
 
 # Low Sere
 
-Low Sere is a coldward settlement of forty-one occupied hearths built around warm grey water rising from an old intake beneath the slope. The water heats homes, fills the covered cistern, feeds medicinal and kitchen beds, and leaves mineral ash used in pottery, pigment, and abrasive work.
+Low Sere is a coldward settlement of forty-one occupied hearths. Its homes and crops depend on warm grey water rising through an old intake beneath the slope. The water heats rooms, fills a covered cistern, and supplies medicinal and kitchen beds. It also leaves mineral ash that residents use for pottery, pigment, and abrasive work. Every household knows what it needs from the intake; none fully understands how it works.
 
-Every household can explain why the intake matters. No household can honestly claim to understand all of it.
+## Living with the water
 
-## Four working surfaces
+Water first reaches the **Cistern House**, where it settles before use. Draining the west basin exposes an iron grate, with a black pressure door below it. The walls carry water marks, ration boards, sampling vessels, tools, and duplicate warnings.
 
-The **Cistern House** receives and settles the water. Its west basin can be drained, exposing an iron grate and the black pressure door below. Water marks, ration boards, sampling vessels, tools, and duplicate warnings cover its walls.
+Most people live on the **Warm Steps**. Upper terraces stay drier, and their households can store enough water to endure a short ration. Lower rooms cost less but are wetter. When ash enters the channels, these rooms lose their heat first.
 
-The **Warm Steps** hold most dwellings. Upper terraces are drier and can store water against a short ration. Lower rooms are cheaper, wetter, and first to lose heat when ash enters the channels.
+Spent warm water flows to the **Grey Beds**, which grow reed, greyroot, medicinal moss, and tough kitchen crops. A crop compact governs the workers' water supply. Other residents regularly call their work nonessential while continuing to eat what they grow.
 
-The **Grey Beds** grow reed, greyroot, medicinal moss, and tough kitchen crops in spent warm water. Their workers receive water through the crop compact and are regularly called nonessential by people who continue eating what they grow.
+Visitors arrive at the **Upper Shelf**, among guest sheds, pack animals, doubtful salvage, and the traders' road marker. Outsiders must stay there until someone accepts responsibility for their water use and a safe route out.
 
-The **Upper Shelf** holds guest sheds, pack animals, doubtful salvage, and the road marker used by traders. Outsiders remain there until someone accepts responsibility for their water use and a safe route out.
+## Who decides
 
-## The basin table
+The basin table decides when water is supplied, how shared stores are used, and what maintenance must be done. It also handles admission at the intake threshold and emergency action affecting the basin. It brings together household water witnesses, Grey Bed workers, Cistern House maintainers, and whoever represents the intake's current custodian. No one rules every part of Low Sere's life.
 
-Low Sere has no ruler of every local matter. The basin table joins household water witnesses, Grey Bed workers, Cistern House maintainers, and whoever speaks for the intake's present custody. It schedules water, shared stores, maintenance work, threshold admission, and emergency action affecting the basin.
-
-Its power is unequal. Large hearths bring more stores and workers. Lower-step renters may be represented by a patron whose own room stays dry. A person without a recognized witness can work for years and still be the first household cut from water.
+Having a place in these decisions matters. Large hearths can contribute more stores and workers, giving them greater influence. Lower-step renters may have to rely on a patron whose own room stays dry. Someone can work in Low Sere for years without a recognized witness and still have their household's water cut first.
 
 ## The Grey Scald
 
-Years ago, hot mineral slurry entered a maintenance platform during an emergency intervention. Jori Kes and Pell Am died; three others were injured. The settlement agrees upon those losses and little else.
+Years ago, an emergency intervention sent hot mineral slurry onto a maintenance platform. Jori Kes and Pell Am died, and three others were injured. Beyond those losses, the accounts disagree.
 
-Former custodian Teren Vey says his inherited warning required the platform to be cleared. Workers say the public warning named a shorter interval and arrived after the operation began. The basin table suspended Teren immediately and later removed him without a technical comparison everyone would accept.
+Teren Vey, the custodian at the time, says the warning he inherited required everyone to leave the platform. Workers say the public warning gave a shorter interval and arrived after the operation had begun. The basin table suspended Teren immediately and later removed him. No technical comparison that everyone would accept settled the dispute.
 
-Teren then withheld a calibration tool and service folio below, calling the act a necessary refusal. Low Sere calls it theft from a public survival work. The dead workers' kin sealed the affected sump. Teren's apprentice Sera Venn inherited a failing system, incomplete records, and an appointment kept provisional long after emergency became ordinary government.
+After his removal, Teren withheld a calibration tool and service folio below the intake, describing this as a necessary refusal. Low Sere regards it as theft from a work the settlement needs to survive. The dead workers' kin sealed the affected sump.
 
-## Present pressure
+Teren's apprentice, Sera Venn, took over a failing system with incomplete records. Her appointment remained provisional long after emergency arrangements had become the ordinary way Low Sere was governed.
 
-The intake is failing again. Sera can preserve reduced service but cannot complete the disputed work with what remains above. Maro Seln, who speaks for the basin table at the threshold, wants a descent before Low Sere must abandon its lower homes. Tavi Kes of the Ash Names demands a kin witness and protection for the dead. Ressa Orr, an itinerant Techpriest, will compare the work only if given independent authority to stop it.
+## The next descent
 
-The black door can be opened. The argument is over what anyone is entitled to do after it opens, and who will pay if the settlement chooses wrong.
+The intake is failing again. Sera can keep a reduced service running, but the equipment and records remaining above are not enough for her to finish the disputed work.
+
+Maro Seln speaks for the basin table at the threshold. He wants a crew to descend before Low Sere has to abandon its lower homes. Tavi Kes of the Ash Names demands that a kin witness accompany them and that the dead be protected. Ressa Orr, an itinerant Techpriest, is willing to compare the work only if she has independent authority to stop it.
+
+They can open the black door. They have yet to agree on what people may do beyond it, or who will bear the consequences if the settlement chooses wrong.
 
 Hear them at [[../Sources/At the Basin Table|At the Basin Table]]. See also [[../World/Relics and Ruins|Relics and Ruins]] and [[../World/Gods and the Dead|Gods and the Dead]].
