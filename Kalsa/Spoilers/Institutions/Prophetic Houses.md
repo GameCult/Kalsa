@@ -18,170 +18,218 @@ tags:
 
 # Prophetic Houses
 
-The Prophetic Houses are lineage corporations within [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. They preserved unusually strong Prophecy expression through controlled descent, accumulated the training needed to make foresight legible, and became indispensable providers to the city and its Ju'onai and Terjamna claimants.
+The Prophetic Houses are chartered organizations built around families of prophets in [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. They train people to examine possible futures, preserve what earlier prophets learned, and supply forecasts to the city, private patrons, and the Ju'onai and Terjamna powers that claim it. They hold estates, employ workers, negotiate contracts, and maintain households as well as bloodlines.
 
-The number and names of the houses remain unresolved. This note owns their common institutional anatomy, not their personalities or faction roster.
+People encounter their work in very different ways. A civic officer requests a forecast about fire or harvest. An apprentice receives housing and years of instruction. A tenant may receive an eviction notice before fire season because someone else has read the forecast. A strategically valuable prophet may be sent to a foreign court as an honored resident and discover that leaving is another matter.
 
-## Owner map
+Controlled descent helped the houses preserve unusually strong expression of Prophecy. Their accumulated teaching made that ability useful enough for the city and its imperial claimants to depend on them. Inheritance alone could not have done this: a strong seer still needs to learn how to ask a usable question, compare possible futures, and recognize when events have made an answer obsolete.
 
-| Surface | Owner | Does not own |
+The number and names of the houses remain unresolved. This note describes how they work in common; it does not establish a faction roster or give individual houses personalities.
+
+## What a house can decide
+
+A house has authority over its work and property. That authority has limits, especially where a forecast affects civic judgment or a household claim reaches into someone's body.
+
+| Matter | Who has authority | Limit |
 |---|---|---|
-| House estates, archives, and training tradition | The chartered house | The city, the Gift, or all descendants |
-| Recognition of house office and internal service rank | The house under civic charter | A person's legal personhood or civic guilt |
-| Civic forecast quota | The tributary civic authority | The content of a forecast or a prophet's divine binding |
-| Imperial forecast obligation | The relevant Ju'onai or Terjamna compact | Exclusive permanent custody of the provider |
-| Forecast finding | The named prophet or team | The court's verdict or government's chosen action |
-| Marriage, parenthood, and bodily consent | The persons involved | The house, patron, occupier, or lineage archive |
+| House estates, archives, and training tradition | The chartered house | It does not own the city, the Gift, or all descendants. |
+| Recognition of house office and internal service rank | The house under civic charter | It cannot decide a person's legal personhood or civic guilt. |
+| Civic forecast quota | The tributary civic authority | It can require service, but cannot dictate a forecast's content or a prophet's divine binding. |
+| Imperial forecast obligation | The relevant Ju'onai or Terjamna compact | The agreement does not grant exclusive, permanent custody of the provider. |
+| Forecast finding | The named prophet or team | The finding does not decide a court's verdict or a government's action. |
+| Marriage, parenthood, and bodily consent | The persons involved | The house, patron, occupier, and lineage archive have no authority to give that consent for them. |
 
-The last line is the current canonical boundary, not a claim that the houses honor it reliably.
+The final boundary is current canon. It is not a claim that houses reliably respect it.
 
-## Inputs and outputs
+## How expertise survives
 
-Houses take in lineage records, apprentices, rents and harvest shares from estates, patronage, civic privileges, imperial protection, and requests for forecast labor. They emit trained prophets, archived comparisons, strategic service, household protection, hosted guarantees, political alliances, and claims of continuity.
+A house's essential purpose is to keep prophetic expertise alive after an individual seer dies. Its teachers and archives preserve ways to frame questions, compare branches—the possible futures under examination—and record what people intend to do. They also teach prophets to recognize when observation itself has invalidated an answer.
 
-Their authority protects one real invariant: prophetic expertise must survive beyond the life of one seer. A house preserves methods for framing a question, comparing branches, recording interventions, and recognizing when the act of observation has invalidated an answer. Blood without teaching does not provide that continuity.
+This work depends on more than prophets. Houses draw on lineage records, apprentices, estate rents and harvest shares, patronage, civic privileges, imperial protection, and requests for service. In return, they provide trained prophets, preserved comparisons, strategic advice, household protection, guarantees backed by hosted residents, political alliances, and claims that the house continues an older tradition.
 
-The same machinery lets a house mistake stewardship for ownership.
+The danger lies in how easily preserving expertise becomes a claim to own the people who carry it. The same archive can teach a prophet, establish their standing, or provide the evidence used to keep them dependent.
 
-## Membership and formation
+## Joining and learning
 
-House descent raises the probability of strong expression but does not guarantee it. Recruitment also occurs through adoption, marriage, sponsorship of an unrecognized prophet, transfer between houses, return from hosted service, and civic referral when an unaffiliated person's Gift creates public need. No route proves metaphysical pedigree. The entry record distinguishes kinship, residence, training, debt, service, archive access, and forecast authority instead of calling all of them membership.
+Descent from a house makes strong Prophecy more likely; it does not guarantee it. People also enter through adoption, marriage, sponsorship of an unrecognized prophet, transfer from another house, return from hosted service, or civic referral when an unaffiliated person's Gift creates a public need. None of these routes proves a metaphysical pedigree.
 
-Children and new candidates first learn the material world their forecasts will act upon: civic geography, Sunwall systems, household accounting, patron conflict, the difference between observation and instruction, and how disclosure changes the branch set. They practice bounded comparisons under supervision, copy complete reports including failed questions, and learn to stop when horizon, briefing, intervention, or rival influence makes an answer unusable. Training a prophet without teaching who owns the resulting action manufactures a confident hazard.
+An entry record must distinguish several relationships that can otherwise disappear into the word “member”: kinship, residence, training, debt, service, archive access, and authority to issue forecasts. Living in a compound is not the same as being entitled to speak for its prophets.
 
-The following are functional ranks and offices, not settled native titles:
+Children and new candidates begin with the world their forecasts will affect. They study civic geography, Sunwall systems, household accounts, and conflicts between patrons. They learn the difference between observing a possible future and instructing someone to act, including how disclosing a forecast can change the futures available.
 
-- **candidates** receive observation and foundational teaching but issue no independent forecast;
-- **apprentice prophets** work on bounded questions under a named working prophet and sign the part of the record they actually observed;
-- **working prophets** accept scoped assignments and own their forecast reports, including uncertainty and refusal;
-- **comparers** coordinate rival or sequential forecasts and test whether differences arise from question, time, facts, sponsor, or planned intervention; they do not own civic findings;
-- **archive stewards** preserve methods, reports, corrections, access, and sealed material without rewriting a failed forecast into house wisdom;
-- **service stewards** allocate house labor and material support across civic, imperial, patron, and internal obligations; they do not own the bodies assigned;
-- **house speakers** represent the charter and bargain for estate, tribute, protection, and hosted-service terms; they cannot make their diplomatic promise a forecast or a member's consent.
+Under supervision, they compare bounded possibilities and copy whole reports, including failed questions. They must learn when to stop: the span they can examine, the information in their briefing, a changed intervention, or a rival's influence may make an answer unusable. They also learn who has authority to act on a report. Without that distinction, training can produce someone confidently issuing instructions they have no right to give.
 
-A person may hold more than one office, but each authority remains scoped. Advancement requires witnessed work, complete records, demonstrated handling of changed interventions, and the ability to explain limits. Strong expression or lineage alone is insufficient. A descendant without strong Prophecy may become an archivist, negotiator, estate officer, tutor, worker, or client without being treated as a failed person.
+The following names describe functions. They are not settled native titles.
 
-People outside the houses can express Prophecy. A house may sponsor, recruit, indebt, marry, adopt, discredit, or attempt to confine such a person. The city's civic authority needs houses but also registers public-service forecasts and charter disputes so that discovery does not automatically become private ownership. Exact protections and recruitment shares remain unresolved.
+| Rank or office | Work and limits |
+|---|---|
+| **Candidates** | Receive observation and foundational teaching. They issue no independent forecast. |
+| **Apprentice prophets** | Investigate bounded questions under a named working prophet. They sign only the part of the record they actually observed. |
+| **Working prophets** | Accept assignments with defined limits and take responsibility for their reports, including uncertainty and refusal. |
+| **Comparers** | Coordinate rival or successive forecasts. They test whether disagreements come from the question, timing, facts, sponsor, or planned intervention. They do not decide civic findings. |
+| **Archive stewards** | Preserve methods, reports, corrections, access, and sealed material. They may not rewrite a failed forecast into retrospective house wisdom. |
+| **Service stewards** | Assign labor and material support among civic, imperial, patron, and internal obligations. Authority to allocate work does not give them ownership of the people assigned. |
+| **House speakers** | Represent the charter and negotiate estates, tribute, protection, and hosted-service terms. Their diplomatic promises cannot stand in for a forecast or a member's consent. |
 
-## Material support, pay, and assignment
+One person may hold several offices, but the authority of each remains separate. Advancement requires witnessed work, complete records, competent handling of changed interventions, and an ability to explain limits. Strong expression and distinguished ancestry are insufficient.
 
-House estates, rents, harvest shares, archive access fees, civic service allocations, imperial or merchant contracts, patronage, and cult support can all sustain forecast work. No one source is universal. A house budget must provide food, housing, health care, guarded rest, tutors, scribes, record materials, secure rooms, messengers, and the non-house labor that keeps an expert available to forecast.
+A descendant without strong Prophecy can become an archivist, negotiator, estate officer, tutor, worker, or client. Such a life does not make them a failed person.
 
-Candidates and apprentices receive maintenance because training consumes time. Working prophets and specialist officers receive household shares, stipends, contract shares, residence, dependent support, or combinations under house practice. Hosted providers must know which party supplies housing, correspondence, medical care, return passage, and payment that remains theirs rather than being credited only against a house quota. Tenants, cooks, porters, guards, and copyists receive wages, use claims, or household support; prophetic prestige is not payment for the people carrying the archive.
+Prophecy also appears outside the houses. A house may sponsor or recruit an unaffiliated prophet, bring them in through marriage or adoption, put them in debt, discredit them, or try to confine them. The civic authority depends on house expertise, but it also registers public-service forecasts and charter disputes so that discovering a prophet does not automatically give a house private ownership of them. The exact protections and recruitment shares remain unresolved.
 
-An assignment record names the question, requester, sponsor, intended audience, planned intervention, deadline, classification, assigned workers, material support, compensation, known conflicts, refusal path, and who receives the report. Service stewards may satisfy a chartered quota by assigning eligible labor. They may not conceal the sponsor or require a prophet to sign observations they did not make.
+## Paying for the work
 
-Emergency civic requests can reorder work where delay threatens mass life or the Sunwall. The house records which patron or internal work was displaced and what rest or replacement follows. Emergency priority expires with the named danger; it is not a permanent claim on the best prophet.
+Forecasting requires food, housing, health care, guarded rest, tutors, scribes, writing materials, secure rooms, and messengers. It also requires the labor of people outside the house lineage who keep an expert available to work.
 
-## Forecast labor
+Different houses pay for this through different combinations of estates, rents, harvest shares, archive access fees, civic service allocations, imperial or merchant contracts, patronage, and cult support. No source of support is universal.
 
-House work falls into overlapping obligations:
+Candidates and apprentices receive maintenance because learning takes time they cannot spend earning their keep elsewhere. Working prophets and specialist officers may receive household shares, stipends, contract shares, residence, support for dependents, or a combination set by house practice.
 
-- **civic service** for Sunwall loads, harvest, epidemic response, fire, crowd movement, and courts;
-- **tributary service** owed through the city to its imperial claimants;
-- **patron service** for a God hierarchy, garrison, merchant, estate, or allied institution;
-- **house work** concerning succession, marriage, reputation, and survival.
+A provider living with a host must know who supplies housing, correspondence, medical care, and return passage. The arrangement must also distinguish payment that belongs to the provider from service credited against a house quota.
 
-Each assignment changes the future being studied. A prophet who knows that a Terjamna commander will act on the report sees a different branch set from a prophet briefed for a Ju'onai assessor. [[Spoilers/Institutions/Forecast Evidence and Courts|Courts]] therefore require disclosure of sponsor, intended audience, and planned intervention when a forecast enters evidence.
+Tenants, cooks, porters, guards, and copyists receive wages, use claims, or household support. The prestige of prophecy does not pay the people carrying the archive.
 
-No house owns the future it reports. Suppressing a rival forecast may still be profitable, and archives can create an information advantage long after the vision itself expires.
+## Requesting and assigning a forecast
 
-House archives describe a **crowded horizon** when other actors can observe or
-intervene inside the span of a report. A complete record names the competitors
-the team could distinguish, the actions expected after disclosure, and the
-places where branches vanished without an identifiable source. Comparers may
-separate the question among teams or commission a later reading after one
-intervention changes the field. They do not combine reports into a fictional
-view from outside every participant.
+House labor serves several overlapping demands:
 
-This practice makes briefing custody strategic. A house that receives a
-garrison plan can see branches unavailable to a rival, while the garrison gains
-a forecast already conditioned upon its own intended response. Delaying a
-message, excluding an unrecognized prophet, or keeping a Sunwall steward out of
-the room can narrow the future before any report is falsified. Houses preserve
-methods against that danger and profit from controlling them.
+- **Civic service** covers Sunwall loads, harvest, epidemic response, fire, crowd movement, and courts.
+- **Tributary service** is owed through the city to its imperial claimants.
+- **Patron service** serves a God hierarchy, garrison, merchant, estate, or allied institution.
+- **House work** concerns succession, marriage, reputation, and survival.
 
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the complete author
-comparison. House doctrine can identify crowding within its evidence; it cannot
-classify every Gift or declare itself the neutral observer.
+For each assignment, the record identifies the question, requester, sponsor, intended audience, planned intervention, deadline, and classification. It also names the workers, material support, compensation, known conflicts, refusal path, and recipients of the report.
 
-## Hostages, students, and providers
+Service stewards can assign eligible labor to meet a chartered quota. They cannot hide the sponsor or require a prophet to sign observations they did not make.
 
-Both imperial claimants demand reliable access to house expertise. A strategically important member may reside in an imperial sector or foreign court as a student, honored guest, resident forecaster, marriage partner, debt guarantee, or hostage. These categories often share a locked door.
+An emergency civic request can take priority when delay threatens mass life or the Sunwall. The house must record which patron or internal work was displaced and what rest or replacement follows. Priority ends with the named danger. It does not give the civic authority a continuing claim on its best prophet.
 
-The host gains prompt forecast labor and leverage over the house. The house gains protection, information, and a channel into the patron's plans. The city gains evidence that tribute will be delivered. The resident bears the arrangement in their own body.
+These decisions put pressure on every house. Public duties, imperial patrons, divine affiliations, paying clients, and household survival all compete for limited prophetic attention. Those choosing the assignments may never enter trance themselves or bear the consequences of a failed prediction.
 
-No occupier wants every house resident killed or broken: living expertise is the prize, and abuse can send rival members across the sector line. No house can refuse all residence demands without inviting confiscation or replacement. The resulting balance is durable enough to reproduce itself and cruel enough to keep producing fugitives.
+Serving one empire too well makes a house a target for the other. Giving the city its best work may cost foreign protection. Concealing uncertainty may sell one confident answer while corrupting the archive for generations. Recruiting outsiders brings talent and weakens the claim that hereditary standing explains the house's worth.
 
-## Lineage coercion
+## Why a forecast must include its circumstances
 
-House claims of purity convert reproductive choices into balance-sheet entries. Common instruments include inheritance conditions, marriage approval, controlled residence, apprenticeship access, fosterage, debt, threat of archive exclusion, and the promise or withdrawal of imperial protection. A prediction about a future child's power can itself become coercive before that child exists.
+A forecast concerns futures that people may change by hearing about them. The assignment itself therefore affects what the prophet studies.
 
-The houses cannot perfectly control lineage. Evasion includes unrecorded partnerships, movement across imperial sectors, registering a child through non-house kin, concealing early expression, accepting a rival patron, or leaving for work whose mobility makes household inspection difficult. Each method transfers risk to people with fewer archives and fewer guards.
+A prophet briefed that a Terjamna commander will act on a report examines a different set of branches from one working for a Ju'onai assessor. When a forecast enters evidence, [[Spoilers/Institutions/Forecast Evidence and Courts|courts]] require the sponsor, intended audience, and planned intervention to be disclosed. Without them, the court receives an answer stripped of circumstances that helped produce it.
 
-“Purity” is house political language. Current canon treats Kaos inheritance as threshold expression of strain-complexes shaped by development and training. See [[Spoilers/Foundations/Magic Styles#Expression and descent|Expression and descent]].
+House archives use **crowded horizon** for a report whose span includes other actors able to observe or intervene. A complete record identifies the competitors the team could distinguish, the actions expected after disclosure, and any places where branches vanished without an identifiable source.
 
-## Internal pressures
+Comparers can divide a question among teams or request another reading after an intervention changes the situation. They cannot combine partial reports and claim to have obtained a view from outside every participant.
 
-Every house must allocate scarce prophetic attention among public obligation, imperial patrons, divine affiliation, paid clients, and its own survival. The people choosing assignments may not be the people entering trance or carrying the consequences of a failed prediction.
+Who receives a briefing, and when, consequently matters as much as who sees the final report. A house given a garrison plan can examine branches unavailable to a rival. The garrison, in turn, receives a forecast that already takes its intended response into account. Delaying a message, excluding an unrecognized prophet, or keeping a Sunwall steward out of the room can narrow the available futures without anyone falsifying a report.
 
-A house that serves one empire too well becomes a target for the other. A house that gives the civic authority its best work may lose foreign protection. A house that hides uncertainty can sell confidence once and poison its archive for generations. A house that admits outsiders gains talent while weakening its hereditary claim.
+Houses preserve methods for recognizing these dangers. They also profit from controlling access to those methods and information. Suppressing a rival forecast may be profitable, and an archive can retain its informational advantage long after a particular vision expires. None of this gives a house ownership of the future it describes.
 
-## Tenure, discipline, and removal
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the complete author-facing comparison of these interactions. House doctrine can recognize crowding where its evidence supports that finding. It cannot classify every Gift or establish the house as a neutral observer.
 
-House office is a scoped tenure over work, records, stores, representation, or teaching. Each appointment names the appointing body, authority, support, conflicts, review point, and removal path. Exact terms vary by house. Long service can justify trust; it does not turn archive custody, service allocation, or public representation into hereditary property.
+## Living under an imperial host
 
-Grounds for discipline include fabrication; suppressing material branches or sponsor intervention; signing another person's forecast; unsafe exposure of sealed information; coercing training, marriage, or hosted service; diverting pay or stores; abandoning dependents; and using house force outside charter. An inaccurate forecast is not misconduct by itself when the record honestly preserved its inputs and limits.
+Both imperial claimants want dependable access to house expertise. A strategically important member may therefore live in an imperial sector or foreign court as a student, honored guest, resident forecaster, marriage partner, debt guarantee, or hostage. These descriptions can apply to arrangements with much the same locked door.
 
-Discipline begins with preserved charges and the affected record. Immediate suspension can protect an archive, trainee, resident provider, or public case, but must state what authority is paused and what support continues. A house hearing uses members outside the challenged assignment; chartered public-service or hosted-provider cases admit a civic witness, counsel, or record copy. Findings can require correction, restitution, retraining, reassignment, loss of archive access, removal from office, release from a contract, or expulsion. Civic and imperial law can impose separate consequences only within their jurisdiction.
+The host receives prompt forecast labor and leverage over the house. The house receives protection, information, and access to the patron's plans. The city receives evidence that tribute will be delivered. The resident is the person whose movement and daily life carry the bargain.
 
-Removal from a forecast assignment does not erase membership, housing, earned pay, dependents, or authorship of prior reports. Expulsion cannot make a person stateless by destroying every copy of their training and service. A disciplined member may appeal through house procedure, chartered civic review, or the patron compact whose scope is affected.
+An occupier has reason to keep expertise alive. It does not want every house resident killed or broken, and abuse may drive rival members across the sector line. A house, meanwhile, cannot reject every residence demand without risking confiscation or replacement. These pressures keep the arrangement going. They also keep producing fugitives.
 
-## Succession and exit
+## Controlling descent
 
-Succession is divided among archive custody, service allocation, teaching, estate management, representation, and household care. A predecessor inventories live forecasts, sealed records, contracts, hosted people, students, stores, dependents, and known conflicts. Successors are recognized for each office through witnessed competence and the applicable house or charter procedure. One prophetic vision or blood claim cannot transfer all offices at once.
+Claims of lineage “purity” give houses a way to treat reproductive choices as financial and political assets. They can impose inheritance conditions, require marriage approval, control residence, restrict apprenticeship or fosterage, use debt, threaten archive exclusion, and offer or withdraw imperial protection. A forecast of a future child's power can become a means of coercion before the child exists.
 
-During a disputed succession, archive stewards preserve access logs and corrections, service stewards keep already accepted civic obligations legible, and temporary speakers may bargain without changing lineage or estate law. The city can demand delivery of an existing public quota; it cannot choose a house's permanent leader merely because delay is inconvenient.
+People evade this control through unrecorded partnerships, movement between imperial sectors, registration of a child through non-house kin, concealment of early expression, acceptance of a rival patron, or work mobile enough to make household inspection difficult. Each route shifts risk onto people with fewer archives and guards to protect them.
 
-A member can refuse a particular assignment, leave an office, transfer affiliation, leave the house, or seek unrecognized practice. Exit settles live reports, entrusted records and goods, dependent support, earned compensation, and safe transfer of clients. It does not transfer children, bodily autonomy, private correspondence, or every copy of the person's work to the house. A person cannot take sealed records concerning others merely because they helped produce them.
+The control is therefore never complete. Nor does house language establish the underlying mechanism. “Purity” is a political claim made by houses. Current canon describes Kaos inheritance through heritable strain-complexes whose expression must cross a threshold and is shaped by development and training. See [[Spoilers/Foundations/Magic Styles#Expression and descent|Expression and descent]].
 
-Practical exit remains unequal. Housing, archive access, credentials, debt, kin, patron protection, and a hosted relative can all be used as leverage. Civic charter review and independent record copies create a route, not a guarantee. Hosted providers invoking return require notice to house, host, and civic authority, a safe-conduct decision, settlement of the active assignment, and a review that asks whether “honored residence” has become custody.
+## Holding office and answering for misconduct
 
-## Non-house dependents
+House office gives a person defined authority over work, records, stores, representation, or teaching. An appointment identifies who appoints them, what they may decide, what support they receive, their conflicts, when they will be reviewed, and how they can be removed. Exact terms differ between houses.
 
-House compounds rely on tutors, copyists, servants, guards, cooks, porters, tenants, farm workers, and messengers. These people hear fragments of forecasts, absorb the consequences of house precautions, and rarely control the record in which those choices are justified.
+Long service can establish trust. It cannot turn custody of an archive, allocation of service, or public representation into hereditary property.
 
-For a non-house tenant, a forecast may arrive as an eviction before fire season, a marriage employer suddenly withdrawing, a wage premium for a dangerous Sunwall shift, or a patron refusing credit because a branch looks poor. Even an accurate forecast can distribute safety upward and risk downward.
+Discipline can address:
 
-Some dependents become expert in how houses manufacture certainty: which prophet is always quoted without alternatives, which archive copy omits a patron's intended action, which resident guarantee writes freely, and which one signs whatever keeps a sibling safe.
+- fabricated reports, suppressed material branches, concealed sponsor interventions, or signing another person's forecast;
+- unsafe disclosure of sealed information;
+- coercion in training, marriage, or hosted service;
+- diversion of pay or stores, or abandonment of dependents;
+- use of house force beyond its charter.
 
-## Player and delving consequences
+A forecast being wrong is not, by itself, misconduct if its record honestly preserves the inputs and limits.
 
-Houses employ delvers to recover archive copies, locate missing hosted providers, inspect buried forecast chambers, carry sealed comparisons across sectors, or retrieve a device believed to preserve old observations. A house contract can allocate pay, secrecy, and delivery; it cannot grant city entry, ruin title, relic operation, or permission to erase records about living people.
+Proceedings begin by preserving the charges and the affected record. Immediate suspension may protect an archive, trainee, resident provider, or public case, but it must specify which authority is suspended and what support continues.
 
-Players can strengthen or break a house's reproduction. Returning a complete failed report may protect trainees from repeating it and expose a patron who paid to suppress it. Rescuing a provider can satisfy a house and still force a civic hearing over whether that person wants to return. Recovering a lineage archive can restore an excluded member's standing or give senior kin another instrument of control. Destroying an archive may free someone from a coercive claim while erasing pay, training, adoption, or refusal evidence needed by others.
+Members outside the challenged assignment conduct the house hearing. Cases involving chartered public service or hosted providers admit a civic witness, counsel, or record copy. A finding may require correction, restitution, retraining, reassignment, loss of archive access, removal from office, release from contract, or expulsion. Civic and imperial law may add consequences within their own jurisdictions.
 
-When a forecast is part of a dungeon job, the prophet owns the scoped report, the commissioning party owns only its promised use, the court owns any evidentiary ruling, and [[Spoilers/Institutions/Relic and Ruin Law|ruin law]] and [[Spoilers/Institutions/Relic Custody|relic custody]] govern the site and objects. A house guard cannot make those boundaries disappear by arriving first.
+Removal from an assignment does not erase membership, housing, earned pay, dependents, or authorship of earlier reports. Expulsion cannot be used to make someone stateless by destroying every copy of their training and service records. Appeals may proceed through house procedure, chartered civic review, or the patron compact affected by the dispute.
 
-## Hostile and marginal readings
+## Succession
 
-- An unrecognized prophet calls the houses a cartel that inherited public power from Prometheus's breeding pen.
-- A house archivist answers that outsiders see visions but do not preserve the methods that stop rulers from mistaking one branch for fate.
-- A hosted daughter says both statements can be true while neither opens her door.
-- A lower-shadow worker observes that houses disagree in public and still receive their grain before his ward.
+A house must replace several kinds of authority when officeholders leave or die: archive custody, service allocation, teaching, estate management, representation, and household care. They do not all pass together.
 
-These views identify live authority disputes. None is the vault's universal verdict.
+The predecessor inventories live forecasts, sealed records, contracts, hosted people, students, stores, dependents, and known conflicts. Each successor must be recognized for the relevant office through witnessed competence and the applicable house or charter procedure. A single vision or blood claim cannot transfer every office.
 
-## Historical stress: the Closed Lift Appeal
+During a dispute, archive stewards maintain access logs and corrections. Service stewards keep the house's already accepted civic obligations clear. Temporary speakers may negotiate, but cannot change lineage or estate law.
 
-[[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] owns the event facts. Its house consequence was a narrower charter boundary: a house owns its forecast and internal discipline, not civic guilt, and a sponsor's intended intervention belongs in any report offered to a court. Houses retained public service standing while gaining correction and discipline duties for reports that cross into civic custody.
+The city may demand delivery of an existing public quota. Inconvenient delay does not entitle it to appoint the house's permanent leader.
 
-## Historical stress: the grain at two gates
+## Refusal and departure
 
-Houses that cite [[Spoilers/Events/The Grain at Two Gates|the Grain at Two
-Gates]] attach a response list and expiry conditions to merchant work. The fee
-buys a comparison and its corrections; spoiled grain and added road labor stay
-on the delivery account.
+A member can refuse an assignment, resign an office, transfer affiliation, leave the house, or seek practice without house recognition. Departure requires settlement of live reports, entrusted records and goods, support for dependents, earned compensation, and safe transfer of clients.
+
+The house does not acquire the departing person's children, bodily autonomy, private correspondence, or every copy of their work. The departing person likewise cannot take sealed records about others simply because they helped produce them.
+
+Having a route out does not make everyone equally able to use it. Houses can exert pressure through housing, archive access, credentials, debt, kin, patron protection, or a relative living under a host. Civic charter review and independent copies of records offer a way to contest that pressure, not a guarantee of freedom from it.
+
+A hosted provider invoking return must notify the house, host, and civic authority. Return requires a safe-conduct decision, settlement of the active assignment, and review of whether the claimed “honored residence” has become custody. Whether providers possess recognized rights of refusal, counsel, correspondence, or return remains unresolved.
+
+## People who support the houses
+
+Tutors, copyists, servants, guards, cooks, porters, tenants, farm workers, and messengers sustain house compounds. They hear parts of forecasts and live with the precautions houses take, but rarely control the record used to justify those decisions.
+
+For a non-house tenant, prophecy may mean eviction before fire season. It may mean an employer in a marriage arrangement suddenly withdrawing, a wage premium for a dangerous Sunwall shift, or a patron refusing credit because one branch looks poor. An accurate forecast can still give safety to those above and pass risk to those below.
+
+Some dependents become skilled readers of how a house produces the appearance of certainty. They know which prophet is quoted without alternatives, which archive copy leaves out a patron's intended action, which resident guarantee can write freely, and which signs whatever will keep a sibling safe.
+
+## Delvers and house contracts
+
+Houses hire delvers to recover archive copies, find missing hosted providers, inspect buried forecast chambers, carry sealed comparisons across sectors, and retrieve devices believed to preserve old observations.
+
+The contract can set pay, secrecy, and delivery terms. It cannot grant entry to the city, title to a ruin, permission to operate a relic, or authority to erase records about living people.
+
+What players bring back—or destroy—can change a house's ability to continue:
+
+- A complete failed report may keep trainees from repeating the failure and expose the patron who paid to suppress it.
+- Rescuing a provider may satisfy the house while still requiring a civic hearing about whether the person wants to return.
+- A recovered lineage archive may restore an excluded member's standing or give senior kin another means of control.
+- Destroying an archive may release someone from a coercive claim while also destroying the evidence others need to prove pay, training, adoption, or refusal.
+
+If a dungeon job includes a forecast, the prophet remains responsible for the scoped report. The commissioning party controls only its promised use, and the court decides any evidentiary ruling. [[Spoilers/Institutions/Relic and Ruin Law|Ruin law]] and [[Spoilers/Institutions/Relic Custody|relic custody]] govern the site and its objects. Arriving first with house guards does not extend the contract's authority.
+
+## Disputed views of the houses
+
+An unrecognized prophet calls the houses a cartel that inherited public power from Prometheus's breeding pen.
+
+A house archivist replies that outsiders see visions but fail to preserve the methods that stop rulers from treating one branch as fate.
+
+A hosted daughter says both statements can be true while neither opens her door.
+
+A lower-shadow worker observes that houses disagree in public and still receive their grain before his ward.
+
+Each perspective points to an active dispute about house authority. None is the vault's universal verdict.
+
+## What earlier failures changed
+
+### The Closed Lift Appeal
+
+[[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] owns the facts of the event. For the houses, it established a narrower charter boundary: they control their forecasts and internal discipline, while civic guilt remains for the civic authority to decide. A report offered to a court must include the sponsor's intended intervention.
+
+The houses retained their standing as public-service providers. They also acquired duties to correct reports and discipline misconduct when house reports pass into civic custody.
+
+### The grain at two gates
+
+Houses that cite [[Spoilers/Events/The Grain at Two Gates|the Grain at Two Gates]] attach a response list and expiry conditions to merchant work. These make the expected responses to a report and the limits of its continued use part of the service.
+
+The merchant's fee pays for the comparison and its corrections. Spoiled grain and extra road labor remain on the delivery account.
 
 ## Unresolved
 
