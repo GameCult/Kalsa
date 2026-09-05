@@ -15,96 +15,56 @@ tags:
 
 # The Road That Returned
 
-The Road That Returned is an adopted collision between
-[[Spoilers/Polities/Ju'onai Hegemony|Ju'onai expansion]] and
-[[Spoilers/Polities/Luck - Selza'a|Selza'a territorial survival]]. This note
-alone owns its factual sequence. The polities own what later institutions made
-of it.
+The Road That Returned was a Ju'onai attempt to establish a permanent road into Selza'a territory. Imperial offices improved the route and reached the plateau more than once, but could not sustain their presence. Selza'a families used the road works to move, supply themselves, and coordinate resistance. When the last recorded office withdrew, it left behind routes and stores that local families could use.
 
-The dates, personal names, family names, road name, approach direction, number
-of campaigns, and distance from the Luck Crown remain unresolved. The surviving
-records establish several administrative generations rather than an exact
-count.
+The struggle lasted through several administrative generations. Successive offices studied earlier failures and changed their plans. Those changes often helped imperial transport, but also gave defenders new resources and brought previously separate households into contact.
 
-## The first permanent approach
+## Building the approach
 
-A Ju'onai road office attempted to turn a pass used by hosted travelers into a
-permanent approach for assessment, supply, and eventual tribute. Surveyors
-recorded fog, water, grades, shelters, family boundaries, and the failures of
-earlier armed entries. Opened readers identified the joins most likely to carry
-food, warning, and resistance through the route.
+The first road office took a pass already used by travelers entering under local hosts and tried to make it a permanent route for assessment, supply, and eventual tribute. Surveyors recorded fog, water, slopes, shelters, family boundaries, and the failures of earlier armed entries.
 
-The office cut a wider track, numbered stones, hired local guides, and built
-depots far enough apart that losing one should not close the ascent. The works
-did make the plateau easier to reach. They also fixed imperial movement into
-places Selza'a households could watch and taught families from separate
-territories to relay the same numbers as warning marks.
+The office also employed opened readers: people able to perceive causal relationships within a bounded system. They identified the connections along the route most likely to carry food, warnings, and resistance.
 
-## Each correction entered the next system
+Workers widened the track, numbered stones, and built supply depots. The office hired local guides and spaced the depots so that losing one should not close the ascent. These works made the plateau easier to reach. They also concentrated imperial movement along routes that Selza'a households could watch. Families in separate territories began relaying the stone numbers as warnings.
 
-Later offices reviewed the failure record rather than repeating the first
-plan. They rotated guides to prevent one family from controlling the route,
-split stores among more depots, changed marching intervals, and opened detours
-around known closures.
+## How the revised plans changed the defense
 
-Those measures produced new relations. Guide rotation connected households
-that had shared no defense compact. Distributed depots gave defenders several
-small supply points to empty, misdirect, trade around, or use after withdrawal.
-The detours exposed different catchments and required negotiations whose delay
-carried warning farther than the old signal line. Wider cuts improved imperial
-transport and gave local defenders faster movement between territories.
+Later offices used the failure records to revise the approach. They rotated guides so that no single family controlled the route, divided supplies among more depots, changed the intervals between marching groups, and opened detours around known closures.
 
-Opened readers found aftermarks around altered stores, warnings, hiring, and
-route decisions. Their reports distinguished dependencies and corrected false
-assumptions. They could not identify a Luck bearer, determine whether a dimna
-had acted, or keep a new intervention from changing the next reading.
+Each revision also changed what local people could do. Rotating guides connected households that had never shared a defense compact. More depots meant more small supply points for defenders to empty, misdirect, trade around, or use after a withdrawal. Detours entered different water catchments and required fresh negotiations. The delays in those negotiations allowed warnings to travel farther than the old signal line. Wider paths carried imperial supplies more easily, but also let defenders move faster between family territories.
 
-## Withdrawal and records
+Opened readers found **aftermarks**, observable traces of causal effects, around changes to stores, warnings, hiring, and route decisions. Their reports clarified which things depended on which others and corrected false assumptions. They could not identify a bearer of Luck or establish whether a dimna—a God Beast in the Luck tradition—had acted. Nor could a reading remain reliable through every intervention: changing the route or its arrangements changed the system the next reader had to examine.
 
-The Hegemony reached the plateau more than once. It did not establish a
-permanent road office able to supply itself, collect stable tribute, and retain
-guide cooperation at a cost its patrons would continue to bear. The last
-recorded office withdrew its staff and left numbered stones, cut paths, damaged
-catchments, abandoned depots, wage claims, and several families newly joined by
-road work and defense.
+## Reaching the plateau, then withdrawing
 
-Ju'onai audits assign the failure among weather, dispersed stores, local
-adaptation, competing patrons, guide refusal, repeated redesign, and a pattern
-their readers could describe but not source. Selza'a recitations disagree.
-Some credit a territorial dimna; some name the households and workers who used
-each imperial correction; some remember families displaced when mutual defense
-claimed their path or water.
+The Hegemony reached the plateau more than once. What it failed to establish was a permanent road office that could supply itself, collect stable tribute, and retain the cooperation of guides at a cost its patrons would keep paying.
 
-None of these records proves which person carried Luck or that Luck alone
-returned the road to local use.
+The last recorded office withdrew its staff. It left numbered stones, cut paths, damaged catchments, abandoned depots, and wage claims. It also left several families connected by their work on the road and their participation in defense.
 
-## Consequences
+Ju'onai audits divide responsibility among weather, dispersed stores, local adaptation, competing patrons, guide refusal, and repeated redesign. They also describe a recurring pattern that opened readers could recognize without identifying its source.
 
-Later Selza'a defense compacts inherited numbered warnings, cross-family guide
-relations, and several approach routes from the road program. Families nearest
-the works gained leverage over hosted entry and abandoned stores. Households
-whose land had become an approach bore surveillance, requisition, closed paths,
-and permanent suspicion after the office withdrew.
+Selza'a recitations offer conflicting accounts. Some credit a territorial dimna. Others name the households and workers who found uses for each imperial correction. Still others remember families displaced when collective defense claimed their path or water. None of these records establishes who carried Luck, or proves that Luck alone returned the road to local use.
 
-Ju'onai schools inherited a hard case for analytical expansion. A correct
-opening can improve a road while the succession of correct interventions
-creates the social system that defeats its stated purpose. Imperial factions
-still cite the successful ascents as proof that another sponsor, budget, or
-administrative design could finish the work.
+## What survived the road offices
+
+Later Selza'a defense compacts used the numbered warnings, relationships among guides from different families, and several approach routes created by the road program. Families nearest the works gained leverage over entry under local hosts and access to abandoned stores. For households whose land had become an approach route, the aftermath included surveillance, requisition, closed paths, and permanent suspicion even after the office withdrew.
+
+Ju'onai schools use the event to examine a limit of analytical expansion. An opening can correctly show how to improve a road. Yet a succession of sound interventions can also connect and equip the people resisting it, creating a defense network that prevents the road office from achieving its purpose. Imperial factions still point to the successful ascents as evidence that a different sponsor, budget, or administrative design could finish the work.
 
 ## Adventure consequences
 
-An abandoned depot can contain pay records, survey interfaces, family warning
-marks, or a compact later owners would rather keep buried. Reopening one cut may
-restore trade and expose a refuge. A Ju'onai claimant may commission the party
-to recover the last office ledger; Selza'a families can disagree over whether
-that ledger proves wages owed, collaboration, territorial use, or a road claim
-that must not return.
+An abandoned depot may hold pay records, survey interfaces, family warning marks, or a compact that later owners would prefer to keep buried. Reopening a cut path could restore trade while exposing a refuge.
 
-## Unresolved
+A Ju'onai claimant may hire the party to recover the last office ledger. Selza'a families may disagree about what its recovery would establish: wages still owed, collaboration, territorial use, or an imperial road claim they cannot allow to return.
 
-- All dates, names, precise geography, expedition count, forces, losses, and
-  terms offered to guides and families.
+## Record boundaries and unresolved details
+
+This note owns the adopted factual sequence. [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai expansion]] and [[Spoilers/Polities/Luck - Selza'a|Selza'a territorial survival]] own the later institutional interpretations and consequences within their respective polities.
+
+The surviving records establish several administrative generations, but no exact count. The following remain unresolved:
+
+- All dates, personal and family names, the road's name, its approach direction, precise geography, and distance from the Luck Crown.
+- The number of campaigns or expeditions, forces involved, losses, and terms offered to guides and families.
 - Which approach works remain in use and who now holds them.
 - Whether any Ju'onai polity still claims the office, tribute, or road.
 - Which dimna traditions attach themselves to the event and how they conflict.

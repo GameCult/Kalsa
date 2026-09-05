@@ -12,60 +12,59 @@ tags:
 
 # The Ash-Valve Refusal
 
-The Ash-Valve Refusal is an adopted historical case from [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]]. This note alone owns its factual sequence and outcome. [[Spoilers/Institutions/Jamnai Submission Hierarchy|Jamnai Submission Hierarchy]] owns branch office, appeal, protection, challenge, and later stop procedure; [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] owns sanctuary, mutual aid, championing, shrine testimony, and sect memory; technical custody remains separate.
+The Ash-Valve Refusal was a dispute over an unsafe order to divert geothermal heat in [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]]. A senior heat steward stopped the diversion, a branch holder imprisoned the steward, and a champion tried to force compliance. The valve stayed shut. An appeal later removed the holder and restored the steward, but left many of the people harmed without redress.
 
-Its date, the tributary ward, branch, steward, holder, champion, shrine, and valve's present location remain unresolved.
+## The order and the failed opening
 
-## Diversion and refusal
+During a severe storm and military mobilization, the branch holder ordered geothermal flow diverted from an external tributary ward to Jamnai's siege foundries. The senior heat steward issued an operational stop because the system's recorded configuration made that diversion dangerous. It would chill the return main, risk dangerous condensate when flow resumed, and threaten pressure and heat across lower Jamnai.
 
-During a severe storm and military mobilization, a branch holder ordered geothermal flow diverted from an external tributary ward to Jamnai's siege foundries. The senior heat steward issued an operational stop. In the recorded configuration, the diversion would chill the return main, risk dangerous condensate when flow resumed, and threaten pressure and heat across lower Jamnai.
+The holder treated the refusal as insubordination, detained the steward, and ordered a champion to enforce compliance. Before the appeal, the champion struck the ash-valve collar. Under pressure to carry out the order, the Sorcerous answer came through that blow: the locking lug split, freeing the handwheel. This break was the immediate, reachable change selected by the champion's Sorcery.
 
-The branch holder treated the stop as insubordination, detained the steward, and ordered a champion to enforce compliance.
+Both champion and holder understood the broken lock as the first step toward opening the main. But the steward had already removed the transfer pin as part of the operational stop and placed it with the custody record. Without the pin, turning the handwheel did not open the main. Sorcery achieved the local break; it did not make that break accomplish the holder's larger plan.
 
-The champion acted before the appeal. Under pressure to enforce the order, the
-answer came as a blow against the ash-valve collar. Its selected local
-departure was the reachable break: the locking lug split and freed the
-handwheel. The champion and branch holder treated that success as the first
-step of opening the main. The steward's stop had already removed the transfer
-pin and placed it with the custody record. The handwheel spun; the main did not
-open. Sorcery reached its local result while the higher-order assumption failed.
+An opened reviewer later found an intervention aftermark at the broken collar. It established that a causal lever had been used there. It did not reveal the champion's private experience or identify an invisible culprit. Material inspection explained why the force had not reached the valve and why replacing the pin while the system remained loaded was still unsafe.
 
-An opened reviewer later found an intervention aftermark at the broken collar.
-That finding established a used causal lever, not the champion's private
-experience or an invisible culprit. Material inspection established why the
-force had failed to reach the valve and why replacing the pin under the loaded
-configuration remained unsafe.
+## Support for the steward and the appeal
 
-## Aid and appeal
+A Hearth-aligned Soiru'i sect supplied the threatened ward from its mutual-aid stores and sheltered the steward's family. It also copied the technical custody record before officials could seize it, preserving evidence of the stop and the risk behind it. The sect's memory keepers and advocates kept the refusal on record. A living champion persuaded the holder's champion to carry an appeal to the holder's superior instead of continuing to force the valve.
 
-A Hearth-aligned Soiru'i sect opened its mutual-aid stores, supplied the threatened ward, sheltered the steward's family, and copied the technical custody record before officials could seize it. Its memory keepers and advocates preserved the refusal while a living champion persuaded the holder's champion to carry appeal to the holder's superior rather than force the valve.
+During the dispute, rhythmic pressure knocks appeared at the shrine of a dead valve keeper. Sect members understood them as warning and support. Opponents called them pipe stress or a manufactured omen. The appeal record included the knocks as sect testimony, without accepting them as an infallible statement from the dead.
 
-Rhythmic pressure knocks appeared at the shrine of a dead valve keeper. Sect members received them as warning and support. Opponents described them as pipe stress or a manufactured omen. The appeal record preserved the manifestation as sect testimony and did not treat it as an infallible statement from the dead.
+Material inspection upheld the steward's warning. The technical case did not depend on deciding who, if anyone, had spoken through the shrine.
 
-Material inspection upheld the steward's warning.
+## What the appeal changed
 
-## Challenge and partial repair
+The superior removed the branch holder through a bounded challenge for failing to protect the wider branch. The steward returned to office. Later practice recognized a red-line operational stop: the unsafe operation remains halted until qualified review records a different safe configuration.
 
-The superior removed the branch holder through a bounded challenge for failure to protect the wider branch. The steward returned to office. Later practice recognized a red-line operational stop until qualified review records a different safe configuration.
+The tributary ward kept its heat, but bore much of the emergency or repair levy. People who fled during the steward's detention received no automatic restoration or pardon. The former holder's dependents were redistributed through the hierarchy.
 
-The tributary ward retained heat but paid much of the emergency or repair levy. People who fled during the detention were not automatically restored or pardoned. The former holder's dependents were redistributed through the hierarchy. The case corrected the dangerous order without making tributary residents equal authorities in the branch that had endangered them.
+The appeal therefore stopped the dangerous order without giving tributary residents equal authority in the branch that had endangered them. Removing the holder did not undo all the consequences of the holder's rule.
 
-## Historical interpretations
+## How the event is remembered
 
-Jamnai high-branch accounts remember rank correcting rank and a superior preserving the wider tree by removing a failed holder. Hearth accounts remember workers, stores, sanctuary, copied records, and an ambiguous dead keeper forcing authority to inspect the pipe. Tributary families remember that they nearly lost heat before the hierarchy counted them among the people protection was supposed to preserve.
+Jamnai high-branch accounts emphasize the superior's decision: rank corrected rank, removing a failed holder to preserve the wider hierarchy.
 
-None of these memories proves that the shrine knocks came from the dead valve keeper. The adopted fact is that the knocks were reported, disputed, preserved as testimony, and not used in place of material inspection.
+Hearth accounts give the central place to workers, mutual-aid stores, sanctuary, copied records, and an ambiguous dead keeper. In their telling, these were what forced authority to inspect the pipe.
+
+Tributary families remember nearly losing their heat before the hierarchy counted them among the people it was supposed to protect.
+
+These interpretations do not settle the source of the shrine knocks. The adopted history establishes that the knocks were reported, disputed, and preserved as testimony. They never replaced material inspection as the basis for judging the valve's safety.
 
 ## Adventure consequences
 
-The affected heat gallery can contain the valve, bypass, custody record, shrine, pressure evidence, and branch order in different chambers or archives. A party may be hired to recover the copied record, reach the bypass before another diversion, escort a qualified reviewer, identify who still owes the ward, or find fugitives excluded from the settlement.
+The affected heat gallery can hold the valve, bypass, custody record, shrine, pressure evidence, and branch order across different chambers or archives. A party might be hired to recover the copied record, reach the bypass before another diversion, escort a qualified reviewer, establish who still owes the ward, or find fugitives left out of the settlement.
 
-Returning the valve to operation does not settle the old branch or sect claims. A shrine manifestation still does not grant technical competence. A superior's recovery order does not erase the ward's dependence or [[Spoilers/Institutions/Relic Custody|relic custody]]. The historical case supplies a reason for refusal and appeal, not a treasure deed.
+Making the valve work again leaves the old branch and sect claims to be resolved. A shrine manifestation does not supply technical competence, and a superior's recovery order does not erase either the ward's dependence on the machinery or [[Spoilers/Institutions/Relic Custody|relic custody]]. The history gives a party grounds for refusal and appeal; it gives them no deed to the machinery as treasure.
+
+## Scope of this record
+
+This note owns the adopted historical sequence and outcome. [[Spoilers/Institutions/Jamnai Submission Hierarchy|Jamnai Submission Hierarchy]] owns the rules for branch office, protection, appeal, challenge, and the later stop procedure. [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] owns sanctuary, mutual aid, championing, shrine testimony, and sect memory. Technical custody remains a separate authority.
 
 ## Unresolved
 
-- Date, storm, military campaign, branch offices, tributary ward, and affected galleries.
-- Valve configuration, exact failure mode, inspection method, and current technical custodian.
-- Identity or cause of the shrine knocks.
-- Full levy, casualties, fugitives, redistributed dependents, and later restoration.
-- Present scope and enforcement of the red-line stop precedent.
+- The date, particular storm, military campaign, tributary ward, branch offices, and affected galleries.
+- The identities of the steward, holder, champions, and shrine.
+- The valve's present location, configuration, exact failure mode, inspection method, and current technical custodian.
+- The identity or cause behind the shrine knocks.
+- The full levy, casualties, fugitives, redistribution of dependents, and any later restoration.
+- The present scope and enforcement of the red-line stop precedent.
