@@ -20,162 +20,190 @@ tags:
 
 # Jamnai Submission Hierarchy
 
-The Jamnai submission hierarchy turns a Sorcerous pattern of victory, subordination, and protection into government. It routes work, tax, defense, office, and appeal through a tree of recognized branches. It is authoritarian without being simple: material survival depends on people whose competence does not follow combat rank, and most inhabitants participate through household, craft, protection, or tribute rather than continual magical duels.
+Jamnai is governed through **branches**: groups of people and offices whose recognized holder owes service to a superior and protection to those beneath them. A holder collects goods and labor, distributes resources, provides defense, and carries appeals upward. Their direct subordinates may hold branches of their own.
 
-[[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own the mechanics of Sorcery. This institution owns what Jamnai officials record, demand, distribute, and enforce in response.
+For most inhabitants, this system determines who supplies warmth and food, what work they owe, and who will defend them when someone more powerful causes harm. They enter it through a household, craft, protection arrangement, or tribute obligation. Most do not spend their lives fighting magical duels.
 
-## Owner map
+The hierarchy takes its model from Sorcery, where victory can bring magical subordination and access to protection. Jamnai turns that pattern into government. It is authoritarian, but combat rank cannot tell anyone how to maintain a heat exchanger, keep an archive, or feed a ward. The hierarchy depends on people its strongest members cannot simply replace.
 
-| Surface | Owner | Does not own |
-|---|---|---|
-| Magical submission between Sorcerer Beasts | The actual upper-dimensional relation described by the foundations | Civil officials by declaration |
-| Recognized civil submission or oath | The parties under witnessed Jamnai procedure and the branch registrar's record | A person's Projection, body, descendants, or every future obligation |
-| Branch office and protection duty | The recognized holder supported by direct subordinates and superior branch | Technical competence or unlimited command |
-| Challenge boundary and result | Witnesses and the authority competent for the contested office | Every asset, dependent, and divine binding touched by the conflict |
-| Heatwork configuration and operational stop | The recognized steward or relic custodian | Political distribution of a safely available surplus |
-| Labor, goods, military, and hospitality dues | The relevant branch or public-service office under recorded terms | Unrecorded seizure renamed tax after the fact |
-| Appeal | The nearest superior competent over both parties, with surviving records and witnesses | Automatic independence from the hierarchy being challenged |
-| External tribute | The treaty, conquest settlement, and authorities able to enforce it | Proof that every tributary person submitted magically or voluntarily |
+[[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] explain Sorcery's mechanics. This note explains the institution built around them: what officials recognize, record, demand, distribute, and enforce.
 
-The system's characteristic abuse is to collapse these boundaries until victory appears to own competence, property, consent, memory, and the dead.
+## What “submission” can mean
 
-## Four relations called submission
-
-Jamnai speech often uses one word of rank where the vault must preserve four different claims.
+Jamnai speech often treats submission as one relationship. Four distinct relationships must be kept separate, because each creates different obligations and limits.
 
 ### Magical defeat
 
-When Sorcerer Beasts directly overlap, a weaker Beast may submit and route potential beneath the victor. This is an upper-dimensional event with consequences described in [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]]. A registrar can record witnesses and later effects. The record does not create the binding.
+A Sorcerer can be joined to a magical agency called a Beast, which acts through patterns of perception, coincidence, and force rather than as an ordinary animal. When Sorcerer Beasts directly overlap, the weaker Beast may submit, placing its magical potential beneath the victor. This is an actual upper-dimensional relationship, described in [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].
+
+A registrar can record witnesses and later effects. Writing down a defeat does not create the magical binding.
 
 ### Civil oath
 
-A person or office can swear service and receive protection without a magical contest. The oath should name holder, duty, protection, term or succession condition, and witnesses. Jamnai rulers frequently present civil oath as the civilized continuation of magical submission. A future court may accept the obligation while rejecting the metaphysical claim.
+A person or office can promise service in exchange for protection without a magical contest. The oath should identify the holder, the duties owed, the protection promised, its term or succession condition, and its witnesses.
+
+Rulers frequently describe such oaths as a civilized continuation of magical submission. A later court may uphold the service obligation while rejecting the claim that a magical relationship exists.
 
 ### Shielded dependency
 
-Children, household members, workers, clients, tenants, craftspeople, and people receiving public heat can stand beneath a branch's protection without swearing direct personal submission. They owe duties through household, work, or residence. Doctrine often calls them members of the branch; this does not make them property.
+People can receive a branch's protection without personally swearing submission. This includes children, household members, workers, clients, tenants, craftspeople, and people receiving public heat. Their duties arise through their household, work, or residence.
+
+Doctrine often calls these people members of the branch. Membership does not make them property.
 
 ### External tribute
 
-A village, guild, route, or defeated polity can owe scheduled goods, labor, passage, recruits, or nonaggression. The agreement binds the authorities and resources it can lawfully reach. It does not silently bind every inhabitant's Beast or descendants.
+A village, guild, route, or defeated polity may owe scheduled goods, labor, passage, recruits, or nonaggression. Such an agreement reaches the authorities and resources it can lawfully bind. It does not quietly submit every inhabitant's Beast or every descendant.
 
-The distinctions matter at death and succession. A dead branch holder may leave civil contracts, dependents, and tribute after their God Beast collapses. A persistent magical binding may outlast a law that has cancelled the oath. See [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]].
+These distinctions become especially important when a holder dies or an office changes hands. Civil contracts, dependents, and tribute can remain after a dead holder's God Beast collapses. Conversely, a magical binding can persist after the law has cancelled an oath. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] governs those problems.
 
-## Branch anatomy
+## Who keeps a branch running
 
-A recognized holder stands beneath a superior and above direct subordinates. The holder collects obligations, distributes protection and shares, sponsors appeals, and answers upward for the branch's output and conduct. Direct subordinates may themselves hold branches.
+The **branch holder** collects obligations from below and answers to the superior for the branch's output and conduct. The holder distributes protection and shares of resources, sponsors appeals, and coordinates direct subordinates.
 
-**Champions** defend the holder from lateral conquest, enforce bounded judgments, escort dues, represent absent dependents, and preserve continuity during succession. A champion's legitimacy comes from protecting a branch as well as winning for it. A champion who helps a superior consume subordinates faster than they can recover cuts away the power and labor they were appointed to defend.
+Three kinds of work keep that authority usable.
 
-**Registrars** record defeats, oaths, protection terms, dependents, tribute, challenges, death, and transfer. A clean branch record makes obligation legible across generations. It can also launder captivity into consent. Copies held by households, sects, tributaries, or a superior are the main defense against retrospective rewriting.
+**Champions** defend the holder against conquest by other branches. They enforce judgments within their stated limits, escort dues, represent absent dependents, and maintain continuity during succession. Their standing rests on protecting the branch as well as winning for it. A champion who helps a superior consume subordinates faster than they can recover destroys the power and labor they were appointed to defend.
 
-**Office keepers** carry bounded competencies: heat, stores, workshops, transport, courts, barracks, records, or wards. Their office may be granted by a branch holder but cannot be performed by rank alone. Jamnai survives because a victor normally inherits the duty to keep useful specialists alive rather than the ability to replace them.
+**Registrars** preserve the terms of the relationships: defeats, oaths, promised protection, dependents, tribute, challenges, deaths, and transfers. Reliable records let later generations establish what is owed and why. Dishonest records can make captivity look like consent. Copies held by households, sects, tributaries, or a superior are the main defense against officials rewriting an obligation after the fact.
 
-The summit of the hierarchy is a current political office whose name, selection, and holder remain unresolved. No note should infer a universal king, alpha male, or living God merely from the tree's shape.
+**Office keepers** are responsible for particular kinds of work: heat, stores, workshops, transport, courts, barracks, records, or wards. A holder may grant an office, but rank does not supply the skill to perform it. A victor normally inherits the duty to keep useful specialists alive. The victory does not confer their abilities.
 
-## Caste and standing
+The hierarchy has a political office at its summit. Its name, method of selection, and current holder remain unresolved. The branching structure alone establishes no universal king, alpha male, or living God.
 
-Branch standing affects housing, warmth, food priority, legal sponsorship, arms, education, and whose injury provokes retaliation. Official doctrine reads this as a natural consequence of demonstrated strength and protection. In practice, inherited office, archive access, patronage, technical scarcity, sex, lineage, and conquest all distort the claim that rank records merit.
+## What rank changes in daily life
 
-Core office-holding branches sit above shielded households and registered workers. External tributaries and captives bear obligations with weaker appeal. Unregistered migrants, fugitives, oath-breakers, and people whose branch collapsed occupy the most dangerous position: others may treat absence of protection as permission.
+Branch standing affects housing, warmth, food priority, legal sponsorship, access to arms and education, and whether an injury brings retaliation on the victim's behalf. Official doctrine presents these differences as the natural result of demonstrated strength and the protection it provides.
 
-These are institutional standings, not biological castes. Terjamna lineage may carry prestige and stronger average Sorcery expression, but Null people, mixed descendants, conquered families, technical specialists, and foreign clients can occupy many positions. A branch system that describes every inhabitant as a warrior hides the people producing its heat, food, records, care, and repair.
+Actual rank also reflects inherited office, access to archives, patronage, scarce technical skills, sex, lineage, and conquest. These complicate the claim that standing measures merit.
 
-## The geothermal compact
+Core branches that hold offices rank above shielded households and registered workers. External tributaries and captives carry obligations but have weaker opportunities to appeal. Unregistered migrants, fugitives, oath-breakers, and people whose branch has collapsed are in the greatest danger: others may treat their lack of a protector as permission to act against them.
 
-[[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]] exists because its geothermal arcology makes coldward life possible. Wells, heat exchangers, return mains, pressure boundaries, growing galleries, water circulation, and workshops form one interdependent body. Old technology, later substitutions, and ritual procedure overlap.
+These are institutional standings, not biological castes. Terjamna lineage may bring prestige and stronger average expression of Sorcery. Null people, mixed descendants, conquered families, technical specialists, and foreign clients can nevertheless occupy many positions. Describing everyone in a branch as a warrior conceals the people who produce its heat, food, records, care, and repairs.
 
-Recognized stewards own the safe operation of their named configuration. They may isolate a line, impose a load boundary, preserve a failed state, or refuse an unsafe restart. [[Spoilers/Institutions/Relic Custody|Relic Custody]] supplies this operational authority. Branch officers own the political choice among safe allocations: which ward receives surplus heat, which foundry operates, and what reserve remains for storm or siege.
+## Heat, survival, and technical authority
 
-The public burden is divided into ordinary branch dues and infrastructure service. Households and workshops provide shifts, materials, observation, cleaning, transport, and food to keep the works alive. Technical lineages may receive heat priority because interruption of their work endangers everyone. That necessity can become inherited privilege unless dependents and failure records remain visible.
+[[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]] depends on its geothermal arcology—an inhabited complex drawing heat from underground—to make coldward life possible. Its wells, heat exchangers, return mains, pressure boundaries, growing galleries, water circulation, and workshops depend on one another. Old technology operates alongside later substitutions and ritual procedures.
 
-A branch holder who orders operation beyond a documented failure boundary commits a protection failure even when strong enough to punish the steward. The hierarchy may remove such a holder to preserve itself. That is not the same as recognizing equal civic rights.
+That dependence places a limit on what a branch holder can usefully command. A **recognized steward** controls the safe operation of a named technical configuration. The steward may isolate a line, set a load limit, preserve a failed state, or refuse an unsafe restart. This authority comes through [[Spoilers/Institutions/Relic Custody|Relic Custody]].
 
-## Taxation and allocation
+Branch officers decide how safely available output is shared. They can choose which ward receives surplus heat, which foundry operates, and how much remains in reserve for storm or siege. They do not make an unsafe configuration safe by ordering it into service.
 
-Obligation moves upward in several forms:
+Keeping the works running requires infrastructure service as well as ordinary branch dues. Households and workshops supply shifts, materials, observation, cleaning, transport, and food. Technical lineages may receive priority heat because an interruption to their work endangers everyone. That practical need can harden into inherited privilege unless records continue to show who depends on the work and what happens when it fails.
 
-- household and workshop goods;
+A holder who orders operation beyond a documented failure boundary has failed in the duty of protection, even if the holder is strong enough to punish the steward. The hierarchy may remove that holder to preserve itself. Such removal does not establish equal civic rights.
+
+## What people owe, and what returns to them
+
+Obligations move upward through the branches in several forms:
+
+- goods from households and workshops;
 - labor shifts and specialist service;
 - military readiness, escort, and champion service;
 - hospitality, transport, and information;
 - shares of trade, salvage, or conquered tribute;
 - public-service work for heat, water, stores, roads, and wards.
 
-Each branch retains a share for dependents and sends the remainder upward. A capable holder protects stores against lateral seizure and returns aid after fire, injury, crop failure, or attack. A predatory holder calls extraction proof of loyalty while relying on the superior to suppress flight.
+Each branch keeps a share for its dependents and passes the remainder upward. A capable holder protects stores against seizure by other branches and sends aid after fire, injury, crop failure, or attack. A predatory holder demands more as proof of loyalty and relies on the superior to prevent people from fleeing.
 
-The arcology's safe output is allocated through office keepers and branch claims. Baseline heat and water are protection obligations where recognized; barracks, private baths, foundries, and elite spaces compete for surplus. External tributaries usually have weaker baseline claims and are more likely to be cut first even when their goods support the core.
+Office keepers allocate the arcology's safe output according to branch claims. Where baseline heat and water are recognized, providing them is part of the duty of protection. Barracks, private baths, foundries, and elite spaces compete for surplus. External tributaries usually have weaker claims to a baseline supply and are more likely to be cut first, even when their goods support the core.
 
-No universal currency, rate, or tax name has been adopted. Future notes should specify the actual thing collected and the person who can refuse it.
+No universal currency, tax rate, or tax name has been adopted. Any account of a particular levy needs to say what is collected and who has authority to refuse it.
 
-## Office and succession
+## Limits of each authority
 
-An office combines a bounded task, resources, dependents, and a place in the branch tree. A challenge can transfer recognition of the office without transferring every magical binding, technical qualification, private possession, or covenant attached to the previous holder.
+A branch's power is divided among relationships and offices. This table states who can decide what; it does not imply that officials always respect the divisions.
 
-When a holder dies or is defeated:
+| Matter | Authority | Limit |
+|---|---|---|
+| Magical submission between Sorcerer Beasts | The actual upper-dimensional relationship described by the foundations | Civil officials cannot create it by declaration. |
+| Recognized civil submission or oath | The parties acting under witnessed Jamnai procedure, with the branch registrar's record | It does not give ownership of a person's Projection, body, descendants, or every future obligation. |
+| Branch office and protection duty | The recognized holder, supported by direct subordinates and the superior branch | Office grants neither technical competence nor unlimited command. |
+| Challenge boundary and result | Witnesses and the authority competent to decide the contested office | The result does not settle every asset, dependent, or divine binding touched by the conflict. |
+| Heatwork configuration and operational stop | The recognized steward or relic custodian | Technical custody does not decide the political distribution of safely available surplus. |
+| Labor, goods, military, and hospitality dues | The relevant branch or public-service office, under recorded terms | Officials cannot seize something without a record and make it lawful by later calling it tax. |
+| Appeal | The nearest superior competent over both parties, using surviving records and witnesses | The appeal is not automatically independent of the hierarchy being challenged. |
+| External tribute | The treaty or conquest settlement, and the authorities able to enforce it | Tribute does not prove that every tributary person submitted magically or voluntarily. |
 
-1. champions secure immediate dependents, stores, and records;
-2. office keepers continue essential heat, water, food, and safety work;
-3. direct subordinates declare recognition, rival claim, or departure;
-4. the superior branch hears challenges and decides material custody it can enforce;
-5. [[Spoilers/Institutions/Death and Binding Law|death and binding procedure]] inventories unresolved Soiru'i, God, and Projection claims;
-6. records distinguish the successor's new oaths from relations that merely persisted.
+The system's characteristic abuse is to erase these limits. A victory is then made to justify claims over expertise, property, consent, the record of past obligations, and even the dead.
 
-Sorcerer God Beasts often collapse after a living anchor dies, making succession especially violent. The hierarchy's material procedures exist to stop divine instability from extinguishing the arcology. Champions can abuse temporary custody to starve rivals until they “consent.” Essential-service records and multiple storekeepers are the main negative check.
+## When an office changes hands
 
-## Challenge and restraint
+An office includes a defined task, resources, dependents, and a position in the branch tree. A successful challenge can change the recognized office holder. It does not necessarily transfer the former holder's magical bindings, technical qualifications, private possessions, or covenants.
 
-Jamnai does not eliminate violence; it tries to put violence where the hierarchy can survive it. Recognized challenges name the office or submission at stake, witnesses, boundary, acceptable weapons or magic, dependents protected during the contest, and the superior who will record the outcome. Challenges near live heatworks, food stores, or crowded shelters violate the holder's protection duty.
+Death or defeat requires several kinds of work:
 
-Victory is evidence of victory. It is not proof that the victor understands an archive, can maintain a valve, is beloved by dependents, or possesses every right claimed by the loser. The institution regularly fails at this sentence because Sorcery rewards exactly the opposite simplification.
+1. Champions secure the immediate dependents, stores, and records.
+2. Office keepers continue essential heat, water, food, and safety work.
+3. Direct subordinates declare whether they recognize the successor, put forward a rival claim, or depart.
+4. The superior branch hears challenges and decides custody of material resources where it can enforce that decision.
+5. [[Spoilers/Institutions/Death and Binding Law|Death and binding procedure]] inventories unresolved Soiru'i, God, and Projection claims.
+6. Registrars distinguish new oaths made to the successor from relationships that have simply continued.
 
-## Refusal and appeal
+Sorcerer God Beasts often collapse when their living anchor dies. That makes succession especially violent. The procedures for securing people, supplies, and essential work are meant to keep divine instability from extinguishing the arcology.
 
-A subordinate can refuse by denying that an order falls within the recorded oath, asserting that promised protection has failed, invoking an office boundary, or accepting punishment while declining compliance. A shielded dependent can appeal through household, work office, champion, or sect. A tributary can invoke its settlement rather than a personal branch oath.
+Temporary custody creates its own opportunity for abuse. Champions can withhold supplies from rivals until they “consent” to a successor. Essential-service records and multiple storekeepers are the main checks against that use of hunger.
 
-Appeal climbs to the nearest superior with authority over both parties. This preserves a clear route and keeps judgment inside the same hierarchy whose extraction may be contested. Champions and [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] can sponsor a petitioner, preserve duplicate records, provide food during suspension, and make retaliation more expensive.
+## Challenges
 
-Operational refusal is narrower and stronger. A recognized steward can stop a named unsafe act until qualified review. The branch may still remove or punish the steward politically, but it cannot make the act safe by doing so. If another operator accepts custody, that operator inherits the recorded risk and must state the new claim.
+Jamnai tries to contain violence within contests the hierarchy can survive. A recognized challenge must identify the office or submission at stake, the witnesses, the contest boundary, the permitted weapons or magic, the dependents to be protected during it, and the superior who will record the result.
 
-Flight is the appeal beyond the tree: another branch, a tributary frontier, sect sanctuary, the storms, or another polity. Pursuers describe it as theft of labor and protection investment. Fugitives describe protection that cannot be left as captivity. No universal reconciliation exists.
+Holding a challenge near live heatworks, food stores, or crowded shelters violates the holder's protection duty.
 
-## External tributaries
+The outcome establishes who won the contest. It cannot establish that the winner understands an archive, can maintain a valve, is loved by dependents, or possesses every right the loser claimed. Jamnai regularly fails to maintain this distinction because Sorcery itself rewards conquest and submission.
 
-Tributary bodies pay through local authorities so Jamnai does not need to administer every household. The relevant branch promises defense, route access, trade, recognition of local office, or restraint from further conquest. Tribute may include grain, livestock, ore, craft goods, transport, guides, recruits, hostages, and rights of passage.
+## Refusal, appeal, and flight
 
-External leaders can exploit Jamnai protection against local rivals. Jamnai branches can reclassify an exceptional levy as permanent duty. Intermarriage and military service create real mixed loyalties alongside coerced assimilation. A person may benefit from protected trade while rejecting the claim that an ancestor's defeat submitted them forever.
+A subordinate can refuse an order on several grounds: it falls outside the recorded oath, promised protection has failed, or it infringes the limits of a particular office. A subordinate may also decline to comply while accepting punishment.
 
-Tributary records should name the authority that promised, the population and resources reached, the duration, and the remedy for breach. Jamnai doctrine prefers a simpler branch diagram. Resistance survives in the details omitted from that diagram.
+Shielded dependents can seek an appeal through a household, work office, champion, or sect. Tributaries can invoke the terms of their settlement rather than argue from a personal branch oath.
 
-## Institutional failure
+The case goes to the nearest superior with authority over both parties. This gives a petitioner a defined route, but leaves the judgment within the hierarchy whose demands may be the subject of the complaint. Champions and [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] can help by sponsoring the petitioner, preserving duplicate records, providing food during suspension, and making retaliation more costly.
 
-The hierarchy becomes incoherent when:
+A technical steward's operational refusal has a narrower but stronger basis. A recognized steward can stop a named unsafe act until qualified review. Political authorities may still remove or punish the steward; doing so does not resolve the danger. Any replacement operator who accepts custody inherits the recorded risk and must state the new claim under which they propose to act.
 
-- magical defeat is forged into a civil oath or inherited title;
-- branch protection becomes extraction without remedy;
-- a victor assumes technical office by conquest alone;
-- a champion protects the superior from consequences rather than dependents from harm;
-- an appeal is heard only as a new challenge the weaker party cannot survive;
-- a succession custodian keeps emergency power after the branch stabilizes;
-- external tribute is treated as consent by every descendant;
-- registry copies disappear and the summit owns the only memory of obligation.
+People can also try to escape their current protection relationship through flight. Flight may lead to another branch, a tributary frontier, sect sanctuary, the storms, or another polity. Pursuers call it theft of labor and of the investment made in protection. Fugitives call protection that cannot be left captivity. Jamnai has no universal reconciliation of those claims.
 
-Its self-correction is also dangerous. Replacing a failed holder through challenge preserves the tree and can leave the people harmed beneath it uncompensated.
+## Tribute beyond the core
+
+External tributary bodies pay through their local authorities. This allows Jamnai to collect tribute without administering every household. In return, the relevant branch promises defense, route access, trade, recognition of local office, or restraint from further conquest.
+
+Tribute may consist of grain, livestock, ore, craft goods, transport, guides, recruits, hostages, or rights of passage. The record should identify who made the promise, which people and resources it reaches, how long it lasts, and what remedy follows a breach.
+
+Both sides can use the arrangement against others. External leaders may use Jamnai's protection against local rivals. Jamnai branches may turn an exceptional levy into a permanent obligation. Intermarriage and military service create genuine mixed loyalties alongside coerced assimilation. Someone can benefit from protected trade while rejecting the claim that an ancestor's defeat submitted them forever.
+
+Official doctrine prefers to show tributaries as another set of branches. The terms left out of that simple diagram can give resistance its grounds: whose promise it was, what it covered, and whether it still applies.
+
+## How the hierarchy fails
+
+The institution fails when one kind of authority is used to claim another:
+
+- Officials turn magical defeat into a civil oath or inherited title that it did not establish.
+- Holders continue extracting dues after protection has failed, while denying any remedy.
+- Victors claim technical office solely because they won.
+- Champions shield superiors from consequences instead of shielding dependents from harm.
+- Officials treat an appeal as a fresh challenge that the weaker party cannot survive.
+- Succession custodians retain emergency powers after the branch has stabilized.
+- Branches treat external tribute as consent from every descendant.
+- Registry copies disappear, leaving the summit as the only keeper of what anyone owes.
+
+Even correction can leave the harm intact. A challenge may replace a failed holder and preserve the branch structure while providing no compensation to those injured beneath it.
 
 ## The Ash-Valve Refusal
 
-[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the factual event. Its hierarchy consequence is a bounded red-line stop: a qualified technical custodian can halt an unsafe configuration until qualified review records a different safe path. The stop does not grant general civic command or erase the branch's duty to appeal and protect dependents.
+[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] owns the event's factual account. Its consequence for the hierarchy is a limited **red-line stop**: a qualified technical custodian can halt an unsafe configuration until qualified review records a different safe path.
 
-A superior may treat violation of that boundary as failure of protection and remove a holder through the hierarchy's own challenge procedure. That correction preserves the tree; it does not automatically restore fugitives, compensate tributaries, or dissolve obligations imposed before review.
+That power applies to the unsafe operation. It grants no general civic command and leaves the branch responsible for pursuing appeal and protecting dependents.
+
+A superior may judge violation of the stop to be a failure of protection and remove the holder through the hierarchy's challenge procedure. This can correct the office without settling the harm already done. It does not automatically restore fugitives, compensate tributaries, or cancel obligations imposed before the review.
 
 ## Dungeon seams
 
-- A sealed heat gallery contains the only bypass around a failing main and a shrine that claims the dead custodian still refuses entry.
-- A fallen branch registry proves a tributary settlement's duty expired generations ago; the current holder pays a delving party to lose it.
-- A champion's succession cache contains public stores, private plunder, and an active covenant that answers attempts to separate them.
-- A buried challenge chamber still contains containment barriers; reopening it could safely settle a present contest or restore a forgotten submission route.
-- Salvaging a geothermal component grants possession, not the right to extinguish the ward attached to its output. See [[Spoilers/Institutions/Relic Custody|Relic Custody]].
-- An old escape route through the Crown wreck is now a dungeon corridor used by sect couriers, fugitives, tax collectors, and whatever learned to follow them.
+- A sealed heat gallery holds the only bypass around a failing main. It also contains a shrine claiming that the dead custodian still refuses entry.
+- A fallen branch's registry proves that a tributary settlement's duty expired generations ago. The current holder pays a delving party to lose the evidence.
+- A champion's succession cache mixes public stores with private plunder. An active covenant responds to attempts to separate them.
+- A buried challenge chamber retains its containment barriers. Reopening it could provide a safe place for a present contest—or restore a forgotten route of submission.
+- A salvaged geothermal component can belong to its finder while still supplying a ward. Possession does not grant the right to extinguish that ward. See [[Spoilers/Institutions/Relic Custody|Relic Custody]].
+- An old escape route through the Crown wreck has become a dungeon corridor. Sect couriers, fugitives, tax collectors, and whatever learned to follow them now use it.
 
 ## Unresolved
 
