@@ -22,128 +22,135 @@ tags:
 
 # Sorcery — Jamnai and the Terjamna
 
-Sorcery, signature 100 and Sequence II, was Prometheus's first designed refinement of Luck. He repeatedly divided its Ring into conquest tribes, granted reproduction to victors, exterminated losers, and restarted the conflict among their descendants. The resulting Gift is focused, intermittent, and useful under immediate pressure.
+Jamnai is a Crown City whose people, the terjamna, depend on an inherited geothermal arcology: a built environment that supplies heat, water, food-growing space, and shelter. The city landed far coldward, behind destructive storms. Its inhabitants survived using this self-sustaining structure, built with post-Fall technology. By the time routes through the storms opened, they had inherited its workings as religion and custodial practice rather than as manufacture they fully understood.
 
-A sorcerer's unconscious perception selects precise interventions in local conflict. Champion traditions describe **the answer in the motion**: the body commits a strike, step, word, or refusal under pressure before the performer can explain why that act can reach its first local result. There is no inner forecast to report.
+Jamnai's government organizes people into a hierarchy of superiors and subordinates, called branches. Victory and accumulated submissions establish rank. Branches collect labor and goods, promise protection, and compete for power. Sorcery gives some submissions a literal magical effect: a defeated Sorcerer's power can be routed beneath the victor. Civic oaths, household dependence, and tribute do not necessarily create that relation, however often rulers speak as though they do.
 
-High-branch schools say a proper answer carries the superior's victory through
-the subordinate's hand. Challenger schools say rank merely creates the
-conflict and the answer belongs to the champion who acts. Some Soiru'i sects
-attribute a divided or self-defeating motion to friction among living person,
-Beast, dead exemplar, and bound power. The backstage constraint is narrower:
-the active coupled person-Beast relation supplies the local orientation. An
-order, oath, fear, or divine route may shape it but does not magically turn the
-superior's complete strategy into the selected result. No outcome reveals
-consent or the actor's morally authentic wish.
+Two kinds of power therefore meet throughout Jamnai. A champion can win a command. Keeping the people under that command alive still requires someone who knows how the heatworks function.
 
-If the opening has been removed, lies outside the local conflict, or demands unavailable matter, energy, or potential, the motion can fail like any other act.
+## Sorcery: acting before understanding
 
-When Sorcerer Beasts directly overlap, their potential drains until one submits. Submission routes the defeated power beneath the victor. Sorcery can independently found God Beasts, and its Gods tend to reproduce conquest hierarchies. The mechanics remain owned by [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]]. Jamnai law interprets them; it does not make every oath a magical fact.
+Sorcery is a Gift that selects a precise action under immediate pressure. A Sorcerer may strike, step, speak, or refuse before being able to explain why that action can produce its first local result. Champion traditions call this **the answer in the motion**. The Sorcerer receives no conscious forecast to describe afterward.
 
-## Jamnai
+In the author classification, Sorcery is signature 100 and Sequence II: Prometheus's first designed refinement of Luck. He repeatedly divided its Ring into conquest tribes, allowed the victors to reproduce, exterminated the losers, and restarted the conflict among their descendants. The resulting Gift is focused and intermittent, suited to immediate conflict.
 
-The Crown City Jamnai landed far coldward behind destructive storms. Its people, the terjamna, survived through a geothermal, self-sustaining arcology built with post-Fall technology. By the time routes through the storms opened, its workings had become a religious inheritance rather than understood manufacture.
+Schools disagree over whose answer the motion expresses. High-branch schools teach that a proper answer carries a superior's victory through a subordinate's hand. Challenger schools say rank creates the conflict, but the answer belongs to the champion who acts. Some Soiru'i sects explain divided or self-defeating motion as friction among the living person, their Beast, a dead exemplar, and bound power.
 
-The arcology remains Jamnai's material heart. Geothermal wells and inherited machinery provide heat, power, water circulation, workshops, protected growing space, and habitable shelter in a region that punishes interruption. Its buried service levels are older than the present state and only partly understood. Rank can decide who receives a surplus; it cannot make a damaged valve obey.
+The author-level rule is narrower than any of these doctrines. The active relation between person and Beast supplies the local orientation that guides the unconscious choice. An order, oath, fear, or divine route may shape that orientation. None transfers a superior's complete strategy into the selected result. Nor does the outcome reveal whether the actor consented or what they morally and authentically wished.
 
-The source describes a strict hierarchy based on victory and accumulated submissions. Champions may defend a capable superior; leaders protect subordinates because lateral conquest cuts branches from their own power. [[Spoilers/Institutions/Jamnai Submission Hierarchy|Jamnai's submission hierarchy]] turns those relations into offices, obligations, taxation, protection, and succession. It distinguishes magical defeat, civic oath, protected dependency, and external tribute even where rulers benefit from calling all four submission.
+The Gift still needs an available opening. If another act has removed it, if the required result lies outside the local conflict, or if the necessary matter, energy, or magical potential is unavailable, the motion can fail like any other act.
 
-Dead warrior residues called **Soiru'i** can be championed by living followers. [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] use that practice to support hierarchy, maintain the dead, feed survivors, shelter refusers, and contest the living officials who claim to speak for every defeated person. What a Soiru'i is remains metaphysically unresolved; sect doctrine is not author proof.
+When Sorcerer Beasts directly overlap, their potential drains until one submits. The defeated Beast remains, but its power is routed beneath the victor. Sorcery can also independently found God Beasts, and its Gods tend to reproduce conquest hierarchies.
 
-Promethean selection and the old narrator characterize terjamna as large, hardy, violent, and unintelligent. It also says core Jamnai preserved these features while conquered populations intermarried with conquerors. Only the engineered physical pressure, conquest history, and existence of post-conquest mixing are retained as source facts. Intelligence, moral character, gendered leadership, and social destiny require in-world attribution and present evidence.
+[[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]] own these mechanics. Jamnai law interprets them. A legal oath does not become a magical fact merely because the law calls it submission.
 
-Jamnai contains maintenance workers, growers, traders, parents, record keepers, ritual specialists, tributary communities, captives, migrants, weakly expressed Sorcerers, mixed-style people, and Null inhabitants as well as champions. The hierarchy reaches into their lives; it does not exhaust those lives.
+## The people and the city
 
-## Material rule under the storms
+The arcology remains Jamnai's material heart. Geothermal wells and inherited machinery provide heat, power, water circulation, workshops, protected growing space, and habitable shelter. In this region, interruptions are dangerous. Buried service levels predate the present state, and their workings are only partly understood.
 
-The cold and the arcology force authorities to keep several kinds of ownership separate. Geothermal stewards and recognized relic custodians own safe operation of the configuration entrusted to them. Branch officers assign labor, collect obligations, and distribute protected shares. Households and wards hold use claims through residence, work, custom, and dependence. A summit holder may command an expedition or levy but cannot become competent to restart a failing heat trunk by winning a duel.
+Champions matter here, but they are only part of the population. Jamnai also contains maintenance workers, growers, traders, parents, record keepers, ritual specialists, tributary communities, captives, migrants, weakly expressed Sorcerers, mixed-style people, and Null inhabitants. The hierarchy affects all these lives without accounting for everything people do.
 
-This separation is always under attack. Branch holders seek priority for barracks, foundries, baths, estates, or expansion. Stewards can hide behind technical language to protect their own clients. Tributary wards may supply fuel, food, or labor while receiving the first cuts during shortage. The arcology survives because the authorities bargain; it fails when one turns dependency into proof of ownership.
+The old source narrator describes the terjamna as large, hardy, violent, and unintelligent, associating these traits with Promethean selection. It also claims that core Jamnai preserved them while conquered populations intermarried with conquerors. The adopted source facts are more limited: engineered physical selection pressure, a history of conquest, and post-conquest mixing. Claims about intelligence, moral character, gendered leadership, or social destiny require an identified in-world speaker and present evidence.
 
-Most obligation moves upward through branch dues: labor shifts, goods, food, workshop output, transport, information, military readiness, and hospitality. A separate service burden maintains heatworks and other public systems. External tributaries owe negotiated goods, recruits, access, or passage without every resident becoming a magically submitted subordinate. The official doctrine often prefers not to notice the distinction.
+Living followers can also champion dead warrior residues called **Soiru'i**. What these residues are remains metaphysically unresolved. [[Spoilers/Institutions/Soiru'i Sects|Soiru'i Sects]] maintain the dead and use the practice of championing them in several ways: to support hierarchy, feed survivors, shelter people who refuse orders, and challenge officials who claim to speak for everyone defeated beneath them. A sect's explanation of the dead is doctrine, not author proof.
 
-## Office and branch life
+## Who controls heat, work, and supplies
 
-A recognized branch holder claims protection and service from direct subordinates. Direct subordinates claim the same from those beneath them. Champions deter lateral attack, enforce judgments, and may hold a branch together during succession. Registrars preserve who submitted, who swore, what protection was promised, and which duties were inherited or imposed.
+Jamnai must distinguish authority over people from competence with machinery. Several groups hold different claims within the arcology:
 
-Civil office follows branch support but is not identical to raw magical power. A strong Sorcerer may seize a command and still require clerks, stewards, mediators, and workers whose competence cannot be won in combat. A weakly Gifted champion may hold great legitimacy by keeping promises and preventing a superior's branch from being cut apart.
+- **Geothermal stewards and recognized relic custodians** control the safe operation of the equipment configuration entrusted to them.
+- **Branch officers** assign labor, collect obligations, and distribute protected shares.
+- **Households and wards** hold claims to use space and services through residence, work, custom, and dependence.
 
-Sorcerous submission is the most explicit attempt to remove a competing oracle
-from the field. The defeated Beast remains but its potential is routed beneath
-the victor, allowing the superior to act through power that would otherwise
-oppose it. Jamnai political language extends that success to households,
-tributaries, offices, and foreign peoples even when no magical relation exists.
+The summit holder can command an expedition or levy. Winning a duel does not qualify that holder to restart a failing heat trunk. Rank can allocate a surplus; it cannot make a damaged valve work.
 
-That extension is useful because a branch whose scouts, stores, registrars,
-champions, and Sorcerers answer one holder can close many local alternatives
-before a fight. It also fails at the seams. A heat steward's knowledge, a
-Prophet's changed horizon, a Sarxe barrier, a fugitive's unknown route, or a
-Soiru'i sect's duplicate record can remain outside the victor's submission.
-The hierarchy then confronts an independent cause it had entered as property.
+These divisions are disputed in practice. Branch holders seek priority for barracks, foundries, baths, estates, and expansion. Stewards can use technical language to shield favored clients. Tributary wards may provide fuel, food, or labor and still suffer the first cuts during shortages. Keeping the arcology running requires these authorities to bargain. It breaks down when one treats another's dependence as proof that it owns the whole decision.
 
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the wider
-interaction. Jamnai institutions own the repeated political claim that ordered
-submission is the only future in which everyone survives.
+Most obligations travel upward as branch dues. People owe labor shifts, goods, food, workshop output, transport, information, military readiness, and hospitality. A separate public-service burden maintains heatworks and other shared systems. External tributaries owe negotiated goods, recruits, access, or passage. Those obligations do not magically submit every resident, although official doctrine often blurs the difference.
 
-Succession exposes the difference between magical hierarchy and material government. When a holder dies, their God Beast may weaken or collapse, subordinates may contest the routing relation, and rivals may attack. Champions temporarily guard stores, records, dependents, and public obligations. They do not automatically inherit every binding. Direct subordinates may recognize a successor, compete, split, or seek protection higher in the tree. Essential heat and water duties continue during the open interval; using succession to suspend them is treated as failure of protection even when no independent court can enforce that principle cleanly.
+## How a branch governs
 
-## Ordinary workflow
+A recognized branch holder claims protection and service from direct subordinates, who make the same claims on those beneath them. Champions deter attacks from neighboring branches, enforce judgments, and can hold a branch together when its holder dies. Registrars record who submitted, who swore an oath, what protection was promised, and which duties were inherited or imposed.
 
-An ordinary day is not an endless tournament. A household receives or contests a heat and ration claim, sends members to assigned or paid work, contributes branch and public-service dues, trades within the arcology, and calls upon a protector when another branch seizes goods or labor. A workshop head negotiates quotas with a branch officer and parts with a relic custodian. A registrar records births, deaths, oaths, transfers, and challenges because future obligation depends on the difference among them.
+The source's hierarchy rests on victory and accumulated submissions, but it also gives superiors reasons to protect those below them. A rival who conquers their subordinates cuts away part of their power. Champions may therefore defend a capable superior rather than seek to replace them. [[Spoilers/Institutions/Jamnai Submission Hierarchy|Jamnai's submission hierarchy]] turns these relationships into offices, obligations, taxation, protection, and succession. It distinguishes magical defeat, civic oath, protected dependency, and external tribute, even when a ruler benefits from calling all four submission.
 
-Challenges are dangerous and therefore usually witnessed, bounded, and kept away from live infrastructure. A recognized victory may transfer office or submission. An alley assault does not automatically rewrite the tax roll. Authorities who benefit from the assault may claim otherwise; witnesses and records are where that lie is fought.
+Branch support helps determine civil office; raw magical strength does not settle it alone. A powerful Sorcerer may seize command and still need clerks, stewards, mediators, and workers. Their competence cannot be acquired by defeating them. Conversely, a weakly Gifted champion can gain substantial legitimacy by keeping promises and preventing a superior's branch from being conquered piece by piece.
+
+For an ordinary household, this government means receiving or contesting heat and ration claims, sending members to assigned or paid work, contributing branch and public-service dues, and trading inside the arcology. If another branch seizes goods or labor, the household calls on its protector. Workshop heads negotiate output quotas with branch officers and parts with relic custodians. Registrars record births, deaths, oaths, transfers, and challenges because each can change what someone owes.
+
+Most days are not tournaments. Challenges are dangerous enough that they are usually witnessed, bounded, and kept away from live infrastructure. A recognized victory may transfer an office or establish submission. An alley assault does not automatically change the tax roll. Officials who profit from one may claim otherwise; witnesses and records are the means of disputing that claim.
+
+## What submission can—and cannot—control
+
+Magical submission gives a superior access to power that would otherwise oppose them. It is Sorcery's most explicit way of removing an independently acting oracle—a rival source of magical intervention—from a conflict. The defeated Beast remains, but its potential now runs beneath the victor.
+
+Jamnai's political language extends this relation to households, offices, tributaries, and foreign peoples, including cases where no magical submission exists. Coordinated government can make the comparison persuasive. A holder whose scouts, stores, registrars, champions, and Sorcerers all answer to them can eliminate many local alternatives before a fight begins.
+
+That coordination still has limits. A heat steward may know something the holder does not. A Prophet's changed horizon, a Sarxe barrier, a fugitive's unknown route, or a Soiru'i sect's duplicate record can remain beyond the victor's control. The hierarchy then meets something capable of changing the outcome independently, despite having recorded it as property.
+
+[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the wider interactions among such powers. Jamnai institutions make the political claim that ordered submission is the only future in which everyone survives. That claim belongs to them.
+
+## When a holder dies
+
+Succession makes the gap between magical hierarchy and practical government especially dangerous. A dead holder's God Beast may weaken or collapse. Subordinates may contest the magical relation that routes their power upward, while rivals attack the branch.
+
+Champions temporarily guard stores, records, dependents, and public obligations. This does not automatically give them every binding the dead holder possessed. Direct subordinates may recognize a successor, compete for the position, split away, or seek protection from someone higher in the tree.
+
+Heat and water duties continue while succession is unsettled. Suspending them during the contest counts as a failure of protection, even where no independent court can enforce that principle cleanly.
 
 ## Refusal, appeal, and flight
 
-Jamnai doctrine praises loyalty, but the hierarchy must still distinguish refusal from treachery if it wants functional specialists and living dependents.
+Loyalty is central to Jamnai doctrine. Even so, a hierarchy that needs competent specialists and surviving dependents must leave some way to distinguish refusal from treachery.
 
-- A subordinate may claim that an order exceeds the recorded submission or breaks promised protection.
-- A heat steward may issue an operational stop when an order crosses a known failure boundary. [[Spoilers/Institutions/Relic Custody|Relic Custody]] owns that technical refusal; branch law decides the political consequences.
-- A champion may intercede for dependents or carry an appeal upward.
-- An appeal normally climbs to the nearest common superior, which makes it legible but not independent.
-- A Soiru'i sect may preserve duplicate testimony, sponsor an appeal, feed a suspended household, or offer sanctuary.
-- A person may flee to another branch, an external tributary, a sect network, or another polity. Flight is constrained by storms, border patrols, family leverage, inherited claims, and the likelihood that branch records travel farther than the fugitive.
+A subordinate can argue that an order exceeds their recorded submission or violates promised protection. A champion may intercede for dependents or carry their appeal upward. Appeals normally go to the nearest common superior: there is a recognized person to hear the dispute, but that person remains inside the hierarchy.
 
-No universal right of exit has been adopted. The possibility of refusal is real; so are detention, confiscation, challenge, pursuit, and the reclassification of an oath-breaker as prey.
+Technical refusal has a separate basis. A heat steward may stop an operation that crosses a known failure boundary. [[Spoilers/Institutions/Relic Custody|Relic Custody]] owns that authority to stop unsafe work. Branch law determines the political consequences of using it.
 
-## External tributaries
+Soiru'i sects can help people survive long enough to contest an order. They may keep duplicate testimony, sponsor appeals, feed a household whose support has been suspended, or provide sanctuary.
 
-Expansion created populations that owe Jamnai branches goods, passage, military support, or strategic obedience without sharing core Terjamna lineage or doctrine. Local rulers and assemblies may remain in place because tribute is cheaper than direct administration. Some residents enter branch service, intermarry, become champions, or seek Jamnai protection. Others preserve testimony that “submission” began as conquest and remains an imposed tax.
+Flight is another possibility. Someone may seek another branch, an external tributary, a sect network, or another polity. Storms and border patrols limit the routes. Family leverage and inherited claims can make departure costly, and branch records may travel farther than the person escaping them.
 
-The hierarchy tends to treat a tributary community as a subordinate branch. That is administratively useful and metaphysically suspect. A treaty signed by a defeated ruler does not prove that every inhabitant's Projection entered the victor's God hierarchy. [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]] and [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] preserve the distinction.
+No universal right of exit has been adopted. Refusal is possible, but it can lead to detention, confiscation, challenge, or pursuit. An authority may also reclassify an oath-breaker as prey.
 
-Tributaries provide the regime with trade, agricultural goods, specialist labor, routes, recruits, and buffers against the coldward frontier. They also offer fugitives communities in which Jamnai records have weaker force. The same village can depend on Jamnai defense and shelter people escaping a Jamnai patron.
+## Communities under tribute
 
-## Expansion and Channeler conflict
+Jamnai's expansion brought populations under its branches without making them part of core Terjamna lineage or doctrine. These communities owe goods, passage, military support, or strategic obedience. Their own rulers and assemblies may remain because collecting tribute costs less than governing them directly.
 
-Terjamna forces later broke into Sarxe lands. A Soiru'i sacrifice at static Saxfoldi created the beacon associated with [[Spoilers/Polities/Channeling - Sarxe#The two displacements|Ji'esti]]. This event postdates an earlier Ju'onai displacement of Channeler communities.
+Some residents enter branch service, intermarry, become champions, or seek Jamnai protection. Others preserve accounts of how their “submission” began in conquest and continues as an imposed tax.
 
-Ji'esti is also an institutional scar inside Jamnai. Hierarchical sects remember the sacrifice as proof that a champion can open the way for conquest. Resistance sects remember that one dead warrior's cultivated presence exposed civilians to annihilation. Neither memory settles what the Soiru'i itself intended.
+The hierarchy tends to administer a tributary community as though it were a subordinate branch. The paperwork may work that way; the magical relation need not. A defeated ruler's treaty does not establish that every inhabitant's Projection entered the victor's God hierarchy. [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]] and [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] preserve that distinction.
 
-The Terjamna power contesting [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]] uses submission, protection, hosted providers, and tribute beyond Jamnai. Its exact identity and relationship to the current Crown hierarchy remain unresolved.
+Tributaries supply trade, agricultural goods, specialist labor, routes, and recruits. They also buffer the regime against the coldward frontier. For fugitives, they offer places where Jamnai's records carry less force. A village can rely on Jamnai for defense while sheltering people escaping a Jamnai patron.
 
-## Ash-Halo branch politics
+## Expansion and the Channelers
 
-[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] gave high-branch
-doctrine an image of perfect protection: stored force entered a champion,
-divine raiment closed, and the gate held. Its living branch dispute concerns
-admission: whether a mortuary roll or recognized Soiru'i share may enter the
-court before the route opens, and which branch officer can enforce that choice.
+Terjamna forces later broke into Sarxe lands. At static Saxfoldi, a Soiru'i sacrifice created the beacon associated with [[Spoilers/Polities/Channeling - Sarxe#The two displacements|Ji'esti]]. This happened after an earlier Ju'onai displacement of Channeler communities.
 
-[[Spoilers/Dungeons/The Ash-Halo Court|The present court]] makes that conflict
-playable before another armament closes.
+Jamnai sects draw opposing lessons from Ji'esti. Hierarchical sects remember the sacrifice as evidence that a champion can open a route for conquest. Resistance sects remember a dead warrior whose cultivated presence exposed civilians to annihilation. Neither account establishes what the Soiru'i intended.
 
-## Historical stress: the Ash-Valve Refusal
+A Terjamna power also contests [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]], using submission, protection, hosted providers, and tribute beyond Jamnai. Its identity and relationship to the present Crown hierarchy remain unresolved.
 
-[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the factual event. Its polity consequence is that Jamnai's arcology cannot survive if victory can seize technical authority: a branch must preserve a bounded operational stop even while the hierarchy retains political judgment over refusal.
+## The Ash-Halo dispute
 
-The case also exposes the limit of Jamnai self-correction. Rank corrected a dangerous holder and kept the heat flowing without making tributary residents equal owners of the branch or repairing every consequence imposed on them.
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] supplies high-branch doctrine with a powerful example of protection. Stored force entered a champion, divine raiment closed around them, and the gate held.
 
-## Failure and dungeon seams
+The continuing branch dispute concerns what may be admitted to the court before the divine route opens. Must a mortuary roll be allowed inside? May a recognized Soiru'i share enter the working? Which branch officer can enforce either decision?
 
-The hierarchy fails when protection becomes a word for extraction, when a superior's death turns every service into contested property, when registrars rewrite conquest as consent, when champions defend the branch instead of its people, or when victory is allowed to overrule technical reality.
+[[Spoilers/Dungeons/The Ash-Halo Court|The present court]] places those choices in play before another armament closes.
 
-Jamnai's arcology makes these failures explorable. Buried heatworks may contain the valve that controls an inhabited ward, old challenge chambers, severed branch registries, Soiru'i shrines, geothermal galleries, siege stores, or routes used by fugitives. A recovered submission roll can change living tribute. A component removed as treasure can extinguish a district. A dead champion may guard a branch everyone above has forgotten and everyone below still pays.
+## The Ash-Valve Refusal and technical authority
+
+[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the facts of that historical event. Its consequence for Jamnai's government is clear: victory cannot be allowed to transfer technical authority if the arcology is to survive. A branch must preserve a bounded right to stop unsafe operation, even while retaining political authority to judge the person who refuses.
+
+The case also shows how limited correction within the hierarchy can be. A higher rank removed a dangerous holder and kept heat flowing. That did not give tributary residents equal ownership of the branch or repair every consequence imposed on them.
+
+## Where the system breaks—and where play enters
+
+Jamnai fails its people when a promise of protection becomes a demand for resources with nothing returned; when a holder's death makes every service disputed property; or when registrars describe conquest as consent. Champions can preserve a branch while abandoning the people it is supposed to protect. A victor can insist on an operation that the machinery cannot safely perform.
+
+The arcology gives these failures physical places to investigate. Buried heatworks may contain a valve controlling an inhabited ward, old challenge chambers, severed branch registries, Soiru'i shrines, geothermal galleries, siege stores, or fugitive routes.
+
+What a party finds can still govern people above. Recovering a submission roll can change living tribute obligations. Removing a component as treasure can extinguish a district. A dead champion may guard a branch that everyone above has forgotten while everyone below still pays.
 
 ## Unresolved
 
