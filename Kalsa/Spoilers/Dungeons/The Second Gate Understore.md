@@ -15,205 +15,148 @@ tags:
 
 # The Second Gate Understore
 
-The Second Gate Understore is a current Ghostlight situation beneath a cargo
-gate in [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. It
-puts a party inside an unresolved delivery rather than after its records have
-become history. The gate, ward, house, people, offices, and personal names below
-are canonical to this site; the city's proper name and its exact sector remain
-unresolved.
+The Second Gate Understore is an old cargo route beneath a gate in [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. In this current Ghostlight situation, the party must escort a marked grain load to Reed Ward Store while officials, workers, and oracles act on different pieces of information. The delivery is still underway. Its outcome has not become history.
 
-The party begins with the sealed comparison record. The first gate bell is
-about to sound.
+Reed Ward bought the grain after a short harvest. The store has only enough for one reduced ration issue, which begins at the third gate bell. A watch captain has announced that grain still outside the ward at that bell will be requisitioned. The party must decide what information to share and how to help the load through before delay changes who holds it.
 
-## Site card
+Play begins just before the first bell. The party carries a sealed house report comparing two routes, its recipient list, and a courier charge authorizing escort of the load. The charge gives the party no ownership of the grain.
 
-| Question | Answer |
+The gate, ward, house, people, offices, and personal names given here are canonical to this site. The city's proper name and the site's exact sector remain unresolved.
+
+## Who decides what
+
+| Person or group | Responsibility and limits |
 |---|---|
-| Active target | A Papsenai working group is holding one marked grain load toward Reed Ward Store |
-| Immediate question | Which route, information, and custody will carry the load before the third bell? |
-| House oracle | Iven Tal compared the surface gate and the old understore route under named traffic and response assumptions |
-| Papsenai oracle | Pera Sai carries the working group's bond and feels pressure upon the grain and named store, not a map of branches |
-| Ju'onai oracle | Nerin Ju has an opening on the understore weigh mechanism and the load path through it |
-| Material owner | Daro Venn keeps the gate keys, counterweight stop, and maintenance board |
-| Charge issuer | Sela Orr issued the courier charge for Reed Ward and receives its return copy |
-| Party custody | The sealed house report, one recipient list, and authority to escort rather than own the load |
-| Initial support | Reed Ward owes the agreed escort food, pay, and ordinary injury support |
-| Change claims | Extraordinary hand-carriage, injury, or borrowed-equipment loss returns to Sela with the affected worker or owner; the charge does not prejudge final liability |
-| Clock | First bell receives Reed Ward's route slate; second bell moves the levy shift according to that public signal; third bell begins ration issue and a disputed requisition |
+| **Sela Orr, Reed Ward's buyer** | Issued the courier charge, chooses the route for the buyer, and receives the escort's return copy and later change claims. |
+| **Iven Tal, house oracle** | Compared the surface gate with the understore. Is responsible for that comparison and for stating when its assumptions expire. Does not choose the route. |
+| **Pera Sai, Papsenai oracle** | Carries the working group's bond to the marked grain and Reed Ward Store. Senses pressure on that commitment, without seeing a map of possible futures or identifying the source of the pressure. |
+| **Pera's working group** | Holds the load toward its promised destination. Changes to the bonded load or recipient require its witnesses. |
+| **Nerin Ju, Ju'onai oracle** | Has an opening: a bounded reading of how the understore weigh mechanism will bear the load passing through it. Is attached to the levy office as its mechanism reader, but cannot sign its orders. |
+| **Daro Venn, gate operator** | Keeps the gate keys, counterweight stop, and maintenance board. Decides whether either route's mechanism is safe to operate. Cannot decide who receives the grain. |
+| **The levy shift clerk** | Can sign a correction that redirects the expanded weigh crew under its existing order. |
+| **The Terjamna watch captain** | Has announced a third-bell requisition for public order. Has not disclosed whether seized grain would subsequently reach the ward store. |
+| **The party** | Holds the sealed report and recipient list, escorts the load, and can carry requests, preserve records, negotiate, or do physical work. Escort authority does not settle other people's claims. |
 
-## The live field
+Reed Ward owes the party the agreed escort food, pay, and ordinary injury support. Extraordinary hand-carriage, injury, or loss of borrowed equipment must be brought back to Sela with the affected worker or owner. The courier charge does not decide final liability in advance.
 
-Reed Ward has purchased the marked load after a short harvest. Its store holds
-one reduced issue before the third bell. Pera's working group excluded its seed
-and household reserve before departure. The bond names the marked grain and
-Reed Ward Store. It does not name a gate.
+## What the three oracles know
 
-Iven's report compares two reachable routes. The surface gate is faster if its
-ordinary porter crew remains in place, the expected levy desk does not expand,
-and the report reaches only its recipient list before entry. The understore is
-slower but less exposed; its old counterweight must carry the first two carts
-in a specified order. Iven owns this comparison, including its expiry. The
-buyer owns the choice. Daro owns whether either mechanism is safe to operate.
+### Iven's route comparison
 
-Nerin opened the understore mechanism after the report was sealed. The reading
-shows that two heavy carts entering together will drive a worn chain against
-its housing and close the transfer throat. Separating the carts or moving grain
-between them changes the framed system and ends the opening. Nerin can explain
-what will bear inside the mechanism. The reading grants no authority over the
-grain or gate.
+Iven's sealed report compares two routes the load can reach.
 
-Pera feels pressure increasing around the promised load. The bond does not say
-whether the source is the crowd, levy, competing buyers, the understore chain,
-or a patron who has not disclosed a plan. Changing the route preserves the
-target. Splitting the marked load or naming another store requires the working
-group's witness; doing so ends the present bond before a new one can be made.
+The **surface gate** is faster if the ordinary porter crew stays in place, the expected levy desk does not expand, and only the listed recipients receive the report before entry. Those conditions matter: people responding to the report can change the route it describes.
 
-## Intended responses
+The **understore** is slower but less exposed. Its old counterweight must carry the first two carts in a specified order.
 
-- Reed Ward's buyer, Sela Orr, plans to post the expected gate at the first bell
-  so porters and households can meet the load. That response appears in the
-  house briefing, but the size of the arriving crowd does not.
-- The levy office to which Nerin is attached has a conditional order. Nerin is
-  its mechanism reader, not its signatory. A runner watches Reed Ward's
-  first-bell route slate; the expanded weigh crew moves to that route at the
-  second bell. With no slate, it waits in the assay yard while the ordinary
-  surface desk remains. If conflicting slates appear, the first one signed by
-  Reed Ward controls unless the runner receives a correction signed by the
-  levy shift clerk before the second bell. This order was made after Iven
-  sealed the comparison and is absent from it.
-- A Terjamna watch captain has announced that grain remaining outside Reed Ward
-  at the third bell will be requisitioned for public order. The captain has not
-  disclosed whether the load will still reach the ward store afterward.
-- Daro will stop the understore if the carts enter abreast or anyone removes
-  the counterweight stop. The gate office cannot override the stop by calling
-  the grain urgent.
-- Pera will keep the marked load together unless the working group's excluded
-  reserve, recipient, or carriers are placed under direct threat.
+Iven can explain the comparison and when it ceases to apply. Sela, as buyer, chooses between the routes. Daro can refuse unsafe operation on either one.
 
-No actor holds the whole list. The party can assemble it, conceal parts of it,
-or let each person act from their present evidence.
+### Nerin's mechanism reading
 
-## What the party can change
+Nerin opened the understore mechanism to his reading after Iven's report was sealed. He found that if two heavy carts enter together, they will force a worn chain against its housing and close the transfer throat.
 
-### Information
+The reading concerns the mechanism with its present load arrangement. Separating the carts or moving grain between them changes the system being read and ends the opening. Nerin can explain what will bear within that system while the opening lasts; he cannot use the reading to claim the grain, command the gate, or choose the lawful route.
 
-The sealed report can go first to Sela, Pera, Daro, Nerin, the watch captain,
-or nobody. Opening it beyond the recipient list does not make the comparison
-false by itself; the responses it triggers can end its assumptions. The party
-can delay the first-bell slate, preserve who ordered that delay, or let Reed
-Ward announce a gate. Privately showing Nerin a route does not summon the levy
-crew. He can carry a mechanism report to the shift clerk; only the clerk's
-signed correction moves the runner under the office order.
+### Pera's bond
 
-### Route
+Before departure, Pera's working group excluded its seed and household reserve from the delivery. Its bond names the marked grain and **Reed Ward Store**, without specifying a gate. Taking another route therefore preserves the target.
 
-The surface gate requires crowd space, porter order, and acceptance of the levy
-desk. The understore requires Daro's release and carts entering in the order
-Nerin read. A maintenance throat can carry people and records but not loaded
-carts. Moving grain by hand through it consumes the remaining bells and puts
-the labor outside the buyer's original pay record. The party can demand a
-signed change claim before beginning, accept the exposure and preserve it
-afterward, or refuse work the charge did not buy.
+Pera feels increasing pressure around the promised load. She cannot tell whether it comes from the crowd, the levy, competing buyers, the understore chain, or a patron's undisclosed plan.
 
-### Target
+Splitting the marked load or naming another store requires the working group's witness. Such a change ends the present bond before another can be made. Pera intends to keep the marked load together unless the group's excluded reserve, recipient, or carriers come under direct threat.
 
-Pera can ask the working group to release the present bond, split the load among
-ward ovens, or name a different store. A runner must reach two group witnesses
-outside the gate before the change is recognized. The party may carry that
-request. Neither the buyer nor a captain can retarget the work by seizing its
-record.
+## The three-bell clock
 
-### Material system
-
-Daro can stop, sequence, or reopen the understore. The party can brace the worn
-chain, redistribute sacks between carts, clear the transfer throat, or operate
-the surface crowd bars. Each act consumes time, labor, and someone else's
-claimed equipment. An opening or forecast can inform the work; neither turns
-the mechanism.
-
-## Three bells
+The following plans are already in motion, but no actor knows all of them. The party can gather the missing information, withhold parts of it, or leave people to act on what they currently know.
 
 ### Before the first bell
 
-The surface porter crew remains ordinary. The house comparison retains its
-stated assumptions. Reed Ward does not know which gate to gather at. The party
-has the widest control over disclosure and the least public help.
+The surface porter crew is still the ordinary crew, and Iven's comparison retains its stated assumptions. Reed Ward does not yet know which gate to gather at. The party has its greatest control over who learns what, but the least public help.
+
+Sela plans to post the expected gate on Reed Ward's route slate at the first bell so households and porters can meet the load. The house briefing includes this intended announcement. It does not account for the size of the crowd that will arrive.
+
+A later levy order is missing from Iven's report entirely: it was issued after the comparison was sealed. Under that order, a runner watches Reed Ward's route slate and sends the expanded weigh crew to the announced route at the second bell.
 
 ### First bell
 
-Sela posts the expected gate unless persuaded to delay or name uncertainty.
-Households, porters, agents, and competing buyers begin moving. If the surface
-gate is named, its traffic assumption expires. If the understore is named,
-Daro faces pressure to release a mechanism the crowd cannot inspect.
+Unless persuaded to delay or state uncertainty, Sela posts the expected gate. Households, porters, agents, and competing buyers begin moving toward it.
+
+Naming the surface gate ends the report's traffic assumption. Naming the understore puts Daro under pressure to release machinery that the gathering crowd cannot inspect.
+
+The slate also tells the levy runner where to send the expanded crew. If conflicting slates appear, the first signed by Reed Ward controls. A correction takes precedence only if the levy shift clerk signs it and the runner receives it before the second bell.
 
 ### Second bell
 
-The expanded levy shift follows Reed Ward's first signed slate or a timely
-signed correction. With no slate it remains in the assay yard, and the ordinary
-desk continues at the surface gate. A complete hold and weigh can move the load
-past the third bell. Refusing the desk can preserve time and create a
-confiscation claim. Disclosing the understore opening may justify safe
-sequencing or give the levy office grounds to seek a corrected slate; it does
-not reveal the buyer's choice by magic.
+The expanded levy crew moves to the route on the controlling slate. With no slate, it stays in the assay yard; the ordinary levy desk remains at the surface gate.
+
+A full hold and weigh can delay the load beyond the third bell. Refusing the desk can save time while creating a claim for confiscation.
+
+Nerin cannot redirect the crew merely because someone privately tells him the chosen route. He can take a mechanism report to the shift clerk, who can sign a correction under the order. Disclosing the understore reading might support safe sequencing or give the levy office grounds to seek that correction. The reading itself does not magically reveal the buyer's choice.
 
 ### Third bell
 
-Reed Ward begins its reduced ration. The watch captain attempts the announced
-requisition against grain still outside the store. Pera's bond continues until
-the load reaches its target, is released, or is broken by an unauthorized
-split. Crowd pressure and armed custody become immediate obstacles; they do not
-predetermine the resolver.
+Reed Ward begins its reduced ration issue. The watch captain attempts the announced requisition against grain still outside the store. Whether requisitioned grain would later be delivered remains undisclosed.
 
-## Reachable state changes
+Pera's bond continues until the load reaches its target, the bond is released, or an unauthorized split breaks it. Crowd pressure and armed custody now become immediate obstacles. Neither determines the outcome in advance.
 
-- The marked load reaches Reed Ward intact. Who controlled the route and what
-  levy or coercion attaches to arrival depends on the chosen gate and record.
-- The load is split among ward ovens after a witnessed retargeting. Food enters
-  use quickly while the buyer, house, and levy office dispute contract and
-  assessment.
-- The watch takes custody before delivery. The party can preserve the bond
-  witness and recipient claim, accept a guarded delivery, or contest removal.
-- The understore closes around a cart. Rescue, grain preservation, mechanism
-  repair, and crowd control become one live problem.
-- The party delays for a fresh house comparison. The old report expires
-  cleanly, the third-bell pressure advances, and rival patrons gain time to act.
-- The convoy withdraws with its marked load. Reed Ward enters shortage, while
-  Pera's group preserves its people and rejects a bargain whose route no longer
-  exists.
+## What the party can do
 
-These states are pressures, not automatic verdicts. Ghostlight resolution uses
-the party's approach, disclosed information, material changes, active magical
-relations, other actors' responses, and chance.
+### Control who receives the report
 
-## What characters can know
+The party can take the sealed report first to Sela, Pera, Daro, Nerin, the watch captain, or nobody. Sharing it beyond the recipient list does not automatically make its comparison false. What recipients do with the information may end the assumptions on which it rests.
 
-Iven can explain the report and expiry, not the hidden later plans. Pera can
-describe the target and growing pressure, not identify its source. Nerin can
-explain the opened mechanism until its load changes, not choose the lawful
-route. Daro knows the gate body and can stop unsafe work, not decide the grain's
-recipient. Sela knows the ward's need and contract, not the future produced by
-publishing it.
+The party can also seek a delay to the first-bell slate and preserve a record of who ordered that delay, or let Reed Ward announce a gate. These choices affect both the gathering crowd and the levy runner's instructions.
 
-No character receives [[Spoilers/Foundations/Oracle Ecology|the author
-comparison]]. The dossier lets the resolver coordinate hidden mechanics while
-each participant acts through bounded evidence.
+### Help a route carry the load
 
-## Continuing consequences
+The surface route needs space through the crowd, an orderly porter crew, and acceptance of the levy desk.
 
-Every outcome leaves a present relation. Sela receives the escort's return copy
-for Reed Ward. Ordinary food, pay, and injury support remain the ward's first
-obligation; extraordinary labor, injury, and borrowed-equipment claims return
-to Sela with the affected worker or owner and whatever gate, levy, or watch
-record survives. The Papsenai working group may accept later trade, narrow its
-promises, or refuse this gate. Iven's house must correct distribution and
-expiry. Nerin's office must answer for an undisclosed shift. Daro inherits any
-damage to the understore. The watch captain must show where requisitioned grain
-went. The party's own copies determine which of these claims can be heard.
+The understore needs Daro's release and the carts entering in the order Nerin read. Daro will stop it if carts enter abreast or anyone removes the counterweight stop. The gate office cannot override that stop by declaring the grain urgent.
+
+A maintenance throat offers a third kind of passage. People and records can fit through it; loaded carts cannot. Carrying grain through by hand consumes the remaining bells and requires labor outside the buyer's original pay record. The party can demand a signed change claim before starting, undertake the work and document its costs and risks afterward, or refuse work the charge did not purchase.
+
+### Request a different delivery target
+
+Pera can ask the working group to release the current bond, divide the load among ward ovens, or name a different store. For the change to be recognized, a runner must reach two group witnesses outside the gate. The party can carry that request.
+
+Taking possession of the record gives neither the buyer nor a captain the power to retarget the bonded work.
+
+### Work on the machinery
+
+Daro can stop, sequence, or reopen the understore. The party can brace the worn chain, redistribute sacks between carts, clear the transfer throat, or operate the surface crowd bars.
+
+Each intervention takes time and labor and uses equipment someone else claims. Changing the load also ends Nerin's current opening. A reading or forecast can guide the workers; someone still has to do the work.
+
+## Possible outcomes
+
+These are reachable changes in the situation, not predetermined endings.
+
+- **The marked load reaches Reed Ward intact.** The chosen gate and surviving record determine who controlled the route and what levy or coercion accompanies delivery.
+- **Witnesses authorize a split among ward ovens.** The grain enters use quickly, while the buyer, house, and levy office dispute the contract and assessment.
+- **The watch takes custody before delivery.** The party can preserve the bond witness and recipient claim, accept a guarded delivery, or contest the grain's removal.
+- **The understore closes around a cart.** The party must deal with rescue, grain preservation, mechanism repair, and crowd control together.
+- **The party waits for a fresh house comparison.** The old report expires cleanly, time runs toward the third bell, and rival patrons have more time to act.
+- **The convoy withdraws with its marked load.** Reed Ward enters shortage. Pera's group preserves its people and rejects a bargain whose route no longer exists.
+
+Ghostlight resolves these pressures using the party's approach, disclosed information, physical changes, active magical relations, other actors' responses, and chance.
+
+## Knowledge at the table
+
+Keep each participant's evidence separate. Iven can explain his report and its expiry, but cannot supply hidden plans made afterward. Pera can describe her bond's target and the pressure on it, but cannot identify that pressure's source. Nerin can explain the opened mechanism until its load changes, but cannot decide the lawful route. Daro knows the gate's machinery and can halt unsafe work, but cannot choose the recipient. Sela knows the ward's need and contract, but cannot know the future her announcement will produce.
+
+No character receives [[Spoilers/Foundations/Oracle Ecology|the author comparison]]. This dossier gives the resolver enough information to coordinate hidden mechanics while the people involved continue to act from limited evidence.
+
+## What remains after the delivery
+
+Sela receives the escort's return copy for Reed Ward whatever the outcome. The ward's first obligation remains ordinary food, pay, and injury support. Claims for extraordinary labor, injury, or borrowed-equipment loss return to Sela with the affected worker or owner and whatever gate, levy, or watch records survive. The final liability is still to be decided.
+
+Other responsibilities also remain. Pera's working group may agree to later trade, make narrower promises, or refuse this gate. Iven's house must correct how the report is distributed and how its expiry is communicated. Nerin's office must answer for its undisclosed shift order. Daro is left with any damage to the understore, and the watch captain must account for where requisitioned grain went.
+
+The party's retained copies determine which claims can be heard.
 
 ## Unresolved
 
-- The wider city's name, precise sector, date, currencies, load quantity, and
-  final forum for contested change claims after their return to Sela and the
-  affected owner.
-- Whether the grain, understore, and current offices survive this live state.
-- Which reachable state Ghostlight play makes actual.
+- The wider city's name, precise sector, date, currencies, and load quantity.
+- The final forum for contested change claims after they return to Sela and the affected owner.
+- Whether the grain, understore, and current offices survive this live situation.
+- Which reachable outcome becomes actual through Ghostlight play.

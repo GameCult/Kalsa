@@ -21,75 +21,74 @@ tags:
 
 # Language and Reckoning
 
-[[Spoilers/Foundations/Prometheus|Prometheus]] imposed Lojban on the Children of Fire because he considered it more logical and communicative than inherited Earth languages. He also imposed base-eight reckoning: digits represented binary triplets, time was divided by orders of eight, and human life was organized into octal stages. Language and number were parts of the same civilizing program. They made people, work, ritual, and machine action easier for Prometheus to classify.
+Kalsa's languages and ways of counting share an imposed ancestry. [[Spoilers/Foundations/Prometheus|Prometheus]] required the Children of Fire to use Lojban because he considered it more logical and better suited to communication than inherited Earth languages. He also required base-eight, or **octal**, reckoning. Digits represented groups of three binary digits, time was divided by successive orders of eight, and human lives were organized into octal stages. Together, language and number served his civilizing program: they made people, work, ritual, and machine actions easier for him to classify.
 
-The inheritance outlived his rule without remaining intact. Formal descendants of the imposed language survive unevenly in law, liturgy, treaties, scholarship, technical formulae, and interfaces descended from the [[Spoilers/Foundations/Ark and Fall|Ark]]. Ordinary speech changed through isolation, conquest, migration, marriage, trade, ritual, and the practical need to be understood. Kalsa therefore has a shared historical substrate, not a single present language.
+His rule ended, but parts of that system survived. Law, liturgy, treaties, scholarship, technical formulae, and interfaces descended from the [[Spoilers/Foundations/Ark and Fall|Ark]] preserve formal descendants of the imposed language to different degrees. Everyday speech changed through isolation, conquest, migration, marriage, trade, ritual, and the need to make oneself understood. Present-day Kalsa has neither one shared language nor one established system of time and measurement.
 
 ## High Lojban
 
-This vault uses **High Lojban** as an author-facing label for conservative and prestige rational forms that claim descent from Prometheus's imposed language. It is not yet the canonical endonym of one uniform language. A temple recitation, treaty clause, legal definition, scholar's commentary, and Techpriest command sequence may all be called High Lojban while differing in pronunciation, vocabulary, competence, and relationship to an older source.
+**High Lojban** is this vault's author-facing name for conservative, prestigious forms of rational language that claim descent from Prometheus's Lojban. It is not yet an established name used by inhabitants for a single uniform language. A temple recitation, treaty clause, legal definition, scholar's commentary, and Techpriest command sequence may all fall under the label. Their pronunciation and vocabulary can differ, as can their users' competence and the way each form relates to an older source.
 
-High Lojban carries authority because it is associated with Promethean instruction, surviving records, interregional learning, and old machines. That authority is always scoped. Correct ceremonial speech does not prove technical understanding. A machine accepting a formula does not make its speaker a lawful owner. A court preserving an old phrase does not give it one uncontested present meaning. See [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] and [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]].
+People give these forms authority because they associate them with Promethean instruction, surviving records, learning shared between regions, and old machines. What that authority amounts to depends on the use. Someone who recites a ceremony correctly may understand nothing of its technology. A machine may accept a person's formula without that person lawfully owning it. A court may preserve an ancient phrase whose present meaning remains disputed. [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] and [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] develop these practices.
 
-## Descendant speech
+## Everyday speech and social standing
 
-Present communities speak regional descendants, mixed forms, and contact registers. Repeated contact around Crown Cities, military roads, markets, pilgrimages, delving camps, and transborder maintenance work creates pressure toward trade koines and pidgin-like working speech. Long separation and unequal contact create reanalysis: an old grammatical distinction may become a polite formula, a technical word may become a divine title, or a case marker may survive only in contracts. None of those processes has yet been assigned a fixed language family or chronology.
+Communities speak regional descendants of the old language, mixtures, and forms used specifically to communicate across language boundaries. Crown Cities, military roads, markets, pilgrimages, delving camps, and maintenance work across borders bring speakers into repeated contact. That contact encourages shared trade varieties, called koines, and pidgin-like working speech.
 
-Speech also performs class. High forms can advertise schooling, temple office, treaty access, or technical apprenticeship. Deliberate vernacular speech can mark local solidarity, refusal of Promethean prestige, or distrust of an outsider. A clerk may speak one way before a judge and another to the household whose claim they are recording. A porter may understand a contract perfectly while refusing the accent expected by its sponsor. Such performances are social judgments, not reliable measures of intelligence or truth.
+Separation and unequal contact can also change how people understand inherited words and grammar. An old grammatical distinction may become a polite formula. A technical word may become a divine title. A marker once used to show a word's grammatical role may survive only in contracts. The setting has not yet assigned these changes to fixed language families or a chronology.
 
-Names preserved in the seed—selza'a, seltanzda, dimna, terjamna, Jamnai, papsenai, Ju'onai, junsenai, Sarxe, Saxfoldi, Soiru'i, Ji'esti, Ti'asantatca, baltcadu—may be endonyms, exonyms, titles, translated compounds, fossilized high-register terms, or later renderings. Their appearance does not yet establish one descendant language, exact etymology, or reliable translation.
+How someone speaks can announce schooling, temple office, access to treaty work, or technical apprenticeship. Choosing a local vernacular can express solidarity, rejection of Promethean prestige, or distrust of an outsider. A clerk may use one form before a judge and another with the household whose claim they are recording. A porter may understand a contract perfectly while refusing to use the accent its sponsor expects. Listeners make judgments from these choices, but accent and register do not reliably measure intelligence or truthfulness.
 
-## Magic and register
+The seed preserves the names selza'a, seltanzda, dimna, terjamna, Jamnai, papsenai, Ju'onai, junsenai, Sarxe, Saxfoldi, Soiru'i, Ji'esti, Ti'asantatca, and baltcadu. They may be names people use for themselves, names given by outsiders, titles, translated compounds, remnants of formal speech, or later renderings. Their appearance alone establishes neither a common descendant language nor an exact etymology or dependable translation.
 
-Magical practice can place durable pressure on how a community speaks without creating biological grammar. Prophets may value distinctions among observation, branch, warning, and intended intervention. Analysts may demand explicit premises and causal relations. Shamans and cults may distinguish a speaker's own claim from the words of a bound or divine patron. Hierarchical societies may elaborate address and submission. Channeling communities may care intensely about reference across distance, memory, and identity.
+## How magical practice shapes speech
 
-These are institutional and regional pressures. They can shape evidential particles, titles, specialist vocabulary, gesture, quotation, or rules for testimony, but no Kaos signature supplies a native grammar. Children do not inherit legal syntax with a Gift. Neighboring cultures can borrow the same distinctions for trade or law, and members of one culture can reject the formal register associated with their own elites. The language of [[Spoilers/Institutions/Forecast Evidence and Courts|forecast evidence]] is a legal achievement, not a Prophetic phenotype.
+Magical work can give communities reasons to develop particular ways of speaking. Prophets may need to distinguish what they observed, a possible branch, a warning, and an intervention they intend to make. Analysts may insist on stated premises and explicit causal relationships. Shamans and cults may distinguish a speaker's own claim from words attributed to a bound or divine patron. Hierarchical societies may develop elaborate forms of address and submission. Channeling communities may pay close attention to how speech identifies people and things across distance, memory, and identity.
 
-## Reckoning after Prometheus
+Over time, these concerns can shape specialist vocabulary, titles, gestures, quotation, testimony rules, and small grammatical markers that indicate how a speaker knows something. The pressures come from institutions and regional practice. No Kaos signature gives its bearer a native grammar, and children do not inherit legal syntax with a Gift.
 
-Octal organization remains a design scar. Old markings, component arrays, service cycles, stage divisions, and technical records may still group by eights or express digits as binary triplets. Later people can preserve, reinterpret, or abandon those patterns. Merchants may calculate in one scheme while a buried controller expects another. A rite may divide a life into eight named stages without preserving Prometheus's durations. A local calendar may use octal subdivisions while beginning its year from an unrelated seasonal or political event.
+Other cultures can borrow the same distinctions for trade or law. People can also reject the formal speech favored by their own elites. The language used for [[Spoilers/Institutions/Forecast Evidence and Courts|forecast evidence]] was developed through legal practice; it is not a biological feature of Prophets.
 
-There is no adopted universal calendar, era, day division, unit system, or measure of distance in the present setting. Kalsa is tidally locked, so familiar sunrise-based assumptions are especially unsafe. Crown Cities may inherit compatible octal structures without agreeing on epoch, cycle length, local watch, or the event from which a date is counted. The [[Spoilers/Reference/Timeline|Timeline]] therefore records relative order rather than false precision.
+## Counting and keeping time
 
-## Authority boundaries
+Prometheus's preference for eight remains visible in old markings, component arrays, service cycles, divisions of life, and technical records. These may still group things by eights or represent digits as binary triplets. Later communities can keep those arrangements, give them new meanings, or abandon them.
 
-- Communities own their ordinary use; no archive or priesthood can make a living vernacular an error by decree.
-- A polity decides which texts and translations have force in its own law and public notices. High Lojban alone is not universal law.
-- Treaty parties decide which versions govern their agreement and how divergence is handled.
-- A temple or cult decides the requirements of its own rite, subject to the claims and consent of the people involved.
-- A school or lineage can certify competence within a named register. Certification does not grant general political, legal, sacred, or technological authority.
-- [[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] may judge whether a formula is safe for a system they can competently maintain. They do not thereby own every text, machine, or output bearing old language.
-- Machines recognize inputs according to their surviving construction. Recognition is an operational fact, not a judgment about truth, status, title, or personhood.
+An inherited pattern does not guarantee an inherited measure. Merchants may calculate in one scheme while a buried controller expects another. A rite may name eight stages of life without retaining the durations Prometheus assigned them. A local calendar may divide time octally but begin its year from an unrelated seasonal or political event.
 
-## Historical anchor: the shortened watch
+No universal calendar, era, division of the day, unit system, or distance measure has been adopted for present-day Kalsa. The world is tidally locked, which makes familiar assumptions about sunrise-based time especially unsafe. Crown Cities may have compatible octal structures while disagreeing about the epoch, cycle length, local watch, or event from which a date is counted. The [[Spoilers/Reference/Timeline|Timeline]] therefore gives relative order rather than unsupported exact dates.
 
-[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] is the adopted historical anchor for the danger created when an inherited technical interval, a local watch word, an approved conversion, and the time communicated to workers cease to match. The event note owns the incident, damage, inquiry, and settlement. This foundation owns the broader conclusion: shared linguistic ancestry and octal form do not establish a shared present duration.
+### The shortened watch
 
-After the failure, the relevant institutional lesson is to keep source expression, conversion, work schedule, and public notice distinguishable. A conservative term can remain authentic while its practical meaning changes, and a machine can accept a valid instruction while the human timetable around it remains unsafe or unlawful. The event does not establish a universal watch length, calendar, unit, or High Lojban pronunciation.
+[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] provides an adopted historical example of what happens when related words conceal different durations. An inherited technical interval, a local watch word, an approved conversion, and the time communicated to workers no longer matched. The event note owns the incident, damage, inquiry, and settlement. Its lesson for this foundation is that common linguistic ancestry and octal notation do not establish a common present duration.
 
-## Consequences
+The institutional lesson after the failure is to distinguish the original expression, its conversion, the work schedule, and the public notice. An old term can retain its authentic form while changing practical meaning. A machine can accept a valid instruction while the human timetable around it is unsafe or unlawful. The case establishes no universal watch length, calendar, unit, or High Lojban pronunciation.
 
-Language is infrastructure. Whoever can teach a high register, preserve a parallel treaty, translate a public order, or authenticate a machine formula can open or close access to courts, work, worship, and buried systems. That makes interpreters and teachers necessary and makes them targets for patronage, coercion, and suspicion.
+## Who decides what words authorize?
 
-It also makes linguistic error consequential without making linguistic hierarchy natural. An untranslated levy can dispossess a household. A memorized formula can open a sealed passage. A false cognate can turn a maintenance warning into a religious command. A court may have to decide whether the controlling text is the high version, the public vernacular notice, or the explanation actually witnessed by the people bound to obey it. A dungeon can preserve older layers whose labels contradict the names used by its current custodians.
+Different uses of language answer to different authorities. Fluency or antiquity alone cannot settle all of them.
 
-## Adopted boundaries
+- **Ordinary speech belongs to its communities.** An archive or priesthood cannot make a living vernacular erroneous by decree.
+- **Each polity decides which texts and translations govern its laws and public notices.** High Lojban has no automatic force as universal law.
+- **Treaty parties choose the versions that govern their agreement.** They also decide how differences between those versions will be handled.
+- **A temple or cult sets the requirements of its own rites,** subject to the claims and consent of the people involved.
+- **A school or lineage can certify competence in a specified register.** That certificate grants no general political, legal, sacred, or technological authority.
+- **[[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] may assess whether a formula is safe for a system they can competently maintain.** This does not give them ownership of every text, machine, or output that bears old language.
+- **A machine accepts inputs according to its surviving construction.** Acceptance establishes that the input worked operationally. It does not judge truth, status, title, or personhood.
 
-- Lojban was imposed during Promethean rule and remains a substrate for later speech and high registers.
-- Conservative forms survive unevenly across law, liturgy, treaty, scholarship, technical practice, and machine interfaces.
-- Ordinary speech has changed regionally through contact, separation, reanalysis, and social performance.
-- Octal patterns survive without establishing a single present calendar or unit system.
-- Magical institutions may pressure evidentiality, hierarchy, reference, and causal language; these pressures are learned and variable rather than biological destiny.
-- An English term in the vault is author-facing unless a note establishes its status inside Kalsa.
+These distinctions matter whenever words govern access. Teaching a high register, preserving parallel treaty versions, translating a public order, or authenticating a machine formula can let people enter courts, obtain work, worship, or use buried systems. Those who provide these services are needed, and that need exposes interpreters and teachers to patronage, coercion, and suspicion.
 
-## Unresolved
+The consequences can be severe without proving that one form of speech is naturally superior. An untranslated levy can dispossess a household. A memorized formula can open a sealed passage. Two words that look related but have different meanings can turn a maintenance warning into a religious command. A court may have to choose between a high-language text, the public vernacular notice, and the explanation actually witnessed by the people required to obey. In a dungeon, older labels may contradict the names its current custodians use.
+
+## What remains to be established
+
+The imposed Lojban ancestry, uneven survival of formal language, regional change in ordinary speech, and persistence of octal patterns are adopted foundations. So is the distinction between learned linguistic practice and magical biology. They leave substantial details open:
 
 - The names, sound changes, scripts, grammar, and mutual intelligibility of current languages.
 - Whether any two institutions mean the same thing by High Lojban.
-- The distribution and history of contact registers, trade koines, and pidgin or creole formation.
-- Exact legal rules for controlling texts outside the examples developed in institutional notes.
-- The present units of day, cycle, year, age, direction, distance, mass, and value.
-- Whether the Crown Cities share any calendar beyond inherited octal habits.
-- Translation and etymology of every seed term; existing glosses remain source claims until checked.
+- Where contact registers and trade koines occur, how they developed, and where pidgins or creoles formed.
+- Exact rules for deciding which text has legal force outside the examples developed in institutional notes.
+- Present units of day, cycle, year, age, direction, distance, mass, and value.
+- Whether Crown Cities share any calendar beyond inherited octal habits.
+- The translation and etymology of every seed term. Existing glosses remain claims made by their sources until checked.
 
-Future notes should distinguish author-facing translations, endonyms, exonyms, ritual terms, legal terms, machine-recognized forms, and obsolete Promethean classifications. The [[Spoilers/Reference/Glossary|Glossary]] records use, not an invisible universal dictionary.
+An English term in the vault is author-facing unless a note establishes how it is used within Kalsa. Future notes must distinguish these translations from names people use for themselves, names outsiders give them, ritual and legal terms, machine-recognized forms, and obsolete Promethean classifications. The [[Spoilers/Reference/Glossary|Glossary]] records those uses; it does not establish a universal dictionary.
