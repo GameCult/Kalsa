@@ -12,52 +12,62 @@ tags:
 
 # The Shortened Watch Failure
 
-The Shortened Watch Failure is an adopted post-Fall public-works disaster. This note alone owns its factual sequence, damage, inquiry, and settlement. [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] owns the general linguistic and numerical inheritance; [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] owns teaching, translation, and notice practice; [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] owns conversion, certification, and machine-facing procedure.
+The Shortened Watch Failure was a post-Fall reservoir disaster. Officials used an old technical time interval to prepare a maintenance schedule, but misread how long it meant. The reservoir accepted the approved instructions and released water while crews were still in the downstream channel.
 
-Its date, polity, reservoir, downstream district, offices, participants, exact units, and present legal reach remain unresolved. “The Shortened Watch Failure” is an author-facing translation of a later case name, not evidence for a universal calendar or vocabulary.
+## How the schedule failed
 
-## Four times under one word
+A surviving service record governed the public reservoir. It ordered a release after an interval written in octal, or base-eight, notation. The record used an inherited word for a watch. Local people still used that word, but over generations it had come to name a different span of time.
 
-A public reservoir remained governed by a surviving service record. The record ordered a release after an interval written in inherited octal form. Generations of local speech had preserved the old watch word while changing the span it ordinarily named.
+During a maintenance closure, a clerk converted the recorded interval into a working table, treating the technical watch and the local watch as equal. Managers approved the table and shortened the time allotted to clearing people and equipment from the downstream channel. The operator then submitted the approved sequence to the reservoir.
 
-During a maintenance closure, a clerk converted the inherited interval as though the technical and local watches were identical. Managers approved the resulting table and shortened the period assigned to downstream clearance. The operator submitted the approved sequence. The reservoir accepted it and released while crews were still inside the channel.
+The reservoir accepted the sequence. When it released, crews were still inside the channel. Workers were injured, equipment and channel works were damaged, and water entered places the clearance schedule had assumed would be empty. The exact casualties and extent of damage remain unresolved.
 
-Workers were injured, equipment and channel works were damaged, and water reached places the clearance schedule had treated as empty. The exact casualties and extent of damage are unresolved.
+## What the inquiry missed
 
-## The first inquiry
+The first inquiry blamed corrupt pronunciation or inadequate command of High Lojban, the inherited formal language. It proposed stricter recitation as the remedy.
 
-The first inquiry treated the failure as corrupt pronunciation or inadequate High Lojban. Its proposed remedy was stricter recitation. Surviving machine and work records defeated that account: the system had accepted the submitted formula, but acceptance did not show that the clerk's conversion, the managers' schedule, or the warning delivered to the crews expressed the same duration.
+Surviving machine and work records did not support that explanation. The reservoir had accepted the formula it received. That established what the machine would execute; it did not establish that the clerk, managers, and downstream crews had been working with the same duration.
 
-The inquiry had collapsed four records into one presumed meaning:
+The inquiry had treated four distinct records as though they said the same thing:
 
-1. the inherited machine interval;
-2. the clerk's conversion;
-3. the managers' work schedule;
-4. the ordinary-language notice received downstream.
+1. The inherited record specified the machine's interval.
+2. The clerk's conversion translated that interval into a working reckoning.
+3. The managers' schedule assigned time for the work and downstream clearance.
+4. The ordinary-language notice told the crews what timing to expect.
 
-Each record had an accountable human or operational owner. None could borrow correctness from the others merely because all used a related watch word.
+Each record had an accountable person or operational owner. A related watch word appeared across them, but that did not prove the conversion was correct, the schedule was safe, or the notice accurately conveyed it.
 
-## Settlement
+## The settlement
 
-The reviewing authority preserved all four records and compared the inherited interval against an observable reservoir process rather than another gloss alone. It rejected pronunciation as the sufficient cause and treated conversion, scheduling, and notice as separate responsibilities.
+The reviewing authority kept all four records and compared the inherited interval with an observable reservoir process. It did not rely solely on another verbal explanation of the old term. The review rejected pronunciation as a sufficient cause and assigned separate responsibility for conversion, scheduling, and notice.
 
-The settlement required the affected public work to retain its source interval, signed conversion, approved work schedule, and delivered notices together without merging them. Technical and ordinary-language warnings had to state the relationship between their durations. Downstream crews received stop authority when the announced schedule diverged from observed reservoir behavior. A machine's acceptance could no longer be cited by itself as proof that the surrounding human schedule was safe or lawful.
+The settlement required the affected public work to keep its source interval, signed conversion, approved work schedule, and delivered notices together as distinct records. Technical warnings and warnings in ordinary speech had to explain how their stated durations related to one another.
 
-The settlement did not establish one correct watch for all Kalsa. It repaired one jurisdiction's failure and supplied an example other works could adopt, reject, or alter through their own authority.
+Downstream crews also gained authority to stop work when the announced schedule diverged from observed reservoir behavior. Machine acceptance alone could no longer serve as proof that the human schedule surrounding a release was safe or lawful.
 
-## Competing memories
+These requirements applied within the jurisdiction that made the settlement. They did not establish a correct watch length for all Kalsa. Other public works could adopt, reject, or alter the procedures through their own authorities.
 
-Technical commentators remember the recovery of a lost conversion boundary. Language schools remember proof that conservative form and living meaning must be compared rather than ranked by prestige. Managers remember a recordkeeping reform that made responsibility legible.
+## How the event is remembered
 
-Channel workers remember that officials investigated their speech before investigating the schedule that placed them in the spillway. Their households preserve the injuries and incomplete repair that turned an abstract unit dispute into law.
+Technical commentators emphasize the need to recover the distinction between the old interval and its local conversion. Language schools use the case to show why inherited formal wording must be compared with living usage: prestige cannot settle whether two expressions still mean the same thing. Managers emphasize the recordkeeping reform, which made it possible to identify who was responsible for each decision.
 
-These interpretations do not replace the adopted facts. They explain why later institutions carry different parts of the event forward.
+Channel workers remember officials examining their speech before examining the schedule that put them in the spillway. Their households keep the memory of the injuries and the repairs left incomplete. For them, the dispute over a unit of time became law because people had been hurt.
+
+These accounts give different weight to the same adopted events. They help explain which lessons later institutions preserve; they do not replace the factual sequence.
 
 ## Adventure consequences
 
-The source record, clerk's table, approved schedule, operator log, delivered warnings, inquiry copy, and worker testimony may survive in different archives or chambers. A party may be hired to recover a missing record, test a calibration mark inside the old reservoir, prove that a later schedule repeated the forbidden collapse, or carry a worker copy past an office invested in machine acceptance.
+The evidence may be scattered across archives or chambers: the source record, clerk's table, approved schedule, operator log, delivered warnings, inquiry copy, and worker testimony need not have survived together.
 
-Restarting the reservoir does not decide which notice binds residents or who owes the injured households. A recovered formula can establish what the system accepted without establishing the lawful purpose of a release. Ruin entry, salvage, custody, public-work authority, and compensation remain separate claims.
+A party may be hired to recover a missing record, test a calibration mark inside the old reservoir, or prove that a later schedule repeated the same forbidden treatment of separate records as interchangeable. Carrying a worker's copy past an office invested in treating machine acceptance as sufficient proof may itself become the job.
+
+Getting the reservoir running again would leave other disputes unsettled. It would not decide which notice binds residents or who owes the injured households. A recovered formula could establish what the system accepted without establishing the lawful purpose of the release. Permission to enter the ruin, rights to salvage, custody of recovered material, authority over the public work, and compensation remain separate claims.
+
+## Canonical scope
+
+This note owns the adopted factual sequence, damage, inquiry, and settlement. [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]] owns the general linguistic and numerical inheritance. [[Spoilers/Institutions/High Lojban and Descendant Speech|High Lojban and Descendant Speech]] owns teaching, translation, and notice practice. [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]] owns conversion, certification, and machine-facing procedure.
+
+“The Shortened Watch Failure” is an author-facing translation of a later case name. It establishes neither a universal vocabulary nor a calendar. The event's date, location, participants, exact units, and present legal reach remain unresolved.
 
 ## Unresolved
 
