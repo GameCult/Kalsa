@@ -10,15 +10,9 @@ tags:
 
 # Kalsa
 
-This vault has a reader path and a deliberately separated spoiler section.
-
-Begin with [[Public/index|Kalsa for Readers]]. It presents the setting as people
-within it encounter it and does not expose author mechanics or GM answers.
+Start with [[Public/index|Kalsa for Readers]] to explore the setting through what its inhabitants encounter. This reader section keeps the author's explanations of how the world works and the game master's answers out of view.
 
 > [!warning] Spoiler section
-> Everything under `Spoilers/` contains author truth, deep historical causes,
-> unresolved design state, and GM-facing material. The repository is open, but
-> entering that section is an explicit choice.
+> The separate `Spoilers/` section contains author-established truths, deep historical causes, unresolved design questions, and material for game masters. The repository is open to everyone; choose whether you want those answers before entering.
 
-When you want the complete machinery, continue to
-[[Spoilers/index|Author and GM Vault]].
+For that material, enter the [[Spoilers/index|Author and GM Vault]].
