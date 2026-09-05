@@ -19,32 +19,36 @@ tags:
 
 # Canon and Provenance
 
-The exported seed is evidence, not an instruction to preserve every old sentence as current truth. Current notes keep the ideas that give Kalsa its identity, expose contradictions, and leave genuinely undecided questions open.
+Canon is what the current setting has adopted as true. Provenance records where a claim came from and when it was adopted or repaired. This page explains how to tell an established fact from an old proposal, an inhabitant's belief, or a question nobody has settled.
 
-## Status vocabulary
+The exported seed preserves Kalsa's early material. It supplies evidence, including claims that may contradict one another; it does not make every old sentence binding. Current notes adopt the ideas that give Kalsa its identity, identify contradictions, and keep undecided questions open. An **owner note** is the note responsible for an adopted subject. Reference notes may explain or link to it without taking over that responsibility.
+
+## Reading a note's status
 
 | Status | Meaning |
 |---|---|
-| `source-fact` | A claim stated in an exported seed witness. It may still conflict with another witness. |
-| `canonical-policy` | A rule governing how canon, provenance, and unresolved claims are handled. |
-| `canonical-foundation` | The current owner note for adopted setting truth. |
-| `canonical-reference` | A current navigation or synthesis note that points to owner notes without superseding them. |
-| `canonical-polity` | The current owner note for an adopted polity, culture, or territorial arrangement. |
-| `canonical-institution` | The current owner note for an adopted office, procedure, jurisdiction, or durable social arrangement. |
-| `canonical-place` | The current owner note for an adopted settlement or other inhabited place. |
-| `canonical-dungeon` | The current owner note for an adopted playable site and its present pressures. |
-| `adopted-history` | An event deliberately added by a recorded repair pass. It is current history, but it is not claimed to appear in the seed witnesses. |
-| `adopted-candidate` | A non-factual design model retained for critique. Canonical neighbors may cite its pressure or open question, but must not assume that its institution, actors, or procedures exist. |
-| `in-world-belief` | A claim held by people or institutions in Kalsa, not guaranteed author truth. |
-| `story-seed` | A protagonist, threat, or campaign premise not automatically true in the standing setting. |
-| `unresolved` | An open question that downstream notes must not silently answer. |
-| `preservation-stub` | A thin, source-grounded owner awaiting institutional deepening; it must not accumulate invented certainty merely to look complete. |
-| `unresolved-stub` | A deliberate placeholder whose subject remains canonically undecided. |
-| `retired` | Old terminology or a claim deliberately removed from current use; source history remains preserved. |
+| `source-fact` | The exported seed states this claim. Another seed witness may contradict it. |
+| `canonical-policy` | This note sets rules for handling canon, source history, and unresolved claims. |
+| `canonical-foundation` | This note owns adopted setting truth about its subject. |
+| `canonical-reference` | This note provides navigation or brings information together. The owner notes it points to remain authoritative. |
+| `canonical-polity` | This note owns an adopted polity, culture, or territorial arrangement. |
+| `canonical-institution` | This note owns an adopted office, procedure, jurisdiction, or lasting social arrangement. |
+| `canonical-place` | This note owns an adopted settlement or other inhabited place. |
+| `canonical-dungeon` | This note owns an adopted playable site and the pressures currently affecting it. |
+| `adopted-history` | A recorded repair pass deliberately added this event to current history. The event is not claimed to appear in the seed. |
+| `adopted-candidate` | This is a design model kept for critique, not a setting fact. Other canonical notes may cite the problem or open question it raises, but must not assume its institution, actors, or procedures exist. |
+| `in-world-belief` | People or institutions in Kalsa hold this claim. Authors do not guarantee that it is true. |
+| `story-seed` | This is a proposed protagonist, threat, or campaign premise. It is not automatically part of the standing setting. |
+| `unresolved` | This question remains open. Notes that depend on it must not quietly supply an answer. |
+| `preservation-stub` | This owner note preserves limited source-backed material and awaits fuller institutional development. It must not invent certainty to look complete. |
+| `unresolved-stub` | This placeholder reserves a subject that remains canonically undecided. |
+| `retired` | This terminology or claim has been deliberately removed from current use. Its source history remains preserved. |
 
-## Source witnesses
+## Tracing a claim to its source
 
-Each canonical note lists `source_witness` filenames in frontmatter. These names refer to the unedited exports outside this vault directory and identify the seed substrate behind the subject. They do **not** imply that every procedure, office, place, or event in the note appears in those exports. Material deliberately established by the deepening process also carries an `adopted_in` pass identifier; later structural repairs may add `repaired_in` identifiers. Their inspectable design records live under `workshop/deepening/passes/` outside the published vault.
+Each canonical note names its seed exports in the frontmatter field `source_witness`. These unedited files live outside the vault directory. They establish the early material behind the subject; their presence does not mean that every office, procedure, place, or event in the current note appeared in the seed.
+
+Later additions have their own records. Material established through deepening carries an `adopted_in` pass identifier. Later structural repairs may also carry `repaired_in` identifiers. The corresponding design records can be inspected under `workshop/deepening/passes/`, outside the published vault.
 
 | Witness | Primary contents |
 |---|---|
@@ -58,72 +62,54 @@ Each canonical note lists `source_witness` filenames in frontmatter. These names
 | `page-2026-08-20-10-39-58.md` | Prophecy, noble houses, divided city, Sunwall |
 | `page-2026-08-20-10-40-04.md` | Channeling, Sarxe, Saxfoldi, Ji'esti |
 
-## Adopted repairs
+## Decisions adopted by the initial foundation
 
-The initial foundation adopts these repairs:
+The following repairs govern how the seed is used in current canon.
 
-1. Eight Rings and eight Crown Cities; seven Gifted Cities plus one Control Crown.
-2. Null is a magical condition, while Controls and Spokers are distinct historical populations.
-3. Promethean Sequence numerals and binary Kaos signatures are separate labels.
-4. Clarity resolves causal structure, Depth reaches counterfactual outcomes, and Scope extends spatial/temporal horizon.
-5. Magic observability is layer-specific; Luck is inferable but not directly detectable.
-6. Kaos creates neither energy nor matter.
-7. God absorption binds and routes a continuing Projection rather than erasing identity.
-8. The two Channeler histories are successive: Ju'onai displacement, then the Terjamna Ji'esti massacre; the mercenary strand describes an external diaspora, not the entire Sarxe society.
-9. Magical descent is threshold expression of inherited strain-complexes, not a hierarchy of pure and diluted peoples.
-10. The returning Prometheus and Cabal plot remains a story seed.
-11. Every Gift is a differently shaped oracular relation. No oracle observes
-    from outside the causal field; observation, response, rival Gifts, and
-    material intervention can change reachable futures.
-12. God hierarchies can produce local timeline capture by controlling
-    information, potential, levers, and rival agency. Capture is bounded and
-    contingent, not proof of one global deterministic future.
-13. Divine-scale Kaos can gather, transform, move, and assemble existing matter
-    through prepared causal routes at apparently impossible speed. Each case
-    still requires source matter, energy, levers, time, potential, and an open
-    branch.
-14. Repeated feeding can support an acquired potential body through which a
-    thaumavore manifests and acts. Interception can destroy that body and its
-    present foothold without establishing release or settling what memory and
-    personhood survive in the Individual Projection.
-15. Captured flow can establish durable independent agency and open an ascent
-    route for a thaumavore. Godhood additionally requires stabilization and the
-    binding of other Beasts or Projections. Historical occurrence, prevalence,
-    and divine recollection remain unresolved.
+### Cities, populations, and history
 
-## Unresolved claims
+- There are eight Rings and eight Crown Cities: seven Gifted Cities and one Control Crown.
+- Null describes a magical condition. Controls and Spokers are two distinct historical populations.
+- Magical inheritance works through inherited strain-complexes whose expression must reach a threshold. It does not divide peoples into a hierarchy of pure and diluted descent.
+- The two Channeler histories describe successive events. Ju'onai displacement comes first; the Terjamna Ji'esti massacre comes later. The mercenary history concerns a diaspora outside Sarxe society, not Sarxe society as a whole.
+- The returning Prometheus and Cabal plot remains a story seed.
 
-Every `## Unresolved` section is load-bearing. A linked note may propose an answer but must not silently turn it into fact. The largest current unknowns are the present date and map, the Control Crown, Intuition, inheritance mechanics, divine binding mechanics, exact magic limits, and the regional forms of institutions whose bounded owners are now established.
+### Magic, observation, and possible futures
 
-## Knowledge layers
+- Promethean Sequence numerals and binary Kaos signatures are separate labeling systems.
+- Clarity concerns how well causal structure can be resolved. Depth concerns access to counterfactual outcomes—what could happen under different conditions. Scope concerns how far that reach extends through space and time.
+- What an observer can detect depends on the layer of magic being observed. Luck can be inferred, but cannot be detected directly.
+- Kaos creates neither matter nor energy.
+- Every Gift has its own form of oracular relation. No oracle stands outside the causal field it observes: observation, responses, rival Gifts, and material intervention can all change which futures remain reachable.
+- A divine hierarchy can bring local events under its control by controlling information, potential, the means of intervention, and the ability of rivals to act. This is **local timeline capture**. It depends on circumstances and has limits; it does not establish that the whole world follows one predetermined future.
+- At divine scale, Kaos can gather, transform, move, and assemble existing matter at apparently impossible speed, provided causal routes have been prepared. Every such act still needs source matter, energy, means of intervention, time, potential, and a possible branch in which it can occur.
 
-Canonical means adopted by the setting, not known by everybody inside it.
-Current notes should separate:
+### Projections, thaumavores, and godhood
 
-1. **Observed phenomenon** — a witnessed effect or durable material trace. Its
-   occurrence may be public even when its cause is disputed.
-2. **Common or attributed account** — what a community, witness, cult, office,
-   or popular tradition says happened and what it means.
-3. **Learned model** — a school, lineage, profession, court, or priesthood's
-   organized explanation, including its evidence, tested domain, vocabulary,
-   and known failures.
-4. **Restricted evidence or model** — records, rites, instruments, sites, and
-   conclusions available only through bounded custody, danger, or initiation.
-5. **Backstage constraint** — a causal limit used by authors and adjudicators to
-   decide what can happen whether or not anyone in Kalsa understands it.
-6. **Backstage explanatory model** — the current author vocabulary connecting
-   constraints, including the Promethean Sequence, signatures, formal axes,
-   Projections, and Beast taxonomy. It is a coherent working account, not a
-   universal Kalsan textbook and not proof that every noun is final ontology.
-7. **Unresolved ontology** — a question no owner may quietly settle through
-   local doctrine, glossary convenience, or confident narration.
+- When a God absorbs a Projection, the Projection continues. Absorption binds it and routes it within the divine structure; it does not erase its identity.
+- Repeated feeding can sustain an acquired potential body through which a thaumavore manifests and acts. Interception can destroy that body and its current foothold. This does not establish that the thaumavore has been released, or settle which memories and aspects of personhood survive in the Individual Projection.
+- Captured flow can give a thaumavore lasting independent agency and open a route of ascent. Becoming a God also requires stabilization and the binding of other Beasts or Projections. Whether this has happened historically, how common it might be, and what Gods remember of it remain unresolved.
 
-A local theory can be sophisticated, predictive, and partly correct without
-becoming the backstage model. A backstage constraint remains real without
-giving a character the words or evidence needed to explain it. Institutions
-decide which accounts acquire legal, sacred, academic, or operational force;
-they do not acquire authority over reality merely by recording their decision.
+## Questions that must remain open
 
-A machine explanation does not cancel a divine, legal, or emotional reality experienced by people in the setting.
+A note's `## Unresolved` section places a real limit on what other notes may claim. A linked note can propose an answer, but cannot treat that proposal as an established fact.
+
+The largest current unknowns are the present date and map, the Control Crown, Intuition, the mechanics of inheritance and divine binding, and the exact limits of magic. Some institutions now have owner notes that establish a limited scope; their regional forms remain unresolved.
+
+## Setting truth and knowledge within Kalsa
+
+A fact can be canonical without anyone in Kalsa knowing it. Notes must distinguish what happened, what people believe happened, and what authors use to explain or adjudicate it.
+
+1. **Observed phenomenon.** Someone has witnessed an effect, or a lasting material trace exists. People may publicly agree that it occurred while disputing its cause.
+2. **Common or attributed account.** A community, witness, cult, office, or popular tradition gives an account of what happened and what it means. The attribution matters.
+3. **Learned model.** A school, lineage, profession, court, or priesthood has an organized explanation. Record the evidence behind it, the conditions in which it has been tested, its vocabulary, and its known failures.
+4. **Restricted evidence or model.** Access to particular records, rites, instruments, sites, or conclusions is limited by who controls them, the dangers involved, or requirements for initiation.
+5. **Backstage constraint.** Authors and adjudicators use this causal limit to decide what can happen. It applies whether or not anyone in Kalsa understands it.
+6. **Backstage explanatory model.** Authors currently connect those constraints through terms such as the Promethean Sequence, signatures, formal axes, Projections, and Beast taxonomy. This is a coherent working explanation. It is neither a textbook shared across Kalsa nor a guarantee that every named category is a final account of what exists.
+7. **Unresolved ontology.** The nature of something remains undecided. No owner note may settle it merely by adopting a local doctrine, writing a convenient glossary definition, or narrating with confidence.
+
+A local theory may be sophisticated, predict useful results, and get some things right without matching the authors' explanation. Equally, a real causal limit does not give a character the evidence or vocabulary to describe it.
+
+Institutions decide which accounts count in law, worship, scholarship, or practical work. Recording an official decision does not give them control over what is true. Nor does explaining the machinery beneath an experience cancel its divine, legal, or emotional reality for the people living through it.
 
 See [[Spoilers/Reference/Story Seeds|Story Seeds]], [[Spoilers/Reference/Timeline|Timeline]], and [[../index|Kalsa]].

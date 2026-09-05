@@ -11,139 +11,79 @@ tags:
 
 # Peoples and Polities
 
-No miracle supplies a constitution, and no ancestry dictates a complete way of life. Kalsa's peoples inherited powers, wounds, landscapes, prejudices, and old institutions; they continue to make societies from them under present pressure.
+Travellers and learned writers use these names for Kalsa's peoples and political powers. They are broad categories, not complete descriptions of the people within them. Kin and birthplace may establish one affiliation; adoption, work, worship, exile, marriage, and choice may carry a person across several.
 
-Travellers and learned writers use the names below as broad handles. Kin and
-birthplace may place a person within one of them; adoption, work, worship,
-exile, marriage, and choice can pull the same life across several. The name
-settles less than outsiders usually want it to.
+Inherited powers, old injuries, landscapes, prejudices, and institutions all shape these societies. None determines how people must govern themselves or live together. Those decisions remain under pressure and open to dispute.
 
 ## Selza'a
 
-The fogbound Selza'a country has no central government. Territorial families
-answer for dwellings, paths, stores, shrines, and stretches of shared work.
-Descent matters, but people also enter through adoption, marriage, residence,
-and work.
+Families govern territories in the fogbound Selza'a country, which has no central government. Each answers for dwellings, paths, stores, shrines, and shared work within its territory. Membership can come through descent, adoption, marriage, residence, or work.
 
-Windtraps make that independence interdependent: an upper structure may stand
-on one family's ground, catch water for several territories, and fail into a
-cistern used by households that never touch its machinery. Family shrines keep
-stories of dimna protection and inherited fortune. Such stories become
-dangerous when one territory's survival follows another's loss.
+Water binds these otherwise independent families together. A windtrap may stand on one family's ground while supplying several territories. If it breaks, it can foul a lower cistern used by households that have never handled its machinery. Responsibility for the structure and dependence on its water do not follow the same boundaries.
 
-In [[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]],
-three families open their water stores before they agree about fault. The
-keeper leaves with a corrected record and no old contracts.
+Family shrines preserve stories of protection by dimna and of inherited fortune. When one territory survives a disaster that harms another, those stories can become grounds for suspicion.
+
+[[../Sources/After the High Windtrap Broke|After the High Windtrap Broke]] follows three families that open their water stores before agreeing who was at fault. The keeper eventually receives a corrected record, but leaves without the old contracts restored.
 
 ## Jamnai and the terjamna
 
-Jamnai stands deep in the coldward storm country, sustained by heat drawn
-through a vast undercity. Its branch rolls place households and tributary wards
-beneath holders who owe protection upward and down. The rolls do not settle how
-a relation began or what may be refused.
+Jamnai is a vast city sustained by heat drawn through an undercity, deep in the coldward storm country. Its households and tributary wards belong to a hierarchy recorded in *branch rolls*. Branch holders owe protection both to those above them and to those below. The rolls record these relationships without necessarily explaining how they began or what a person may refuse.
 
-The arcology survives through heatworks no champion can repair by winning.
-Branch officers choose among safe demands; recognized stewards keep the working
-limits. Dead warriors called Soiru'i remain in branch and sect memory, where
-living champions may act in their names and disputed signs may enter an appeal.
+Branch officers decide how to use the heatworks, but recognized stewards determine which operations are safe. Officers choose within those limits. A champion's victory cannot repair the machinery on which the city depends.
 
-In [[../Sources/Who Kept the Heat|Who Kept the Heat]], a branch holder tries to
-send a tributary ward's heat to siege foundries. A steward stops the valve; a
-Hearth sect keeps the steward's family and copied page beyond the holder's
-reach.
+Dead warriors called Soiru'i remain part of branch and sect memory. Living champions may act in their names, and signs attributed to them may be presented in an appeal, though their meaning can be disputed.
+
+In [[../Sources/Who Kept the Heat|Who Kept the Heat]], a branch holder orders heat diverted from a tributary ward to siege foundries. A steward stops the valve. A Hearth sect protects the steward's family and preserves a copied page beyond the holder's reach, allowing the challenge to the order to continue.
 
 ## Papsenai and Ti'asantatca
 
-Papsenai tribes are famous for agriculture guided by long attention to possible
-seasons. Their shamans can bind their work to a field, herd, road, or weather
-front and labor toward a favorable future over months or years. Households set
-aside seed and subsistence before arguing over what the land and their own labor
-can risk. The chosen future has an edge; no harvest account proves what happened
-beyond it.
+Papsenai tribes are known for agriculture shaped by sustained magical work on possible futures. A shaman can bind that work to a field, herd, road, or weather front, then labor for months or years toward a favorable outcome. Before deciding what to risk, households set aside seed and enough to live on. They then debate how much land and labor they can commit.
 
-Ti'asantatca stands beside a storm that does not end. Its Stormshield Circles
-keep overlapping watches. The incoming shaman takes hold before the outgoing
-worker releases the threatened section, and observers compare both accounts
-against the weather. Relief comes from the same households and fields the
-barrier protects. When no competent replacement arrives, the outgoing worker
-remains on the threatened section beyond the planned release.
+The future a shaman works toward has limits. A harvest account can record the result within them; it cannot establish what happened beyond them.
 
-[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]] begins with
-grain taken for a campaign and a relief watch sent elsewhere. When the shield
-yields, its workers bring store marks, shift papers, and household testimony to
-the review.
+Ti'asantatca stands beside a storm that never ends. Its Stormshield Circles maintain the barrier through overlapping watches: an incoming shaman takes hold of a threatened section before the outgoing worker lets go. Observers compare both workers' accounts with the weather. Replacement workers come from the same households and fields the shield protects. If no competent replacement arrives, the worker already holding the section stays beyond the planned end of the watch.
 
-In [[../Sources/The Narrow Shield|The Narrow Shield]], separate Papsenai and
-Sarxe workings keep correcting the pressure sent by the others. A Circle lead
-takes every target for one watch, saves the central refuges, and releases the
-outer road and fields.
+[[../Sources/The Missing Relief Cohort|The Missing Relief Cohort]] describes what happens when a campaign takes grain and sends a relief watch elsewhere. After a section of the shield yields, its workers bring store marks, shift papers, and household testimony to the review.
+
+Separate efforts to protect people can also interfere with one another. In [[../Sources/The Narrow Shield|The Narrow Shield]], Papsenai and Sarxe workings repeatedly redirect pressure into each other's care. A Circle lead takes control of all the targets for one watch, then concentrates protection on the central refuges. The refuges survive; the outer road and fields lose their protection.
 
 ## The Ju'onai Hegemony
 
-Ju'onai readers call sudden comprehension of a bounded system an **opening**.
-Their schools spend generations disputing what an opening reveals: a god's
-concordance, a trial survived, causes properly distinguished, or merely a frame
-whose edge has finally been named. Opened readers experience such moments;
-learned readers test and carry the knowledge without claiming the same gift.
+Ju'onai readers call a sudden understanding of a limited system an **opening**. An opened reader experiences that moment directly. Learned readers can test and pass on the resulting knowledge without claiming the same gift.
 
-A reading meant for public use passes from a school to a House of Attestation,
-which certifies what its reader demonstrated. The Measured Offices then decide
-whether to use the report for tax, works, conquest, or correction. Explaining a
-system grants the school no public office.
+Schools have spent generations disputing what an opening means. It may reveal agreement with a god's understanding, knowledge earned through a trial, a correct distinction between causes, or simply a clearer recognition of where an explanation stops. These interpretations remain in dispute.
 
-Ju'onai client colleges circulate [[../Sources/Four Readings of a Broken Sluice|a teaching dialogue]] in which four schools explain a failed sluice and
-its keeper asks which of them will carry the repair. The Hegemony can repair
-such headworks and use the improved flow to justify a larger levy. Local rulers
-may keep their titles while Measured Offices decide which accounts will support
-a levy or public work. An appeal can expose the edge of an official model,
-sometimes only after the people omitted from it have paid for the error.
+Before a reading is used in public affairs, the school sends it to a House of Attestation. The House certifies what the reader actually demonstrated. The Measured Offices then decide whether to use the report for taxation, public works, conquest, or correction. A school's ability to explain a system gives it no office or power to administer that system.
+
+For people under Ju'onai rule, this distinction affects water, work, and what they owe. The Hegemony can repair major waterworks and cite the improved flow as grounds for a larger levy. Local rulers may retain their titles while the Measured Offices decide which accounts justify taxation or public works. An appeal can show where an official model fails to account for people or conditions, sometimes only after those left out have suffered the consequences.
+
+Ju'onai client colleges circulate [[../Sources/Four Readings of a Broken Sluice|a teaching dialogue]] about this gap between explanation and responsibility. Four schools explain why a sluice failed. Its keeper asks which of them will carry the repair.
 
 ## The divided city
 
-The Ju'onai first reduced the City of Prophets to tribute. Later terjamna power
-contested the same prize. Neither could cheaply take exclusive custody of the
-prophetic houses or the Sunwall farms, so local courts and ward authorities
-survived between their claims. Ju'onai and terjamna garrisons and tribute claims
-still cut through those local jurisdictions.
+The City of Prophets is governed through overlapping local and imperial authorities. The Ju'onai first forced it to pay tribute; terjamna power later contested control of it. Neither could cheaply gain exclusive control of the prophetic houses or Sunwall farms. Local courts and ward authorities survived between them, and Ju'onai and terjamna garrisons and tribute claims still cross those local jurisdictions.
 
-A civic allocation table schedules public shares from reports of available
-capacity. Sunwall stewards operate the farms and lifts and can stop an unsafe
-configuration. Prophetic houses supply comparisons among possible futures;
-civic judges decide what those reports can support. Most residents farm the
-galleries, maintain lifts and pressure refuges, carry grain, keep records, or
-serve the garrisons.
+Most residents farm the galleries, maintain lifts and pressure refuges, carry grain, keep records, or serve the garrisons. Their access to public shares is scheduled through a civic allocation table based on reports of available capacity.
 
-In [[../Sources/The Closed Lift Appeal|The Closed Lift Appeal]], two sponsored
-forecasts close a grain lift and cost its non-house captain work and housing.
-The sponsors must disclose their own intended actions before the lift moves
-again.
+Different authorities control different parts of that process. Sunwall stewards operate the farms and lifts and can stop an unsafe arrangement. Prophetic houses compare possible futures. Civic judges decide what those reports justify. A forecast, an operating limit, and a civic order each answer a different question.
+
+In [[../Sources/The Closed Lift Appeal|The Closed Lift Appeal]], two sponsored forecasts lead to the closure of a grain lift. Its captain, who belongs to no prophetic house, loses work and housing. Before the lift moves again, the sponsors must disclose what they themselves intend to do—actions that bear on the futures they have presented.
 
 ## Sarxe and Saxfoldi
 
-Sarxe communities remember two great dispersals: the conquest of their first
-Crown City and a later massacre at a refuge they had believed secure. Their
-best-known political center, Saxfoldi, now moves and hides so that no enemy can
-take it at one gate.
+Sarxe communities remember two great dispersals. The first followed the conquest of their first Crown City; the second followed a massacre at a refuge they had believed secure. Saxfoldi, their best-known political center, now moves and hides to keep an enemy from taking it at a single gate.
 
-Every move chooses what enters its finite route space. Central stores and
-records travel; clinics, graves, fields, and workshops remain under settled
-care. Divided families send messages and medicine across the closing road,
-along with arguments about who was reached in time. Diaspora workers guide and
-guard those routes, salvage lost ground, and sometimes take mercenary
-contracts. Many received dangerous road assignments from people who remained
-nearer the political center.
+Each move has limited room along its route, so people must decide what travels. Central stores and records go with the center. Clinics, graves, fields, and workshops remain in the care of settled communities. Families divided by a move send messages and medicine along the road before it closes. They also argue over who received help in time.
+
+Diaspora workers guide and guard these routes, salvage lost ground, and sometimes take mercenary contracts. Many have been given dangerous road assignments by people who stayed closer to the political center.
 
 ## Peoples outside the great magical polities
 
-Many people express no recognized magic. They belong to old communities without
-a Crown tradition, mixed households, and ways of life that cross the great
-polities. Courts and employers still turn the lack of a recognized gift into
-claims about allegiance, resistance to miracles, and fitness for ordinary
-labor.
+Many people show no recognized magic. They include members of old communities without a Crown tradition, mixed households, and ways of life that cross the great polities. Courts and employers nevertheless use the absence of a recognized gift to make claims about whom these people owe allegiance to, whether they resist miracles, and what ordinary labor they are suited for.
 
-Technical lineages also cross these boundaries. Their members may inherit a family practice, enter by apprenticeship, leave one order for another, or arise around a local work with no prestigious ancestry at all.
+Technical lineages cross political and social boundaries too. Someone may inherit a family practice, learn through apprenticeship, or leave one order for another. A lineage may also form around local work without any prestigious ancestry.
 
-Stories speak of a coldward people whose uncanny judgment serves trade, defence, and craft. Travellers confidently describe their politics; the descriptions do not agree. Until a visitor can name the office, workshop, household, or road behind the claim, “they always know what to do” is a boast, a fear, or a sales pitch rather than useful knowledge.
+Stories describe a coldward people whose uncanny judgment aids trade, defence, and craft. Travellers offer confident but conflicting accounts of their politics. A useful account would identify the office, workshop, household, or road on which its claim rests. Without that, “they always know what to do” remains a boast, a fear, or a sales pitch.
 
 See [[Kalsa]], [[Magic and Miracles]], [[Gods and the Dead]],
 [[../Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]],
