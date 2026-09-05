@@ -13,60 +13,39 @@ tags:
 
 # The Faces in the Ash Halo
 
-The answer roll reached the furnace court before the champion's armour was
-made. It remained sealed in the branch registrar's case.
+During a siege, divine armour formed around a champion in a Jamnai furnace court. Faces appeared in the white fire between its iron scales. Afterward, several shrines where the dead had given familiar answers fell silent, and something new answered beneath the court.
 
-Forge workers had spent three shifts preparing the court. Iron scales stood on
-marked racks beside copper wire, ceramic splints, resin, charcoal, quench
-water, and raised weights. A live heat trunk fed the furnaces. Healers watched
-the fasting champion. Two outer shrines had surrendered their ordinary grants
-to the armament.
+A death witness had brought an answer roll before the armour was made. It recorded signs by which households recognized the dead, along with the places where those signs appeared. The households able to recognize its entries waited below with the witness. The branch registrar kept the roll sealed in a case throughout the working.
 
-The death witness who brought the roll waited below with the households able to
-recognize its entries.
+## Preparing the armour
 
-## When the iron crossed
+The forge crew spent three shifts preparing the court. They placed iron scales on marked racks beside copper wire, ceramic splints, resin, charcoal, quench water, and raised weights. A live heat trunk supplied the furnaces. Healers watched the champion, who was fasting.
 
-Ash and filings rose around the champion. Racks tipped, weights fell, wire drew
-tight, and hot scales closed over the body before the forge crew could follow
-the fitting. White fire stood between the pieces.
+Two outer shrines had surrendered their ordinary grants to supply the armament.
 
-Faces entered that fire one at a time.
+When the working began, ash and filings rose around the champion. Racks tipped, weights fell, and wire pulled tight. Hot scales closed over the champion's body faster than the forge crew could follow the fitting. White fire stood between the pieces.
 
-A scarred hand counted twice. A mouth formed around the warning used at a
-furnace-family shrine. Someone in old champion's dress turned toward the sealed
-case. Each held for an instant. Each broke when the light pulled inward again.
+Faces appeared in that fire one at a time. A scarred hand counted twice. A mouth took shape around the warning used at a furnace-family shrine. A figure dressed as an old champion turned toward the sealed case. Each appearance lasted an instant, then broke apart as the light drew inward.
 
-The armour closed. The champion crossed the heat gate and held it until relief
-arrived.
+Once the armour had closed, the champion crossed the heat gate and held it until relief arrived.
 
 ## The opened roll
 
-The registrar released the case after the siege. The death witness carried the
-roll to the recorded sites.
+After the siege, the registrar released the case. The death witness took the roll to the sites it recorded and checked for the familiar answers.
 
-The pressure warning no longer answered at the furnace-family shrine. A
-tributary household set its burial meal and received none of the familiar
-signs entered beside the scarred hand. Followers of a defeated champion found
-his shrine silent.
+At the furnace-family shrine, the pressure warning no longer answered. A tributary household laid out its burial meal, but none of the familiar signs recorded beside the scarred hand appeared. The followers of a defeated champion found his shrine silent.
 
-At the slag cistern beneath the court, something new answered with enough force
-to drive the cleanup crew from the quench drain.
+Beneath the furnace court, at the slag cistern, something new answered. Its force drove the cleanup crew away from the quench drain.
 
-The death witness copied each gesture beside its earlier entry. The line for
-identity remained blank when the roll returned to its case.
+The witness copied each gesture beside its earlier entry. But the roll did not identify what had answered: when it went back into the case, the line for identity was still blank. The recorded appearances and silences left that question unresolved.
 
-## Court returns
+## What was kept afterward
 
-The forge return named consumed stores, damaged lifting gear, burned workers,
-and the blocked drain. The outer shrines waited for their grants to resume.
-Households copied the silent entries before the branch reclaimed its case.
+The forge's report listed the stores consumed, lifting gear damaged, workers burned, and drain blocked. The outer shrines were still waiting for their ordinary grants to resume. Before the branch reclaimed its case, households copied the entries recording the silence at their shrines.
 
-High-branch rites still remember the armour and held gate. Some Soiru'i sects
-carry an answer roll into every great working they can reach. Others are kept
-outside with the names they brought.
+High-branch rites continue to commemorate the armour and the gate the champion held. Some Soiru'i sects bring an answer roll to every great working they can reach. Others are kept outside, still carrying the names they brought.
 
-The old furnace court has been opened again.
+The old furnace court has now been opened again.
 
 Return to [[../World/Gods and the Dead|Gods and the Dead]],
 [[../World/Magic and Miracles|Magic and Miracles]], or [[../index|Kalsa]].

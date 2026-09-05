@@ -16,29 +16,29 @@ tags:
 
 # Null and Control Descendants
 
-Prometheus established a Control population when he began his evolutionary games. He withheld the Kaos strains and selected this population for broad competence, physical health, uniformity, and ease of handling. He also used Control lineages in narrower experiments, including biological interfaces later involved in Analysis.
+Control descendants trace their ancestry to a population Prometheus established for his evolutionary experiments. [[Spoilers/Foundations/Magic Styles|Null]] describes someone with no expressed Gift. The two categories overlap, but neither defines the other: present Null people are not all Control descendants, and Control descendants are not necessarily Null. Null is not a race, caste, religion, or political loyalty.
 
-The Control population occupied the eighth Ring but was not confined to it. Prometheus repeatedly deployed indoctrinated Control labor to Kalsa during terraforming. Surface settlements therefore predate the [[Spoilers/Foundations/Ark and Fall#The Fall|Fall]], while another Control population descended with the eighth Crown City.
+## The Control population
 
-## Religion and dispersion
+When Prometheus began his evolutionary games, he established a Control population from which he withheld the Kaos strains. He selected these people for broad competence, physical health, uniformity, and ease of handling. “Generalist” describes what he wanted his selection program to produce; it does not mean every descendant is competent at everything. He also used Control lineages in more specialized experiments, including work on biological interfaces later involved in Analysis.
 
-Surface Controls were conditioned toward purity, reproductive restraint, and enlightenment through obedience. Diet also enforced sterility. These controls failed unevenly. Splinter communities formed independent settlements and developed monotheistic traditions from Promethean teaching.
+Controls lived in the Ark's eighth Ring, but Prometheus repeatedly sent indoctrinated Control workers to Kalsa during terraforming. Their surface settlements therefore existed before the [[Spoilers/Foundations/Ark and Fall#The Fall|Fall]]. A separate Control population came down with the eighth Crown City. Control descendants consequently have more than one settlement history and form many communities and polities, with no single canonical nation.
 
-After the Fall, some control-descended polities imposed order on Ring populations deprived of Promethean direction. Null-descended religions spread into Crown Cities and later competed with the polytheistic powers of Gifted cultures.
+## Obedience, religion, and settlement
 
-Control bloodlines mixed widely with Ring descendants. Present Null people are not all Controls, and present Control descendants are not necessarily Null. [[Spoilers/Foundations/Magic Styles|Null]] names the absence of an expressed Gift, not a race, caste, religion, or political loyalty.
+Prometheus conditioned surface Controls to pursue purity, restrain reproduction, and seek enlightenment through obedience. He also used their diet to enforce sterility. These measures did not hold everywhere: splinter communities established independent settlements and developed monotheistic traditions from Promethean teaching.
 
-## Adopted boundaries
+Purity theology survived as an inherited institution that placed demands on people. Its survival does not establish that the people claiming purity actually possessed it.
 
-- “Generalist” describes Prometheus's selection target, not universal present competence.
-- Purity theology is an inherited institution and pressure, not proof of actual purity.
-- Control descendants are plural communities and polities; they have no single canonical nation.
+After the Fall, Ring populations lost Promethean direction. Some Control-descended polities imposed order on them. Religions descended from Null communities spread into the Crown Cities and later competed with the polytheistic powers of Gifted cultures.
+
+Control bloodlines also mixed widely with other Ring descendants. Ancestry, religious teaching, political allegiance, and the expression of a Gift must therefore be considered separately when describing present communities.
 
 ## Unresolved
 
-- Name, location, and fate of the Control Crown City.
-- Present Null-majority religions, polities, and their relations with Gifted minorities.
-- How surface Controls related to native ecosystems and later Ark arrivals.
-- Whether any Control institutions retained technical truth about their original purpose.
+- The name, location, and fate of the Control Crown City.
+- Which present religions and polities have Null majorities, and how they relate to Gifted minorities.
+- How surface Controls related to native ecosystems and later arrivals from the Ark.
+- Whether any Control institutions retained technical knowledge of their original purpose.
 
 See [[Spoilers/Polities/Spokers|Spokers]], [[Spoilers/Foundations/Prometheus|Prometheus]], and [[Spoilers/Foundations/Ark and Fall|Ark and Fall]].
