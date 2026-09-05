@@ -23,204 +23,218 @@ tags:
 
 # Soiru'i Sects
 
-The seed calls a Soiru'i the residual power of a dead terjamna warrior and says the dead can be championed as a living superior would be. Soiru'i Sects organize that championing: they preserve names and conflicts, tend manifestations, sponsor living champions, feed dependents, and argue over whether loyalty to the dead supports or limits the living hierarchy.
+A Soiru'i is, in the seed's account, the power that remains after a terjamna warrior dies. The seed says people can champion this dead presence as they would a living superior. A **Soiru'i sect** organizes that relationship: it keeps the dead person's name and conflicts in memory, tends manifestations, supports a living champion, and provides for dependents.
 
-This note owns sect practice and claims. It does not decide whether a particular Soiru'i is a continuing [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Individual Projections|Individual Projection]], a Chaos-Beast remnant, a thaumavore using remembered identity, a surviving divine branch, or several of these. Silence is not proof of release. Manifestation is not proof that the sect interpreted it correctly.
+For living people, a sect can mean food, burial support, sanctuary, or someone powerful enough to carry an appeal. It can also mean continued service to a superior who has died. Sects disagree over whether loyalty to the dead should uphold the living hierarchy or place limits on it. Their shared promise is that the living hierarchy will not have the sole right to say what the dead fought for.
 
-## Owner map
-
-| Surface | Owner | Does not own |
-|---|---|---|
-| Shrine, rite, archive, and mutual-aid store | The local sect under the law or protection that sustains it | The dead identity itself |
-| Claim that a Soiru'i spoke, refused, or delegated | The witnesses and sect making the claim | Author metaphysics, civil verdict, or automatic submission |
-| Living champion's office | The congregation or branch that recognizes and supports it | Unlimited force or every power attributed to the dead |
-| Funeral and death inventory | The overlapping authorities in [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] | A sect alone when kin, cult, and polity claims conflict |
-| Sanctuary | The sect's site, stores, witnesses, and people willing to defend it | Guaranteed metaphysical severance or universal immunity |
-| Mutual aid | Store stewards under the sect's declared beneficiary rule | A branch holder who donated the goods after the gift is complete |
-| Historical memory | Record keepers, descendants, witnesses, and rival copies | One official genealogy that erases defeated accounts |
-
-The sect's core promise is narrower than salvation: the living hierarchy will not be the only institution allowed to say what the dead fought for.
+This note establishes sect practices and the claims sects make. It does not settle what any particular Soiru'i is. The presence might be a continuing [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Individual Projections|Individual Projection]], a Chaos-Beast remnant, a thaumavore using a remembered identity, a surviving divine branch, or some combination. A manifestation does not prove that its witnesses understood it correctly. Silence does not prove that the dead have released their hold on the world.
 
 ## Championing
 
-To champion a Soiru'i is to maintain a lower-world relationship through which the dead presence may receive recognition, potential, witnesses, and an advocate. The living champion carries the name, appears at disputes, protects a shrine and its dependents, and may receive material or magical support attributed to the Soiru'i.
+Championing gives a dead presence a living representative and maintains a relationship with it in the lower world. Through that relationship, the Soiru'i may receive recognition, potential, witnesses, and advocacy. The living champion carries its name into disputes, defends its shrine and dependents, and may receive goods or magical support attributed to it.
 
-Championing can resemble [[Spoilers/Institutions/God-Cult Covenants|a divine covenant]], ancestral veneration, legal representation, or the continuation of an old branch. Sects disagree over which description is correct. A public rite may align attention without creating a binding. A manifestation may consume potential without accepting the sect's terms. A dead Sorcerer Beast may continue an actual submission relation that no living clerk can inspect.
+Sects disagree about what this relationship amounts to. Some understand it as [[Spoilers/Institutions/God-Cult Covenants|a divine covenant]], others as ancestral veneration, legal representation, or the continuation of an old branch. These descriptions do not establish what the rites actually do. A public rite may bring people's attention into alignment without creating a binding. A manifestation may consume potential without accepting any of the sect's terms. A dead Sorcerer Beast may still hold an actual submission relation that no living clerk can inspect.
 
-Responsible sect records distinguish:
+Careful records therefore keep five things separate:
 
-- what the dead person said and did while alive;
-- what followers promised after death;
-- what manifestations witnesses observed;
-- what interpretation the sect adopted;
-- what goods, potential, office, and force now move in the Soiru'i's name.
+- The dead person's words and actions during life.
+- Promises made by followers after the death.
+- Manifestations that witnesses observed.
+- The sect's interpretation of those observations.
+- The goods, potential, offices, and uses of force now authorized in the Soiru'i's name.
 
-Without those distinctions, championing becomes an efficient way for living officers to put their own command into a dead mouth.
+Those distinctions allow someone to challenge a living officer without pretending to know the dead person's wishes. Without them, an officer can issue a command and attribute it to someone who cannot reliably be questioned.
 
-## Common offices
+## Who controls what
 
-Formal titles and native names remain unresolved, but recurring work includes:
+A sect has authority over its living organization. That does not give it ownership of the dead person, exclusive rights to the evidence, or the power to settle every dispute involving the shrine.
 
-- **memory keepers**, who preserve biographies, submission origins, deaths, prior refusals, and contradictory testimony;
-- **shrine stewards**, who manage sites, offerings, hazards, and the timing of potential-rich rites;
-- **living champions**, who represent, defend, and sometimes fight under a Soiru'i's name;
-- **store stewards**, who hold food, heat claims, tools, burial funds, ransom, and support for injured or suspended households;
-- **mortuary witnesses**, who work beside households and binding clerks when a possible Soiru'i first manifests;
-- **sanctuary advocates**, who carry petitions and negotiate with the [[Spoilers/Institutions/Jamnai Submission Hierarchy|submission hierarchy]].
+| Responsibility | Who holds it | Limit |
+|---|---|---|
+| Shrine, rites, archive, and mutual-aid store | The local sect, under the law or protection that sustains it | Control of these resources does not confer ownership of the dead identity. |
+| Reports that a Soiru'i spoke, refused, or delegated power | The witnesses and sect making the report | Their claim does not establish author metaphysics, decide a civil case, or automatically place anyone in submission. |
+| The living champion's office | The congregation or branch that recognizes and supports it | Recognition grants neither unlimited force nor every power attributed to the dead. |
+| Funerals and death inventories | The overlapping authorities described in [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] | A sect cannot decide alone when kin, cult, and polity claims conflict. |
+| Sanctuary | The sect's site, stores, witnesses, and people willing to defend it | These can offer practical protection, but cannot guarantee metaphysical severance or immunity everywhere. |
+| Mutual aid | Store stewards applying the sect's declared beneficiary rule | Once a branch holder completes a gift, the donor no longer controls its distribution. |
+| Historical memory | Record keepers, descendants, witnesses, and rival copies | An official genealogy cannot be allowed to erase the accounts of the defeated. |
 
-Combining all offices in one champion is prestigious and dangerous. The same person could declare what the dead wants, control the shrine's potential, spend the dependents' food, and punish disagreement. Durable sects distribute witnesses and stores even when a single champion leads public ritual.
+## The work inside a sect
 
-## Formation, admission, and training
+The formal titles and native names of sect offices remain unresolved. The recurring responsibilities are clearer:
 
-A sect forms when people can sustain a claim about one or more Soiru'i through a shrine or route, witnesses, a memory record, material support, and a practice for selecting living representatives. A battlefield following, military household, worker ward, conquered community, funeral society, or sanctuary network can become a sect. Recognition by a Jamnai branch may grant public space and benefits. Refusal of that recognition may preserve independence while exposing members to seizure.
+- **Memory keepers** preserve biographies, the origins of submission claims, accounts of deaths, earlier refusals, and contradictory testimony.
+- **Shrine stewards** manage the site and its offerings, deal with hazards, and schedule rites rich in potential.
+- **Living champions** speak and defend in the Soiru'i's name, sometimes through combat.
+- **Store stewards** hold food, claims to heat, tools, burial funds, ransom, and provisions for injured households or households under suspension.
+- **Mortuary witnesses** work with households and binding clerks when a possible Soiru'i first manifests.
+- **Sanctuary advocates** carry petitions and negotiate protection with the [[Spoilers/Institutions/Jamnai Submission Hierarchy|submission hierarchy]].
 
-Admission should name what the entrant joins. Participation in a funeral, acceptance of food, residence near a shrine, descent from the dead, and a covenant to champion the Soiru'i are different acts. High-branch sects often treat service households as enrolled through the branch. Hearth and unbound sects more often rely on witnessed membership and contribution. Release traditions may accept temporary participants precisely to avoid making care hereditary. These are tendencies, not universal rules.
+One champion may hold all these offices. That brings prestige, but also puts dangerous powers in one person's hands: interpreting the dead, controlling shrine potential, spending the food intended for dependents, and punishing dissent. Durable sects place records, witnesses, and stores in several hands even when one champion leads the public rites.
 
-Memory keepers train by comparing biographies, submission records, household testimony, battlefield accounts, prior manifestations, and the record of people harmed by the championed figure. Shrine stewards learn potential hazards, crowd and rite management, safe interruption, and when to call mortuary or technical specialists. Store stewards learn inventory, beneficiary rules, emergency release, and duplicate accounting. Sanctuary advocates learn routes, local law, covenant and death procedure, and the point at which protection becomes detention.
+## Joining, learning, and being supported
 
-A living champion is selected through a witnessed claim by the congregation or branch that will support the office. Evidence may include service, ability to protect dependants, knowledge of the dead person's recorded commitments, acceptance by shrine workers, and observed manifestations. No sign alone proves selection by the Soiru'i. A champion trains in bounded delegation, dispute procedure, protection, public speech, and the conditions under which force and miracle use must stop.
+A sect needs enough people and resources to maintain a claim about one or more Soiru'i. It must sustain a shrine or route, witnesses, a memory record, material support, and a way to choose living representatives. A battlefield following or military household can develop into a sect, as can a worker ward, conquered community, funeral society, or sanctuary network.
 
-Officeholders are supported through the sect's stores: food, lodging, equipment, burial funds, workshop shares, branch contributions, captured tribute, or voluntary labor. Compensation is recorded separately from offerings said to belong to the dead. A champion paid through unrestricted seizure will eventually discover that every refusal threatens the Soiru'i.
+Recognition by a Jamnai branch can bring benefits and a place to operate openly. A sect that refuses recognition may retain more independence, but its members become vulnerable to seizure.
 
-## Sect variation
+What counts as joining matters. Attending a funeral, accepting food, living beside a shrine, descending from the dead person, and making a covenant to champion that person are different acts. Admission should state which relationship the entrant is accepting. In practice, high-branch sects often count service households as members through their branch. Hearth and unbound sects more often use witnessed membership and contributions. Release traditions may deliberately admit people for a limited time so that receiving care does not become a hereditary duty. None of these tendencies applies to every sect.
 
-The following are tendencies, not a fixed universal denomination list. Particular sect names and alliances remain unresolved.
+Training follows the responsibility:
+
+- Memory keepers compare biographies and submission records with household testimony, battlefield accounts, earlier manifestations, and accounts from people the championed figure harmed.
+- Shrine stewards learn to manage crowds and rites, recognize potential hazards, interrupt proceedings safely, and call mortuary or technical specialists when needed.
+- Store stewards learn inventories, eligibility for aid, emergency distribution, and accounting through duplicate records.
+- Sanctuary advocates learn routes, local law, covenant and death procedures, and how to recognize when shelter has become detention.
+
+The congregation or branch supporting a champion selects that person through a witnessed claim. It may consider past service, the ability to protect dependents, knowledge of the dead person's recorded commitments, acceptance by shrine workers, and observed manifestations. No single sign proves that the Soiru'i chose the candidate. Champions learn the limits of delegated power, dispute procedure, protection, public speech, and when they must stop using force or miracles.
+
+Sect stores support officeholders with food, lodging, equipment, burial funds, workshop shares, branch contributions, captured tribute, or voluntary labor. Records distinguish this compensation from offerings said to belong to the dead. Where a champion is allowed to take whatever they need by seizure, they have a ready incentive to declare every refusal an offense against the Soiru'i.
+
+## Different kinds of sect
+
+These are recurring tendencies, not a universal list of denominations. Particular sect names and alliances remain unresolved.
 
 ### High-branch sects
 
-High-branch sects champion dead holders, conquerors, and stabilizing champions as continuing authorities. They teach that a worthy branch survives bodily death through loyalty, descendants, and successful protection. Their shrines legitimate succession, maintain military households, and can preserve welfare when a living anchor dies.
+High-branch sects treat dead holders, conquerors, and champions who brought stability as authorities whose work continues. They teach that a worthy branch survives its holder's bodily death through loyalty, descendants, and successful protection.
 
-They are most likely to describe conquest as sacred continuity and most able to turn a dead superior into a permanent veto. Their mutual aid is real: pensions, burial, food for soldiers' families, ransom, equipment, and protection from lateral seizure. Access often depends on remaining legible as a loyal branch.
+Their shrines help establish legitimate succession and maintain military households. When a living anchor dies, the sect can keep welfare operating. Its benefits include pensions, burial, food for soldiers' families, ransom, equipment, and protection from seizure by another branch. Receiving that help often depends on being recognized as a loyal part of the branch.
+
+These sects are also the most likely to treat conquest as sacred continuity. By invoking a dead superior, they can give that superior a permanent veto over living decisions.
 
 ### Hearth sects
 
-Hearth sects champion people remembered for protecting a household, craft, heatwork, ward, or tributary community. Their Soiru'i are valve keepers, defenders, rescuers, organizers, and sometimes warriors whose decisive act was refusal rather than conquest.
+Hearth sects honor people remembered for protecting a household, craft, heatwork, ward, or tributary community. Their dead include valve keepers, defenders, rescuers, and organizers. Some were warriors remembered chiefly for refusing an order rather than winning a conquest.
 
-They keep duplicate work and submission records, maintain emergency stores, support injured workers, shelter dependents during appeal, and insist that protection is the condition of legitimate rank. A Hearth sect can resist a holder without rejecting Jamnai's entire branch logic: it appeals to the dead protector against the living official who abandoned the duty.
+The sects preserve duplicate work and submission records, keep emergency stores, support injured workers, and shelter dependents during appeals. Their argument is that rank is legitimate only while it protects people. A Hearth sect can therefore oppose a holder while accepting Jamnai's wider branch system: it invokes the dead protector's duty against a living official who has abandoned it.
 
 ### Unbound and last-refusal sects
 
-These sects preserve defeated people whose submission was coerced, disputed, or refused. Some began in tributary communities, captive lines, or branches erased during succession. They champion the moment a person said no, escaped, died without swearing, or later tried to sever a claim laundered as covenant.
+Unbound and last-refusal sects remember defeated people whose submission was coerced, disputed, or refused. Some grew from tributary communities, captive lines, or branches erased in a succession. They preserve particular acts of refusal: saying no, escaping, dying without swearing, or later trying to sever a claim that others had recast as a covenant.
 
-They copy records, conceal descendants, move bodies, sponsor fugitives, and provide routes beyond one branch's reach. Officials accuse them of feeding hostile thaumavores, stealing labor, and inventing dead witnesses. Some accusations are pretexts. Some sites do attract dangerous manifestations because recognition and concentrated potential are precisely what unquiet dead seek.
+Their practical work includes copying records, hiding descendants, moving bodies, sponsoring fugitives, and maintaining routes beyond a single branch's reach. Officials accuse them of feeding hostile thaumavores, stealing labor, and inventing dead witnesses. Some accusations serve as pretexts for action against the sect. Others point to a real danger: certain sites attract dangerous manifestations because the recognition and concentrated potential offered there are exactly what unquiet dead seek.
 
-An unbound sect can become another coercive cult if its living champion treats ancestral resistance as a command every descendant must obey. Refusal inherited as compulsory identity is still custody.
+These sects can also become coercive. A champion who requires every descendant to obey an ancestor's resistance turns a remembered refusal into compulsory service. The descendant still has no choice.
 
 ### Release traditions
 
-Release-oriented sects honor the dead by reducing the demands placed upon them. They favor brief rites, settlement of obligations, restoration where possible, dispersed potential, and voluntary release over permanent championing. Other sects call this abandonment or destruction of a branch.
+Release-oriented sects try to reduce what the living demand of the dead. They favor short rites, settling obligations, restoration where possible, dispersing potential, and voluntary release rather than permanent championing. Other sects accuse them of abandoning the dead or destroying a branch.
 
-Release traditions provide an internal critique of the assumption that every powerful dead person should remain politically useful. They cannot prove that their rite released a Projection. They can refuse to build a lower-world institution that depends upon keeping the dead engaged forever.
+Their challenge is to the expectation that a powerful dead person should remain politically useful. They cannot prove that a rite released a Projection. They can choose to maintain no lower-world institution that requires the dead person's continued engagement.
 
-## Material base and mutual aid
+## Food, heat, and the ability to refuse
 
-Sects endure because they do more than interpret manifestations. Funeral contributions, branch gifts, workshop shares, shrine estates, captured tribute, and voluntary labor support stores of food, clothing, tools, medicine, burial materials, and claims upon communal heat.
+Sects survive through material provision as well as rites. Funeral contributions, branch gifts, workshop shares, shrine estates, captured tribute, and voluntary labor supply food, clothing, tools, medicine, burial materials, and claims upon communal heat.
 
-High-branch sects often administer formal benefits for a military branch. Hearth sects support workers and wards. Unbound sects keep portable stores and hidden routes. Release traditions may spend quickly on funeral settlement rather than accumulating shrine wealth.
+The use of those resources varies. High-branch sects often administer formal military benefits. Hearth sects support workers and wards. Unbound sects need stores they can move and routes they can conceal. Release traditions may spend their resources promptly on settling funerals instead of building shrine wealth.
 
-Mutual aid changes who can refuse. A household that will lose food and heat the moment its patron suspends it has little practical access to appeal. A sect store can keep that household alive long enough for witnesses, technical evidence, or a superior branch to hear the case. The store does not make the hierarchy just; it creates time in which domination is not the only available clock.
+A household whose patron can cut off food and heat has little chance to pursue an appeal. A sect store can support it while witnesses gather, technical evidence is examined, or a superior branch agrees to hear the case. This does not make the hierarchy just. It makes it possible to survive long enough to contest a decision.
 
-This leverage attracts capture. Branch holders seek seats over store stewards, require donor loyalty, or redefine emergency aid as a superior's gift. A sect preserves independence through multiple storekeepers, public beneficiary rules, duplicate records, and support spread across more than one branch.
+Branch holders consequently have reasons to seek control of the stores. They may demand authority over stewards, require loyalty to donors, or describe emergency aid as a superior's personal gift. A sect can protect its independence by using several storekeepers, publishing its beneficiary rules, preserving duplicate accounts, and drawing support from more than one branch.
 
-## Resistance and appeal
+## How sects resist
 
-Soiru'i Sects resist through Jamnai's own pressure points:
+Sect resistance often uses rights, duties, and disputes already present within Jamnai's hierarchy:
 
-- a living champion carries an appeal a weaker household could not safely present;
-- a dead protector's recorded oath is used against a successor who claims only the assets;
-- sanctuary interrupts detention long enough to obtain witnesses;
-- duplicate registries expose a conquest rewritten as hereditary consent;
-- mutual aid sustains a work refusal or flight;
-- funeral witnesses preserve the dead person's last refusal before a branch can rename it submission;
-- rival sects deny a high-branch shrine exclusive control of a manifestation.
+- A living champion presents an appeal that a weaker household could not safely carry.
+- The recorded oath of a dead protector confronts a successor who wants the inherited assets without the duty of protection.
+- Sanctuary interrupts detention long enough to obtain witnesses.
+- Duplicate registries show that an apparent hereditary consent began in conquest.
+- Food and other aid sustain a work refusal or flight.
+- Funeral witnesses preserve a person's final refusal before a branch can record it as submission.
+- Rival sects challenge a high-branch shrine's claim to exclusive control of a manifestation.
 
-Sect testimony is not an automatic verdict. A pressure knock, dream, improbable survival, or voiced manifestation enters [[Spoilers/Institutions/Death and Binding Law|death and binding procedure]] as evidence with competing explanations. Jamnai authorities may respect a champion's standing while rejecting the asserted message.
+The sect's evidence still has to be heard and assessed. Pressure knocks, dreams, improbable survival, and voiced manifestations enter [[Spoilers/Institutions/Death and Binding Law|death and binding procedure]] with competing explanations. Jamnai authorities can recognize a champion's right to speak while rejecting the message the champion attributes to the dead.
 
-Resistance is not always egalitarian. A sect may oppose one holder to restore an older superior, protect only registered members, or shelter a fugitive in exchange for lifelong ritual duty. The question is always which authority moved, who can leave, and whose memory became the price.
+Nor does resistance necessarily seek equality. A sect may fight one holder to restore an older superior. It may protect only registered members, or demand lifelong ritual duty from a fugitive in return for shelter. To understand such a dispute, ask who gained authority, whether the people involved can leave, and what duties have been imposed in the name of memory.
 
-## Discipline, succession, and exit
+## Reviewing officers, replacing them, and leaving
 
-Sect discipline applies to living offices and material trusts. A champion may be reviewed for force outside the recognized grant, invented messages, abandonment of dependants, or seizure of shrine and store authority. A memory keeper may be reviewed for suppressing adverse testimony. A store steward may be reviewed for patron-owned allocations, false inventory, or aid conditioned on undisclosed submission. A sanctuary advocate may be reviewed when temporary protection becomes confinement.
+Discipline concerns the sect's living officeholders and the resources entrusted to them. Grounds for review include:
 
-Investigation separates the contested office from its evidence. Store keys move to more than one interim keeper. Shrine observations are copied before ritual access changes. The champion's weapons or delegation may be held without closing the mutual-aid store. A sect can suspend, remove, demand restitution from, or refuse recognition to an officeholder. It cannot punish the Soiru'i, decide the dead identity, or erase a member's civil standing by removing a champion.
+- A champion using force beyond the recognized grant, inventing messages, abandoning dependents, or taking control of shrine and store offices.
+- A memory keeper suppressing testimony unfavorable to the dead person or sect.
+- A store steward letting a patron dictate allocations, falsifying inventory, or making aid conditional on a submission the recipient was not told about.
+- A sanctuary advocate keeping people confined after their protection has become detention.
 
-Appeal may go to a congregation hearing, a wider sect network, a recognized Jamnai superior, an independent mortuary forum, or a mixed body accepted for the dispute. High-branch sects rely more often on branch appeal; unbound and release traditions rely on peer shrines, sanctuary networks, and duplicate records. The chosen route discloses which authority the sect is willing to let survive its own certainty.
+An investigation must preserve evidence beyond the reach of the person under review. More than one interim keeper receives the store keys. Shrine observations are copied before ritual access changes. Weapons or delegated powers can be withheld from a champion while the mutual-aid store remains open.
 
-Succession is office-specific. A new champion does not inherit the memory keeper's archive, the store, every sanctuary claim, or the dead person's binding. A shrine steward's death triggers a hazard and custody handoff. A store steward's death triggers an inventory. A memory keeper's death triggers comparison of copies. Concentrating those transfers in the new champion creates the very total authority durable sects are meant to resist.
+A sect may suspend or remove an officer, demand restitution, or withdraw recognition. Those actions cannot punish the Soiru'i, settle the identity of the dead, or erase a member's civil standing through the removal of a champion.
 
-Living members may leave a sect's service, office, mutual-aid arrangement, or contractual covenant through the procedures recognized by that body and [[Spoilers/Institutions/God-Cult Covenants#Discipline, contractual exit, and appeal|God-Cult Covenants]]. Exit can require return of entrusted property, settlement of wages or debts, and safe transfer of an active duty. It cannot make inherited identity compulsory or establish that a Soiru'i released its claim. Mortuary and post-mortem severance remain with [[Spoilers/Institutions/Death and Binding Law#Severance and refusal|Death and Binding Law]].
+Appeals may be heard by the congregation, a wider sect network, a recognized Jamnai superior, an independent mortuary forum, or a mixed body accepted for that dispute. High-branch sects more often appeal through the branch. Unbound and release traditions more often use peer shrines, sanctuary networks, and duplicate records. The choice matters because it identifies whom the sect will allow to challenge its own judgment.
 
-## Relationship to the submission hierarchy
+Succession follows each office separately. Choosing a new champion does not hand that person the memory archive, the store, every sanctuary claim, or the dead person's binding. A shrine steward's death requires a transfer of custody and responsibility for hazards. A store steward's death requires an inventory. A memory keeper's death requires comparison of surviving copies. Giving all those responsibilities to the new champion recreates the concentrated authority that durable sects work to prevent.
 
-The hierarchy needs Soiru'i Sects. They care for survivors, preserve martial legitimacy, stabilize branch succession, maintain benefits, and give dead holders a recognized place that might otherwise become an uncontrolled haunting. Sects need the hierarchy's protection, stores, public space, and recognition.
+Members can leave service, office, a mutual-aid arrangement, or a contractual covenant through the procedures recognized by their sect and [[Spoilers/Institutions/God-Cult Covenants#Discipline, contractual exit, and appeal|God-Cult Covenants]]. Departure may require returning entrusted property, settling wages or debts, and transferring an active duty safely. These requirements cannot make inherited identity compulsory. Completing them also does not prove that a Soiru'i has released a claim. Mortuary questions and severance after death remain under [[Spoilers/Institutions/Death and Binding Law#Severance and refusal|Death and Binding Law]].
 
-Their conflict concerns ownership. A branch holder claims that the dead subordinate remains within the branch. A household claims an ancestor. A sect claims a continuing patron. A release advocate preserves a refusal. The Soiru'i may manifest ambiguously or not at all.
+## Why the hierarchy both supports and contests them
 
-No clean organizational chart settles this. [[Spoilers/Institutions/God-Cult Covenants|Covenant records]] can establish what the living promised. [[Spoilers/Institutions/Death and Binding Law|Death inventories]] can preserve disputed origins. Neither turns a living official's theology into author truth.
+The submission hierarchy relies on sects to care for survivors, preserve martial legitimacy, support succession, and maintain benefits. Sects also give dead holders a recognized place; without one, a dead holder might become an uncontrolled haunting. In turn, sects need the hierarchy's protection, stores, public space, and recognition.
 
-## External tributaries
+The conflict is over who can claim the dead and what follows from that claim. A branch holder may insist that a dead subordinate still belongs to the branch. A household claims its ancestor. A sect claims a continuing patron. A release advocate preserves evidence of refusal. The Soiru'i may give an ambiguous manifestation or no answer at all.
 
-Soiru'i practice travels into tributary communities because the dead cross the official boundary between conquest and local memory. A Jamnai branch may establish a shrine to the champion who conquered a route. The tributary village may maintain another shrine for the defenders killed refusing that submission. Both can become sites of real manifestation if potential passes nearby.
+Administrative records can clarify parts of this dispute. [[Spoilers/Institutions/God-Cult Covenants|Covenant records]] establish what living people promised; [[Spoilers/Institutions/Death and Binding Law|death inventories]] preserve disputed origins. Neither can establish that an official's theology is the setting's metaphysical truth.
 
-Hearth and unbound sects exchange duplicate records, burial witnesses, food, guides, and sanctuary across the frontier. High-branch sects use the same roads to provide pensions, recruit champions, and bind local elites. A sect network can therefore be both the social body of empire and the connective tissue of resistance.
+## Sects in tributary communities
+
+Conquest does not produce a single memory of the dead. A Jamnai branch may build a shrine to the champion who conquered a route, while a tributary village maintains a shrine to the defenders killed refusing submission. If potential passes nearby, either site can develop real manifestations.
+
+Sect practice spreads through these competing claims. Across the frontier, Hearth and unbound sects exchange duplicate records, burial witnesses, food, guides, and sanctuary. High-branch sects travel the same roads to pay pensions, recruit champions, and bind local elites. The networks that help maintain an empire can also connect people resisting it.
 
 ## Ji'esti
 
-The seed says a Soiru'i God infiltrated static Saxfoldi and sacrificed itself, creating a magical beacon that allowed Terjamna forces to overwhelm Sarxe resistance and massacre civilians. The event belongs historically to [[Spoilers/Polities/Channeling - Sarxe#The two displacements|Ji'esti]].
+The seed recounts a Soiru'i God infiltrating static Saxfoldi and sacrificing itself. Its sacrifice created a magical beacon through which Terjamna forces overwhelmed Sarxe resistance and massacred civilians. Historically, this event belongs to [[Spoilers/Polities/Channeling - Sarxe#The two displacements|Ji'esti]].
 
-Jamnai sects disagree over its meaning. Conquest sects call it the highest champion's sacrifice: the dead opening a path no living army could force. Hearth and release traditions call it the proof that cultivated dead power can turn a shrine, refuge, or city into targeting infrastructure. Sarxe memory centers the people exposed and killed, not the Jamnai argument over the sacrificer's glory.
+Jamnai sects draw incompatible lessons from it. Conquest sects praise the highest champion's sacrifice: the dead opened a route that no living army could force. Hearth and release traditions treat it as evidence that cultivated dead power can turn a shrine, refuge, or city into a means of directing an attack. Sarxe memory centers the people exposed and killed rather than the Jamnai dispute over the sacrificer's glory.
 
-The setting does not yet establish the Soiru'i's intention, the rite, the exact metaphysical mechanism, or whether “sacrifice” was voluntary. Any sect that cites Ji'esti owns its interpretation and its consequences, not those missing facts.
+The Soiru'i's intention, the rite, and the exact metaphysical mechanism remain unknown. The setting has not established whether the “sacrifice” was voluntary. Sects are responsible for the interpretations they use and the consequences of using them; citing Ji'esti gives them no authority to fill those gaps.
 
-## The Ash-Valve Refusal
+## What sects took from the Ash-Valve Refusal
 
-[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] alone owns the factual event. Its sect consequence is that stores, sanctuary, copied records, and champion advocacy can keep a technical refusal alive until material review. Sect testimony can preserve a reported manifestation without turning the shrine's interpretation into verdict or metaphysical fact.
+[[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] is the sole authority for the event's facts. For sect practice, it shows how stores, sanctuary, copied records, and champion advocacy can sustain a technical refusal until a material review takes place. It also shows how a sect can preserve testimony about a manifestation without making its own interpretation a verdict or a metaphysical fact.
 
-Hearth memory treats the case as proof that mutual aid creates time for appeal. High-branch memory treats it as correction by a superior. Neither account grants a sect technical custody, frees tributaries from unrelated obligations, or proves the dead keeper spoke.
+Hearth accounts emphasize that mutual aid bought time for appeal. High-branch accounts emphasize correction by a superior. Neither interpretation gives sects technical custody, releases tributaries from unrelated obligations, or proves that the dead keeper spoke.
 
-## The Three Ledgers consequence
+## What survived the Three Ledgers Schism
 
-[[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] changed sect practice by making divided office more than a moral preference. Sects carrying its precedent are expected to show who controls champion, memory, store, shrine, and sanctuary work, and how each can be challenged. High-branch traditions cite the defense of continuity; Hearth traditions cite the independent store; unbound traditions cite protected copies; release traditions cite the living exits that required no metaphysical verdict.
+[[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] made the separation of offices an institutional expectation for sects carrying its precedent. Those sects are expected to identify who controls champion, memory, store, shrine, and sanctuary work, and explain how each can be challenged.
 
-The factions retain organized capacities rather than only interpretations: high-branch sects maintain champions and patron recognition, Hearth sects maintain household stores, and unbound or release networks maintain witnesses, routes, and sanctuary. None gained a general right to make a dead anchor's disputed obligations hereditary. The event owns the sequence and settlement; this note owns the institutional memories and capacities that survived it.
+Each tradition remembers a different part of the settlement. High-branch sects cite the defense of continuity. Hearth sects cite the independent store. Unbound sects cite the protected copies. Release traditions cite the living people who were able to leave without waiting for a metaphysical verdict.
 
-## Marginal and hostile readings
+The traditions retained practical means to act on those memories. High-branch sects maintain champions and patron recognition; Hearth sects maintain household stores; unbound and release networks maintain witnesses, routes, and sanctuary. None acquired a general right to make the disputed obligations of a dead anchor hereditary. The event note owns the sequence and settlement. This note owns the sect practices, resources, and institutional memories that continued afterward.
 
-- A branch widow values the High sect that feeds her children and resents reformers who call that dependence false consciousness.
-- A tributary grave keeper asks why the conqueror's dead receives a stone hall while local dead must steal potential to say their names.
-- A living champion fears becoming a costume worn by shrine stewards who need an obedient miracle.
-- A release advocate calls permanent championing conscription after death.
+## Answer rolls after the Ash-Halo Armament
+
+After [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo Armament]], some sects began taking their own answer rolls to every branch rite that could cross a shrine or burial route. These rolls record familiar signs associated with the dead. A memory keeper makes the record, a living witness carries the copy, and a store steward prepares aid in case a shrine falls silent or a manifestation forces households to move.
+
+At such a rite, the sect can ask for recognition, warning, a share, or withdrawal. Its roll cannot certify that the named dead actually entered the route. Whether the roll can support a claim at the branch threshold depends on its custody and corroborating household copies.
+
+## People who disagree with the sects—and with each other
+
+- A branch widow values the High sect that feeds her children. She resents reformers describing her dependence as false consciousness.
+- A tributary grave keeper asks why the dead conqueror has a stone hall while the local dead must steal potential to say their names.
+- A living champion fears becoming a costume for shrine stewards who need an obedient miracle.
+- A release advocate describes permanent championing as conscription after death.
 - A summit officer calls sanctuary a market in forged ancestors.
-- A fugitive says a forged ancestor still opened a real door when the lawful patron closed every one.
+- A fugitive answers that a forged ancestor opened a real door when the lawful patron had closed every one.
 
-The sects remain plural because these pressures cannot be solved by declaring all manifestations holy or all religion fraudulent.
+These people have different needs and different evidence. Declaring every manifestation holy, or every religion fraudulent, resolves none of their disputes. Their pressures help keep the sects plural.
 
-## The Ash-Halo consequence
+## How a sect fails
 
-After [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo Armament]], some
-Soiru'i sects carry their own answer rolls to every branch rite capable of
-crossing a shrine or burial route. A memory keeper records familiar signs; a
-living witness carries the copy; a store steward prepares support if a shrine
-goes silent or a manifestation forces households to move. The sect can request
-recognition, warning, a share, or withdrawal. It cannot certify that the named
-dead entered the route.
-Custody and corroborating household copies decide whether the roll can support
-the sect's claim at a branch threshold.
+The institution becomes dangerous when its living officers can no longer be challenged, its care creates compulsory service, or its rites produce hazards it cannot manage. Failures include:
 
-## Institutional failure
+- Treating a champion's preference as an unquestionable command from the dead.
+- Requiring permanent submission in exchange for mutual aid.
+- Concentrating enough potential to attract or create the threat the sect claims to control.
+- Preserving a heroic biography by erasing victims, captives, workers, and failures to protect.
+- Holding people indefinitely under the name of sanctuary.
+- Invoking an ancestor to turn temporary emergency authority into hereditary power.
+- Requiring descendants to continue a refusal they did not choose.
+- Accepting signs as verdicts without material evidence or living testimony.
 
-Soiru'i practice fails when:
-
-- a living champion's preference becomes the dead person's unquestionable command;
-- mutual-aid stores are conditioned on permanent submission;
-- a sect concentrates enough potential to attract or create the threat it claims to manage;
-- a heroic biography erases victims, captives, workers, and failed protection;
-- sanctuary becomes indefinite custody;
-- a branch uses an ancestor to make temporary emergency authority hereditary;
-- resistance doctrine binds descendants to a refusal they did not choose;
-- signs are accepted as verdicts without material or living testimony.
-
-The most dangerous sect is not necessarily the one with the strangest theology. It is the one that owns shrine, record, store, champion, and punishment while claiming the dead made review unnecessary.
+A sect's theology need not be unusual for it to become especially dangerous. Control of the shrine, records, stores, champion, and punishment gives its officers the means to suppress review. Claiming that the dead have made review unnecessary supplies the excuse.
 
 ## Dungeon seams
 
@@ -231,7 +245,7 @@ The most dangerous sect is not necessarily the one with the strangest theology. 
 - A high-branch tomb contains stores legally promised to dependents and a manifestation that denies the current champion's identity.
 - A delving party is hired to escort a death inventory rather than treasure; every branch along the return route claims the record submits to it.
 
-Dungeon access remains burdened by [[Spoilers/Institutions/Relic Custody|Relic Custody]], living dependents, mortuary law, and the possibility that concentrated potential attracts more than the named dead.
+Entering these places does not remove the claims of living dependents, mortuary law, or [[Spoilers/Institutions/Relic Custody|Relic Custody]]. Concentrated potential may also draw presences other than the named dead.
 
 ## Unresolved
 
