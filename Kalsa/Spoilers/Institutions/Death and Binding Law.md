@@ -20,268 +20,210 @@ tags:
 
 # Death and Binding Law
 
-Bodily death does not erase an [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Individual Projections|Individual Projection]]. The dead may remain
-attached to a divine hierarchy, feed upon nearby magical potential, guard their
-descendants, seek recognition, or willingly release their grip on the lower
-world. The continuity, memory, and moral status of any manifestation remain
-uncertain.
+After a death, families, cults, and rulers may disagree over who can bury the body, inherit property, collect an old debt, or continue a religious obligation. The dead may also appear and dispute what the living say they wanted.
 
-**Death and binding law** is not a universal code governing that metaphysics.
-It is the collection of cult courts, household customs, mortuary offices,
-conquest settlements, and sanctuary practices that decide what the living may
-do while the upper-dimensional facts remain only partly observable.
+Bodily death does not erase an [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Individual Projections|Individual Projection]], the continuing person-pattern beyond the body. The dead may remain bound within a divine hierarchy, feed on nearby magical potential, protect descendants, seek recognition, or willingly release their grip on the lower world. What survives in a particular manifestation—its memory, continuity with the living person, and moral status—remains uncertain.
 
-## Jurisdictions that overlap
+**Death and binding law** covers the procedures the living use under those conditions. It includes cult courts, household customs, mortuary offices, conquest settlements, and sanctuary practices. There is no universal code. These institutions decide what people may do with bodies, records, property, and claims while the upper-dimensional relationships behind them remain only partly observable.
 
-A death can place the same person under several authorities:
+## Who can claim authority after a death?
 
-- a household claims the body, name, possessions, debts, and ancestral place;
-- a cult claims obligations created by [[Spoilers/Institutions/God-Cult Covenants|covenant, inherited attachment, or submission]];
-- a ruler claims taxes, military duties, criminal judgments, or succession;
-- a guild or temple claims unfinished office and entrusted records;
-- a divine intermediary claims the Projection still occupies its branch;
-- the dead may manifest and reject every account made in their name.
+Several authorities can make claims over the same deceased person, each on different grounds:
 
-No authority owns all these consequences. Courts can control burial grounds,
-archives, property, witnesses, and living participants. Champions can enforce a
-cult's claim. A God Beast may continue routing potential through a binding. None
-of those powers proves that it can compel release or settle personal identity.
+- A household claims the body, name, possessions, debts, and place among its ancestors.
+- A cult claims obligations arising from [[Spoilers/Institutions/God-Cult Covenants|covenant, inherited attachment, or submission]].
+- A ruler claims taxes, military duties, criminal judgments, or rights concerning succession.
+- A guild or temple claims unfinished duties of office and records entrusted to the deceased.
+- A divine intermediary claims that the Projection still occupies its branch of the hierarchy.
+- The dead may manifest and reject every account offered in their name.
+
+These powers do not add up to complete authority. A court can control a burial ground, archive, estate, witness hearing, or living participant. A champion can enforce a cult's claim. A God Beast may continue to route potential through a binding. None of that proves an ability to force release or determine whether a manifestation is the same person who died.
 
 ## Mortuary offices
 
-The work is divided because concentration of authority would let the same cult
-declare a death, inherit its property, preserve its binding, and silence its
-manifestation.
+Mortuary work is divided among several roles. Without that division, one cult could certify a death, inherit the property, preserve the binding, and suppress any manifestation that objected.
 
-- **Death witnesses** record the bodily event, circumstances, last intelligible
-  wishes, known covenants, and signs of magical interference. Independent
-  witnesses are valued where a cult benefits from a finding.
-- **Binding clerks** assemble covenant rolls, lineage claims, submissions,
-  offices, delegations, and prior severance attempts. Their record describes
-  lower-world evidence; it does not expose the Projection directly.
-- **Mortuary clergy** wash, guard, display, bury, burn, preserve, or otherwise
-  tend the body while conducting rites meant to quiet attachment, sustain an
-  ancestor, maintain a divine relation, or invite voluntary release.
-- **Severance advocates** represent the dead's recorded refusal, a family's
-  petition, an apostate, or a person trying to escape an inherited hierarchy.
-  Some jurisdictions recognize them as necessary counsel. Others prosecute
-  them for theft from a god.
-- **Champions and wardens** keep rival cults, thaumavores, looters, and
-  frightened relatives away from dangerous remains or active miracle routes.
-  Their protection can become detention of the body and witnesses.
+**Death witnesses** record what happened to the body: the event and its circumstances, the person's last intelligible wishes, known covenants, and signs of magical interference. Where a cult stands to benefit from the finding, an independent witness is especially valuable.
 
-Null witnesses are often sought because they stand outside many divine
-hierarchies and are harder to accuse of channeling a rival god. Their lack of a
-magical signature does not make them impartial or let them see the dead.
+**Binding clerks** collect the evidence for continuing obligations. They assemble covenant rolls, lineage claims, submissions, offices, delegations, and earlier attempts at severance. Their files show what can be established in the lower world. They do not give the clerk direct sight of a Projection.
+
+**Mortuary clergy** care for the body. Depending on their community's practice, they wash, guard, display, bury, burn, preserve, or otherwise tend it. Their rites may seek to quiet an attachment, sustain an ancestor, maintain a divine relationship, or invite voluntary release.
+
+**Severance advocates** speak for a recorded refusal by the dead, a petitioning family, an apostate, or someone seeking escape from an inherited hierarchy. Some jurisdictions treat this representation as necessary counsel. Others prosecute it as theft from a god.
+
+**Champions and wardens** protect dangerous remains and active miracle routes from rival cults, thaumavores, looters, and frightened relatives. Control of the perimeter can also give them control of the case: protection may become detention of both body and witnesses.
+
+Null witnesses are often sought because they stand outside many divine hierarchies. It is harder to accuse them of channeling a rival god. Their lack of a magical signature does not make them impartial, however, and it does not let them see the dead.
 
 ## Formation, training, and support
 
-A mortuary office forms where repeated deaths create claims too dangerous or politically valuable to leave to one household or cult. A ruler may charter it, several temples may maintain it jointly, a neighborhood may preserve its own witnesses, or a sanctuary may build procedure around people refused elsewhere. Recognition determines access to bodies, burial grounds, records, guards, and courts. It does not make the office's theology true.
+Mortuary offices form where deaths repeatedly produce claims too dangerous or politically valuable to leave to a single household or cult. A ruler may grant an office a charter. Several temples may support one together. A neighborhood may keep its own witnesses, while a sanctuary may develop procedures for people other institutions refuse to receive.
 
-Death witnesses train in bodily evidence, last-wish recording, local covenant forms, contamination and manifestation warning, and the discipline to distinguish observation from interpretation. Binding clerks learn archive comparison, lineage and office claims, translation, and how conquest can be laundered into a clean register. Mortuary clergy learn the rites and material handling recognized by their community. Severance advocates learn both living contractual exit and the different evidentiary problem created after death, without claiming that either procedure compels a god.
+Recognition gives an office practical access to bodies, burial grounds, records, guards, and courts. It does not establish that the office's theology is true.
 
-Apprentices enter through households, temples, civic clerkships, burial work, sanctuary service, or patron sponsorship. Independent witnesses often come from marginal communities because they have fewer interests in a dominant cult's succession; that independence can be real while their poverty makes them easy to buy or threaten. Training records therefore name sponsor, cult and kin ties, cases witnessed, rites known, material hazards handled, and offices for which the person is not qualified.
+Training follows the work each role must perform. Death witnesses study bodily evidence, the recording of last wishes, local covenant forms, and warnings of contamination or manifestation. They must learn to keep what they observed separate from what they think it means. Binding clerks compare archives, assess lineage and office claims, translate records, and learn to recognize how a register can make conquest look like an orderly agreement. Mortuary clergy learn their community's rites and the material handling those rites require. Severance advocates study contractual exit during life and the different problems of evidence after death. Neither procedure gives them grounds to claim they can compel a god.
 
-The work consumes washing water, fuel, cloth, preservation materials, burial space, guards, transport, archive copies, food for mourners, and support for witnesses who may be unable to return home safely. Payment may come from household contributions, cult burial funds, guild or office benefits, polity maintenance, estate income, or sanctuary stores. Fees collected only at the moment of grief let wealthy claimants purchase delay and force poor families into hurried surrender. Durable offices maintain a minimum provision or mutual-aid fund for deaths without a solvent patron.
+Apprentices arrive through households, temples, civic clerkships, burial work, sanctuary service, or a patron's sponsorship. Marginal communities often supply independent witnesses because they have fewer interests in the succession of a dominant cult. That independence can be real even when poverty leaves a witness easy to bribe or threaten. Training records therefore identify sponsors, cult and kin ties, cases witnessed, rites known, hazards handled, and duties the apprentice is not qualified to undertake.
 
-Office succession transfers custody schedules, sealed evidence, unfinished inventories, burial obligations, and warnings about active remains. It never transfers the dead person's identity, property, binding, or consent. A successor should not review their predecessor's disputed conduct using the only copy the predecessor controlled.
+A funeral also needs supplies and labor: washing water, fuel, cloth, preservation materials, burial space, guards, transport, archive copies, and food for mourners. Witnesses who cannot safely return home need support. Households, cult burial funds, guild or office benefits, public maintenance, estate income, and sanctuary stores may cover these costs.
+
+How an office collects payment affects who can use it. If all fees fall due during mourning, wealthy claimants can afford to prolong a dispute while poor families are pushed into hurried surrender. Durable offices keep a minimum provision or mutual-aid fund for deaths without a solvent patron.
+
+When an officeholder is replaced, the successor takes over custody schedules, sealed evidence, unfinished inventories, burial obligations, and warnings about active remains. The dead person's identity, property, binding, and consent do not transfer with the job. If the predecessor's conduct is disputed, the successor should not have to assess it from the only copy that predecessor controlled.
 
 ## The death inventory
 
-Before a major funeral, clerks build a **death inventory** containing:
+Before a major funeral, binding clerks assemble a **death inventory**: an account of the deceased's known obligations, claims, wishes, and associated dangers. It contains:
 
 - every known covenant and the claimed origin of each binding;
-- whether attachment was voluntary, inherited, imposed, or disputed;
+- whether each attachment was voluntary, inherited, imposed, or disputed;
 - offices, miracle grants, property, dependants, debts, and service owed;
-- the name of any Beast or intermediary between the person and a God Beast;
-- last wishes, prior severance petitions, curses, and sanctuary claims;
-- observed manifestations and the witnesses able to identify them;
+- any Beast or intermediary between the person and a God Beast;
+- last wishes, earlier severance petitions, curses, and sanctuary claims;
+- observed manifestations and witnesses able to identify them;
 - sites where concentrated potential would make the funeral dangerous.
 
-The inventory exists because a funeral can reroute property, legitimacy, and
-potential at once. It is also an instrument of erasure. A conquered household
-whose submission was rewritten as covenant may find that every later court
-treats the clean register as stronger evidence than inherited testimony.
+A funeral can change who receives property, who is recognized as a legitimate successor, and where magical potential flows. The inventory lets those decisions be examined together without treating them as the same decision.
 
-Destroying a record can free living property from a cult claim without changing
-the binding itself. Preserving it can maintain a legal remedy while also giving
-a hostile successor the names of everyone attached to the old hierarchy.
+It can also preserve an erasure. If a conquered household's submission was entered as a covenant, later courts may trust that clean register more than testimony passed down within the household.
 
-## Funerals as contested operations
+Neither keeping nor destroying a record has a single consequence. Destroying one may free property in the living world from a cult's legal claim while leaving the binding untouched. Keeping it may preserve a route to legal remedy while giving a hostile successor the names of everyone attached to the old hierarchy.
 
-A funeral manages bodies, mourners, claims, and magical exposure. Mortuary
-clergy limit long concentrations of delegated potential because
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]]
-gather where the flow remains visible. Families may nonetheless demand a great
-miracle as proof that the dead were received, especially when inheritance or
-political succession depends on divine recognition.
+## What a funeral tries to accomplish
 
-Different rites pursue incompatible ends. A cult may maintain the dead person's
-binding so their contribution and protection remain within the hierarchy. An
-ancestral household may invite manifestation and continued attention to
-descendants. A release tradition may reduce obligations, return possessions,
-and ask the dead to relinquish the lower world. A severance movement may try to
-interrupt an attachment the person never chose.
+A funeral brings bodies, mourners, competing claims, and magical danger into the same place. Mortuary clergy limit how long delegated potential remains concentrated because [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]] gather where its flow stays visible. Families may still demand a great miracle as evidence that the dead have been received. That demand is especially strong when inheritance or political succession depends on divine recognition.
 
-Visible silence settles none of these disputes. A silent dead person may have
-released, remained bound without manifesting, lacked access to potential, or
-been contained. A manifestation may be the person, a partial continuity, an
-imitating thaumavore, or a cult interpretation imposed on ambiguous effects.
+Participants may want incompatible results from the rite. A cult may seek to preserve a binding so that the dead person's contribution and protection remain within its hierarchy. An ancestral household may invite the dead to appear and continue watching over descendants. A release tradition may reduce obligations, return possessions, and ask the dead to relinquish the lower world. A severance movement may attempt to interrupt an attachment the deceased never chose.
+
+Neither an appearance nor its absence settles the dispute. A silent dead person may have released, remained bound without manifesting, lacked access to potential, or been contained. An apparent manifestation may be the person, a partial continuity, an imitating thaumavore, or ambiguous effects that a cult has interpreted as the dead.
 
 ## Severance and refusal
 
-Living contractual exit from a cult belongs to [[Spoilers/Institutions/God-Cult Covenants#Discipline, contractual exit, and appeal|God-Cult Covenants]]. This note takes authority when bodily death, a death inventory, funerary custody, a continuing manifestation, or a claim made through the dead changes what severance means.
+Here, **social release** means ending obligations or enforcement among the living. **Metaphysical severance** means ending the upper-dimensional attachment itself. Mortuary law must keep the two distinct.
 
-Mortuary and post-mortem severance distinguishes social release from metaphysical severance. A death office can record that the deceased rejected continuation, forbid living officers from enforcing a service in the dead person's name, settle entrusted property, separate a body from a contested shrine, and protect witnesses during the claim. It cannot demonstrate that an upper-dimensional attachment ended.
+Living contractual exit belongs to [[Spoilers/Institutions/God-Cult Covenants#Discipline, contractual exit, and appeal|God-Cult Covenants]]. This note governs the procedures when bodily death, a death inventory, custody for a funeral, a continuing manifestation, or a claim made through the dead changes what severance involves.
 
-A court can cancel service, strike a household from beneficiary rolls, return
-property, protect a petitioner, forbid a champion's pursuit, and record that a
-covenant is no longer recognized. A Channeler may interrupt an active flow. A
-ritual may help a Projection willingly release. None of these acts is adopted
-proof that a god can be forced to relinquish a binding.
+A death office can record that someone rejected continuation. It can forbid living officers from enforcing service in that person's name, settle entrusted property, remove a body from a contested shrine, and protect witnesses while the claim is heard. It cannot demonstrate that the upper-dimensional attachment has ended.
 
-Voluntary covenants may contain exit terms, but cults dispute whether those
-terms bind the god or only its clergy. Inherited attachments create the hardest
-cases: a living descendant may refuse every rite and still be claimed through
-family, land, or an older branch. Coercive submissions create claims for
-restoration, sanctuary, and public recognition that conquest occurred. A legal
-formula that calls all three relations sacred obligation is a political
-decision, not neutral metaphysics.
+Courts have further practical powers: they can cancel service, remove a household from beneficiary rolls, return property, protect a petitioner, forbid pursuit by a champion, and declare that a covenant is no longer recognized. A Channeler may interrupt an active flow of potential. A ritual may help a Projection release willingly. None of these acts is accepted here as proof that a god can be forced to surrender a binding.
 
-Resistance networks preserve duplicate death inventories, move bodies across
-jurisdictions, recruit independent witnesses, conceal descendants, and hold
-quiet funerals far from cult miracle sites. Temples answer that clandestine
-burial exposes entire districts to unregistered thaumavores and leaves binding
-disputes to become hauntings. Both claims can be true in the same case.
+The origin of the attachment matters:
 
-Refusal is divided by role. A death witness may refuse to certify a cause they did not observe. A clerk may refuse to flatten coerced submission into covenant. Mortuary workers may stop a rite when the body, mourners, or district face an undisclosed hazard. Kin may refuse a cult funeral while still accepting containment. A champion may prevent looting without acquiring authority to decide the inventory. Each refusal names its boundary and passes the unresolved decision to the proper forum.
+- **Voluntary covenants** may include terms for exit. Cults disagree over whether those terms bind the god or only its clergy.
+- **Inherited attachments** produce the hardest cases. A living descendant may refuse every rite and still face a claim through family, land, or an older branch of the hierarchy.
+- **Coercive submissions** give rise to demands for restoration, sanctuary, and public acknowledgment that conquest occurred.
 
-## Dead anchors and divine succession
+Calling all three “sacred obligation” is a political choice. It does not make their differences disappear from metaphysics.
 
-The death of a living anchor can destabilize a God Beast, its cult, or both.
-Sorcerer God Beasts often fail soon after the anchor's death because submission
-depended upon a living threat and rivals tear at the resulting power void. The
-survival rules of other styles remain unresolved.
+Resistance networks keep duplicate inventories, carry bodies across jurisdictional boundaries, recruit independent witnesses, hide descendants, and conduct quiet funerals away from cult miracle sites. Temples argue that clandestine burial can expose whole districts to unregistered thaumavores and leave unresolved bindings to become hauntings. A network may be preserving a real refusal while the temple is describing a real danger. Both can be true in the same case.
 
-Cult property does not follow potential automatically. A designated priest may
-inherit archives and granaries while a champion receives the last effective
-delegation. A relative may inherit the anchor's body and name while rejecting
-the cult's claim to either. Subordinate Beasts may remain bound, break away, or
-compete to become the new center. Courts respond with temporary custodians,
-sealed sanctums, rationed miracles, and bans on destroying records until the
-hierarchy's behavior becomes clearer.
+Each mortuary role also has grounds for refusing a particular action. A death witness can decline to certify a cause they did not observe. A clerk can refuse to record coerced submission as covenant. Mortuary workers can stop a rite when an undisclosed hazard threatens the body, mourners, or district. Kin can reject a cult funeral while accepting containment. A champion can prevent looting without gaining the right to decide what belongs in the inventory. These refusals mark the limits of the role and send the unresolved decision to the proper forum.
 
-These measures preserve welfare during a transition, but they also let a
-temporary custodian starve rivals of aid until uncertainty looks like consent.
-A schism becomes materially decisive when one faction controls
-[[Spoilers/Institutions/The Potential Economy|potential access]] and another controls
-food, witnesses, or burial.
+## When a divine anchor dies
 
-## Thaumavores, testimony, and recognition
+A living anchor's death can destabilize a God Beast, its cult, or both. Sorcerer God Beasts often fail soon afterward: submission depended on a living threat, and rivals attack as that power disappears. How other magical styles survive an anchor's death remains unresolved.
+
+Property and magical power need not pass to the same successor. A designated priest may receive the archives and granaries while a champion holds the last effective delegation of potential. A relative may inherit the anchor's body and name while rejecting the cult's claim to either. Subordinate Beasts may stay bound, break away, or compete to become the new center.
+
+Courts respond to this uncertainty by appointing temporary custodians, sealing sanctums, rationing miracles, and forbidding destruction of records until the hierarchy's behavior becomes clearer. These measures can preserve welfare through the transition. They also give a custodian the means to withhold aid from rivals until their need looks like agreement.
+
+The split becomes materially decisive when one faction controls [[Spoilers/Institutions/The Potential Economy|access to potential]] and another controls food, witnesses, or burial. Neither can necessarily supply what the other withholds.
+
+## Hearing the dead
+
+The unquiet dead feed where potential passes. Some demand recognition because public records omitted their names, deaths, submissions, or services. An institution faced with a manifestation must decide whether to hear testimony, negotiate a ritual share, impose containment, or treat the activity as predation.
+
+Recognition can calm a spirit by restoring the relationship it sought. It can also reward the claimant able to produce the most dangerous manifestation. Courts seek corroboration from witnesses and records, but absence from an archive is poor grounds for dismissal. Conquered subjects, poor dependants, unregistered children, and enemies buried without rites are among those most likely to have been left out.
 
 ### Answer rolls around great rites
 
-Where a concentrated rite will cross graves, shrines, old battlefields, or
-known manifestation routes, a death witness may prepare an **answer roll**.
-Each entry names the earlier sign, the people able to recognize it, its last
-appearance, the site or relation through which it answered, and the custody of
-supporting copies. The roll is opened before the rite where local procedure
-allows it and checked again after the site cools.
+A **great rite** can concentrate potential along a route that crosses graves, shrines, old battlefields, or places where manifestations have appeared. Before such a rite, a death witness may prepare an **answer roll** recording the signs known at those places.
 
-A later silence is evidence of a lost relation. A flash matching a familiar
-gesture is evidence that the sign appeared inside the working. Together they
-can justify preservation, search, temporary containment, material support, or
-a claim against the mortal offices that concealed the hazard. They do not show
-whether an acquired potential body was destroyed, which memory survived, or
-whether the continuing Projection can answer elsewhere.
+Each entry identifies an earlier sign, who can recognize it, when it last appeared, the site or relationship through which it answered, and who holds supporting copies. Where local procedure permits, the roll is opened before the rite. Witnesses check it again after the site cools.
 
-Keeping the roll can be dangerous. A cult may seize it as a list of intruders;
-a sect may add invented ancestors to seek a ritual share; a household may hide
-an embarrassing dead claimant; and prolonged testing can feed the presence
-being tested. Copies, access, expiry, and the conditions for closing the site
-belong in the mortuary warrant.
+The comparison can establish important changes without explaining all of them. If a familiar sign no longer answers, that silence is evidence of a lost relation. If a flash within the rite matches a familiar gesture, it is evidence that the sign appeared during the working. Together, these observations can justify preserving evidence, searching, imposing temporary containment, providing material support, or bringing a claim against mortal offices that hid the hazard.
 
-The unquiet dead feed where potential passes. Some demand recognition because
-their names, deaths, submissions, or services were omitted from the public
-record. Institutions must decide whether to hear a manifestation as testimony,
-negotiate a ritual share, contain it, or classify it as predation.
+They do not establish whether an acquired potential body—the capacity supporting a manifestation's current activity—was destroyed. Nor do they establish which memories survived or whether the continuing Projection can answer elsewhere.
 
-Recognition can calm a spirit by restoring the relationship it sought. It can
-also reward whoever can make the most dangerous manifestation. Courts therefore
-seek corroborating witnesses and records, while knowing that the people most
-likely to be absent from archives are conquered subjects, poor dependants,
-unregistered children, and enemies buried without rites.
+The roll itself needs protection. A cult may confiscate it as a list of intruders. A sect may invent ancestors to claim a ritual share. A household may conceal an embarrassing dead claimant. Repeated testing can feed the very presence under examination. The mortuary warrant must therefore specify who holds copies, who has access, when the warrant expires, and under what conditions the site can be closed.
 
-When a dead god becomes a magical fountain, ordinary procedure fails. Many
-identities can manifest from the same leaking reserve, rival successors can
-claim each voice, and every prolonged hearing feeds the event. Closing the
-fountain may protect the living while ending the only interval in which the
-dead can contest their erasure.
+### Magical fountains
 
-## Organized mortuary positions
+When a dead god becomes a magical fountain, many identities may manifest from the same leaking reserve of potential. Rival successors can claim each voice as their own evidence, while every prolonged hearing feeds the event.
 
-Mortuary conflict produces organizations with different capacities.
+Ordinary procedure cannot resolve that problem simply by hearing more testimony. Closing the fountain may protect the living and also end the only interval in which the dead can contest their erasure.
 
-- **Cult continuity offices** hold covenant rolls, trained clergy, champions, shrine access, and burial funds. They can preserve welfare and dangerous bindings through a death. They can also make continuation the price of burial and rewrite the deceased as an obedient predecessor.
-- **Household witness networks** hold kin testimony, bodies or personal effects, local burial ground, mutual-aid funds, and the ability to delay a public rite. They can prevent institutional disappearance. Powerful households can use the same capacity to erase dependants, estranged partners, or coerced members.
-- **Severance and sanctuary networks** maintain advocates, safe burial sites, transport, duplicate inventories, and support for witnesses fleeing a dominant cult. They can preserve refusal across jurisdictions. Their secrecy can conceal a genuine hazard or make a body impossible for other claimants to inspect.
-- **Containment wardens** control guarded sites, protective tools, routes around magical fountains, and evidence of prior manifestations. They can keep the living safe while a claim is heard. They can also turn temporary safety custody into permanent control of the dead and the potential gathering around them.
+## Organizations and what they control
 
-These positions are not universal orders. They organize because each controls something the others need: recognition, body, archive, food, force, sanctuary, or safe access.
+Mortuary disputes bring together organizations whose authority rests on different resources. These are recurring positions, not universal orders.
+
+**Cult continuity offices** possess covenant rolls, trained clergy, champions, shrine access, and burial funds. Those resources let them maintain welfare through a death, along with bindings that may be dangerous. They can also make continued attachment the price of burial and portray the deceased as an obedient predecessor regardless of the evidence.
+
+**Household witness networks** hold kin testimony, bodies or personal effects, local burial ground, and mutual-aid funds. They can delay a public rite and prevent an institution from making someone disappear from the record. Powerful households can use the same control to erase dependants, estranged partners, or coerced members.
+
+**Severance and sanctuary networks** provide advocates, safe burial sites, transport, duplicate inventories, and support for witnesses fleeing a dominant cult. They can keep a refusal on record across jurisdictions. Their secrecy can also hide a genuine hazard or prevent other claimants from inspecting a body.
+
+**Containment wardens** hold guarded sites, protective tools, safe routes around magical fountains, and evidence of earlier manifestations. They can protect the living while a claim is heard. They can also turn temporary custody into permanent control of the dead and the potential gathering around them.
+
+These groups organize because others need something they hold: recognition, a body, an archive, food, force, sanctuary, or safe access.
 
 ## Discipline, audit, and appeal
 
-Mortuary misconduct includes false death certification, concealed last wishes, substitution or destruction of remains, invented covenant entries, sale of witness access, indefinite containment without review, diversion of burial funds, coercion of mourners, and presenting a cult interpretation as the dead person's own testimony.
+Mortuary misconduct can corrupt either the evidence or the conditions under which a case is decided. It includes:
 
-Review begins by separating records and custody. An independent witness compares the bodily record, death inventory, covenant copies, property handoff, rite performed, manifestations observed, and every act taken under emergency authority. The reviewer does not decide metaphysical identity merely because the paperwork agrees.
+- falsely certifying a death or concealing last wishes;
+- substituting or destroying remains;
+- inventing covenant entries;
+- selling access to witnesses;
+- extending containment indefinitely without review;
+- diverting burial funds;
+- coercing mourners;
+- presenting a cult's interpretation as the dead person's own testimony.
 
-An officeholder may be suspended from a named duty, removed, required to surrender records or funds, excluded from a body or site, ordered to restore property, or referred to local law. Removal from office does not invalidate every funeral they witnessed. Nor does it dissolve a binding or authorize destruction of a manifestation.
+Review starts by separating control of records from control of bodies and sites. An independent witness compares the bodily record, death inventory, covenant copies, transfer of property, rite performed, observed manifestations, and every action taken under emergency authority. Agreement among the papers still does not establish metaphysical identity.
 
-Appeal may be brought by kin, a named dependant, cult, office, sanctuary, property claimant, or advocate carrying the deceased's recorded refusal. A usable appeal preserves the body or relevant evidence where possible, gives the challenger access to the inventory, stays irreversible disposal, and provides material support so delay does not decide the case. Immediate containment can continue when a manifestation threatens life, but its owner must record the hazard and review point.
+An officeholder may be suspended from a specific duty, removed, required to surrender records or funds, barred from a body or site, ordered to restore property, or referred to local law. Removing them does not invalidate every funeral they witnessed. It does not dissolve a binding or authorize destruction of a manifestation.
+
+Kin, a named dependant, a cult, an office, a sanctuary, a property claimant, or an advocate carrying the deceased's recorded refusal may appeal. For an appeal to be usable, it must preserve the body or relevant evidence where possible, give the challenger access to the inventory, and pause irreversible disposal. It must also provide material support so that the challenger is not defeated simply by the cost of waiting.
+
+Immediate containment may continue if a manifestation threatens life. Whoever controls that containment must record the hazard and the point at which the decision will be reviewed.
 
 ## The Three Ledgers consequence
 
-The settlement of [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] made the death inventory an independent jurisdictional record rather than an appendix a successor could absorb into the covenant register. In institutions carrying that precedent, the inventory preserves the deceased's statements, open severance claims, dependants, entrusted objects, and competing interpretations without declaring which faction a god preferred.
+The settlement of [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] placed the death inventory under independent jurisdiction. A successor could no longer absorb it as an appendix to the covenant register.
 
-Later death offices cite the event when demanding duplicate inventories and a custodian outside the succession faction. Cult continuity offices answer that separation can strand a dangerous body between rival claimants. The event did not prove a metaphysical release; it proved that uncertainty cannot be managed honestly when the successor owns the only evidence of what the dead refused.
+Institutions following that precedent preserve the deceased's statements, unresolved severance claims, dependants, entrusted objects, and competing interpretations in the inventory. Keeping those claims available does not declare which faction a god preferred.
+
+Later death offices invoke the settlement to demand duplicate inventories and a custodian outside the faction seeking succession. Cult continuity offices object that divided custody can strand a dangerous body between rival claimants.
+
+The settlement established no metaphysical release. Its institutional lesson concerns evidence: a successor who owns the only account of what the dead refused also controls whether that refusal can be heard.
 
 ## The Ash-Halo consequence
 
-Mortuary offices carrying [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo
-Armament]] keep the pre-rite answer roll outside the branch registrar's sole
-custody. Their aftermath procedure visits each recorded site, preserves any
-flash or voice observed during the working, and keeps silence distinct from
-release. Households may claim food, safe lodging, burial support, replacement
-protection, witness costs, or access to a sealed site while the identity claim
-remains open.
+Mortuary offices following [[Spoilers/Events/The Ash-Halo Armament|the Ash-Halo
+Armament]] precedent keep the pre-rite answer roll beyond the branch registrar's sole control.
+
+After a working, their procedure requires visits to every recorded site and preservation of evidence of any flash or voice observed during the rite. A presence that no longer answers is recorded as silent, without treating that silence as release.
+
+Households may seek food, safe lodging, burial support, replacement protection, witness costs, or access to a sealed site while the question of identity remains unresolved.
 
 ## Dungeon pressure
 
-Mortuary dungeons are failed jurisdictions made physical. A sealed crypt may
-hold a dead anchor whose rival heirs need incompatible findings. A buried
-registry may prove that a village's inherited attachment began as mass
-submission. An old severance court may still contain active wards and witnesses
-who never received enough potential to speak. A divine fountain may turn a
-battlefield into a parliament of the dead until its reserve is exhausted.
+A mortuary dungeon can preserve a dispute that no living authority managed to settle. The danger and the evidence occupy the same ruin.
 
-Adventurers may be asked to recover a death inventory, escort independent
-witnesses, interrupt a funeral, protect a manifestation long enough to testify,
-or close a fountain before a cult consumes it. Success changes living claims:
-land, welfare, legitimacy, binding, and the right to name the dead. Killing the
-monster in the crypt may be the least consequential part.
+A sealed crypt may contain a dead anchor whose rival heirs need incompatible findings. A buried registry may show that a village's inherited attachment began in mass submission. An old severance court may retain active wards and witnesses who never received enough potential to speak. On a battlefield, a divine fountain may sustain a parliament of the dead until its reserve runs out.
+
+Adventurers may be hired to recover a death inventory, escort independent witnesses, interrupt a funeral, protect a manifestation long enough for it to testify, or close a fountain before a cult consumes it. The outcome can change claims to land, welfare, legitimacy, binding, and the right to name the dead. Destroying the crypt's monster may leave the most consequential decision untouched.
 
 ## Unresolved
 
-- What evidence can distinguish a continuing person from a partial or imitative
-  manifestation.
-- Whether bodily death changes a binding automatically for any magical style.
-- Whether a Projection can be severed against its will or a God Beast's will.
-- Whether inherited attachment follows blood, household practice, land,
-  intermediary hierarchy, or some combination.
-- What voluntary release does to outstanding covenants, dependants, and divine
-  potential.
-- Whether rebirth can be observed rather than inferred from cosmology.
+The procedures above operate without answers to several questions:
 
-The persistence, appetite, and possible release of the dead remain owned by
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]. This note owns the mortal procedures and disputes created by
-those uncertain facts.
+- What evidence distinguishes a continuing person from a partial or imitative manifestation?
+- Does bodily death automatically change a binding for any magical style?
+- Can a Projection be severed against its own will or a God Beast's will?
+- Does inherited attachment follow blood, household practice, land, an intermediary hierarchy, or some combination?
+- What does voluntary release do to outstanding covenants, dependants, and divine potential?
+- Can rebirth be observed, rather than inferred from cosmology?
+
+[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] owns the underlying account of the dead's persistence, appetite, and possible release. This note owns the mortal procedures and disputes arising from those uncertain facts.
