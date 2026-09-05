@@ -16,97 +16,130 @@ tags:
 
 # Dungeon Provenance
 
-“Dungeon” names a present encounter with a place, not the place's origin. A dungeon may be buried infrastructure, an abandoned institution, a sealed crime scene, a wounded divine territory, a living settlement hidden from the surface, or several of these joined by later reuse. **Dungeon provenance** is the evidence-backed account of those layers and the uncertainty between them.
+**Dungeon provenance** is an account of how a place came to be, what happened there, and what still depends on it. It separates what the evidence supports from what remains uncertain.
 
-Provenance does not grant entry, custody, ownership, salvage, or permission to disturb remains. It gives the authorities and people making those decisions a common description of what their acts may touch. [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]] owns the admission and claims process; [[Spoilers/Institutions/Relic Custody|Relic Custody]] owns particular relic handoffs.
+Calling a place a “dungeon” tells us how explorers encounter it now. It tells us little about its origin or whether it has been abandoned. The place might contain buried infrastructure, an abandoned institution, a sealed crime scene, wounded divine territory, or a living settlement hidden from the surface. Later occupants may have joined several of these together.
 
-## Source layers
+The practical question is what exploration will change. A valve may still supply water. A sealed room may hold burials. People may have claims on a place whose entrance nobody has used for centuries. Provenance gives those people and the deciding authorities a shared account of the evidence. It grants no right of entry, custody, ownership, salvage, or disturbance of remains. [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]] governs admission and claims; [[Spoilers/Institutions/Relic Custody|Relic Custody]] governs particular relic handoffs.
+
+## How to investigate a site
+
+Work begins before anyone crosses the threshold. Surveyors compare surface effects, old maps, maintenance records, local memory, water and air behavior, magical interference, and previous casualties. These observations inform decisions about whether disturbance can be authorized. On the first descent, surveyors establish points from which observations can be witnessed and checked, and mark what must remain untouched until it is better understood.
+
+A provenance record distinguishes direct observation, testimony, inference, and unresolved claims. It should identify:
+
+- Known entrances, the site's extent, and its relationship to present settlements.
+- Visible construction layers, materials, interfaces, damage, and repairs.
+- Relevant records, oral histories, rites, place-names, and reports from earlier expeditions.
+- Anything the site still produces or regulates, and the communities, organisms, or institutions that depend on it.
+- Bodies, burials, divine remains, inhabited spaces, and evidence of continuing claims.
+- Known removals, substitutions, collapses, openings, and resealings.
+- Mechanical, environmental, magical, and political hazards, along with hazards caused by uncertain or misleading knowledge.
+- The evidence, confidence, and alternative explanations for each proposed origin.
+- The person or office responsible for each observation and any later correction.
+
+The record must also follow the expedition's own changes. Every opening, removal, collapse, manifestation, and route change belongs in it. A sketch made after explorers break a wall must identify the new breach. An object loses much of its value as evidence if nobody records its position, attachments, neighboring objects, and the immediate effects of moving it. It may still be precious enough to fight over.
+
+Accounts from people outside official institutions need to remain visible. Tunnel workers may know where the air changes. Families displaced by a closure may remember an entrance missing from the court map. Smugglers may know a safe path and lie about why it is safe. A cult archive may name every titled burial while omitting all the laborers buried beneath them. A witness's interests matter, but do not make their information useless.
+
+Where accounts conflict, record the competing explanations and the practical decision taken despite the uncertainty. A local authority may declare a route a public danger; a Techpriest may reject an explanation of its machinery; kin may identify remains that officials call anonymous. Winning the first hearing does not make any of these statements author-level truth.
+
+## What a site may contain
+
+These histories can overlap. Identifying one layer does not explain everything built above, below, or through it.
 
 ### Ring wrecks
 
-The eight Crown Cities are the emergency-landed Rings of the [[Spoilers/Foundations/Ark and Fall#The Fall|Ark]]. Their habitable shells, atmosphere boundaries, urban districts, transit, storage, and service routes did not become one clean ruin at impact. Some sections failed immediately. Others were rebuilt, inhabited, stripped, sealed, conquered, or incorporated into later cities. A chamber beneath a palace may therefore remain part of an old environmental system without belonging to the palace's institutional history.
+The eight Crown Cities grew from the eight Rings that made emergency landings during the [[Spoilers/Foundations/Ark and Fall#The Fall|Ark's Fall]]. Each Ring contained habitable shells, atmosphere boundaries, urban districts, transit, storage, and service routes. Those parts failed and survived unevenly. Some broke at impact; others were later rebuilt, inhabited, stripped, sealed, conquered, or absorbed into new cities.
 
-Impact damage is not self-explanatory. A broken wall may record re-entry, post-Fall salvage, war, subsidence, deliberate ventilation, or a modern breach. Treating every fracture as “the Fall” makes later labor and violence disappear into prehistory.
+The current building above a chamber may therefore have little to do with the chamber's original purpose. A room beneath a palace can still belong to an old environmental system without having been part of the palace's institutional history.
+
+Damage needs its own explanation. A broken wall might come from re-entry, post-Fall salvage, war, subsidence, deliberate ventilation, or a modern breach. Labeling every fracture “the Fall” hides the work and violence that came afterward.
 
 ### Spokes and Ark organs
 
-Each Ring once had eight urban Spokes connecting it to a central hub containing power, management, and drive systems. The physical distribution of Spoke material after the Fall remains unresolved. A Spoke may survive as an attached district, reworked structure, detached wreck, or source of components. No site is a Spoke merely because it rises, contains old interfaces, or is claimed by [[Spoilers/Polities/Spokers|Spoker]] descendants.
+Each Ring originally had eight urban Spokes connecting it to a central hub. The hub contained power, management, and drive systems. What happened to the Spoke material after the Fall remains unresolved: it may survive in attached districts, reworked structures, detached wrecks, or reused components.
 
-“Ark organ” is a learned category for systems that once managed atmosphere, power, manufacture, transit, computation, habitat, or terraforming. The term describes an inferred function inside the old machine. It does not imply that the system remains whole, that one component controls the wider network, or that whoever awakens it inherits [[Spoilers/Foundations/Prometheus|Prometheus's]] authority.
+Height, old interfaces, and claims by [[Spoilers/Polities/Spokers|Spoker]] descendants can prompt investigation, but none is enough to identify a site as a Spoke.
 
-The central hub and drive core were severed from the Rings. Their location, condition, and relationship to present dungeon sites remain open. A deep mechanism that resembles a drive interface is evidence requiring comparison, not proof that the lost core lies behind the next door.
+Scholars use **Ark organ** for a system inferred to have managed atmosphere, power, manufacture, transit, computation, habitat, or terraforming within the ship. The classification concerns its former function. It does not establish that the system is intact, that a discovered component controls a larger network, or that activating it gives anyone [[Spoilers/Foundations/Prometheus|Prometheus's]] authority.
+
+The central hub and drive core were severed from the Rings. Their location, condition, and connection to present dungeon sites remain unknown. A mechanism deep underground may resemble a drive interface, but that resemblance needs comparison with other evidence. It does not establish that the lost core is nearby.
 
 ### Evolutionary arenas
 
-Prometheus turned the Rings into coercive evolutionary experiments. Arenas included physical contests, social regimes, virtual systems, controlled scarcity, and environments designed to make reproduction depend on success. Surviving spaces may retain architecture, interfaces, records, conditioned hazards, or later traditions shaped by those regimes.
+Prometheus used the Rings for coercive evolutionary experiments. His arenas could take the form of physical contests, social regimes, virtual systems, controlled scarcity, or environments in which successful reproduction depended on success in the experiment. Remnants may include architecture, interfaces, records, hazards conditioned by the old regime, and later traditions shaped by it.
 
-An arena classification should identify the observed selection mechanism rather than infer it from the people associated with a Ring. Present cultures are not exhibits left inside their maker's experiment. A training hall, shrine, or market built in an old arena owns its later history as well as the violence beneath it.
+To identify an arena, investigators should establish what process selected for success. The identity of the people associated with a Ring is not enough. Present cultures have histories beyond Prometheus's experiments. A training hall, shrine, or market built in an arena must be understood through its later uses as well as the violence that preceded them.
 
-Whether any virtual arena, selection process, or supervising intelligence remains active is unresolved. Repeated instructions, responsive images, convincing voices, or apparent continuity can arise from machinery, ritual, [[Spoilers/Foundations/Kaos|Kaos]], a Projection, fraud, memory, or another cause. Current canon adopts no general **simulation leakage** from Prometheus's prison or the old Posthuman world.
+It remains unresolved whether any virtual arena, selection process, or supervising intelligence is still active. Repeated instructions, responsive images, convincing voices, and apparent continuity with the past have several possible explanations: machinery, ritual, [[Spoilers/Foundations/Kaos|Kaos]], a Projection, fraud, memory, or another cause. Current canon establishes no general **simulation leakage** from Prometheus's prison or the old Posthuman world.
 
 ### Terraforming works
 
-Kalsa's inhabited climates depend upon millennia of terraforming. Works may regulate heat, water, air, soil, storm exposure, geothermal access, or other conditions that present specialists only partly understand. Some lie outside Crown wrecks and predate the Fall as surface installations. Others pass through present borders or have settlements built directly upon them.
+Millennia of terraforming made Kalsa's inhabited climates possible. Surviving works may regulate heat, water, air, soil, storm exposure, geothermal access, or other conditions that present specialists understand only partly.
 
-An abandoned entrance does not prove an abandoned function. Before opening, blocking, draining, or removing anything from a suspected terraforming work, provenance must trace observable outputs and downstream dependents as far as evidence permits. A ruin can be empty of residents and still be occupied by obligations.
+These systems need not lie inside Crown wrecks. Some were surface installations before the Fall. Others cross present borders or have settlements built directly on them.
+
+An unused entrance says nothing certain about whether the system behind it still works. Before opening, blocking, draining, or removing anything from a suspected terraforming work, investigators must trace its observable effects and identify downstream dependents as far as the evidence allows. A site with no residents may still keep other places habitable.
 
 ### Dead-God wounds and thaumavore nests
 
-A God Beast's collapse can leave a magical fountain where old ghosts and dead powers manifest while potential remains available. Divine warfare, failed succession, mass death, or repeated miracle use can also make one place a feeding ground for [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]]. Such a wound may overlay an Ark site, battlefield, tomb, temple, or ordinary settlement.
+When a God Beast collapses, it can leave a magical fountain: a place where old ghosts and dead powers manifest for as long as potential remains available. Divine warfare, failed succession, mass death, and repeated miracle use can also turn a site into a feeding ground for [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]]. These wounds can occur over an Ark site, battlefield, tomb, temple, or ordinary settlement.
 
-“Nest” is a field description for recurrent manifestations around a source of potential. It does not establish a species, shared purpose, or permanent home. Some presences may be predators. Others may be ancestors, omitted casualties, unascended Beasts, or claimants using the only interval in which they can be heard. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] owns mortal procedure around those claims.
+In field descriptions, **nest** means that manifestations recur around a source of potential. It does not establish that the presences belong to one species, share a purpose, or live there permanently.
+
+Some may be predators. Others may be ancestors, casualties omitted from the record, unascended Beasts, or claimants taking the only available opportunity to be heard. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] governs how mortals handle those claims.
 
 ### Sealed post-Fall works
 
-Not every sealed depth belongs to the Ark. Later people built mines, cisterns, fortifications, refuges, cult vaults, workshops, prisons, archives, smuggling routes, and containment sites. They reused Crown material and inherited symbols, sometimes to borrow old legitimacy and sometimes because no other material was available.
+Later generations built their own underground places: mines, cisterns, fortifications, refuges, cult vaults, workshops, prisons, archives, smuggling routes, and containment sites. They often reused Crown material and inherited symbols. Some sought the legitimacy of the ancient forms; others had no alternative materials.
 
-A seal may protect the outside from what is within, protect the occupants from the outside, preserve a legal dispute, conceal extraction, or simply mark a failed project no successor could afford to reopen. Later builders deserve names in the record even when their work appears crude beside Ark fabric.
+A seal does not explain why a place was closed. It may contain a danger, shelter occupants from outsiders, preserve a legal dispute, conceal extraction, or close a failed project that no successor could afford to reopen. Records should identify these later builders even when their work looks crude beside the Ark's construction.
 
-## The provenance record
+## When a finding is challenged
 
-A useful record distinguishes observation, testimony, inference, and unresolved claim. It identifies:
+A provenance claim may lead to an irreversible act: opening a burial, removing a working component, or destroying a disputed layer of construction. Anyone whose body, labor, dependence, custody, or history is materially affected may challenge the claim before that happens.
 
-- the site's known entrances, extent, and relation to present settlement;
-- visible construction layers, materials, interfaces, damage, and repairs;
-- records, oral histories, rites, place-names, and prior expedition reports;
-- active outputs and communities, organisms, or institutions depending on them;
-- bodies, burials, divine remains, habitations, and evidence of continuing claim;
-- known removals, substitutions, collapses, openings, and resealings;
-- mechanical, environmental, magical, political, and epistemic hazards;
-- the confidence and alternatives attached to every proposed origin;
-- the person or office responsible for each observation and later correction.
+The local jurisdiction determines the appeal route. It may be a court, council, ruler, cult hearing, lineage review, or negotiated assembly. There is no universal provenance tribunal.
 
-The record should preserve minority accounts rather than compress them into one official story. Tunnel workers may know where the air changes. Families displaced by a closure may remember an entrance omitted from the court map. Smugglers may know a safe path while lying about why it is safe. A cult archive may preserve every titled burial and none of the laborers beneath it. Marginal testimony can be interested and still carry the missing mechanism.
+A challenge should identify a disputed observation, an alternative explanation, a missing witness, or an omitted consequence. Authorities may temporarily halt work, require another witness, allow a non-destructive test, or proceed within emergency limits. A temporary hold must not give the challenger indefinite ownership. An urgent need must not become a license to destroy the very evidence under dispute.
 
-## Survey sequence
+Workers and specialists also have limited rights to refuse. A guide may decline a route outside the agreed compact. A Techpriest may refuse an operation beyond known limits. Kin may refuse disturbance of identified remains while their claim is heard.
 
-Provenance begins above the threshold. Surveyors compare surface effects, old maps, maintenance records, local memory, water and air behavior, magical interference, and previous casualties before authorizing disturbance. The first descent establishes witness points and marks what must remain untouched long enough to understand it.
-
-Every opening, removal, collapse, manifestation, and route change updates the record. A sketch made after a wall was broken must not present the breach as original architecture. An object recovered without its position, attachments, neighbors, and immediate effects loses much of its evidentiary value even if it remains materially precious.
-
-When evidence conflicts, the record keeps rival readings and names the practical decision made despite them. A local authority may classify a route as a public danger. A Techpriest may reject a proposed system model. Kin may identify remains that officials label anonymous. None of these statements becomes author truth because it won the first hearing.
+A local polity may override such refusal to address an immediate public danger. It must preserve an account of what it changed and reopen non-emergency claims afterward.
 
 ## Historical stress: reuse across the Fall and War
 
-A recurrent provenance failure begins with an Ark service gallery damaged during re-entry. Early survivors restore part of its flow, later refugees wall off a section, soldiers use the refuge during the War of the Magi, a cult buries its dead there, and a postwar settlement taps the surviving conduit for water. Centuries later, delvers enter through the military breach and classify the whole depth as an abandoned Ring arsenal.
+The following is a stress case, not an established history of a named site. Its exact places and dates remain unresolved. It tests a causal pattern supported by the Fall, later reuse, war, and long infrastructure decay.
 
-Every layer in that account changes the decision. Removing an Ark valve can interrupt the present water supply. Opening the refuge can expose burials. Treating defensive masonry as impact debris erases the war dead. Treating cult marks as the site's first history erases the survivors and workers who made it habitable. Provenance does not settle all claims; it prevents the newest confident story from consuming the older consequences.
+An Ark service gallery suffers damage during re-entry. Early survivors restore part of its flow. Later refugees wall off a section, and soldiers use that refuge during the War of the Magi. A cult subsequently buries its dead there. After the war, a settlement draws water from the surviving conduit.
 
-The exact places and dates of such sequences remain unresolved. The stress case records a causal pattern implied by the Fall, reuse, war, and long infrastructure decay rather than a newly named continental event.
+Centuries later, delvers enter through the soldiers' breach and identify the entire depth as an abandoned Ring arsenal.
 
-## Correction, appeal, and refusal
+That account misses facts which matter immediately to anyone entering or removing material:
 
-Anyone whose body, labor, dependence, custody, or history is materially affected may challenge a provenance claim before it becomes irreversible action. The route of appeal belongs to the local jurisdiction and may be a court, council, ruler, cult hearing, lineage review, or negotiated assembly. No universal provenance tribunal exists.
+- Taking an Ark valve can cut off the settlement's water.
+- Opening the refuge can expose burials.
+- Calling defensive masonry impact debris removes evidence of the war dead.
+- Treating cult marks as the beginning of the site's history omits the survivors and workers who made it habitable.
 
-A challenge should name the disputed observation, alternative account, missing witness, or consequence omitted from the record. Authorities may impose a temporary hold, require another witness, permit a non-destructive test, or proceed under emergency limits. A hold cannot become indefinite ownership by the challenger; urgency cannot become permission to destroy the evidence being challenged.
-
-Workers and specialists retain bounded refusal. A guide may refuse to lead a route omitted from the compact. A Techpriest may refuse an operation that exceeds known limits. Kin may refuse disturbance of identified remains while the claim is heard. A local polity may override refusal to answer immediate public danger, but must preserve what it changed and reopen non-emergency claims afterward.
+Provenance cannot settle every resulting claim. It can keep these different uses and dependencies in view while decisions are made.
 
 ## Dungeon play seams
 
-Provenance makes exploration change the setting through evidence as well as loot. Parties can be hired to verify whether a tunnel is Ark or post-Fall, trace a conduit to its dependents, compare rival maps, recover a record without activating its system, identify a military breach, witness a sealed burial, or prove that a supposed haunt follows diverted potential rather than one named god.
+An expedition can be hired to answer a specific question about a site's history or present function. Useful objectives include:
 
-The consequences return to the surface. A corrected map can reopen trade or expose a settlement. A recovered maintenance sequence can break a monopoly or make an old hazard operable again. A burial record can alter succession. Proof that a “dead” work remains active can stop salvage and leave a sponsor ruined. Evidence of possible simulation activity can trigger containment, pilgrimage, panic, or fraud without resolving whether the simulation is real.
+- Establishing whether a tunnel is Ark construction or a post-Fall work.
+- Following a conduit to find who depends on it.
+- Comparing rival maps.
+- Recovering a record without activating the system that holds it.
+- Identifying a military breach.
+- Witnessing a sealed burial.
+- Demonstrating that a supposed haunt follows diverted potential rather than one named god.
+
+The party's evidence can change life on the surface. A corrected map may reopen trade or expose a settlement. A recovered maintenance sequence may break a monopoly or make an old hazard operable again. A burial record may change succession. Proof that a supposedly dead work remains active may halt salvage and ruin the expedition's sponsor.
+
+Evidence suggesting simulation activity can bring containment, pilgrimage, panic, or fraud. Those responses do not resolve whether the simulation is real.
 
 ## Unresolved
 
