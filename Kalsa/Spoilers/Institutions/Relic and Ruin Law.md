@@ -14,117 +14,177 @@ tags:
 
 # Relic and Ruin Law
 
-Relic and ruin law is the collection of local procedures used to enter, secure, investigate, close, and remove material from dungeon sites. It is not a continent-wide code. Each polity acts through its own offices, customs, rulers, courts, temples, and coercive capacity. Shared practice emerges because ruins cross borders, hazards propagate, Techpriesthoods travel, and stolen relics remain recognizable after local permission has been left behind.
+Relic and ruin law governs what people may do at a dungeon site: enter it, make it safe, investigate it, close it, or carry things away. For a delving party, permission to enter is only the first decision. A recovered object may belong to a custodian, form part of a burial, or still supply water to people above. Finding it does not settle what happens to it.
 
-The governing distinction is simple: entry into a place does not empty the place of prior authority. [[Spoilers/Dungeons/Dungeon Provenance|Provenance]] identifies the layers and claims present. Law decides which actor may do what while those layers remain contested.
+There is no continent-wide code. Each polity uses its own offices, customs, rulers, courts, temples, and ability to enforce decisions. Some practices recur because the problems travel: ruins cross borders, hazards spread, Techpriesthoods move between jurisdictions, and a stolen relic can still be recognized after its thief leaves the place that claimed it.
 
-## Layered authority
+[[Spoilers/Dungeons/Dungeon Provenance|Provenance]] establishes what is known about a site's history, uses, and competing claims. Ruin law decides who may act while those claims remain unsettled. Entering a place does not cancel the authority already present there.
 
-### Local polity
+## Who can decide what
 
-The polity that actually governs a site owns admission, route security, criminal enforcement, and response to public danger within its jurisdiction. It may close an entrance, post guards, require notice, search returning parties, quarantine a hazard, evacuate threatened people, or order emergency work. These powers concern access and consequences. They do not make the polity technically competent, erase foreign title, convert burials into treasure, or prove that every deep structure lies inside its lawful border.
+Several authorities may have legitimate business in the same chamber. Each controls a different part of the decision.
 
-A public-danger order should name the observed danger, affected boundary, authorized acts, responsible office, duration, and review condition. In an emergency, action may precede a full hearing. Once immediate danger is contained, the order must not survive merely because closure has become administratively convenient.
+### The local polity: access and public danger
 
-### Techpriesthoods and custodians
+The polity that actually governs the site controls admission, route security, criminal enforcement, and the response to public danger within its jurisdiction. It can close an entrance, post guards, require notice, search returning parties, quarantine a hazard, evacuate threatened people, or order emergency work.
 
-[[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] retain bounded authority over the operation of named systems they can competently identify. They may stop unsafe work, prescribe an isolation boundary, preserve configuration evidence, or refuse an activation outside known limits. They do not own the ruin, its movable contents, its output, or every machine inside it.
+Those powers let it control access and respond to consequences. They do not give its officials technical knowledge, erase foreign ownership, or make burial goods available for salvage. Control of the entrance also does not prove that every structure beneath it lies within the polity's lawful border.
 
-[[Spoilers/Institutions/Relic Custody|Relic custodians]] retain whatever possession, service, sacred, recovery, title, or handoff claims apply to a particular relic. A component found in a new chamber may still belong to an active system or an earlier custody chain. The custodian's record travels with the claim; it does not grant police power over the entire route.
+An order issued for public danger should state:
 
-### Cults, kin, and the dead
+- what danger has been observed;
+- the boundary affected;
+- which acts are authorized;
+- which office is responsible;
+- how long the order lasts;
+- what condition requires review.
 
-Cults, households, descendants, mortuary offices, and bound hierarchies retain claims over identified bodies, funerary goods, covenant records, divine remains, and sites whose disturbance changes an active binding. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] governs those procedures. Kinship does not automatically create ownership of an Ark chamber; site authority does not turn the dead into unclaimed material.
+An emergency may require action before a full hearing. Once the immediate danger is contained, officials need a continuing justification for the order. Administrative convenience is not enough to keep a site closed.
 
-A manifestation can demand a hold without proving its identity. Officials must preserve the behavior, available records, competing explanations, and immediate hazard. Containment may be necessary. Destruction for the purpose of making the claim easier to decide is not neutral adjudication.
+### Techpriesthoods and relic custodians: systems and particular objects
 
-### Dependents, workers, and residents
+[[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] have limited authority over the operation of specific systems they can competently identify. A Techpriest may stop unsafe work, specify what must be isolated, preserve evidence of how a system was configured, or refuse an activation beyond known limits.
 
-Communities retain claims grounded in active service, habitation, labor, access, and exposure to danger. People who draw water from a buried work or breathe air moved through it may lack title and still be the first parties harmed by removal. Tunnel residents, caretakers, porters, guides, scavengers, and informal settlers often know site behavior omitted from official maps.
+That competence does not confer ownership of the ruin, its movable contents, its output, or every machine found inside it.
 
-Marginal status does not make every assertion true. It makes exclusion from notice a defect when the omitted person bears the consequence. A lawful entry process that consults title holders and ignores everyone downstream has mapped paper authority rather than the ruin.
+[[Spoilers/Institutions/Relic Custody|Relic custodians]] hold claims concerning particular relics. Depending on the relic, these may concern possession, service, sacred obligations, recovery, ownership, or the terms of a handoff. A component discovered in a newly opened chamber may still belong to a working system or an earlier custody chain.
 
-### Delving parties
+The custodian's record supports that claim wherever the object is found. It does not give the custodian police power over the whole route used to reach it.
 
-A delving party owns only the expedition rights granted by the local authority and the obligations agreed in its [[Spoilers/Institutions/Delving Compacts|compact]]. It may acquire possession through recovery. It receives title only to residual movable salvage that remains after prior claims, active dependencies, custody restrictions, remains, and hazard costs have been addressed under the governing jurisdiction.
+### Cults, kin, and the dead: remains and continuing obligations
 
-There is no universal adventurers' guild, delver immunity, or finder-keeps title. A sponsor cannot contract around a claim held by someone who never joined the compact.
+Cults, households, descendants, mortuary offices, and bound hierarchies may retain claims over identified bodies, funerary goods, covenant records, divine remains, and places where disturbance changes an active binding. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] governs how those claims are handled.
 
-## Admission before descent
+A family connection does not automatically confer ownership of an Ark chamber. Equally, authority over the chamber does not make its dead unclaimed material.
 
-A normal admission process begins with a petition identifying the site, proposed entrance, objective, expected duration, participants, sponsor, known hazards, and intended removals. The local authority compares it with available provenance, land and route claims, Techpriest records, active services, burials, prior closures, and neighboring jurisdictions.
+A manifestation can demand that work stop while its claim is considered, even before its identity has been proved. Officials must preserve a record of its behavior, the available supporting records, competing explanations, and any immediate hazard. They may need to contain it. Destroying it merely to simplify the dispute destroys part of what they were supposed to judge.
 
-Admission may be broad enough to explore and map while requiring separate approval to break seals, disturb bodies, activate systems, divert flows, or remove named classes of material. This prevents an entry grant from becoming a blank deed. The grant should also state who can stop the work, which events require immediate notice, and where recovered material must be presented before division.
+### Residents, dependents, and workers: use and exposure
 
-Applicants may be required to post supplies, labor, hostages, surety, or another guarantee against rescue and repair costs. No form is universal. A guarantee should answer a named risk rather than serve as a price by which wealthy parties purchase permission to externalize any harm they can afford.
+People can have a claim because they live in a site, maintain it, work there, use its routes, depend on its services, or face danger from changes to it. Ownership is only one basis for being heard.
 
-## Procedure below
+A settlement drawing water from a buried work may have no title to the machinery. Its residents can still be the first to suffer when someone removes a part. The same applies to people breathing air moved through an old system. Tunnel residents, caretakers, porters, guides, scavengers, and informal settlers may also know behavior that official maps omit.
 
-The expedition marks its authorized threshold, records the initial state, and maintains a chain between discoveries and their locations. Opening a route, moving a component, encountering habitation, finding remains, changing an output, or triggering a manifestation changes the legal facts and must be logged when survival permits.
+Their position does not make every assertion true. But failing to notify someone who will bear the consequences makes the admission process defective. Consulting every title holder is insufficient if the people downstream never hear that their water route is about to be disturbed.
 
-Certain discoveries impose a hold:
+### Delving parties: expedition rights and possible salvage
 
-- evidence that the site remains inhabited or actively used;
+A delving party has the expedition rights granted by the local authority and the obligations accepted in its [[Spoilers/Institutions/Delving Compacts|compact]]. Recovery may give the party possession of an object. Ownership comes later, and only for movable salvage left after the governing jurisdiction has addressed prior claims, active dependencies, custody restrictions, remains, and hazard costs.
+
+There is no universal adventurers' guild, immunity for delvers, or rule that the finder keeps what they find. A sponsor and party cannot use their compact to cancel the claim of someone who never agreed to it.
+
+## Getting permission to descend
+
+A normal application identifies the site, proposed entrance, purpose of the expedition, expected duration, participants, sponsor, known hazards, and intended removals. The local authority checks this against the available provenance, land and route claims, Techpriest records, active services, burials, previous closures, and neighboring jurisdictions.
+
+Permission can allow exploration and mapping while reserving more consequential acts for separate approval. Breaking seals, disturbing bodies, activating systems, diverting flows, or removing specified classes of material may each require another decision. This keeps permission to enter from becoming permission to dispose of everything inside.
+
+The grant should also identify who may stop work, which events must be reported immediately, and where recovered material must be presented before anyone divides it.
+
+Applicants may have to provide supplies, labor, hostages, surety, or another guarantee against rescue and repair costs. No single form is universal. The guarantee should cover an identified risk. It should not let a wealthy party buy permission to leave others with whatever damage it can afford to cause.
+
+## Discoveries that change the permission
+
+On entering, the expedition marks the threshold covered by its authorization and records the site's initial condition. As it proceeds, it keeps discoveries tied to their locations.
+
+The record must change when the party opens a route, moves a component, encounters habitation, finds remains, changes an output, or triggers a manifestation. These events change the legal facts, so they must be logged when survival permits.
+
+Some discoveries require a **hold**: the affected action stops while the new issue is addressed. These include:
+
+- evidence of continuing habitation or active use;
 - a body, burial, covenant archive, or possible divine remain;
 - a component still attached to a functioning system;
-- an environmental or magical effect extending beyond the admitted boundary;
-- a seal whose purpose cannot be distinguished from containment;
+- an environmental or magical effect reaching beyond the boundary covered by admission;
+- a seal that may be containing something dangerous, where its purpose cannot be distinguished;
 - behavior consistent with a possible mind, Projection, or supervising process.
 
-A hold stops the affected action, not necessarily the entire expedition. The party may withdraw, stabilize immediate danger, preserve evidence, or continue elsewhere within scope. Emergency rescue always remains possible; it does not silently authorize salvage along the route.
+A hold need not stop the whole expedition. The party may withdraw, stabilize immediate danger, preserve evidence, or continue elsewhere within its authorized scope.
 
-## Return, inventory, and claims notice
+Emergency rescue remains possible. Permission to rescue someone does not quietly become permission to collect salvage along the way.
 
-Recovered objects return first to a declared inspection place rather than directly to the sponsor's treasury. The party presents the expedition log, provenance context, changes made, casualties, hazards carried out, and every item removed. Fixed infrastructure remains legally attached to its site unless a competent authority has approved severance.
+## Bringing material back
 
-Notice goes to identifiable custodians, affected communities, kin or cult claimants, land and route authorities, and specialists whose systems were disturbed. Claimants must identify the object or site, the basis of the claim, the remedy sought, and evidence that survives review. A ruler's seal, priestly formula, family story, maintenance mark, and delver's possession are all evidence; none is self-proving in every jurisdiction.
+Recovered objects go first to a declared inspection place. They do not pass directly into the sponsor's treasury.
 
-Items may be held, returned, isolated, repaired, buried, copied, divided, or released as residual salvage. A custody hold should be bounded by a reason and review date. Indefinite impoundment is title by exhaustion unless the continuing hazard or claim can be shown.
+The party presents every removed item alongside its expedition log, the context in which the material was found, changes made to the site, casualties, and hazards brought out with it. Fixed infrastructure remains legally part of its site unless a competent authority has approved its separation.
 
-## Hazard costs and salvage order
+Identifiable custodians, affected communities, kin or cult claimants, land and route authorities, and specialists whose systems were disturbed must receive notice. A claimant must identify the object or site, explain the basis of the claim, state the remedy sought, and provide evidence that can withstand review.
 
-Before movable salvage is divided, the adjudicating authority identifies costs caused by the expedition or necessary to make its recovery safe: rescue, containment, replacement of removed support, treatment of exposed people, restoration of interrupted service, guarded storage, safe burial, and repair of the access route. These costs do not excuse criminal or sacrilegious acts; they prevent profit from being calculated as though everyone outside the compact absorbed consequence for free.
+Evidence takes many forms: a ruler's seal, a priestly formula, a family story, a maintenance mark, or the delver's possession. None proves the case by itself in every jurisdiction.
 
-The order of decision is:
+The resulting decision may hold, return, isolate, repair, bury, copy, divide, or release an item as residual salvage. A custody hold should have a stated reason and review date. Without a demonstrable continuing hazard or claim, indefinite impoundment lets the holder acquire control simply by outlasting everyone else.
 
-1. rescue living people and secure continuing public danger;
-2. preserve and return identified bodies, persons, bindings, and custody claims under their owner procedures;
-3. stabilize active systems and compensate or restore service dependencies where the law recognizes them;
-4. return material with established title or bounded custody;
-5. assess necessary hazard, rescue, and restoration costs;
-6. release only the remaining movable material for allocation under the delving compact or local salvage custom.
+## Paying for recovery and deciding what remains
 
-The order does not guarantee that every polity values claims equally. It names the authorities that a coherent judgment must confront instead of allowing discovery to erase them.
+Before dividing movable salvage, the adjudicating authority identifies costs caused by the expedition or required to make the recovery safe. These can include rescue, containment, replacement of removed support, treatment of exposed people, restoration of interrupted services, guarded storage, safe burial, and repair of the access route.
 
-## Refusal, appeal, and override
+Charging these costs does not excuse a crime or sacrilege. It prevents the party and sponsor from counting their profit as though everyone outside the compact owed them free rescue, repairs, and suffering.
 
-A Techpriest may refuse unsafe operation. Kin or cult representatives may demand a hold on identified remains. Workers may refuse a route whose actual hazard exceeds the admission record. Delvers may refuse a sponsor's instruction outside the compact. Residents may challenge a removal that threatens active service.
+Decisions follow this order:
 
-The local polity owns the appeal path: court, council, ruler, lineage hearing, cult forum, negotiated assembly, or another recognized venue. Appeals should preserve the contested object and the evidence necessary to revisit the claim. Where rival jurisdictions exist, parties may accept a neutral witness or temporary shared custody without creating a higher universal court.
+1. Rescue living people and secure any continuing public danger.
+2. Preserve and return identified bodies, persons, bindings, and custody claims through the procedures of the authorities responsible for them.
+3. Stabilize active systems, and compensate or restore those who depend on their services where the law recognizes those dependencies.
+4. Return material whose ownership or limited custody has been established.
+5. Assess necessary hazard, rescue, and restoration costs.
+6. Release the movable material that remains for allocation under the delving compact or local salvage custom.
 
-Immediate public danger permits override. The overriding authority must name the danger, use the narrowest available act, preserve a record, and return to ordinary claims afterward. “Emergency” is not a permanent solvent for refusal. Equally, an unsupported objection cannot hold a settlement inside a spreading poison while claimants debate prestige.
+Polities do not necessarily give these claims equal weight. The sequence identifies what a coherent judgment must address before awarding salvage; discovery cannot make the other authorities disappear.
 
-## Offences and enforcement failure
+## Refusal, appeal, and emergency action
 
-Common offences include concealed removal, false provenance, breach of a seal, trafficking a held relic, abandonment of injured workers, failure to report an exported hazard, destruction of a custody mark, and presenting attached infrastructure as movable salvage. Local law decides penalties.
+Different participants can refuse different acts:
 
-Enforcement can itself become extraction. Rulers classify profitable depths as public danger and grant access to clients. Temples expand burial claims across inhabited works. Techpriests turn bounded safety objections into hereditary exclusion. Sponsors charge hazard costs to porters while retaining the recovered material. Officials recognize titled witnesses and criminalize residents whose only record is continued use.
+- A Techpriest may refuse unsafe operation.
+- Kin or cult representatives may demand a hold on identified remains.
+- Workers may refuse a route whose actual danger exceeds what the admission record described.
+- Delvers may refuse a sponsor's instruction outside the compact.
+- Residents may challenge removal that threatens an active service.
 
-Appeal matters because every layer can counterfeit the language of another. The check is consequence: who has evidence, who can act, who bears risk, which authority is actually in scope, and whether the decision remains reviewable after the urgent moment passes.
+The local polity determines where such disputes are heard. The venue may be a court, council, ruler, lineage hearing, cult forum, negotiated assembly, or another recognized body. An appeal should preserve the contested object and enough evidence to reconsider the claim.
+
+Where jurisdictions compete, the parties may agree to a neutral witness or temporary shared custody. That agreement does not establish a universal court above them.
+
+Immediate public danger can justify overriding a refusal. The authority doing so must identify the danger, take the narrowest available action, keep a record, and return to ordinary claims afterward. Emergency power cannot remain in force indefinitely simply because someone once invoked it. An unsupported objection likewise cannot leave a settlement in spreading poison while claimants argue over prestige.
+
+## Offences and misuse of enforcement
+
+Common offences include:
+
+- concealing a removal;
+- falsifying provenance;
+- breaching a seal;
+- trafficking a relic under a hold;
+- abandoning injured workers;
+- failing to report a hazard carried out of the site;
+- destroying a custody mark;
+- presenting attached infrastructure as movable salvage.
+
+Local law sets the penalties.
+
+The people enforcing the law can also use it to take what they want. Rulers may declare profitable depths a public danger and then admit favored clients. Temples may extend burial claims across inhabited works. Techpriests may turn a limited safety objection into hereditary control over access. Sponsors may make porters pay hazard costs while keeping the recovered material. Officials may accept titled witnesses and criminalize residents whose only record is that they have continued to use the place.
+
+Appeal is necessary because each authority can borrow another's justification. A claim made in the name of safety, burial, ownership, or service must still be checked against the evidence: who can act, who bears the risk, what the claimed authority actually covers, and whether the decision can be reviewed once the urgent moment has passed.
 
 ## Historical stress: the reused service gallery
 
-Consider a Ring service gallery damaged at the Fall, repaired as a refuge, fortified during the War of the Magi, used for cult burial, and later tapped as a settlement's water route. A ruler admits delvers through the old military breach after being told the site is an abandoned arsenal.
+Consider a Ring service gallery damaged at the Fall. It is repaired as a refuge, fortified during the War of the Magi, used for cult burial, and later tapped to supply a settlement with water. A ruler is told that it is an abandoned arsenal and admits delvers through the old military breach.
 
-Ruin law separates the resulting claims. The polity can secure the route and answer unstable masonry. A Techpriest can stop removal of a valve connected to the water system. Kin and cult can hold disturbance of the burial wall. Residents can demand notice before the flow changes. Delvers can recover movable war stores whose prior owners and hazards no longer survive, but only after those claims and costs are heard. The compact cannot convert the entire gallery into salvage by naming it the objective.
+Each part of that history creates a different question.
 
-The exact site is unresolved. The stress case tests the law against a history Kalsa's foundations make recurrent: Ark function, survival reuse, war, worship, public dependence, and profitable forgetting in the same depth.
+The polity can secure the route and respond to unstable masonry. A Techpriest can stop the party from removing a valve still connected to the water system. Kin and cult representatives can demand a hold before the burial wall is disturbed. Residents can demand notice before anyone changes the flow.
 
-## Dungeon consequences
+The delvers may recover movable war stores whose prior owners and hazards no longer survive, but only after the other claims and costs have been heard. Naming the whole gallery as the expedition's objective does not make the whole gallery salvage.
 
-Ruin law creates work before and after the fight. Parties escort claim witnesses, map a hazard boundary, recover an inventory, protect an inspection place, pursue trafficked parts, deliver an appeal across a closed border, or re-enter a site because the first removal changed a public system.
+The exact site remains unresolved. This is a stress case for the law, using a sequence that Kalsa's foundations make recurrent: an Ark function survives through refuge, war, worship, and public dependence, until someone stands to profit by treating the depth as abandoned.
 
-A lawful victory can still disappoint the sponsor. The recovered object may return to a custodian, remain sealed with a possible person, pay for containment, or be installed into the village whose water the expedition endangered. An unlawful recovery can still save lives and force a court to confront an obsolete rule. The procedure exists to keep those consequences legible, not to guarantee that every correct act was previously permitted.
+## What this means for dungeon work
+
+Ruin law gives parties work before and after a fight. They may escort witnesses to a claim, map the boundary of a hazard, recover an inventory, protect an inspection place, pursue trafficked parts, carry an appeal across a closed border, or return underground because their first removal changed a public system.
+
+Following the law can still leave a sponsor disappointed. A recovered object may go back to its custodian, remain sealed with a possible person, pay for containment, or be installed in the village whose water the expedition endangered.
+
+Breaking the law can still save lives and force a court to confront an obsolete rule. The procedures make it possible to identify those consequences and decide who must answer for them. They do not guarantee that every correct act already had permission.
 
 ## Unresolved
 

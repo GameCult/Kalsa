@@ -20,124 +20,129 @@ tags:
 
 # Luck — Selza'a
 
-Luck, signature 001 and Sequence I, arose spontaneously before Prometheus designed the other Gifts. It constantly and unconsciously bends small causal variations toward the user's benefit. Its direct influence cannot be detected; over long periods, tiny biases can produce enormous outcomes.
+Selza'a is the society of the isolated Luck Crown, a fog-hidden city where families govern their own territories and cooperate over water, routes, and defense. There is no central government. A resident's family relations help determine where they can live, which stores and water supplies they can use, and who will protect them.
 
-Luck Beasts are described as simple, solitary, territorial, and survival-oriented. They can found God Beasts called **dimna** in the seed. Opposition to a Luck Beast's survival tends to become opposition to one's own fortune. These mechanics and their uncertainty remain owned by [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]]. A family tradition cannot identify a bearer merely by naming one.
+Luck complicates every dispute. It continually bends small events toward its user's benefit without conscious direction or a detectable act of magic. Over generations, those small advantages can have enormous consequences. Residents can inspect a broken windtrap or record a neglected duty. They cannot inspect Luck itself to find out whom it favored, or at whose expense.
 
-## Place
+## The city and its terrain
 
-The Luck Crown lies far coldward on a desert plateau within the northern coastal mountains. Fog conceals the city; windtraps provide precipitation, and the source says inhabitants cultivate senses other than sight. Sound, touch, scent, air movement, remembered paths, and maintained markers matter in a city where sight is unreliable. The exact city and region names remain unresolved.
+The Luck Crown stands far coldward, on a desert plateau within the northern coastal mountains. Fog conceals it, and windtraps provide precipitation. The exact names of the city and its surrounding region remain unresolved.
 
-Isolation prevented conquest and preserved both strong Luck expression and substantial internal human variation. It also made water, safe routes, hosted entry, and knowledge of the fog matters of territorial power. [[Spoilers/Institutions/Selza'a Family Territories|Family territories]] are therefore use systems as much as borders: dwellings, cistern access, windtrap work, paths, gathering grounds, workshops, shrines, and obligations to defend shared structures.
+The source says inhabitants cultivate senses other than sight. Sound, touch, scent, air movement, remembered paths, and maintained markers all help people navigate where vision is unreliable. Ordinary travel therefore depends on knowledge that a resident or host may possess and a newcomer may lack.
 
-The source says some may enter but none may leave. Whether this is law, divine containment, geographic effect, or outsider belief remains unresolved. The escaped Luck bearer belongs to [[Spoilers/Reference/Story Seeds|Story Seeds]], not standing canon.
+Isolation prevented conquest. It also preserved strong Luck expression alongside substantial internal human variation. Within the city, control of water, safe routes, hosted entry, and knowledge of the fog gives families territorial power. Their [[Spoilers/Institutions/Selza'a Family Territories|territories]] encompass practical arrangements for using dwellings, cisterns, windtraps, paths, gathering grounds, workshops, and shrines, together with duties to defend shared structures.
 
-## Families and distributed government
+The source says that some may enter but none may leave. It does not settle whether this is a law, divine containment, an effect of the geography, or an outsider belief. The escaped Luck bearer remains a proposal in [[Spoilers/Reference/Story Seeds|Story Seeds]], not an established resident or event.
 
-Selza'a identity is organized around family territory and the propagation of seltanzda or dimna. Blood descent matters because Luck expression and Beast relations appear in families, but a family also includes adoption, marriage, clients, dependents, hosted outsiders, work partners, and people whose expression is weak, mixed, or Null. Present canon does not make lineage a scale of personhood or moral worth.
+## Luck, Beasts, and family belief
 
-The seed describes no central government. Families govern their own membership, stores, territory, and protection under varied internal arrangements. Boundary compacts govern shared paths, cisterns, windtraps, and restitution. Wider federations assemble for external defense, major works, or hazards too large for one territory. They dissolve or narrow when the named work ends.
+In the author classification, Luck has signature 001 and belongs to Sequence I. It arose spontaneously before Prometheus designed the other Gifts. Its influence is constant, unconscious, and directly undetectable: it biases small causal variations toward the user's benefit, with potentially enormous results over long periods.
 
-This distributed order is stable because no family can safely assume every misfortune was caused by a rival's Luck. It is volatile because no family can prove the opposite. Records, witnesses, material inspection, risk pools, reciprocal restraint, and third-family mediation exist in the gap. See [[Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]].
+Luck Beasts are described as simple, solitary, territorial, and concerned with survival. They can found God Beasts, called **dimna** in the seed. Someone who threatens a Luck Beast's survival tends to endanger their own fortune in doing so. The mechanics and their unresolved limits belong to [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].
 
-## Long fortune and territorial survival
+Families derive part of their identity from propagating seltanzda, called dimna in the Luck tradition. The precise linguistic and metaphysical relationship between those terms remains unresolved. A family may understand a dimna as an ancestor, a territorial protector, the continuity of a lineage, or a God Beast. [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|The cosmology note]] determines what can be asserted about Beasts; family doctrine records how people understand and live with them.
 
-Selza'a conflict unfolds inside pressures broader than any accusation. A dimna
-does not need to issue a plan for paths, marriages, breakdowns, births, shelter,
-and hostile mistakes to accumulate around its continued survival. Families can
-prosper for generations without knowing which turns were protection, ordinary
-competence, or cost displaced across a boundary.
+Rites can focus attention, preserve memory, assign obligations, and change relationships in the lower world. They cannot establish that a particular child belongs to a Beast, that prosperity proves divine favor, or that a rival's accident was a magical attack. Naming someone a Luck bearer in a family tradition does not identify one.
 
-Several dimna can press upon the same catchment, pass, or marriage network.
-Their effects do not meet as visible spells. One family's safe detour can leave
-another family carrying the failed bridge; an outsider repeatedly prevented
-from departing may be prisoner, protected guest, or a lever kept inside a
-territorial God’s reach. Selza'a traditions disagree because the Gift supplies
-no report that could settle those categories.
+## How families govern
 
-Family government therefore controls information as well as land. Hosts limit
-which routes a guest learns. Mediators carry claims without revealing every
-store or refuge. Marriage can connect two survival histories and can be treated
-as peace, infiltration, or an attempt to make a rival dimna protect the same
-descendants. A feud becomes most dangerous when both families reorganize daily
-life around defeating the other's fortune: each has made the rival's survival
-part of its own causal field.
+Family membership reaches beyond blood descent. Descent matters because Luck expression and Beast relations appear in families, but families also include adopted people, spouses, clients, dependents, hosted outsiders, and work partners. People with weak, mixed, or Null expression belong within this society. Current canon does not rank personhood or moral worth by lineage.
 
-[[Spoilers/Foundations/Oracle Ecology#Luck and large attractors|Oracle Ecology]]
-owns the author comparison. Selza'a institutions possess stories, repeated
-outcomes, shrine relations, and material evidence—not a view of the whole
-attractor.
+Each family governs its membership, stores, territory, and protection according to its own internal arrangements. Where interests cross, families make boundary compacts: agreements about shared paths, cisterns, windtraps, and restitution. For external defense, major works, or hazards beyond one territory's capacity, they form wider federations. Those federations dissolve or reduce their role when the specified work ends.
 
-## Territory and water
+Uncertainty about Luck both steadies and threatens this arrangement. A family cannot safely treat every misfortune as a rival's attack, but neither can it prove that a rival's Luck played no part. Families use records, witnesses, material inspection, pooled resources for losses, reciprocal restraint, and mediation by a third family to act despite that uncertainty. [[Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]] owns these procedures.
 
-Families hold overlapping kinds of claim rather than absolute ownership of everything within a line. A household may hold a dwelling. A work group may maintain a windtrap. Several families may share a catchment. A traveler may hold passage through a host. A shrine may sit inside one territory while serving descendants in another.
+## Land, routes, and water
 
-Boundaries are maintained through visible and nonvisual markers, witness memory, work records, and use. Fog can move, sound can carry strangely, and a path can become dangerous without changing anyone's formal line. A boundary therefore names who must respond, not a magical wall around property.
+Territorial claims overlap. A household may hold a dwelling while a work group maintains the nearby windtrap. Several families may share its catchment. A traveler may have passage through a host, and a shrine within one territory may serve descendants living in another. Holding territory does not mean owning everything inside a line.
 
-Windtraps make family autonomy materially interdependent. Upper structures affect lower catchments; delayed maintenance can deprive a rival; one family's repair crew may need access through another's territory. No central water ministry owns the system. Each shared work must name its maintainers, users, contribution shares, inspection access, emergency stop, and repair pool.
+People maintain boundaries through visible and nonvisual markers, witness memory, work records, and continued use. These records identify who must respond when something goes wrong. They cannot make a route safe by themselves: fog shifts, sound carries strangely, and a path may become dangerous while its formal boundary stays exactly where it was.
 
-## Membership, succession, and exit
+Windtraps make family independence dependent on cooperation. An upper structure affects catchments below it. Delaying maintenance can deprive a rival of water, while making a repair may require sending a crew through that rival's territory.
 
-Each family maintains its own record of descent, adoption, marriage, protection, dimna or seltanzda affiliation, territory use, and duty. No single form is universal. A marriage can join households without transferring every territorial claim. Adoption can create full kinship, a work relation, a hosted refuge, or an heir under local custom. The exact terms must be stated because blood alone does not settle them.
+There is no central water ministry. Every shared work must specify:
 
-Succession transfers bounded responsibilities: care of a cistern, representation in a compact, household stores, a shrine, or stewardship of a path. A claimed dimna sign may support a candidate inside that family's doctrine. It does not prove metaphysical selection or grant ownership of every descendant.
+- who maintains it and who uses it;
+- how much each party contributes;
+- who can enter to inspect it;
+- how work or operation can be stopped in an emergency;
+- which pooled resources pay for repairs.
 
-A person may leave one family for another, form a new household under compact, become unaffiliated, or seek hosted protection. Exit can cost housing, stores, water priority, witnesses, and access to risk pools. Families can turn that material dependence into captivity. Internal exit is distinct from leaving the isolated city itself, whose possibility and authority remain unresolved.
+## Joining, inheriting, and leaving
 
-## Feud and reciprocal restraint
+Families keep their own records of descent, adoption, marriage, protection, dimna or seltanzda affiliation, territorial use, and duty. They do not all use the same form or customs.
 
-Families answer threats with threat and may maintain long feuds. A feud is not a free license for every household to interpret coincidence as attack. Compact practice distinguishes material trespass, proven sabotage, neglected duty, shared hazard, and alleged Luck.
+The terms of a relationship matter. Marriage may join households without transferring all their territorial claims. Depending on local custom, adoption may establish full kinship, a work relationship, hosted refuge, or an heir. Blood alone cannot settle which rights and duties follow; those terms must be stated.
 
-Reciprocal restraint can include a pause on armed boundary entry, preservation of damaged objects, neutral access for a domain worker, a ban on naming a magical culprit without evidence, continued water delivery during dispute, and a defined point for review. Families accept these limits because retaliation against an invisible cause can create the very cascade each side fears.
+Succession likewise transfers particular responsibilities. An heir might take charge of a cistern, household stores, a shrine, or a path, or represent the family in a compact. A claimed sign from a dimna may support a candidate under that family's doctrine. It neither proves metaphysical selection nor grants the candidate ownership of every descendant.
 
-Feud remains likely where a family refuses inspection, a harm pattern repeatedly benefits one side, material proof has been destroyed, or restitution fails. Luck can make a bad institution survive. Survival does not make the institution just.
+People may move from one family to another, establish a new household under compact, become unaffiliated, or seek hosted protection. Doing so can cost them housing, stores, water priority, witnesses, and access to pools that cover losses. A family can use that dependence to hold someone captive even where a change of affiliation is possible.
 
-## Mutual defense
+Leaving a family within Selza'a is a separate question from leaving the city. Whether anyone can leave the isolated city, and who or what controls that possibility, remains unresolved.
 
-External threat produces federation. Families contribute guides, defenders, stores, shelter, route knowledge, and warning signals through prearranged compacts. The family closest to an intrusion usually owns immediate response; a wider muster owns collective defense once recognized. No permanent commander gains every territorial authority merely because the threat was real.
+## Fortune across generations
 
-This is the source of the city's famous capacity to remain unconquered. Fog, mountains, distributed supplies, local knowledge, and Luck reinforce one another. The same defense can imprison residents, treat every outsider as a probe, and allow powerful families to call internal dissent an external threat.
+A dimna need not give instructions for events to favor its continued survival. Routes, marriages, breakdowns, births, shelter, and an enemy's mistakes can accumulate toward that result. A family may prosper for generations without knowing which successes came from protection, which from ordinary competence, and which left someone across a boundary paying the cost.
 
-## Ordinary life
+Several dimna may influence the same catchment, mountain pass, or network of marriages. Their effects do not appear as spells visibly striking one another. One family takes a safe detour; another is left dealing with the failed bridge. An outsider repeatedly prevented from departing could be a prisoner, a protected guest, or someone retained because their presence gives a territorial God a way to affect events. Selza'a traditions disagree about such cases. The Gift supplies no account that could settle them.
 
-Most days concern water, maintenance, food, work, kin, trade, navigation, and the management of ordinary risk. Residents inspect cloth and vanes, clear catchments, mark safe paths, carry sound signals, negotiate guest access, pool stores after accidents, and trade across territories whose boundaries may be easier to hear than see.
+For this reason, family government controls knowledge as well as territory. Hosts restrict which routes guests learn. Mediators carry claims between families without disclosing every store or refuge. Marriage can connect two families' histories of survival, and people may regard it as peace, infiltration, or an attempt to make a rival dimna protect descendants shared by both families.
 
-A person with strong Luck may never know it. A Null keeper may preserve a windtrap for decades. A mixed-style child may be claimed by several family stories. A poor resident may contribute labor to a compact while holding no durable use claim. An outsider may depend on a host who can withdraw protection. Institutions matter because the Gift itself supplies no testimony about who deserves what.
+Feuds become especially dangerous when both sides arrange daily life around defeating the other's fortune. Each family's choices then turn on the rival's survival, bringing that survival into the events its own Luck may influence.
 
-## Dimna and seltanzda
+[[Spoilers/Foundations/Oracle Ecology#Luck and large attractors|Oracle Ecology]] owns the author model of these accumulated pressures. Selza'a institutions have stories, repeated outcomes, shrine relations, and physical evidence. They cannot see the full pattern of possible events being drawn toward a dimna's survival.
 
-The seed says families derive identity from propagating seltanzda, called dimna in the Luck tradition. Their exact linguistic and metaphysical relationship remains unresolved. A family may treat a dimna as ancestor, territorial protector, lineage continuity, or God Beast. [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|The cosmology note]] owns what can be asserted about Beasts.
+## Harm, evidence, and feud
 
-Family rites can align attention, preserve memory, distribute obligations, and change lower-world relationships. They do not prove that a child belongs to a Beast, that a successful family is divinely favored, or that a rival's accident was magical attack.
+Families answer threats with threats, and feuds can last. Compact practice nevertheless distinguishes different causes of harm: material trespass, proven sabotage, neglected duty, a shared hazard, and an allegation of Luck. A feud does not authorize every household to declare coincidence an attack.
 
-## Evidence and restitution
+Apparent coincidence is not proof. Prophecy may find a persistent bias in forecasts, but it cannot identify the source of that bias. Responsibility still rests on evidence of actions, access, breached duties, ordinary causes, and preserved records.
 
-Apparent coincidence is not proof. Prophecy may infer a persistent bias in forecast space but cannot identify the source. Material action, access, breached duty, ordinary causation, and preserved records remain the basis of responsibility.
+Under [[Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]], immediate safety comes before blame. Household reserves, family stores, shared-work pools, and travel bonds spread losses when responsibility cannot honestly be assigned. If later evidence proves sabotage or neglect, costs can shift accordingly. No magical culprit needs to be invented to make the accounts balance.
 
-[[Spoilers/Institutions/Luck Harm and Restitution|Luck Harm and Restitution]] restores immediate safety before attempting blame. Household reserves, family stores, shared-work pools, and travel bonds spread losses that cannot be assigned honestly. Later findings can shift costs toward proven sabotage or neglect without requiring a fictional magical culprit.
+Families may agree to reciprocal limits while a dispute is examined. These can include suspending armed entry across boundaries, preserving damaged objects, admitting a neutral worker with relevant expertise, forbidding the naming of a magical culprit without evidence, continuing water deliveries, and setting a definite review point. Retaliating against an invisible cause can set off the very sequence of disasters both sides fear.
 
-## Historical consequence: the Broken Windtrap Settlement
+Restraint does not always hold. Feud remains likely when a family refuses inspection, repeated harm benefits the same side, someone has destroyed material evidence, or restitution fails. Luck can help an unjust institution survive; continued survival provides no verdict on its justice.
 
-[[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] alone owns the adopted event facts. Its polity consequence is that collective defence gained a reciprocal-restraint path before armed crossing, while the cleared keeper and poor households exposed how distributed correction can stop feud without restoring standing or lost work.
+## Defense without a central ruler
 
-## Historical consequence: the road that returned
+External threats bring families into federation through prearranged compacts. They contribute guides, defenders, stores, shelter, knowledge of routes, and warning signals. The family nearest an intrusion usually directs the immediate response. Once a wider muster is recognized, it directs collective defense.
 
-Families around [[Spoilers/Events/The Road That Returned|the Road That
-Returned]] inherited cut paths, numbered stones, guide claims, and abandoned
-depots. These became warning routes and defensive stores as well as levers over
-water, work, and refuge access.
+That authority has limits. A real threat does not give a permanent commander every family's territorial powers.
 
-Some family recitations say the dimna taught an invader to build the means of
-its own defeat. Road workers answer that people did the learning, carrying, and
-coordination. Ju'onai audits preserve the unpaid claims and abandoned works.
+The city's famous resistance to conquest depends on fog, mountains, dispersed supplies, local knowledge, and Luck reinforcing one another. Those defenses can also be used against residents. They can make the city a prison, turn every outsider into a suspected probe, and let powerful families present internal dissent as an external threat.
 
-## Institutional failure and dungeon seams
+## Daily work and unequal security
 
-The distributed order fails when territory becomes ownership of people, a family monopolizes a shared windtrap, a risk pool excludes those unable to prepay, a prophetic inference becomes an accusation, or collective defense makes exit impossible. It also fails quietly when powerful families can absorb accidents and poor households must sell future labor to survive them.
+Most residents spend their days securing water and food, maintaining structures, working, trading, tending kin, finding their way, and managing ordinary risks. They inspect cloth and vanes, clear catchments, mark safe paths, carry sound signals, negotiate guest access, and pool stores after accidents. Trade crosses territories whose boundaries can be easier to hear than to see.
 
-The Luck Crown's buried Ring levels, sealed catchments, forgotten family paths, old windtrap foundations, and dimna shrines create dungeon seams. A ruin may sit beneath several territories. A recovered compact may alter water rights. An impossible run of accidents may mark a failing machine, a hostile human intervention, a territorial Beast, or all three. Delvers cannot solve the dispute by declaring the luckiest survivor guilty.
+A person's contribution and their apparent Luck need not match family stories about either. Someone with strong Luck may never know it. A Null keeper may maintain a windtrap for decades. Several families may claim a mixed-style child through competing accounts of the child's affiliation.
 
-The story of a bearer who leaves the city remains only in [[Spoilers/Reference/Story Seeds|Story Seeds]]. A dungeon or campaign may adopt it; this polity note does not.
+Material security also varies. A poor resident may owe labor to a compact while holding no lasting right to use what it maintains. A hosted outsider may depend on protection their host can withdraw. Institutions decide how these people are treated; the Gift gives no testimony about what anyone deserves.
+
+## What the Broken Windtrap Settlement changed
+
+[[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] alone owns the facts of that event. For Selza'a government, its lasting consequence was a procedure for reciprocal restraint before collective defense became an armed crossing.
+
+The settlement also exposed the limits of correction by distributed authorities. They could stop a feud without restoring everything it had damaged. The keeper was cleared, yet standing remained damaged; poor households had lost work that the settlement did not fully restore.
+
+## What families inherited from the returned road
+
+Around [[Spoilers/Events/The Road That Returned|the Road That Returned]], families inherited cut paths, numbered stones, guide claims, and abandoned depots. They put these to use as warning routes and defensive stores. Control of the old works also gave families leverage over access to water, work, and refuge.
+
+The meaning of that inheritance remains disputed. Some family recitations say a dimna taught an invader to construct the means of its own defeat. Road workers credit the people who learned, carried supplies, and coordinated. Ju'onai audits preserve the unpaid claims and abandoned works.
+
+## Where the system fails—and what delvers encounter
+
+Family government fails when territorial rights become ownership of people, when one family monopolizes a shared windtrap, or when a risk pool refuses people who cannot pay in advance. It fails when a prophetic inference is treated as an accusation, or collective defense prevents exit.
+
+Other failures attract less notice. Wealthy families can absorb accidents from their own reserves while poor households must sell future labor to survive the same losses.
+
+The Luck Crown also contains places where dungeon exploration meets these unresolved claims: buried Ring levels, sealed catchments, forgotten family paths, old windtrap foundations, and dimna shrines. A ruin may lie beneath several territories. An old compact recovered there may change who has water rights.
+
+Even an apparently impossible succession of accidents leaves several explanations open. Machinery may be failing, a human may be interfering, a territorial Beast may be acting, or all three may be involved. Delvers cannot settle responsibility by declaring the luckiest survivor guilty.
+
+A dungeon or campaign may adopt the story of a bearer who leaves the city. That story remains only in [[Spoilers/Reference/Story Seeds|Story Seeds]]; this polity note does not establish that it happened.
 
 ## Unresolved
 
