@@ -53,7 +53,7 @@ Start with [[World/Magic and Miracles#When futures crowd|When futures crowd]], t
 - [[Sources/The Three Orders at Sunwall|The Three Orders at Sunwall]] — the steward responsible for a wall under load eliminates two strategic openings.
 - [[Sources/The Narrow Shield|The Narrow Shield]] — a temporary command saves the central refuges while giving up protection of the outer road and fields.
 - [[Sources/The Empty Bridge Vigil|The Empty Bridge Vigil]] — divine protection keeps a bridge standing, but river work redirects evacuees toward shelters whose protection has been withdrawn.
-- [[Sources/At the Second Gate|At the Second Gate]] — you are escorting grain to Reed Ward and carrying a sealed report comparing accounts of the delivery. The report has yet to reach its recipient; the first gate bell is about to sound.
+- [[Sources/At the Second Gate|At the Second Gate]] — you are escorting grain to Reed Ward and carrying a sealed report comparing two cargo gates. The report has yet to reach its recipient; the first gate bell is about to sound.
 
 ### Other crossings
 
