@@ -18,105 +18,135 @@ tags:
 
 # The Alliance
 
-The Alliance is the underdefined compact that makes papsenai agricultural capacity and external protection part of the same regional bargain. The seed places the [[Spoilers/Polities/Shamanism - Papsenai|papsenai]] centrally within it and describes a nearby, technologically oriented [[Spoilers/Polities/Intuition - Unresolved|Intuition polity]] as protector and supply base. It does not provide a final membership list, capital, charter, court, currency, or founding date.
+The Alliance is a regional agreement through which participating tribes and polities exchange supplies, services, and protection. Agricultural communities contribute food and the work needed to store and move it. Other participants commit protection, technical help, or supplies of their own. Each contribution has agreed limits and a promised return.
 
-The adopted institution is therefore narrow: participating tribes and polities exchange scheduled goods, passage, information, technical access, refuge, and protection through revocable delegates. The Alliance coordinates authorities that remain local. It is not a universal Kalsan government, an empire concealed behind trade, or proof that every community between two members is represented.
+The seed places the [[Spoilers/Polities/Shamanism - Papsenai|papsenai]] at the center of this arrangement. It describes a nearby, technologically oriented [[Spoilers/Polities/Intuition - Unresolved|Intuition polity]] as their protector and supply base. It leaves the Alliance's membership, capital, charter, court, currency, and founding date unspecified.
 
-This is a **provisional institutional model**, not part of the vault's parity claim. The papsenai side has material pressure and a bounded procedure, but the Intuition-side protector still lacks a canonical polity owner. The compact remains adopted-candidate until that counterparty can enter the bargain as an institution rather than a blank source promise.
+The institution developed here is a **provisional institutional model** with adopted-candidate status. It is not part of the vault's parity claim. The papsenai side has defined material needs and a limited procedure for making commitments, but the Intuition-side protector still lacks a canonical polity note that establishes how it works. Until that participant has institutions capable of entering the bargain, part of the Alliance rests on a source promise awaiting development.
 
-## The compact and its owners
+Within this model, members use delegates whom they can recall to arrange scheduled goods, passage, information, technical access, refuge, and protection. Local authorities retain control of their own affairs. The Alliance is neither a government for all Kalsa nor a trading empire in disguise. A community between two members is not necessarily represented by either of them.
 
-Each participant enters through whatever authority can make a credible commitment on its side: a papsenai tribe, a polity council, a ruler, a route community, or another body not yet named. A valid mandate identifies what the delegate may promise, what remains local, how long the mandate lasts, and who can recall it. A delegate can bargain over a contribution without acquiring the field, household, temple, or workshop that supplies it.
+## Who can promise what
 
-Alliance councils own comparison and coordination. They can record offers, match need to capacity, schedule routes, recognize receipts, call the protection promised by a member, and hear disputes within the compact. They cannot rewrite Shamanism, choose an Intuition government, allocate tribal land, declare universal relic title, or turn a cult covenant into public law.
+A participant must enter through a body able to make a credible commitment: a papsenai tribe, a polity council, a ruler, a route community, or another body still to be named. Its delegate receives a mandate stating what they may promise, which decisions remain local, how long their authority lasts, and who can recall them.
 
-Authority is nested because consequence is nested. Households report needs and capacity through their local body. Tribes decide what surplus and labor they can commit. Polity delegates reconcile several local commitments. Alliance delegates negotiate only the exposed boundary. A higher council may carry more information; it does not know a field, storm shelter, or machine better merely because its table is larger.
+That distinction matters to the people supplying the contribution. A delegate who promises grain does not thereby acquire the field or household that grows it. The same limit applies to temples and workshops.
 
-## Material base
+Commitments pass through several levels. Households report needs and capacity to their local body. Tribes decide how much surplus and labor they can offer. Polity delegates reconcile commitments from several local bodies. Alliance delegates then negotiate the goods, services, and obligations those bodies have authorized them to offer. Information may travel upward without transferring control of the field, storm shelter, or machine it describes.
 
-The papsenai contribution begins with agriculture: food, seed reserve support, livestock or other farm output where locally produced, storage, forecasted harvest windows, transport labor, shelter, and route provisioning. The seed supports large and profitable agricultural capacity, not an infinite granary. [[Spoilers/Foundations/Kaos|Kaos]] can improve reachable outcomes but cannot create matter or energy, and competing interventions consume finite magical potential.
+Alliance councils compare offers and coordinate delivery. They can match needs to available capacity, schedule routes, recognize receipts, call on a member to provide its promised protection, and hear disputes under the agreement. They cannot rewrite Shamanism, choose the Intuition government, allocate tribal land, declare ownership of every relic, or make a cult covenant binding public law.
 
-The Intuition-side source strand promises technological orientation, supply, and protection. Until that polity is designed, the Alliance cannot specify who commands its forces, owns its workshops, sets prices, or speaks for its population. Other contributions can include escorts, scouts, tools, repair crews, transport, refuge, records, access to a route, or a named service. They exist only where a participant actually commits them.
+## What supports the bargain
 
-The compact depends on storehouses, roads and paths, pack capacity, guarded halts, messengers, witnesses, measures recognizable at both ends, and people able to preserve goods through delay. No universal coin or precise common measure is adopted. [[Spoilers/Institutions/The Potential Economy|Magical potential]] is not a substitute currency that Alliance clerks can weigh beside grain.
+Papsenai agriculture supplies more than grain. Contributions can include food, support for seed reserves, livestock and other locally produced farm goods, storage, expected harvest windows, transport labor, shelter, and provisions along a route.
 
-## Ordinary collection and exchange
+The seed describes large, profitable agricultural capacity. That capacity still has limits. [[Spoilers/Foundations/Kaos|Kaos]] can help bring about a reachable outcome, but it creates neither matter nor energy. Competing magical interventions draw on finite potential. A promising harvest is not an inexhaustible storehouse.
 
-Before a scheduled contribution, the local participant establishes what exists: expected harvest, losses, subsistence requirement, seed reserve, prior promises, storage condition, transport capacity, and households already carrying exceptional burdens. Only the remainder can be called negotiable surplus without consuming the next season.
+The Intuition source material promises technology, supply, and protection. It does not yet establish who commands the forces, owns the workshops, sets prices, or represents the population. Those questions must remain open until the polity itself is developed.
 
-The ordinary path is:
+Any participant may also commit escorts, scouts, tools, repair crews, transport, refuge, records, access to a route, or another named service. The Alliance can use only what someone has actually agreed to provide.
 
-1. local bodies assess capacity and preserve household claims;
-2. the authorized delegate states a bounded contribution and delivery interval;
-3. the receiving party confirms destination, transport responsibility, condition, and the protection or service owed in return;
-4. collectors take from the named stores rather than inventing household levies at the roadside;
-5. both ends issue a receipt recording quantity or recognizable lot, condition, delay, losses, witnesses, and obligation satisfied;
-6. shortfall, spoilage, attack, and disputed measure enter review instead of silently becoming inherited debt.
+Delivering these promises requires storehouses, roads and paths, pack capacity, guarded stopping places, messengers, witnesses, and people who can preserve goods when journeys run late. Sender and receiver also need measures they both recognize. No universal coin or precise common measure has been adopted. [[Spoilers/Institutions/The Potential Economy|Magical potential]] is not an alternative currency for clerks to weigh against grain.
 
-Collection is not taxation merely because it is regular, nor is it voluntary merely because a delegate signed. The question is whether the signatory had a mandate, whether households retained subsistence, and whether the promised return remains real. Local authorities can exploit the Alliance by hiding stores or shifting burdens downward. Alliance agents can exploit locals by treating estimates as debts and emergency need as permanent access.
+## From household stores to a delivered contribution
 
-## Protection and supply
+Before promising a scheduled contribution, the local participant must establish what it can afford to send. Its assessment includes the expected harvest and losses, household subsistence, seed reserves, earlier promises, storage condition, transport capacity, and households already carrying exceptional burdens. Only what remains can be treated as negotiable surplus without consuming the next season.
 
-Protection can mean escorted routes, intelligence about threats, defensive specialists, access to shelter, recovery of a captured convoy, reinforcement of a threatened settlement, or credible deterrence. It need not mean occupation or a single standing army. The precise form is stated in the compact because “protection” otherwise expands until the protector governs whatever it guards.
+The ordinary exchange follows six steps:
 
-The early source depicts the papsenai as seeking outside protection. That does not establish natural passivity or military incapacity. Agricultural labor, local defense, the [[Spoilers/Institutions/Stormshield Circles|stormshield]], defended stores, and control of supplies remain papsenai capacities. The Alliance bargain lets communities specialize without requiring every tribe to maintain the same technology or campaign force.
+1. **Assess locally.** Local bodies establish capacity and preserve household claims.
+2. **Make a bounded offer.** An authorized delegate states the contribution and the interval in which it will be delivered.
+3. **Agree on the return and the journey.** The receiving party confirms the destination, who handles transport, the required condition of the goods, and the protection or service owed in exchange.
+4. **Collect from the agreed source.** Collectors take goods from named stores. They cannot invent household levies at the roadside.
+5. **Record delivery at both ends.** Each receipt identifies a quantity or recognizable lot, its condition, delays, losses, witnesses, and the obligation the delivery satisfied.
+6. **Review failures.** Shortfalls, spoilage, attacks, and disagreements over measures go to review. They do not silently become debts passed to the next generation.
 
-A protection commitment names the people, place, route, or interval covered; the warning that activates it; who commands responders while deployed; what provision they may draw; and when they must leave. Emergency pursuit may cross a boundary to meet an immediate attack, but it does not create permanent jurisdiction after the danger ends.
+Regular collection alone does not establish that the arrangement is taxation. A delegate's signature alone does not establish that it is voluntary. The practical questions are whether the delegate had authority to promise the goods, whether households kept enough to live on, and whether the promised return is still being provided.
 
-## Appeals, arrears, and exit
+Both levels can abuse the arrangement. Local authorities may hide stores or push burdens onto households with less power. Alliance agents may turn harvest estimates into fixed debts or treat one emergency as permission to draw on local supplies indefinitely.
 
-An affected household first challenges the assessment through the local body that supplied it. A tribe or member polity can then send the disputed receipt, mandate, and evidence to an Alliance review attended by parties who did not profit directly from the collection. The review can correct a ledger, return goods still held, reduce a later contribution, require the promised protection, or recognize that a local authority—not the Alliance—owes the household remedy.
+## What protection commits a member to do
 
-Appeal does not always suspend an immediate convoy or defense call. When action continues, the actor records what cannot be reversed and what compensation remains possible. Otherwise urgency becomes a solvent that removes every right precisely when it matters.
+Protection may consist of route escorts, warnings about threats, defensive specialists, shelter, recovery of a captured convoy, reinforcements for a threatened settlement, or a credible deterrent. It does not require one standing army or occupation. The agreement must specify the service: an undefined promise of “protection” can become a protector's claim to govern everything it guards.
 
-Arrears are claims under a named compact, not stains on a bloodline. A failed harvest, destroyed route, withheld escort, fraudulent receipt, or changed mandate can alter who owes what. Reputation is derived from those records; it is not land title or proof that an entire people is untrustworthy.
+Each protection commitment names:
 
-A participant may exit by recalling its delegate and giving the notice its live commitments require. Exit must settle goods already in transit, people stationed under safe conduct, shared stores, outstanding protection, and any equipment or records held in custody. It does not require surrender of land, children, gods, or future harvests. Dependence can still make exit costly: a tribe may lose escorts, a protector may lose food security, and a settlement along the route may lose traffic without ever having held a vote. Those costs must be named rather than used to claim exit was never real.
+- the people, place, route, or period covered;
+- the warning that calls the protection into effect;
+- who commands responders during deployment;
+- which provisions responders may draw;
+- when they must leave.
 
-## Marginal households and unequal leverage
+Responders may cross a boundary in emergency pursuit to meet an immediate attack. That action gives them no permanent jurisdiction once the danger ends.
 
-Alliance procedure is easiest for households already legible to a tribe: established land users with stores, witnesses, kin, and a delegate who knows their names. Tenants, migrants, mixed households, seasonal laborers, displaced families, nonmember settlements along a route, disabled workers, and the households of exhausted shield shamans can supply the system while disappearing from its account.
+The early source describes the papsenai as seeking outside protection. It does not establish that they are naturally passive or unable to fight. Their own capacities include agricultural labor, local defense, the [[Spoilers/Institutions/Stormshield Circles|stormshield]], defended stores, and control of supplies. The bargain allows specialization: each tribe need not maintain the same technology or campaign force to participate.
 
-Collectors therefore need to record the local source of goods and labor, not only the member that delivered them. Review bodies need testimony from carriers, growers, shelter keepers, and people displaced by routes. This does not grant the Alliance direct authority over every household. It prevents a member from laundering local coercion into a clean interstate receipt.
+## Challenging a demand, settling debts, and leaving
 
-Wealth accumulates around storage, transport, information, and delegation. A household able to wait can buy spoiled or distressed goods cheaply. A route-holder can profit from both protection and danger. Long-serving delegates can turn expertise into an unofficial hereditary office. Young adults inherit obligations negotiated before they could speak; elders and disabled workers may control records while depending on others for material access. These are recurring class pressures, not a settled caste system.
+A household that disputes an assessment first challenges it through the local body responsible. A tribe or member polity can then bring the receipt, the delegate's mandate, and supporting evidence to Alliance review. Parties who did not profit directly from the collection attend that review.
 
-## Gods, technology, and relics
+The available remedies address different kinds of failure. Reviewers can correct the ledger, return goods still held, reduce a later contribution, or require delivery of the promised protection. They can also find that the local authority owes the household a remedy, rather than the Alliance.
 
-The Alliance has no adopted common religion. A [[Spoilers/Institutions/God-Cult Covenants|god-cult]] may witness an oath, host a store, shelter travellers, provide healing, or bind its own adherents. It does not thereby bind nonadherents or own the compact. Divine miracles consume routed potential and can attract [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|thaumavores]]; an Alliance promise cannot make that flow unlimited.
+An appeal does not always stop an immediate convoy or defense call. If action proceeds, whoever acts must record what cannot be undone and what compensation remains possible. Urgency cannot be allowed to remove the record of a claim along with the goods.
 
-The Alliance can contract a [[Spoilers/Institutions/The Techpriesthoods|Techpriesthood]] to inspect a store, road, waterwork, vehicle, or buried system. Payment and safe conduct purchase bounded service capacity, not guaranteed success or political obedience. A host community retains claims grounded in land and dependence, while the practitioner retains operational authority at the named machine.
+Arrears belong to a named agreement. They do not attach guilt to a bloodline. A failed harvest, destroyed route, withheld escort, fraudulent receipt, or changed mandate may change who owes what. Records can inform a participant's reputation; they do not confer land title or establish that an entire people cannot be trusted.
 
-Relics remain under [[Spoilers/Institutions/Relic Custody|Relic Custody]]. An Alliance sponsor may fund recovery, carry a custody record, or negotiate shared use. It cannot turn sponsorship into universal title. A component removed from a papsenai ruin may be physically held by an Intuition workshop while its output, site, and installation claims remain elsewhere.
+A member can leave by recalling its delegate and giving whatever notice its current commitments require. Departure must account for goods already in transit, people stationed under safe conduct, shared stores, protection still owed, and equipment or records held in custody. It cannot require the surrender of land, children, gods, or future harvests.
 
-## Design pressure from the shield levy winter
+The right to leave does not remove dependence. A tribe may lose escorts; a protector may lose food security. A settlement along the route may lose traffic despite never having had a vote. These costs need to be acknowledged without treating them as proof that exit was never possible.
 
-[[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] predates any demonstrated existence of the present Alliance. The event does not establish that an Alliance council, compact, delegate, or the unresolved Intuition polity participated. This adopted-candidate institution links it only as a historical pressure that a credible later bargain must answer.
+## Whose contribution gets counted
 
-Accordingly, the proposed compact distinguishes household subsistence and seed reserves from negotiable surplus, pairs a contribution receipt with the protection or return promised, and keeps shield workers outside ordinary levy. Emergency action may proceed before full review, but the actor records goods and capacity taken, the named beneficiary, and the remedy still possible. These are design requirements for the candidate Alliance, not facts about its wartime existence.
+The procedure works most easily for established land users whose tribe recognizes their stores, witnesses, kin, and names. Other people may supply goods and labor without appearing in the account: tenants, migrants, mixed households, seasonal laborers, displaced families, disabled workers, households of exhausted shield shamans, and nonmember settlements along a route.
 
-The pressure is reciprocal. A contributor cannot use reserve language to conceal every usable surplus while another party bears the promised defense, and a protector cannot consume the food and shield capacity that make later cooperation possible. Exact membership, founding chronology, and the Intuition-side authority remain unresolved.
+Collectors therefore need to identify where goods and labor came from locally, as well as which member delivered them. Reviewers need to hear from carriers, growers, shelter keepers, and people displaced by routes. Hearing those claims gives the Alliance no general authority over every household. It makes it harder for a member to present coerced local contributions as an untroubled exchange between polities.
 
-## Hostile cases and fracture
+Control of storage, transport, information, and delegation also creates opportunities to accumulate wealth and influence. A household that can afford to wait may buy spoiled goods or goods sold under distress cheaply. A route-holder can profit from both danger and protection. Delegates who serve for years may use their expertise to make an office hereditary in practice.
 
-- A marginal household is assessed by its tribe, then charged again by Alliance collectors who do not recognize the first receipt.
-- A protector fails to arrive but insists that the agricultural contribution was owed independently of performance.
-- A papsenai delegate reports a healthy surplus by excluding storm damage borne by an outlying settlement.
-- A convoy occupies a route community's wells under emergency authority and leaves no remedy because that community is not a member.
-- A temple conditions access to an Alliance shelter on inherited binding.
-- A Techpriest condemns a transport relic whose political sponsor has already promised its cargo.
-- A member threatens exit while holding shared stores, visiting workers, or custody records needed by everyone else.
-- An Alliance council turns repeated expertise into permanent office and begins treating local mandates as ceremony.
+Age and dependence complicate this further. Young adults inherit obligations negotiated before they could speak. Elders and disabled workers may control important records while relying on others to reach the goods and resources they need. These are recurring pressures of class and access, not an adopted caste system.
 
-Fracture begins when the reciprocal bargain stops being inspectable. Members can demand new witnesses, suspend a route, recall delegates, refuse a collection, form a narrower compact, or exit. Protection against fraud does not justify a central authority that can permanently seize local stores, land, or succession.
+## Agreements with cults, practitioners, and relic holders
+
+The Alliance has no adopted common religion. A [[Spoilers/Institutions/God-Cult Covenants|god-cult]] can witness an oath, host a store, shelter travellers, heal people, or bind its own adherents. Doing so gives it neither ownership of the compact nor authority to bind nonadherents.
+
+Divine help also has practical limits. Miracles consume potential routed through divine relations and can attract [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|thaumavores]]. An Alliance promise cannot make that supply unlimited.
+
+A [[Spoilers/Institutions/The Techpriesthoods|Techpriesthood]] may be hired to inspect a store, road, waterwork, vehicle, or buried system. Payment and safe conduct secure a defined amount of service, not guaranteed success or political obedience. The host community retains claims based on its land and dependence on the system. The practitioner retains operational authority at the machine named in the agreement.
+
+[[Spoilers/Institutions/Relic Custody|Relic Custody]] continues to govern relic claims. An Alliance sponsor can fund recovery, carry a custody record, or negotiate shared use without becoming the universal owner. For example, an Intuition workshop may physically hold a component removed from a papsenai ruin while claims over its output, original site, and installation remain with others.
+
+## What the Shield Levy Winter requires this model to answer
+
+[[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] occurred before any demonstrated existence of the present Alliance. There is no established participation by an Alliance council, compact, delegate, or the unresolved Intuition polity. The event matters here as a historical problem a credible later agreement must answer.
+
+For that reason, the candidate compact separates household subsistence and seed reserves from negotiable surplus. It records a contribution together with the protection or return promised for it, and places shield workers outside ordinary levy. If an emergency proceeds before full review, the actor must record the goods and capacity taken, who benefits, and what remedy remains possible.
+
+These are requirements for designing the candidate Alliance. They are not claims that it operated during the war.
+
+The obligations run both ways. A contributor cannot label every usable surplus a reserve while another party carries out the promised defense. A protector cannot consume the food and shield capacity on which future cooperation depends. The event does not resolve the Alliance's membership, founding chronology, or Intuition-side authority.
+
+## How the bargain can fail
+
+The model must withstand cases such as these:
+
+- A tribe assesses a marginal household, then Alliance collectors charge it again because they do not recognize the first receipt.
+- A protector fails to arrive but demands the agricultural contribution as though its own performance made no difference.
+- A papsenai delegate claims a healthy surplus by leaving an outlying settlement's storm damage out of the assessment.
+- A convoy takes over a route community's wells during an emergency, then offers no remedy because the community is not a member.
+- A temple requires inherited binding as a condition of entering an Alliance shelter.
+- A Techpriest condemns a transport relic after its political sponsor has already promised the cargo it is meant to carry.
+- A member threatens to leave while holding shared stores, visiting workers, or custody records that everyone else needs.
+- An Alliance council converts repeated service and expertise into permanent office, then treats local mandates as a formality.
+
+The Alliance begins to fracture when participants can no longer inspect what was promised, delivered, taken, or withheld. Members may demand new witnesses, suspend a route, recall delegates, refuse collection, form a smaller compact, or leave. Preventing fraud does not authorize a central body to seize local stores, land, or succession permanently.
 
 ## Dungeon consequences
 
-Alliance dungeons are logistical and political seams. A buried store may contain seed reserved under an old receipt. A Crown route may be the only safe path between a papsenai harvest and an allied settlement. A missing convoy may have entered a ruin to avoid attack and found an active relic, sealed inhabitants, or a god-cult archive whose claim predates the compact.
+Alliance adventures arise where routes, stores, protection, and competing claims meet. A buried store may hold seed reserved under an old receipt. A Crown route may be the only safe passage between a papsenai harvest and an allied settlement. A convoy fleeing an attack may enter a ruin and encounter an active relic, sealed inhabitants, or a god-cult archive with a claim older than the compact.
 
-Adventurers may recover paired ledgers, reopen a passage, escort an appeal witness, find goods claimed as arrears, identify sabotage, or retrieve a component held under divided custody. Their sponsor does not own every result. The site holder, recoverers, dependent communities, Techpriest operators, cult claimants, and possible inhabitants may all retain separate authority.
+Adventurers may be hired to recover paired ledgers, reopen a passage, escort an appeal witness, locate goods claimed as arrears, identify sabotage, or retrieve a component whose custody is divided. Sponsoring the expedition does not give the employer authority over everything it finds. The site holder, recoverers, dependent communities, Techpriest operators, cult claimants, and possible inhabitants may each retain distinct authority.
 
-The most consequential dungeon find may be evidence: proof that a contribution arrived, that a protector abandoned its post, that an emergency seizure became private wealth, or that the Alliance route was built through a community never admitted to the bargain.
+Evidence may matter more than the recovered cargo. A record could prove that a contribution arrived, a protector abandoned its post, an emergency seizure enriched someone privately, or an Alliance route passed through a community never admitted to the bargain.
 
 ## Unresolved
 
