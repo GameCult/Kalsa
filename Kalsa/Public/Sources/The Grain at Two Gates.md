@@ -13,44 +13,25 @@ tags:
 
 # The Grain at Two Gates
 
-Merchants still copy this delivery record when a promised road becomes crowded
-with people acting on good information.
+A Papsenai grain delivery reached its promised store through a different gate from the one a prophetic report had recommended. People acting on the report had crowded the recommended route. Merchants still copy the delivery record when good information brings too many people onto a promised road.
 
-## The promise
+## Choosing the gate
 
-A Papsenai working group named the grain it would carry to a city ward store.
-Its record names the households and labor sustaining the work, the recipient,
-the conditions of release, and the seed and subsistence reserve excluded from
-the sale.
+The Papsenai working group had committed a specified quantity of grain to a city ward store. Its delivery record named the recipient, the households and labor supporting the work, and the conditions under which the grain would be released. Before departure, the group also set aside seed and grain for its own subsistence. That reserve was excluded from the sale.
 
-The ward's buyers paid a Prophetic House to compare two cargo gates. Its report
-favored one gate during a stated interval, so long as inspection, porter
-availability, traffic, weather, and the expected responses remained as
-briefed. Copies went to the carriers, store, guarantors, and officials needed
-to receive the load.
+The ward's buyers hired a Prophetic House to compare two cargo gates. The house favored one gate for a stated interval, provided conditions remained as described in its briefing: inspections, available porters, traffic, weather, and people's expected responses all mattered to the comparison. The carriers, store, guarantors, and officials needed to receive the load each received copies.
 
-## The first gate fills
+## Changing the route
 
-Levy officers sent extra staff to count the expected grain. Other buyers sent
-carts in case part of the load became available. Porters followed the likely
-work. The favored gate accumulated inspection, traffic, bargaining, and delay
-because the report had favored it.
+Once the report circulated, levy officers assigned extra staff to count the expected grain. Other buyers sent carts in case some of the load became available, and porters went where they expected work. These responses brought more inspection, traffic, bargaining, and delay to the favored gate.
 
-Papsenai carriers felt the strain gathering around the promised grain. They
-used the second gate. The named store received enough to meet the immediate
-shortfall, though some grain spoiled and the longer road consumed labor and
-cart time not priced into the first bargain.
+The Papsenai carriers felt strain gathering around the grain they had promised and took it through the second gate. The store received enough to cover its immediate shortfall. Some grain spoiled, however, and the longer route took labor and cart time that the original bargain had not paid for.
 
-## The copied correction
+## Settling the delivery
 
-The settlement keeps both the house report and the carrier's route change. It
-does not call the report false. The conditions under which it had compared the
-gates no longer held after its recipients moved.
+The settlement preserved both the house's report and the carriers' decision to change route. It did not declare the report false: the comparison depended on conditions that had changed when people acted on it.
 
-The buyers paid for accepted grain and extra road labor. The surviving copies
-divide the spoilage claim. The working group kept the reserve it had excluded
-before departure, and the first gate's unused inspection table remained on the
-ward account.
+The buyers paid for the grain they accepted and for the extra road labor. The surviving copies divide the spoilage claim. The working group retained the seed and subsistence reserve it had excluded from the sale, while the ward's account still carried the unused inspection table at the first gate.
 
 Return to [[../World/Magic and Miracles|Magic and Miracles]] or
 [[../index|Kalsa]].

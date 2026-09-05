@@ -13,47 +13,29 @@ tags:
 
 # The Road That Returned
 
-Ju'onai road books and Selza'a recitations agree that an imperial office tried
-for generations to keep one ascent to the Luck Crown. Agreement deteriorates
-after that.
+For generations, an imperial office tried to establish and keep a road up to the Luck Crown. Ju'onai road books and Selza'a recitations agree on that much. The office's records describe repeated attempts to make the route workable. Plateau accounts offer competing explanations of resistance, alongside a displaced household's account of what the defense cost it.
 
-## From a road-office copy
+## The road-office account
 
-The first office found a narrow route governed by fog, scattered water, local
-guides, and warning paths. It cut a wider track, numbered the stones, paid
-guides, and placed stores so that one lost depot would not close the ascent.
+A surviving office copy describes the original route as narrow and dependent on local guides. Fog, scattered water sources, and paths used to carry warnings shaped travel along it. The first office widened the track, numbered its stones, hired guides, and distributed supplies among depots so that losing one would not close the ascent.
 
-Later surveyors knew why earlier approaches had failed. They rotated guides,
-split the stores, changed marching intervals, and opened detours. Their readers
-marked the joins by which food, warning, and resistance moved. Revised reports
-sit beside each revised road plan.
+Later surveyors understood why previous approaches had failed and changed their plans accordingly. They rotated guides, divided supplies, adjusted the intervals between marches, and opened detours. Their readers—people who examined how systems worked—identified the connections through which food, warnings, and resistance traveled. Each revised road plan has a revised report beside it.
 
-The ascent was reached. The permanent office was not kept. The final inventory
-lists abandoned stores, guide wages in dispute, damaged catchments, and the
-cost of another season's attempt.
+These efforts reached the ascent, but the office could not maintain a permanent presence. Its final inventory records abandoned supplies, disputed guide wages, damaged water catchments, and the cost of trying again the following season.
 
-## From three plateau recitations
+## Three accounts from the plateau
 
-One family says its dimna let the strangers number the stones so every defender
-could carry the same warning.
+One family tells this as a story of dimna protection and inherited fortune. Its recitation credits its dimna with turning the road works to the defenders' advantage: it allowed the strangers to number the stones so that every defender could use the same marks to carry warnings.
 
-A guide lineage gives no credit to a dimna. Its recitation names households
-that met through imperial work, learned one another's paths, and emptied the
-depots before the next force arrived.
+A guide lineage credits households instead. Its account names people who met through imperial work, learned one another's paths, and emptied the depots before the next force arrived. It gives no credit to a dimna.
 
-A displaced household preserves a harsher account. The defense compact closed
-its water path, took its labor, and later called that loss the fortune of the
-city.
+A displaced household remembers what the defense compact, the agreement organizing the defense, demanded of it. The compact closed its water path and took its labor, then later called that loss the fortune of the city.
 
-## What remains on the road
+## What travelers still find
 
-The cut paths still shorten some journeys. Numbered stones can be warning
-marks, survey evidence, or an old imperial claim. A depot opened by travelers
-may contain unpaid work records or expose a refuge that survived because the
-road was left alone.
+The cut paths still make some journeys shorter. A numbered stone may serve as a warning mark or evidence of an old survey; it may also be read as an imperial claim. Opening a depot can uncover records of unpaid work. It can also expose a refuge that survived because the road was left alone.
 
-The final depot contains guide claims no office paid. One numbered stone above
-it has been turned to face the plateau.
+The final depot still holds guide claims that no office paid. Above it, one numbered stone has been turned to face the plateau.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]] or
 [[../index|Kalsa]].

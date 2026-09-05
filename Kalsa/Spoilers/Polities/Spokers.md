@@ -13,22 +13,24 @@ tags:
 
 # Spokers
 
-Spokers descend from embodied people who lived in the Ark's Spokes after simulated Posthumans withdrew from ordinary life. They remained close to the hub's technical systems and lower-gravity environments, though embodied Ring-dwellers feared moving far upward through the Spokes.
+Spokers are descendants of people who lived in physical bodies in the Ark's Spokes after the Posthumans withdrew into simulated life. The Spokes connected the inhabited Rings to the central hub. Living there kept Spokers near the hub's technical systems and in lower gravity. Embodied Ring-dwellers, meanwhile, feared travelling far upward through the Spokes.
 
-Prometheus excluded Spokers from his sacred evolutionary program, declaring them polluted and unfit to worship or receive enlightenment. They therefore did not receive an engineered Kaos strain. This history makes them generally Null at the Fall but does not make them identical to the [[Spoilers/Polities/Null and Control Descendants|Control population]].
+Prometheus barred Spokers from his sacred evolutionary program. He declared them polluted and unfit to worship or receive enlightenment, and gave them no engineered Kaos strain. At the Fall, they were therefore generally Null: they had no expressed Kaos Gift. They nevertheless had a separate history from the [[Spoilers/Polities/Null and Control Descendants|Control population]]; sharing a magical condition did not make them the same people.
 
-Spokers helped rebels from the Luck Ring sever the Rings from Prometheus. After the Fall, their technical knowledge let them dominate many Children of Fire and perform feats later remembered as miracles. As manufacture failed and expertise fragmented, relic work acquired religious form and contributed to the rise of transborder Techpriesthoods.
+## The Fall and technical inheritance
 
-## Adopted boundaries
+Spokers helped rebels from the Luck Ring sever the Rings from Prometheus. After the Fall, their technical knowledge gave them power over many Children of Fire. They could perform feats that later generations remembered as miracles.
 
-- “Spoker” is an Ark-historical identity. Its present meaning may be ancestry, culture, profession, slur, or political claim depending on place; this remains to be developed.
-- Spokers did not universally retain technical understanding.
-- Techpriesthoods may carry Spoker inheritance without being ethnically or politically Spoker.
+That knowledge did not survive everywhere or remain intact. As manufacture failed and expertise became fragmented, work on surviving relics took on religious forms. These practices helped give rise to Techpriesthoods operating across political borders. A Techpriesthood may inherit Spoker practices without its members being ethnically Spoker or sharing a Spoker political identity.
+
+## What the name means
+
+“Spoker” identifies a people through their history aboard the Ark. What the name means in the present remains undeveloped. Depending on the place, it may describe ancestry, culture, or profession, serve as a slur, or support a political claim. It does not establish that someone still understands Ark technology.
 
 ## Unresolved
 
-- Spoker communities, languages, bodies, and political institutions after the Fall.
-- Their role in the War of the Magi and current relations with Crown Cities.
+- What Spoker communities, languages, bodies, and political institutions became after the Fall.
+- What role Spokers played in the War of the Magi, and how they now relate to the Crown Cities.
 - Which Techpriesthoods descend from Spoker practice and which arose independently.
 - Whether the severed Spokes or hub landed as separate dungeon complexes.
 
