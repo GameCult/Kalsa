@@ -14,119 +14,172 @@ tags:
 
 # Saxfoldi Households
 
-Saxfoldi households turn Sarxe communal sensitivity into a livable social body. They organize food, shelter, work, care, movement, privacy, membership, and representation within and around mobile [[Spoilers/Polities/Channeling - Sarxe|Saxfoldi]]. A household can include kin, partners, children, adoptees, friends, dependents, guests, refugees, and people joined by shared work. It is not a hive, a magical organism, or proof that every member experiences the same thing.
+A Saxfoldi household is a group of people who organize daily life together within or around mobile [[Spoilers/Polities/Channeling - Sarxe|Saxfoldi]]. Members arrange food, shelter, work, care, travel, privacy, and representation. They also decide how people join, leave, and keep obligations to one another when the group changes.
 
-This note owns household procedure. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own Channeling's active-flow perception and containment. The wider Sarxe polity owns route and historical decisions. [[Spoilers/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] owns emergency admission, safe passage, separation, and recovery across households.
+Households can include kin, partners, children, adoptees, friends, dependents, guests, refugees, and people brought together by work. Sarxe communal sensitivity helps them coordinate, but it does not make them a hive or a magical organism. Members remain separate people, and they do not all experience the same thing.
 
-## Proximity and bounded awareness
+This note defines household procedures. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] explain how Channeling perceives and contains active flows. The wider Sarxe polity owns route decisions and history. [[Spoilers/Institutions/Ji'esti Flight and Refuge|Ji'esti Flight and Refuge]] covers emergency admission, safe passage, separation, and recovery between households.
 
-Sarxe coordination is high-bandwidth because people trained around Channeling can respond rapidly to active local flows and to one another's embodied cues. This does not create universal telepathy. The household distinguishes at least four things:
+## What members can sense
 
-- an environmental pressure several people can observe;
-- a deliberate signal offered for coordination;
-- an inference about another person's condition or intention;
-- information the person has actually chosen to disclose.
+People trained around Channeling can react quickly to active local flows and to one another's bodily cues. Channeling lets them feel how a flow is about to continue and respond as it crosses a local boundary. This supports close coordination; it does not let everyone read everyone else's mind.
 
-Only the last is testimony about an inner state. A flinch can justify stopping dangerous work. It cannot prove consent, guilt, desire, or the cause of distress. Shared magical attention is strongest around active local influence and weakest where nothing crosses the boundary. Distance, barriers, exhaustion, weak expression, competing flows, deliberate restraint, and lack of shared practice all limit it.
+Household practice distinguishes four kinds of information:
 
-Households teach members to state the boundary of what they sensed: where, when, through which activity, and with what uncertainty. “Everyone felt it” is not a verdict when several people copied one respected worker's reaction or experienced the same external force.
+- **Shared observation:** several people notice the same environmental pressure.
+- **An offered signal:** someone deliberately communicates something to help others coordinate.
+- **An inference:** someone interprets a cue as evidence of another person's condition or intention.
+- **A disclosure:** a person chooses to say what they are experiencing.
 
-## Bodily consent and internal privacy
+Only disclosure gives testimony about a person's inner state. A flinch may be enough reason to stop dangerous work. It cannot establish consent, guilt, desire, or why someone is distressed.
 
-No household decision grants general access to a member's body. Touch, medical care, magical containment, entry into sleeping space, carrying an immobile person, and participation in a close coordination exercise each require consent where the person can give it. Consent to one act does not silently extend to the next. A person can withdraw during shared work; the household then owns the safe stop and redistribution of labor.
+Shared magical attention works best around active local influence. It reveals least where nothing crosses the boundary being attended to. Distance, barriers, exhaustion, weak magical expression, competing flows, deliberate restraint, and unfamiliarity with one another's practices all limit what members can perceive.
 
-Immediate danger can justify catching a falling body, moving an unconscious person from a flood, or containing an active magical spill. The actor records the necessity afterward and returns control as soon as the danger ends. Emergency handling does not create a permanent caregiving claim, debt, household membership, or right to repeat contact.
+Members therefore learn to explain a perception's limits: where and when they sensed something, what they were doing, and how uncertain they are. Several people may have reacted to the same external force. They may also have copied one respected worker's reaction. “Everyone felt it” does not settle what happened.
 
-Privacy has material supports: separate bed spaces, screened care, quiet watches, routes for solitary walking, containers others do not open, deliberate nonattention, and advocates who can carry a statement without exposing its whole cause. In a moving group these supports cost space, weight, time, and guards. Scarcity explains pressure against privacy; it does not make privacy imaginary.
+## Bodies, consent, and privacy
 
-Children, injured people, and anyone whose communication differs from the household majority need recognizable ways to assent, refuse, pause, and choose an advocate. Strong magical expression does not make someone a better judge of another member's body. Weak expression, Null descent, trauma, speech difference, or disability does not make consent dispensable.
+Membership gives the household responsibilities toward a person, not general access to their body. Where a person can consent, others must ask before touching them, providing medical care, containing them magically, entering their sleeping space, carrying them when immobile, or involving them in a close coordination exercise. Agreement to one act does not authorize the next.
 
-## Material base and ordinary work
+A member can withdraw consent during shared work. The household must then stop safely and reassign the unfinished labor.
 
-Every household keeps an account of people and dependents; food and water; shelter; medicine; clothing; tools; transport capacity; route information it may use; records held for others; and obligations to a wider movement or host site. The account can be written, witnessed, marked, or carried through another practice. Its purpose is to expose dependence, not standardize a final Sarxe language or currency.
+Immediate danger allows limited intervention: catching someone who is falling, moving an unconscious person out of a flood, or containing an active magical spill. Afterward, the person who intervened records why it was necessary and returns control as soon as the danger ends. Rescue creates no permanent right to provide care or repeat contact. It creates no debt or household membership.
 
-Ordinary work includes obtaining and preserving food, water, carrying, cooking, cleaning, mending, building shelter, maintaining tools, scouting, guarding, healing, teaching, negotiating, copying records, caring for children, supporting disabled members, and giving others protected rest. Magical observation and route work are labor. So is remaining with a sick child while the rest move supplies.
+Privacy takes practical work. Households provide separate bed spaces, screens during care, quiet watches, places to walk alone, and containers others leave unopened. Members can deliberately withhold their attention. An advocate can deliver someone's statement without revealing everything behind it.
 
-The household assigns work after members state capacity, prior load, recovery needs, and tasks only they can perform. Rapid coordination can shorten this conversation; it cannot replace it. Rotations record undesirable and dangerous work so that the most compliant, least fluent, newest, or weakest member does not become the permanent bearer of it.
+These arrangements cost a moving group space, carrying weight, time, and guards. Scarcity puts pressure on privacy, but it does not make the need disappear.
 
-Provision is by need as well as contribution. Children, injured people, elders, and disabled members may consume more carrying or care than they currently return. Their claim rests on membership and personhood, not a forecast of future productivity. Guests and refugees receive the terms of their support before emergency hospitality hardens into unpayable debt.
+Children, injured people, and anyone who communicates differently from most members need ways others can recognize to agree, refuse, pause, and choose an advocate. Strong magical expression gives no special authority over another person's body. Weak expression, Null descent, trauma, speech difference, and disability do not remove the need for consent.
 
-## Childcare and growing membership
+## Food, supplies, and work
 
-Childcare is a household function shared among recognized caregivers rather than proof that every adult has equal parental authority. The people responsible for a child record who may make urgent care decisions, which kin or prior household should be contacted, what the child calls home, and what promises followed them through displacement.
+A household must know whom it supports and what it has available. It keeps an account of members and dependents, food, water, shelter, medicine, clothing, tools, transport capacity, route information it is allowed to use, records held for others, and obligations to the wider movement or a host site.
 
-Children learn household coordination through small tasks with visible exits. They practice warning others, receiving a warning without panic, asking before touch, distinguishing observation from inference, and spending time at tolerable degrees of social contact. A child who seeks solitude is not diagnosed by preference alone. A child who cannot tolerate dense coordination is not made safe by forcing more of it.
+The account may be written, witnessed, marked, or maintained through another practice. It makes dependencies visible. It does not establish a final Sarxe language or currency.
 
-As young people take adult work, they choose which obligations to affirm. An inherited relationship can matter without becoming an irrevocable labor contract. Household leaders may pressure gifted Channelers, skilled mediators, or children of respected route keepers to reproduce scarce capacity. Records of refusal and alternative contribution keep succession from becoming hereditary conscription.
+Keeping the household alive involves obtaining and preserving food, obtaining water, carrying supplies, cooking, cleaning, mending, building shelter, and maintaining tools. It also requires scouting, guarding, healing, teaching, negotiating, copying records, childcare, support for disabled members, and protecting other people's rest. Magical observation and route work count as labor. So does staying with a sick child while everyone else moves supplies.
 
-## Joining and guest standing
+Before assigning tasks, members state what they can do, how much work they have already carried, what recovery they need, and which tasks depend on their particular abilities. Fast coordination can make that discussion shorter. It cannot make the discussion unnecessary.
 
-A prospective member is admitted first to a bounded relationship when circumstances permit. The household explains its current route, work expectations, privacy practices, dependents, risks, goods held in common, and authorities beyond the household. The applicant states what they bring, need, cannot safely do, and what prior people or institutions may claim them.
+Rotations track dangerous and undesirable work. Without that record, a compliant person, a newcomer, someone less fluent, or someone with little power can end up doing it permanently.
 
-Temporary guests retain a home or affiliation elsewhere. Refugees may enter under emergency terms before their identity, kin, or property can be verified. A worker can share a task without joining the household. A partner or child can belong without surrendering every separate affiliation. These distinctions prevent hospitality, labor, intimacy, and membership from becoming one adhesive category.
+Support depends on need as well as contribution. Children, injured people, elders, and disabled members may need more care or transport than they can currently provide in return. Membership and personhood establish their claim to support; they do not have to promise future productivity. Guests and refugees must be told the terms of their support before emergency hospitality turns into a debt they cannot repay.
 
-Joining becomes durable through repeated participation and an explicit review witnessed by people other than the sponsor where possible. The household records custody of personal goods, dependent relationships, unresolved external claims, access to common stores, and the person's chosen route for appeal or departure. Exact rites and native terms remain unresolved.
+## Children and adult obligations
+
+Recognized caregivers share childcare. Other adults do not acquire equal parental authority simply by belonging to the household.
+
+Those responsible for a child record who can make urgent care decisions, which kin or previous household should be contacted, what the child calls home, and which promises came with them through displacement.
+
+Children begin with small coordination tasks they can visibly leave or stop. They learn to warn others, receive warnings without panic, ask before touching, and distinguish what they observed from what they inferred. They also learn at levels of social contact they can tolerate. Wanting solitude is not by itself a diagnosis. A child who finds dense coordination unbearable does not become safer by being forced into more of it.
+
+When young people begin adult work, they choose which obligations to affirm. Family and inherited relationships can remain important without binding someone to lifelong labor.
+
+Scarce skills make this difficult. Leaders may pressure gifted Channelers, skilled mediators, or children of respected route keepers to continue the work their household needs. Recording refusals and alternative contributions helps prevent succession from becoming hereditary conscription.
+
+## Guests and new members
+
+When circumstances allow, someone considering membership begins with a limited, clearly explained relationship. The household describes its current route, expected work, privacy practices, dependents, risks, common goods, and authorities outside the group. The applicant explains what they bring, what they need, what they cannot safely do, and who elsewhere may have a claim concerning them.
+
+Different relationships remain distinct:
+
+- A temporary guest can keep a home or affiliation elsewhere.
+- A refugee can receive emergency admission before identity, kinship, or property claims are verified.
+- A worker can share a task without becoming a member.
+- A partner or child can belong while keeping separate affiliations.
+
+Sharing shelter, work, or intimacy does not automatically settle membership.
+
+Durable membership follows repeated participation and an explicit review. Where possible, witnesses other than the sponsor take part. The household records who holds the person's goods, their relationships with dependents, unresolved outside claims, access to common stores, and their chosen means of appeal or departure. The exact rites and native terms remain unresolved.
 
 ## Leaving, splitting, and merging
 
-A member may leave with their body, personal goods, copies of records concerning them, and whatever share or continued support the household recognizes under its live commitments. Departure does not erase debts owed to the departing person, child-support obligations, shared relic custody, or responsibilities toward someone unable to travel. The household can warn that a route is unsafe. It cannot convert warning into indefinite confinement without becoming a custodian that must answer to refuge or host law.
+A departing member can take their body, personal goods, and copies of records concerning them. They also retain whatever share or continued support the household recognizes under its current commitments.
 
-Households split when size, route, supply, danger, internal conflict, or differing plans make one body unsafe or ungovernable. Before a split they identify dependents, stores, tools, records, route knowledge, host obligations, and people whose relationships cross the proposed line. A child, disabled member, or mixed household is not a bundle to be assigned by load balance. Their preference and continuity of care matter.
+Leaving does not cancel what others owe them. Nor does it erase child-support obligations, shared custody of relics, or responsibilities toward someone unable to travel. A household may warn that departure along a particular route is unsafe. If it uses that warning to confine someone indefinitely, it has taken custody of them and must answer to refuge or host law.
 
-Households merge to pool care, supplies, shelter, skills, or route protection. A merger does not silently validate every prior debt or make one household's leaders owners of the other. Members review access, work rotations, private spaces, dependents, external claims, and an exit path before shared stores become impossible to separate.
+Sometimes the group itself must divide. Size, route, supplies, danger, conflict, or differing plans can make staying together unsafe or impossible to govern. Before splitting, members identify dependents, stores, tools, records, route knowledge, host obligations, and relationships that will cross the new boundary.
 
-A split or merger produces more than one record kept on more than one route when possible. Ji'esti makes a single perfect household archive feel efficient and smell like smoke.
+Those decisions cannot be made by balancing loads alone. A child, disabled member, or mixed household has preferences and relationships to preserve. Continuity of care matters alongside the practical demands of movement.
 
-## Mobile use claims
+Households may also merge to share care, supplies, shelter, skills, or protection along a route. Before stores become too entangled to separate, members review access to goods, work rotations, private space, dependents, outside claims, and how someone could leave. A merger does not automatically recognize every earlier debt or give either household's leaders ownership of the other group.
 
-A household can claim use of a shelter it built, a cache it maintains, a tool it carries, a path it keeps passable, or a camp it has permission to occupy. It can claim return access where a host compact, continuing labor, burial, dependence, or necessity supports it. None of those claims means mobile Sarxe own every place they have crossed.
+Where possible, a split or merger leaves multiple records carried along different routes. Ji'esti showed the danger of keeping all household memory in one place: one loss can destroy every copy.
 
-At arrival, a household identifies prior residents, water and grazing pressure, graves, sacred limits, active works, hazards, and what repair or exchange the host expects. In immediate flight, necessity may authorize temporary shelter before consent can be negotiated. The household then records what it used, harmed, changed, or left and enters settlement once the danger permits.
+## Shelters, caches, camps, and paths
 
-Route secrecy complicates proof. A household may be unable to reveal where a cache lies without exposing Saxfoldi. Hosts may suspect an invented claim; route keepers may use secrecy to exclude a household that performed the work. Trusted mediators, divided maps, physical marks, and reciprocal witnesses can preserve a claim without publishing the whole route. No single practice is universal.
+A mobile household can have a claim to use a place or object without owning every place it has crossed. Such claims can concern a shelter it built, a cache it maintains, a tool it carries, a path it keeps open, or a camp it has permission to occupy.
 
-## Decision, mediation, and dissent
+A claim to return may rest on an agreement with a host, continuing labor, burial, dependence, or necessity. Its basis matters; travel alone does not establish ownership.
 
-Household decisions seek broad assent because members can feel their consequences quickly, not because dissent is pathological. A working decision names the matter, affected bodies and stores, available time, people not present, minority objections, the person authorized to act, and when the decision returns for review.
+On arrival, the household identifies prior residents, demands on water and grazing, graves, sacred limits, work already underway, hazards, and any repair or exchange the host expects. During immediate flight, necessity may allow temporary shelter before permission can be negotiated. Once danger permits, the household records what it used, harmed, changed, or left behind and begins settling those claims.
 
-Someone overwhelmed by communal pressure can use an advocate, withdraw to a quieter place, submit a delayed statement, or request an outsider mediator. Mediators translate between people, households, and communication regimes. They do not read minds or own the resulting agreement. An outsider who asks slower questions may reveal coercion hidden inside a room where everyone else believes the answer is already obvious.
+Secrecy makes proof difficult. Revealing a cache's location may expose Saxfoldi. A host may suspect that an unverifiable claim was invented. A route keeper may exploit the same secrecy to exclude a household that actually maintained the site.
 
-Diaspora mediators often gain unusual leverage because they control contact with employers, hosts, markets, and refugee routes. Their work deserves provision and standing; it does not entitle them to conceal terms or define static outsiders as less Sarxe. Conversely, a household cannot send every dangerous negotiation to a stigmatized “solitary” member and then deny that person a voice in the agreement.
+Trusted mediators, maps divided between holders, physical marks, and witnesses who can confirm one another's accounts offer ways to support a claim without revealing an entire route. No one method is universal.
 
-## Succession and household memory
+## Making decisions and hearing dissent
 
-Succession transfers care, custody, knowledge, and promises. When a coordinator, caregiver, route keeper, mediator, or store holder dies or leaves, the household inventories what only that person knew, who depended on them, which goods they held, and which decisions were awaiting their return. Competence and trust must be witnessed anew; neither passes automatically by kinship.
+Households seek broad assent because members can quickly feel the consequences of a decision. Dissent is not evidence that someone is unwell.
 
-Important knowledge is distributed without making every detail public. Several people can know how to reach a cache while none holds the entire Saxfoldi route. A child can receive family history without receiving an inherited vendetta. A successor can take custody of a record without acquiring the right to disclose the person it concerns.
+A decision must make clear what is being decided, whose bodies and which stores it affects, how much time is available, who is absent, and what objections remain. It also names who may act and when the decision will be reviewed.
 
-Weak-expression and disabled members are frequent targets of quiet dispossession during succession because others claim the communal decision is already apparent. Duplicate testimony, named advocates, and a review after movement protect their claims. These safeguards are imperfect and material: someone must carry the copy and keep the advocate fed.
+Close communal attention can itself become overwhelming. A member can speak through an advocate, move somewhere quieter, submit a statement later, or ask for an outside mediator. Mediators help people communicate across households and different ways of expressing themselves. They cannot read minds, and the agreement does not belong to them.
 
-## Historical stress: households after Ji'esti
+An outsider's slower questions can expose coercion that others have stopped noticing because the answer seems obvious to everyone in the room.
 
-The massacre at static Saxfoldi destroyed more than a site. It separated children and caregivers, killed holders of route and kinship memory, scattered goods, and made any surviving concentration a possible target. The seed does not preserve the household procedures used during the flight.
+Diaspora mediators often have considerable leverage through their contacts with employers, hosts, markets, and refugee routes. Their work deserves support and standing. It gives them no right to hide terms or treat outsiders who live in fixed places as less Sarxe.
 
-The current model is the institutional answer: distribute records, keep admission possible under uncertainty, make households capable of splitting and merging, distinguish guests from captives, and preserve departure even when labor is scarce. Mobility keeps one exposed center from owning survival. It also tempts households to prioritize speed, secrecy, and strong Channelers over people who move slowly or require stable care.
+Households can exploit mediators too. A group cannot hand every dangerous negotiation to a stigmatized “solitary” member and then deny them a voice in the agreement they helped obtain.
 
-The hostile historical question is therefore not whether communal life survived. It is whose dependence was called too heavy to carry, whose identity could not be verified, and whose refusal disappeared inside an emergency consensus.
+## Replacing trusted workers and preserving memory
 
-## Hostile and marginal cases
+When a coordinator, caregiver, route keeper, mediator, or store holder dies or leaves, someone must take over more than a title. Care, goods in custody, knowledge, and promises all need new holders.
 
-- A weak-expression member is told they agreed because nobody felt resistance during the meeting.
-- A child seeking quiet is classified through the old language of solitary insanity and assigned outsider-facing training.
-- A disabled adult's household wants to split; both successor groups value their route knowledge and neither wants the care load.
-- A refugee's temporary work becomes the household's justification for refusing departure until an invented debt is paid.
+The household identifies what only that person knew, who relied on them, what they held, and which decisions were waiting for their return. A successor's competence and trustworthiness must be witnessed afresh. Kinship transfers neither automatically.
+
+Knowledge can be shared without exposing everything. Several people may know how to reach a cache while no one holds the whole Saxfoldi route. A child may receive family history without inheriting a vendetta. Someone entrusted with a record does not thereby gain permission to disclose information about the person it concerns.
+
+Succession is a frequent occasion for quietly dispossessing disabled members and those with weak magical expression. Others may claim that the communal decision is already clear and proceed without them. Duplicate testimony, named advocates, and a review after the group has moved help protect their claims.
+
+Those protections remain imperfect and depend on supplies and labor. Someone must carry the extra copy. The advocate still needs feeding.
+
+## Households after Ji'esti
+
+The massacre at static Saxfoldi separated children from caregivers, killed people who held route and kinship knowledge, and scattered goods. It also made any new concentration of survivors a possible target. The seed does not record which household procedures people actually used during the flight.
+
+The present institutional model responds to those losses. Records are distributed so one disaster cannot erase them all. Admission remains possible when identity and claims are uncertain. Households can split and merge, guests remain distinct from captives, and members retain a way to leave even when labor is scarce.
+
+These are current procedures shaped by the historical pressure, not an eyewitness account of the escape.
+
+Mobility prevents survival from depending on one exposed center. It also creates pressure to favor speed, secrecy, and strong Channelers over people who travel slowly or need stable care.
+
+Testing the institution against Ji'esti therefore requires more than asking whether communal life continued. It requires asking whose needs were judged too heavy to carry, whose identity could not be verified, and whose refusal went unheard when an emergency decision was called unanimous.
+
+## Where household protections fail
+
+The following cases test whether household procedures protect people when doing so becomes inconvenient:
+
+- A member with weak magical expression is told they agreed because nobody sensed resistance at the meeting.
+- A child who wants quiet is described through the old language of solitary insanity and assigned training for work with outsiders.
+- A disabled adult's household splits. Both new groups want their route knowledge; neither wants to provide their care.
+- A refugee does temporary work, then is prevented from leaving until an invented debt is paid.
 - A mixed household is denied route information because one member belongs to a settled host community.
-- A mediator filters an employer's coercive terms to preserve their own privileged position.
-- A mobile household invokes necessity at the same host site every cycle until emergency use functions as unacknowledged title.
-- A private disagreement becomes public when magical distress crosses a working boundary, and the group treats the exposure as permission to judge its cause.
+- A mediator conceals an employer's coercive terms to preserve their own privileged position.
+- A mobile household claims necessity at the same host site every cycle, until repeated emergency use amounts to ownership that nobody has acknowledged.
+- Magical distress from a private disagreement crosses into a shared working space. The group treats noticing the distress as permission to judge its cause.
 
-Resistance includes private records, refusal signals, mutual-aid stores for leavers, parallel childcare arrangements, splitting a captured household, static support sites, outside mediation, and insisting that an apparent consensus wait for absent or differently communicating members.
+People resist through private records and clear refusal signals. Mutual-aid stores can support those who leave; parallel childcare arrangements can preserve care outside the dominant arrangement. Other responses include splitting a household whose authority has been captured, maintaining static support sites, seeking outside mediation, and delaying an apparent consensus until absent members or those who communicate differently can be heard.
 
-## Dungeon consequences
+## Below-ground consequences
 
-Household claims follow people below ground. A mobile shelter may depend on a buried water system. A cache can contain goods held for a split household, personal records, Ji'esti testimony, or a relic recovered under divided custody. An old resonant interface may amplify communal cues until inference feels like certainty, turning coordination into a hazard.
+Household needs and obligations continue underground. A mobile shelter may rely on a buried water system. A cache may hold goods for a household that has since split, personal records, testimony about Ji'esti, or a recovered relic whose custody is divided.
 
-Expeditions may recover a missing household copy, reopen an accessible route, rescue a separated caregiver, inspect a cache before return, or determine whether a sealed chamber can shelter people who cannot keep moving. Possession found below does not erase the member, host, burial, refuge, or relic claims waiting above.
+Shared perception can also become dangerous below ground. An old resonant interface may amplify communal cues until people mistake an inference for certainty. The same close coordination that usually helps them work can then lead them into error.
+
+Expeditions may seek a missing household copy, reopen a route people can actually use, rescue a separated caregiver, or inspect a cache before others return. They may need to establish whether a sealed chamber can shelter people who cannot keep moving.
+
+Finding something below ground does not clear its existing claims. Members, hosts, burial obligations, refuge arrangements, and relic custody may still determine what can be done with it above.
 
 ## Unresolved
 

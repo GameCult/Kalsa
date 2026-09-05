@@ -23,181 +23,189 @@ tags:
 
 # Houses of Attestation
 
-**Houses of Attestation** is the translated collective name for Ju'onai
-commissions that certify bounded demonstrations by opened and learned readers.
-They descend institutionally from Prometheus's virtual contests, but no longer
-own reproduction by canonical right. Their records decide who can enter many
-schools, offices, archives, and patronage networks inside the
-[[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]]. Exact native titles and
-regional forms remain unresolved.
+The **Houses of Attestation** examine people who claim to understand how a system works. Their certificates record what a candidate demonstrated and under what conditions. Across much of the [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai Hegemony]], these records determine access to schools, offices, archives, and patrons.
 
-An examination can show that a candidate read a named kind of system under
-stated conditions. It cannot show universal intelligence, moral worth,
-technical competence, political loyalty, divine favor, or truth outside the
-test frame. [[Spoilers/Foundations/Kaos|Kaos]] owns the backstage capability;
-[[Spoilers/Institutions/Ju'onai Schools of the Opening|the Schools of the
-Opening]] own scholarly vocabulary and models. Attestors own only the procedure
-used to recognize a demonstration.
+Candidates include both **opened readers** and **learned readers**. An opening is a sudden experience of understanding the dependencies and possible interventions within a limited system. Opened readers experience this firsthand; learned readers develop and apply causal knowledge without claiming magical insight. The Houses test demonstrations by both.
 
-## Owner map
+An attestor might establish that someone can read the workings of a pump, market, or administrative process. That result says nothing by itself about their universal intelligence, moral worth, technical skill, political loyalty, or divine favor. It cannot establish truth beyond what the examination covered. The useful question is what this person has demonstrated before being entrusted with consequential work. Trouble begins when a certificate becomes an answer to everything worth knowing about them.
 
-| Surface | Owner | Does not own |
+“Houses of Attestation” is a translated collective name for Ju'onai examining commissions. Their exact native titles and regional forms remain unresolved. They descend institutionally from Prometheus's virtual contests, but current canon gives them no continuing right to control reproduction.
+
+## What a test can establish
+
+A defensible examination begins by stating exactly what will be tested. It names the system, the period of observation, the information available to the candidate, what they may change, the expected result, the hazards, the witnesses, and the point at which the exercise must stop.
+
+The candidate must separate what magical insight revealed from what they inferred through learning. They must also say which parts of their result another person could check.
+
+Common exercises require a candidate to:
+
+- Trace causal dependencies within a mechanism, route, market, ecological patch, argument, or administrative process.
+- Predict the local result of a specified intervention without claiming the separate Gift of Prophecy.
+- Find a failure or a useful point of intervention while respecting constraints set by the attestor.
+- Explain what evidence would show that their model is wrong.
+- Recognize the limits of the system they have been shown and request observations beyond it.
+- Keep enough records for a later official to establish what changed.
+
+Success in one exercise does not prove broad competence. A reader trained on pumps may understand little kinship law. Someone gifted at reading political systems may damage a heatwork. Seeing how to exploit a system does not qualify a person to decide whether doing so is lawful or humane.
+
+## Who has authority
+
+The Houses control examination procedure and the recognition of demonstrations. They do not control the underlying magic or every decision made using a certificate. [[Spoilers/Foundations/Kaos|Kaos]] owns the author-facing account of the capability and its limits; [[Spoilers/Institutions/Ju'onai Schools of the Opening|the Schools of the Opening]] own scholarly vocabulary and models.
+
+| Matter | Responsible authority | Limit |
 |---|---|---|
-| Backstage capability constraints and uncertainty | [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] | An attestor, lineage, god, or state office |
-| Test design and stated system boundary | The commissioned attestor and review witnesses | The candidate's whole capacity or the world beyond the case |
-| Candidate's intervention and explanation | The candidate | The attestor's interpretation of motives or moral fitness |
-| Certificate | The examining office under its recorded commission | Appointment, technical custody, civic verdict, or hereditary status |
-| Examination record | Clerks and archive custodians with duplicate witnesses | A patron's private summary |
-| Administrative appointment | [[Spoilers/Institutions/Measured Offices|The appointing administration]] | Attestors merely because they certified eligibility |
-| Operational competence over a relic or public work | The trained operator and relevant custody | An opening certificate without practice and handoff |
-| Appeal and revocation | A separate review commission able to inspect procedure and later failures | The original attestor privately correcting their own record |
+| Underlying magical capability, constraints, and uncertainty | [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] as author-facing authorities | No attestor, lineage, god, or state office determines these facts |
+| Test design and the stated boundary of the system | The commissioned attestor and review witnesses | They cannot certify the candidate's entire capacity or the world beyond the case |
+| The candidate's intervention and explanation | The candidate | The attestor does not thereby gain authority to interpret the candidate's motives or moral fitness |
+| Issuing a certificate | The examining office, acting under its recorded commission | Certification does not confer appointment, technical custody, a civic verdict, or hereditary status |
+| Preserving the examination record | Clerks and archive custodians, supported by duplicate witnesses | A patron's private summary cannot replace the record |
+| Appointing an administrator | [[Spoilers/Institutions/Measured Offices|The appointing administration]] | Certifying eligibility does not give attestors appointment power |
+| Competent operation of a relic or public work | The trained operator and the relevant custody authority | An opening certificate cannot replace practice and handoff |
+| Appeal and revocation | A separate review commission able to inspect procedure and later failures | The original attestor cannot settle the matter by privately correcting their own record |
 
-The examination hierarchy protects a useful invariant: the Hegemony should be able to ask what a person actually demonstrated before entrusting them with consequential work. Its corruption begins when the answer becomes “everything worth knowing about them.”
+## Certificates and rank
 
-## What is examined
+Current canon recognizes four practical steps, rather than a universal score. Formal native ranks remain unresolved.
 
-A defensible examination names a system, observation interval, available inputs, intervention rights, expected output, hazards, witnesses, and stopping condition. The candidate must distinguish magical insight from learned inference and state which parts of the result could be checked by another person.
+1. **Witnessed exercise.** The record preserves one successful or failed demonstration within stated limits. It can support further training but grants no independent office.
+2. **Domain certificate.** The holder has demonstrated repeated performance in a named class of systems, subject to recorded limits.
+3. **Comparative commission.** The holder can compare models, review interventions, and supervise a portfolio covering several cases. Their domain limits still apply.
+4. **Attestor commission.** The holder may design tests and issue certificates in specified domains. Their own assumptions about the test boundary and their conflicts of interest must be reviewed.
 
-Common exercises ask a candidate to:
+In everyday political use, these detailed records become ranks. Offices advertise a minimum certificate. Patrons boast of a descendant's level. Temples connect examination standing to divine concepts. Households use it when arranging marriage and inheritance. A high comparative commission can then be mistaken for qualification in every domain supposedly beneath it. It grants no such thing.
 
-- identify causal dependencies in a bounded mechanism, route, market, ecological patch, argument, or administrative process;
-- predict the local consequence of a named intervention without claiming Prophecy;
-- find a failure or leverage point while preserving constraints the attestor names;
-- explain what evidence would falsify the proposed model;
-- recognize where the available system ends and request observations outside it;
-- preserve records so a later official can determine what changed.
+Certificates can expire or become narrower when a system changes, a holder stops practising, or a later failure reveals an assumption the test missed. Exact terms and review schedules remain unresolved.
 
-No single exercise proves breadth. A candidate trained on pumps may be poor at kinship law. A gifted political opened reader may damage a heatwork. A person who correctly sees an exploit may be unfit to decide whether exploiting it is lawful or humane.
+## Who gets prepared
 
-## The hierarchy of certificates
+Firsthand opening capacity is heritable, but inheritance does not produce a simple yes-or-no result. Expression depends on reaching a threshold shaped by development, pressure, training, and lineage.
 
-Formal native ranks remain unresolved. Current canon recognizes a practical progression rather than one universal score.
+Families with strong expression appear frequently among certified opened readers for two reasons: they carry the capacity, and they control much of the preparation. Their candidates may have tutors, safe study time, preserved interfaces, patron-supplied cases, archives, adequate nutrition, and repeated attempts.
 
-1. **Witnessed exercise** records one successful or failed bounded demonstration. It supports training but grants no independent office.
-2. **Domain certificate** recognizes repeated performance in a named class of systems and under named limits.
-3. **Comparative commission** recognizes capacity to compare models, review interventions, and supervise a portfolio crossing several cases. It does not erase domain limits.
-4. **Attestor commission** authorizes test design and certification within stated domains. It requires review of the attestor's own model boundary and conflicts.
+The examination state can present the resulting hierarchy as natural. That explanation leaves out how candidates reached the test. A low-expression child copying cases after a labor shift has had a different preparation from a house candidate raised inside an archive. Testing a client polity on unfamiliar Ju'onai machinery does not provide a neutral comparison with Crown students who have practised on that interface.
 
-Political culture compresses these records into rank. Offices publish a minimum certificate; patrons boast of a descendant's level; temples align examination standing with divine concepts; households use it in marriage and inheritance. The compression is convenient and guilty. A high comparative commission is not a certificate in every domain below it.
+Attestors record demonstrated expression. They do not certify blood purity. Family history may help guide medical care or expectations for training, but it cannot replace performance. Nor do the physical features associated with strong expression in the old source establish capacity.
 
-Certificates expire or narrow when the relevant system changes, a holder ceases practice, or later failures expose a missing assumption. The exact term and review schedule remain unresolved.
+A **scholarly lineage** has a different meaning: it is a teacher-to-student chain within the Schools of the Opening, not a biological category.
 
-## Inherited capacity and preparation
+Low-expression and Null people can master causal methods, recordkeeping, crafts, and domain knowledge without receiving magical insight. Examination practice therefore distinguishes **attested opening**, which recognizes a demonstrated opening, from **learned competence**. Administration often rewards the former more highly even when people with the latter keep the system running.
 
-Firsthand opening capacity is heritable but threshold-based, shaped by development, pressure, training, and lineage. Strong-expression families appear often among certified opened readers because they carry capacity and because they control preparation: tutors, safe study time, preserved interfaces, patron cases, archives, nutrition, and repeated attempts.
+## Learning to face a test—and a real system
 
-The examination state can describe that result as natural hierarchy. It is not. A low-expression child who copies cases after a labor shift is not taking the same examination as a house candidate raised inside an archive. A client polity tested on unfamiliar Ju'onai machinery is not being measured neutrally against a Crown student who practiced the interface.
+Candidates train in family archives, temple and civic schools, office apprenticeships, client academies, work crews, and surviving virtual or biological interfaces. The Hegemony favors controlled exercises because results can be compared. Candidates also need real systems: someone trained only on designed cases may become very good at working out what the attestor wants.
 
-Attestors record observed expression rather than certify blood purity. Family
-history may guide medical care or training expectations but cannot substitute
-for performance. A scholarly lineage is a teacher-to-student chain under the
-Schools of the Opening, not a biological category. Physical features associated
-by the old source with strong expression do not establish capacity.
+Good instruction gives students:
 
-Low-expression and Null people can master learned causal methods, records, craft, and domain knowledge without receiving magical insight. Examination practice distinguishes **attested opening** from **learned competence**. Administration often rewards the first more highly even where the second keeps a system alive.
+- Clearly stated system boundaries and an account of missing variables.
+- Observations from workers who know the system without experiencing openings.
+- Failed and misleading cases, including cases where no intervention is safe.
+- Practice separating causal understanding from technical skill, policy, and ethics.
+- Records of their uncertainty, rather than only their final answer.
+- Practice refusing an exercise whose hazards or premise do not make sense.
 
-## Training
+Access to this preparation is a class struggle. Public schools admit a wider pool and give the administration access to talent beyond old lineages. Patron schools concentrate records and make students dependent on their sponsors. Client schools teach local systems in forms the Hegemony will recognize; they also teach occupied people where imperial models fail.
 
-Training occurs through family archives, temple or civic schools, office apprenticeships, client academies, work crews, and surviving virtual or biological interfaces. The Hegemony values controlled cases because they can be compared. Real systems remain necessary because a candidate who only knows designed exercises may learn to solve the attestor instead of the world.
+## What the archive must preserve
 
-Good instruction includes:
+The certificate's useful content lies in its record, not its ceremonial rank. That record should contain:
 
-- explicit system boundaries and missing variables;
-- observation by workers who know the system without firsthand openings;
-- failed cases, misleading cases, and cases with no safe intervention;
-- distinction among causal understanding, technical skill, policy, and ethics;
-- records that preserve the candidate's uncertainty rather than only the final answer;
-- practice refusing an exercise whose hazard or premise is incoherent.
+- The candidate, attestor, sponsor, witnesses, and conflicts of interest.
+- The system tested and its boundary.
+- Observations supplied to the candidate and observations withheld.
+- Interventions permitted, attempted, refused, or stopped.
+- The candidate's model, uncertainties, and stated conditions that would falsify it.
+- The result and its material consequences.
+- The domain granted, exclusions, expiry, and route to review.
+- Later failures or successful work relevant to the certificate.
 
-Training access is a class battlefield. Public schools widen the pool and give the administration talent beyond old lineages. Patron schools concentrate records and make students dependent. Client schools translate local systems into forms the Hegemony can recognize while also teaching occupied people how imperial models fail.
+Without these details, a patron can turn one successful trick into a claim of general genius. A single central archive creates another danger: the Hegemony can erase the failure of an heir or the success of a client candidate. Candidates, local schools, and administrative offices therefore keep duplicate records where they have the power to do so.
 
-## Examination records
+Some records expose dangerous knowledge or vulnerable people. Limited secrecy may protect a relic interface, military route, or candidate's personal history. A later reviewer must still be able to find the tested domain, conflicts involving the attestor, material harm, and whether an intervention failed. Secrecy cannot justify concealing those facts from review.
 
-A certificate record should preserve:
+## Becoming an attestor
 
-- candidate, attestor, sponsor, witnesses, and conflicts;
-- system and boundary tested;
-- observations supplied and observations withheld;
-- intervention permitted, attempted, refused, or stopped;
-- candidate model, uncertainty, and falsification condition;
-- outcome and material consequence;
-- domain granted, exclusions, expiry, and review path;
-- later failures or successful work relevant to the certificate.
+An attestor commission brings together domain qualification, permission to design tests, access to cases, clerical support, and public trust. Neither descent nor appointment by a patron transfers it automatically. A successor must demonstrate competence in the relevant domain, command of review methods, and the ability to preserve evidence that counts against a favored result.
 
-The archive is more important than the ceremonial rank. Without it, a patron can call one successful trick proof of general genius. With only one central copy, the Hegemony can erase a failed heir or a successful client candidate. Candidates, local schools, and administrative offices therefore preserve duplicates where power permits.
+Practice allows families to retain influence without a hereditary law. Senior attestors sponsor apprentices, divine factions control schools, and families pass down archives. Together, these arrangements can keep the office within a lineage. Conversely, an attestor with a valid commission but no political support may receive no consequential candidates.
 
-Records contain dangerous system knowledge and personal history. Bounded secrecy may protect a relic interface, military route, or vulnerable candidate. It cannot justify hiding the tested domain, attestor conflict, material harm, or existence of a failed intervention from a later reviewer.
+If an attestor dies, defects, or is removed, archive custodians preserve active tests and recorded conflicts. Another commissioned attestor reviews unfinished cases. Inheriting the predecessor's seal does not entitle a successor to certify candidates.
 
-## Attestor office and succession
+The exact bodies responsible for appointment and peer review remain unresolved.
 
-An attestor commission combines domain qualification, authority to design tests, access to cases, clerical support, and public trust. It does not pass automatically by blood or patron appointment. A successor must demonstrate the relevant domain, review methods, and ability to preserve adverse evidence.
+## Fraud and the limits of honest testing
 
-In practice, senior attestors sponsor apprentices, divine factions control schools, and families inherit archives. A lineage can reproduce attestor office without any law declaring it hereditary. A politically isolated attestor can hold a valid commission and receive no consequential candidates.
+Openings complicate examination security because candidates and patrons can read the test itself. The ability under examination may help them discover how it is arranged.
 
-When an attestor dies, defects, or is removed, archive custodians preserve active tests and conflicts. Another commissioned attestor reviews incomplete cases. No successor may certify a candidate by merely inheriting the predecessor's seal. Exact appointment and peer-review bodies remain unresolved.
+Fraud takes several forms:
 
-## Fraud and blind spots
+- Letting a candidate rehearse a system presented as unknown.
+- Passing concealed signals through an assistant or interface.
+- Choosing a test boundary that leaves out the candidate's weakness.
+- Staging a failure for which a patron has already supplied the answer.
+- Presenting a learned explanation as magical insight.
+- Intimidating workers whose observations contradict the preferred model.
+- Removing failed exercises from the archive.
+- Certifying a lineage's reputation instead of a candidate's performance.
+- Scoring against the answer desired by a divine or administrative superior.
 
-Openings make examination harder to secure, not easier. Candidates and patrons can read the test itself.
+Honesty alone cannot make a test adequate. A controlled case may be too clean to resemble the work. An attestor may dismiss a local worker's terminology and lose the evidence it carries. A candidate may recognize an **aftermark**—evidence that an outside magical intervention changed the system—without understanding its social cost. An opening may reveal a causal scar without identifying who or what caused it.
 
-Fraud includes:
+Other limits belong to the underlying capability, not the examination's quality. Luck remains directly undetectable in the author-facing model. Prophecy is a separate Gift. Technical practice still has to be learned through work.
 
-- rehearsing a supposedly unknown system;
-- receiving concealed signals from an assistant or interface;
-- selecting a test boundary that excludes the candidate's weakness;
-- staging a failure whose answer a patron already supplied;
-- substituting a learned explanation and claiming magical insight;
-- intimidating workers whose observations contradict the preferred model;
-- omitting failed exercises from the archive;
-- certifying lineage reputation rather than performance;
-- using a divine or administrative superior's desired answer as the scoring key.
+The strongest protection against fraud is to make cases and scrutiny independent of one another: use new cases, involve independent workers, separate custody of records, review material outcomes later, and appoint attestors who do not share the sponsor's interest. An empire organized through patronage cannot provide all of these protections reliably.
 
-An honest attestor still has blind spots. The test may be too clean, the local
-worker may use terms the attestor dismisses, the candidate may see an
-aftermark but not its social cost, or an opening may expose a causal scar
-without identifying who or what produced it. Luck remains directly
-undetectable under the backstage model. Prophecy remains a different Gift.
-Technical practice remains learned labor.
+## Refusal, appeal, and loss of certification
 
-The strongest anti-fraud measure is adversarial variety: new cases, independent workers, separate record custody, delayed review of material outcomes, and attestors who do not share the sponsor's interest. None is perfectly available in an empire built on patronage.
+Candidates may refuse an unsafe intervention, challenge an undisclosed boundary, request a worker witness, or withdraw. The attestor records the refusal and whether it showed judgment or made evaluation impossible. Patrons often treat withdrawal as proof of incapacity. Current canon does not.
 
-## Refusal, appeal, and revocation
+An appeal must let a separate attestor or review commission inspect the original case. Offering a harder test with the same concealed premise does not answer the complaint. Grounds for appeal include:
 
-A candidate may refuse an unsafe intervention, contest an undisclosed boundary, request a worker witness, or withdraw. The attestor records the refusal and whether it demonstrated judgment or prevented evaluation. Patrons often treat withdrawal as incapacity; current canon does not.
+- An attestor's conflict of interest.
+- Staged inputs or a denied witness.
+- Inconsistent scoring or concealed harm.
+- Certification in the wrong domain.
+- Lineage discrimination.
+- New evidence that the certified model failed.
 
-Appeal goes to a separate attestor or review commission with access to the original case, not merely a harder version of the same hidden premise. Grounds include attestor conflict, staged inputs, denied witness, inconsistent scoring, concealed harm, mistaken domain, lineage discrimination, or new evidence that the certified model failed.
+Revocation should specify which certificate is defective and why. It does not cancel all of the holder's other competences or civil rights. An attestor may suspend certification during urgent review, while [[Spoilers/Institutions/Measured Offices|administration]] remains responsible for removing an official and remedying public harm.
 
-Revocation should name the certificate and defect. It does not erase every competence or civil right the person possesses. An attestor can suspend certification during urgent review, but [[Spoilers/Institutions/Measured Offices|administration]] owns removal from office and remedies for public harm.
+Low-expression candidates and client subjects face the highest costs in pursuing appeals. Study circles, copied exercises, witness networks independent of patrons, and shared funds make retesting practically accessible. For occupied people, fraud review can become a form of resistance: it forces the Hegemony to retain the evidence used to classify them.
 
-Low-expression candidates and client subjects face the highest appeal cost. Study circles, copied exercises, patron-independent witness networks, and shared funds create practical access to retesting. Fraud review becomes resistance when it forces the Hegemony to preserve the evidence by which occupied people were classified.
+## How administrations use certificates
 
-## Relationship to administration and clients
+Administrations ask for eligible candidates and may commission examinations concerning taxation, roads, grain, records, or public works. The attestor decides whether the candidate demonstrated the requested kind of reading. The administration decides the tax rate, appoints the official, and chooses the public work.
 
-Administration requests eligible candidates and may commission exams in taxation, roads, grain, records, or public works. Attestors decide whether a candidate demonstrated the requested reading domain. They do not decide the tax rate, appoint the official, or choose the public work.
+Client polities negotiate which Ju'onai certificates their offices must accept and whether local learned competence can qualify someone for the work. These negotiations also expose disagreements about what counts as a fair test. An imperial attestor may dismiss local categories as irrelevant noise. A client attestor who adapts a case to local conditions may be accused of lowering standards.
 
-Client polities negotiate which Ju'onai certificates their offices must recognize and whether local learned competence can qualify. An imperial attestor may treat local categories as noise. A client attestor may tailor a case to local conditions and be accused of lowering standards. The live question is whether the test protects the named work or merely makes imperial class portable.
+The practical question is whether certification establishes competence for the named work. If it merely carries imperial class distinctions into client offices, the examination has failed that purpose.
 
 ## The Santabi'u Silt Appeal
 
-[[Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] alone owns the factual event. Its examination consequence is that certificate scope must follow the system actually tested: survey boundary, prepared inputs, worker witnesses, omitted components, and the domain in which the result remains valid.
+[[Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] is the sole owner of the event's factual account. Its consequence for examination procedure is that a certificate must remain limited to the system actually tested. Review must account for the survey boundary, prepared inputs, worker witnesses, omitted components, and the domain in which the result remains valid.
 
-Review can narrow or revoke a certificate's use without pretending every observation or competence was false. A technically accurate examination becomes institutional failure when its sponsor's convenient fragment is certified as the whole territory.
+A review can narrow or revoke the use of a certificate while preserving valid observations and competences. The institutional failure occurs when a technically accurate examination of a sponsor's convenient fragment is accepted as certification of the whole territory.
 
-## Resistance and dungeon seams
+## Resistance and surviving examinations
 
-Resistance works by contesting the examination surface: local schools preserve failed imperial cases, candidates demand unfamiliar systems, clerks copy adverse records, workers insist their observations enter the test, and dissident attestors certify capacity the dominant lineages prefer not to see.
+People resist the hierarchy by challenging what gets tested and what enters the record. Local schools preserve failed imperial cases. Candidates demand unfamiliar systems. Clerks copy adverse records. Workers insist that their observations be included. Dissident attestors certify capacities that dominant lineages would prefer to leave unrecognized.
 
-The Ju'onai Crown contains buried virtual arenas, programmed adversaries, biological interfaces, and old scoring systems. A dungeon can still administer a Promethean examination whose prize was reproductive authority. A modern patron may seek its seal as supreme certification. An attestor may need to recover failed cases proving that the machine measured obedience rather than reading capacity. An interface may recognize the underlying capability while threatening the candidate's body, leaving operational custody with [[Spoilers/Institutions/The Techpriesthoods|Techpriests]] rather than the House.
+The Ju'onai Crown also contains remnants of the institution's ancestry: buried virtual arenas, programmed adversaries, biological interfaces, and old scoring systems. These can create conflicts that a modern certificate does not resolve.
+
+A dungeon may still administer a Promethean examination whose prize was reproductive authority. A modern patron may seek its seal as the highest possible certification. An attestor may need to recover failed cases showing that the machine tested obedience rather than reading capacity.
+
+A surviving interface may recognize a candidate's underlying capability while endangering their body. Recognition by the machine does not settle who can operate it safely. Operational custody remains with [[Spoilers/Institutions/The Techpriesthoods|Techpriests]] rather than the House.
 
 ## Marginal and hostile readings
 
-- A senior attestor says bounded certification is the only barrier between public work and charismatic fraud.
-- A low-expression clerk says the barrier has a servants' entrance through which all disconfirming evidence arrives.
-- A client candidate says the Hegemony examined unfamiliar machinery and called unfamiliarity nature.
-- A Techpriest says seeing why a valve will fail is not the same as knowing how to replace it.
-- A lineage patron says inherited preparation is stewardship; a public-school tutor asks why stewardship always inherits the archive and the office together.
+People affected by the Houses disagree about what their procedures accomplish:
 
-The institution deserves to exist only where its record makes competence more inspectable than patronage would. It becomes class theater where rank survives after the tested boundary is forgotten.
+- A senior attestor calls bounded certification the only barrier between public work and charismatic fraud.
+- A low-expression clerk says that barrier has a servants' entrance: all the evidence against the preferred result comes through it.
+- A client candidate says the Hegemony tested unfamiliar machinery and called unfamiliarity nature.
+- A Techpriest points out that seeing why a valve will fail does not teach someone how to replace it.
+- A lineage patron calls inherited preparation stewardship. A public-school tutor asks why stewardship always passes down the archive and the office together.
+
+The case for the institution depends on its records making competence easier to inspect than patronage alone would allow. Where rank survives after everyone has forgotten the limits of the test, the Houses are staging class distinctions rather than establishing qualifications.
 
 ## Unresolved
 
