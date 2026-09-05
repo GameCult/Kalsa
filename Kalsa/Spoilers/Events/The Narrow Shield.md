@@ -13,93 +13,57 @@ tags:
 
 # The Narrow Shield
 
-The Narrow Shield is an adopted Ti'asantatca storm history. This note owns its
-factual sequence and immediate settlement.
-[[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] owns the later
-procedure. The exact date, city districts, tribes, Sarxe group, casualties, and
-local names remain unresolved.
+The Narrow Shield was a storm emergency in Ti'asantatca in which several groups protecting different places kept redirecting danger into one another's care. The active Stormshield Circle lead stopped the cycle by taking command for one watch and concentrating protection on the central city. The main barrier and city refuges survived; outer land and people bore the losses.
 
-## The multiplying corrections
+This is adopted history. This note owns the event's factual sequence and immediate settlement; [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] owns the later procedure. The exact date, city districts, tribes, Sarxe group, casualties, and local names remain unresolved.
 
-A gulf storm turned across several shield targets during the passage of a Sarxe
-convoy and accompanying households. Outer Papsenai workers were holding
-cultivated slopes and a road approach. Inner cohorts protected the main city and
-its pressure refuges.
+## How the protections collided
 
-The Sarxe group raised a Channeler boundary after wind and active magical
-pressure crossed its camp. The boundary turned the crossing away from the road.
-The nearest shamanic target received the changed force and pressed it toward an
-unoccupied drainage line. A second cohort felt that movement entering its city
-section and strengthened its own hold.
+A gulf storm changed direction across several places under magical protection while a Sarxe convoy and accompanying households were passing through. Outer Papsenai workers held cultivated slopes and a road approach. Inner cohorts protected the main city and its pressure refuges.
 
-Each intervention protected the body its workers had accepted. Together they
-returned pressure through the outer targets faster than the separate signals
-could establish why the storm kept changing. Relief workers arrived with
-instructions based on conditions that no longer existed. One outer cohort
-refused to release while families and seed remained behind it. The Sarxe group
-refused to drop a boundary while the redirected crossing would strike people
-inside the camp.
+When wind and active magical pressure crossed the Sarxe camp, the group raised a Channeler boundary. It redirected the crossing away from the road. That force reached the nearest shamanic target, whose workers pressed it toward an unoccupied drainage line. A second cohort felt the redirected pressure entering its city section and strengthened its hold.
 
-## The narrowing order
+Each group was competently protecting the people or place it had taken responsibility for. Their combined responses sent pressure back through the outer targets, prompting further corrections. The storm's behavior changed faster than their separate signals could explain why. Relief workers arrived carrying instructions for conditions that had already passed.
 
-The active Circle lead declared one watch under a narrowing order. All shield
-signals passed through the central station. Outer field and road bonds were
-ordered released. Available cohorts, attendants, stores, and shelter access
-were reassigned to the central city and its pressure refuges. The Sarxe
-boundary was keyed to the Circle signal and barred from an independent change
-until the watch ended.
+Simply asking a group to stop did not remove the danger it faced. One outer cohort refused to release its protection while families and seed remained behind it. The Sarxe group refused to lower its boundary while the redirected crossing would strike people in the camp.
 
-The lead did not see a complete future. The order worked by making one response
-dominant. Once outer workers and the Channeler group could no longer answer each
-new pressure independently, the central cohorts held a coherent target long
-enough for the worst crossing to pass.
+## One watch under central command
 
-The city refuges and main barrier survived. Wind and water crossed the released
-road and cultivated slopes. The Sarxe convoy lost its planned departure and
-some separated people remained outside the central shelter claim. Papsenai
-households lost fields, seed, dwellings, and stored work. Injuries and deaths
-are preserved without an adopted number.
+The active Circle lead issued a **narrowing order** lasting one watch. All shield signals now passed through the central station. Workers were ordered to release their bonds to the outer fields and road. Available cohorts, attendants, stores, and shelter access were reassigned to the central city and its pressure refuges. The Sarxe boundary was tied to the Circle signal, and its workers could make no independent change until the watch ended.
 
-## Settlement
+The lead did not know the complete future. The order worked because it made one coordinated response dominant: outer workers and the Channeler group could no longer react independently to every new pressure. That allowed the central cohorts to keep holding a consistent target long enough for the worst crossing to pass.
 
-The narrowing authority expired after the named watch, but the lead's control
-of stores, signal copies, and access records did not dissolve by itself. Outer
-households and Sarxe witnesses required copies from tenders and relief workers
-before they could establish what had been released and when.
+The city refuges and main barrier survived. Wind and water crossed the road and cultivated slopes whose protection had been released. Papsenai households lost fields, seed, dwellings, and the results of work they had stored. The Sarxe convoy could not make its planned departure, and some people separated from it remained outside the central shelter claim. The history records injuries and deaths, but no number has been adopted.
 
-The settlement retained narrowing orders for immediate recursive failure. A
-valid order named:
+## What the settlement required
 
-- the watch and danger;
-- signals admitted to the central account;
-- targets ordered released or held;
-- cohorts, stores, shelters, and boundaries placed under the lead;
-- people and places expected to bear the transfer;
-- the condition ending the authority; and
-- custody of copies for later review.
+The lead's narrowing authority ended with the named watch. Control of stores, signal copies, and access records did not automatically pass out of the lead's hands with it. To establish which protections had been released and when, outer households and Sarxe witnesses had to obtain copies from tenders and relief workers.
 
-Later Circle leads cite the survival of the central refuges when demanding
-earlier authority. Outer communities cite the same history when refusing to let
-“central” mean the population whose losses are easiest to record. Sarxe route
-practice remembers that accepting common command can prevent a shared disaster
-and can also close the movement by which a household meant to survive it.
+The settlement retained narrowing orders for emergencies in which protective responses were immediately driving further failures. A valid order had to name:
 
-## Oracle-ecology consequence
+- the watch and the danger;
+- which signals would be included in the central account;
+- which targets workers must release or hold;
+- the cohorts, stores, shelters, and boundaries placed under the lead's control;
+- the people and places expected to bear the redirected danger;
+- the condition that would end the authority; and
+- who would hold copies for later review.
 
-No participant possessed a view outside the field. The independent
-interventions were competent within their targets and catastrophic in
-recursion. The narrowing order produced real safety by temporarily controlling
-observation, material support, target assignment, and response. It foreclosed
-outer futures and left its beneficiaries holding the records needed to judge
-the cost.
+Later Circle leads cite the survival of the central refuges when demanding earlier authority. Outer communities use the same history to challenge whom that authority protects: “central” must not come to mean the population whose losses are easiest to record.
+
+Sarxe route practice remembers both consequences. Common command can prevent a shared disaster. It can also prevent a household from leaving along the route by which it intended to survive.
+
+## What the event establishes about foresight
+
+No participant could observe the whole situation from outside it. Each intervention made sense within the target its workers could perceive and influence. Together, those interventions created a disastrous cycle.
+
+The narrowing order provided real safety by placing observation, supplies and other material support, target assignment, and responses under temporary central control. It also closed off the possibilities the outer workers had been trying to preserve. Those who benefited from the decision were left holding the records that others needed to judge its cost.
 
 ## Adventure consequences
 
-Storm-damaged slopes may cover old Circle stations, convoy goods, boundary
-markers, shelter lists, and signal copies. A present narrowing order can depend
-on whether those records prove that an outer route was knowingly released or
-simply lost. Recovering them can give displaced descendants and separated Sarxe
-standing without proving that a different order would have saved everyone.
+Storm-damaged slopes may cover old Circle stations, convoy goods, boundary markers, shelter lists, and signal copies. Those records could show whether an outer route was knowingly released or simply lost. A present narrowing order can depend on what they establish.
+
+Recovering the evidence can give displaced descendants and separated Sarxe standing in the dispute. It cannot by itself prove that another order would have saved everyone.
 
 ## Unresolved
 

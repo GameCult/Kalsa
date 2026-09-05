@@ -24,13 +24,19 @@ tags:
 
 # Magic Styles
 
-This note is an author and adjudicator crosswalk. It compares the seed's seven
-engineered capability families; it is not a table known across Kalsa.
-Prometheus arranged the seven Gifts through a development sequence. Each also
-has a binary Kaos signature derived from
-[[Spoilers/Foundations/Kaos#Author comparison: three axes|Depth, Clarity, and
-Scope]]. These systems answer different backstage questions and must not be
-collapsed.
+The seven Gifts are families of magical capability engineered by Prometheus. Each uses information about possible futures to influence what happens, though its user need not consciously predict anything. This note compares the Gifts for authors and adjudicators. It does not describe a classification known throughout Kalsa.
+
+## Reading the comparison
+
+The table records two separate classifications. The **Promethean Sequence**, written in Roman numerals, gives the Gifts' development order. The **Kaos signature**, written as three binary digits, identifies their combination of [[Spoilers/Foundations/Kaos#Author comparison: three axes|Depth, Clarity, and Scope]]:
+
+- **Depth** concerns how far an outcome can depart from what would probably happen without intervention. It does not mean how far into the future a Gift reaches.
+- **Clarity** concerns how precisely a mage can consciously distinguish causes, dependencies, and ways to intervene.
+- **Scope** concerns how far information or influence reaches across space and time while remaining coherent.
+
+The signature lists these axes in the order Depth, Clarity, Scope, with `1` marking an included axis. Thus Sorcery is Sequence II but signature `100`: its place in development and its capabilities are different pieces of information. Current reference prose must not use “Type II” without stating which classification it means.
+
+**Null** names the absence of an expressed Gift. It is included for comparison, not as an eighth Gift.
 
 | Sequence | Signature | Author label | Axes | God-foundation | Seed polity or culture |
 |---|---:|---|---|---|---|
@@ -43,41 +49,38 @@ collapsed.
 | VI | 110 | Channeling | Depth, Clarity | no | [[Spoilers/Polities/Channeling - Sarxe|Sarxe]] |
 | VII | 111 | Intuition | Depth, Clarity, Scope | no | [[Spoilers/Polities/Intuition - Unresolved|unresolved polity]] |
 
-Roman numerals name the **Promethean Sequence**. Binary values name the **Kaos signature**. “Type II” is therefore forbidden in current reference prose unless the author states which system is meant.
+Sequence numbers, signatures, axes, and these standardized English style names are author vocabulary. They may appear as in-world knowledge only when an owning note attributes their recovery to a particular archive or tradition. Polity and institution notes establish what living people call their abilities, how they explain them, and where they disagree. People with similar capacities need not share a theory of magic.
 
-Sequence numbers, signatures, axes, and the normalized English style labels
-remain backstage vocabulary unless an owner note attributes their recovery to
-a particular archive or tradition. Polity and institution notes own the names,
-models, and disagreements used by living people. Similar observed capacities do
-not require shared explanation.
+## Founding and joining divine hierarchies
 
-## Root and composite strains
+The **God-foundation** column records whether a strain can independently found a God Beast. The seed identifies Luck, Sorcery, and Analysis as capable of doing so. These are the three **root strains**.
 
-Luck, Sorcery, and Analysis are the three root strains and are marked in the seed as independently capable of founding God Beasts. Shamanism, Prophecy, Channeling, and Intuition are composite strains and normally enlarge or shape an existing divine hierarchy rather than founding one unaided.
+Shamanism, Prophecy, Channeling, and Intuition combine axes and are called **composite strains**. They normally enlarge or shape an existing divine hierarchy rather than found one unaided. Their “no” entries record that normal limitation; whether exceptions exist remains unresolved. The reason root strains can stabilize independent gods is also unresolved.
 
-Why root folds stabilize independent gods and whether exceptions exist remain unresolved. The old unexplained `(1)/(0)` notation is retired in favor of the named **God-foundation** field.
+The named God-foundation field replaces the seed's unexplained `(1)/(0)` notation.
 
 ## Expression and descent
 
-The old phrase “genetic marker” is treated as shorthand for a heritable strain-complex with threshold expression. Expression depends on inheritance, developmental activation or pressing need, training, and relations with Beasts or gods. More than one style can occur in a person; this does not automatically create a new binary signature.
+An inherited strain does not necessarily become an active Gift. The older phrase “genetic marker” is shorthand for a heritable complex whose expression must cross a threshold. Whether and how it expresses depends on inheritance, developmental activation or pressing need, training, and relations with Beasts or gods. One person can express more than one style, but that does not automatically give them a new binary signature.
 
-The post-Fall “fading of the blood of Fire” describes the reduced frequency of strongly expressed, internally compatible strains after warfare, selective religious celibacy, migration, and recombination. It does not make mixed people lesser. Noble and isolated lineages preserve higher expression frequencies, while their claims of purity remain political claims.
+After the Fall, strongly expressed strains that were internally compatible became less common. Warfare, selective religious celibacy, migration, and recombination contributed to this change, described as the “fading of the blood of Fire.” Noble and isolated lineages retain higher frequencies of expression. That does not establish their political claims of purity or make mixed people lesser.
 
-The exact inheritance model, frequency of multistyle expression, and relation between one person and one or several Chaos Beasts remain unresolved.
+The exact rules of inheritance remain unresolved. So do the frequency of multistyle expression and whether one person relates to one Chaos Beast or several.
 
-## Observability
+## What the Gifts can reveal
 
-Each style exposes different evidence. See [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]]. Luck cannot be directly detected; prophecy can only infer its bias. Analysis reads altered systems, prophecy reads deformed forecasts, channeling reads active flows, and shamanism reads pressure on a bonded target.
+There is no single way to detect all magical activity. Each Gift makes different evidence available, as detailed in [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]].
 
-## Interaction
+Analysis can read changes in a system. Prophecy can notice distortions in forecasts. Channeling senses active flows, while shamanism senses pressure on a bonded target. These are different kinds of evidence, with different limits.
 
-All seven Gifts are differently shaped oracular operations. Conscious
-prediction is not the boundary of the category. Their effects do not add into
-one shared perception score and do not cancel through a universal contest.
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns how their users,
-Beasts, and hierarchies crowd, occlude, converge upon, or capture reachable
-futures.
+Luck cannot be detected directly. Prophecy may infer its persistent bias from patterns in the futures it encounters, but that inference does not amount to seeing a luck-user.
 
-## Style notes
+## How the Gifts affect one another
 
-The current polity notes preserve source strands without treating engineered tendencies as the total character of a people. Prometheus's games, inherited constraints, in-world prejudice, institutional adaptation, and individual agency must be kept separate in future repair.
+All seven Gifts are oracular operations: they connect action in the present with possible futures, whether or not their users receive a conscious prediction. Their different capacities cannot be added into one perception score, and opposing Gifts do not cancel each other through a universal contest.
+
+Their users, Beasts, and divine hierarchies can make one another's futures harder to reach or read. They can also make the same futures more reachable, or gain control over the routes by which those futures could occur. [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the explanation of this crowding, occlusion, convergence, and capture.
+
+## Gifts and peoples
+
+The linked polity notes preserve the seed's accounts without treating an engineered tendency as the whole character of a people. Future revisions must distinguish what Prometheus designed his games to produce, what inherited constraints remain, what inhabitants believe about one another, how institutions have adapted, and what individuals choose. None of these alone explains a culture.
