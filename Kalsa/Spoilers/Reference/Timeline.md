@@ -13,52 +13,56 @@ tags:
 
 # Timeline
 
-Dates and durations are unresolved unless the seed supplies them. This sequence records only relative order.
+Kalsa's history begins on Earth, follows the Ark's journey and terraforming of Kalsa, and continues through the fall of its eight Rings and the societies that formed afterward.
 
-## Before departure
+The numbered entries give the established relative sequence. Dates and durations remain unresolved unless the original seed supplies them. The later events listed separately do not yet have a complete order.
 
-1. Logos is founded on Earth as an artificial-island polity.
-2. Logos builds a space elevator and orbital industry.
-3. Prometheans construct the eight-Ring Ark from asteroid material.
-4. Ark society separates increasingly into embodied Primitivists and simulated Posthumans.
+## On Earth: building the Ark
 
-## Exodus and seizure
+1. Logos is founded on Earth as a polity built on an artificial island.
+2. Logos builds a space elevator and develops industry in orbit.
+3. Prometheans use asteroid material to construct the Ark, which has eight Rings.
+4. Ark society increasingly divides between Primitivists, who live in bodies, and Posthumans, who live in simulation.
 
-5. The Ark departs Earth.
-6. Embodied Posthumans become rare; most Posthumans enter simulation.
-7. Fuel failure forces a destination change to Kalsa and a long terraforming program.
-8. Mathys infiltrates and overthrows Posthuman control.
-9. The final Mathys survivor merges with Ark systems and becomes [[Spoilers/Foundations/Prometheus|Prometheus]].
+## Leaving Earth and losing Posthuman control
 
-## Exaltation
+5. The Ark leaves Earth.
+6. Most Posthumans enter simulation; those living in bodies become rare.
+7. A fuel failure forces the Ark to change its destination to Kalsa, where it must undertake a long terraforming program.
+8. Mathys infiltrates the Ark and overthrows Posthuman control.
+9. The last Mathys survivor merges with the Ark's systems and becomes [[Spoilers/Foundations/Prometheus|Prometheus]].
 
-10. Across millennia of terraforming, Prometheus establishes worship and coercive evolutionary games.
-11. Control populations are repeatedly deployed to the surface as labor and form settlements.
-12. Luck emerges spontaneously in one Ring.
-13. Prometheus develops Sorcery, Shamanism, Analysis, Prophecy, Channeling, and Intuition in sequence.
+## Exaltation: terraforming and the development of magic
+
+10. During millennia of terraforming, Prometheus establishes worship and coercive games that shape evolution.
+11. Control populations are repeatedly sent to the surface as laborers and establish settlements.
+12. Luck arises spontaneously in one Ring.
+13. Prometheus develops Sorcery, then Shamanism, Analysis, Prophecy, Channeling, and finally Intuition.
 14. Spokers remain excluded from the Children of Fire's Kaos program.
 
-## The Fall and Expansion
+## The Fall and the expansion of the Crown Cities
 
-15. Luck-ring rebels and Spokers sever the Rings from the drive core.
-16. Eight Rings make emergency re-entry and become the Crown Cities.
-17. Spoker and control-descended powers initially dominate Children of Fire deprived of Promethean direction.
-18. Technology decays unevenly and Techpriesthoods emerge around relic continuity.
-19. Ringlands overlap; the War of the Magi begins.
-20. Borders stabilize after major wars and partial exoduses.
+15. Rebels from the Luck Ring join Spokers in severing the Rings from the drive core.
+16. All eight Rings make emergency re-entry and become the Crown Cities.
+17. Without Promethean direction, the Children of Fire are initially dominated by Spoker powers and powers descended from the control populations.
+18. Technology deteriorates unevenly. Techpriesthoods emerge around the continued preservation and use of relics.
+19. The Ringlands overlap, and the War of the Magi begins.
+20. After major wars and partial exoduses, borders stabilize.
 
-## Known later events with uncertain placement
+## Later events whose placement remains uncertain
+
+These events belong to the later history, but their positions within it are not fully settled. Some have an established local sequence, such as Saxfoldi's exposure followed by its becoming mobile and hidden.
 
 - The Ju'onai Hegemony annexes the original Channeler Crown City and disperses Channeler communities.
-- Sarxe survivors consolidate at a static Saxfoldi.
-- Terjamna break through; an event remembered as a Soiru'i sacrifice exposes Saxfoldi and the Ji'esti massacre follows.
+- Sarxe survivors gather at Saxfoldi while it is still a fixed settlement.
+- The Terjamna break through. An event remembered as a Soiru'i sacrifice exposes Saxfoldi, and the Ji'esti massacre follows.
 - Saxfoldi becomes mobile and hidden.
 - The Ju'onai Hegemony and the Terjamna power divide the City of Prophets.
-- Magical expression becomes less concentrated; recruitment and lineage politics grow in importance.
+- Magical expression becomes less concentrated, and recruitment and lineage politics become more important.
 
-## Adopted histories with uncertain placement
+## Adopted histories whose placement remains uncertain
 
-These events were established by recorded repair passes rather than found verbatim in the seed. They have factual owner notes but no adopted absolute dates or complete mutual order.
+Recorded repair passes established the following events as history; they do not appear verbatim in the seed. Each linked note owns the facts of its event. No absolute dates have been adopted for them, and their order relative to one another remains incomplete.
 
 - [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]]
 - [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]]
@@ -75,11 +79,11 @@ These events were established by recorded repair passes rather than found verbat
 - [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]]
 - [[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]]
 
-## Unresolved
+## What the chronology does not yet establish
 
-- Absolute dates, epoch names, and duration of each stage.
-- Relative order of the War of the Magi, Ju'onai expansion, Channeler annexation, Ji'esti, and division of the Prophetic City.
-- The present day, the ages of current institutions, and which present procedures descend continuously from their claimed predecessors.
-- Whether the return of Prometheus occurs; it remains a [[Spoilers/Reference/Story Seeds|story seed]].
+- Absolute dates, names for the epochs, and the duration of each stage.
+- The relative order of the War of the Magi, Ju'onai expansion, the Channeler annexation, Ji'esti, and the division of the City of Prophets.
+- Where the present day falls, how old current institutions are, and which present procedures have continued without interruption from their claimed predecessors.
+- Whether Prometheus returns. That possibility remains a [[Spoilers/Reference/Story Seeds|story seed]].
 
 See [[Spoilers/Foundations/Ark and Fall|Ark and Fall]] and [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]].
