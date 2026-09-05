@@ -18,7 +18,9 @@ tags:
 
 # Polities and Cultures Index
 
-These notes are polity owners, not complete national essences. Deepened polities expose land, labour, office, conflict, and institutional interfaces; preservation and unresolved stubs say plainly where the seed does not yet support that depth. Every note separates Promethean design, magical constraints, remembered institutions, prejudice, and current agency.
+These notes describe Kalsa's political communities and cultures. Each is the canonical source for its subject, though none defines everything its people are or can become.
+
+The more developed notes explain who controls land, who does the work, who holds office, where conflicts arise, and how institutions deal with one another. Notes marked as preservation or unresolved stubs identify what the original setting material leaves unanswered. Throughout, the notes distinguish what Prometheus designed, what magic permits or limits, what institutions are remembered, what prejudice claims about people, and what people choose to do now.
 
 ## Ark and Null lineages
 
@@ -35,4 +37,4 @@ These notes are polity owners, not complete national essences. Deepened polities
 - [[Spoilers/Polities/Channeling - Sarxe|Channeling — Sarxe]]
 - [[Spoilers/Polities/Intuition - Unresolved|Intuition — Unresolved]]
 
-See [[Spoilers/Foundations/Magic Styles|Magic Styles]] for signatures and sequence order.
+See [[Spoilers/Foundations/Magic Styles|Magic Styles]] for the Gifts' Kaos signatures and their order in Prometheus's development sequence.

@@ -13,34 +13,19 @@ tags:
 
 # At the Second Gate
 
-This is the threshold copy Sela Orr issued for Reed Ward. It contains what the
-escort can know before delivering the sealed report.
+Sela Orr issued these instructions for the escort bringing grain into Reed Ward. They give you only what you can know before delivering the sealed report.
 
-The grain carts wait outside. Reed Ward has one reduced issue left. Iven Tal's
-comparison is in your keeping, closed beneath a house seal. The outer cord names
-Sela Orr of Reed Ward as its first recipient. The first gate bell is about to
-sound.
+Reed Ward has one reduced grain ration left to distribute, and the carts are still outside. Your job is to escort the marked load and deliver Iven Tal's report comparing two cargo gates to Sela. The report is closed beneath a house seal; its outer cord names Sela Orr of Reed Ward as the first person to receive it. She has not yet received it, and you have no open report to consult.
 
-Pera Sai rests one hand on the marked lead cart. Her working group promised the
-grain to Reed Ward Store. The promise names the load and recipient, not a gate.
-She says pressure is gathering around it and refuses to guess aloud at a cause.
+Pera Sai stands with one hand on the marked lead cart. Her working group promised this grain to Reed Ward Store. That promise specifies the load and who must receive it, but leaves the choice of gate open. Pera says she feels pressure gathering around the promised grain. She refuses to guess aloud about its cause.
 
-Two routes enter the ward. The surface gate is already receiving ordinary
-traffic. The old understore lies below the paving; Daro Venn holds its keys and
-counterweight stop. Nothing on the courier's copy grants authority to make him
-open it.
+You can reach the ward by either of two routes. Ordinary traffic is already passing through the surface gate. The other route runs through the old understore beneath the paving. Daro Venn is down there with its keys and counterweight stop. Your instructions give you no authority to require him to open it.
 
-Your written charge is short: deliver the sealed comparison to Sela, escort
-rather than own the marked load, and preserve any new order, stop, or changed
-route with the person who issued it. Reed Ward owes the agreed food, pay, and
-ordinary injury support. Labor outside the escort bargain or damage to borrowed
-equipment returns as a signed claim to Sela and the person whose property or
-body bore it. The charge gives no power to open a gate, retarget Pera's
-promise, waive a levy, or surrender Reed Ward's claim.
+The marked load remains in someone else's ownership while you escort it. If anyone issues a new order, stops the delivery, or changes its route, keep a record of what changed and who directed it. Your charge does not let you open a gate, change the load or recipient specified by Pera's promise, waive a levy, or surrender Reed Ward's claim.
 
-Sela has not received the report. The first bell rope moves above the gate.
-Daro is below with the keys; the cord around Iven Tal's comparison is still
-uncut.
+Reed Ward owes you the agreed food, pay, and ordinary support for injury. Work beyond the escort agreement, or damage to borrowed equipment, must be recorded in a signed claim returned to Sela and to the person whose property was damaged or whose body bore the cost.
+
+Above the gate, the rope moves for the first bell. Daro still has the keys below. The cord around Iven Tal's comparison remains uncut.
 
 Continue to [[../Sources/The Grain at Two Gates|The Grain at Two Gates]], or return to
 [[../World/Magic and Miracles|Magic and Miracles]] or

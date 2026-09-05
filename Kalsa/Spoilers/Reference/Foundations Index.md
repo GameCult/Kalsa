@@ -20,7 +20,7 @@ tags:
 - [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]]
 - [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]]
 
-## Control surfaces
+## Related reference notes
 
 - [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]]
 - [[Spoilers/Reference/Timeline|Timeline]]

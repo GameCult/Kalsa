@@ -11,14 +11,10 @@ tags:
 
 # Divine Manifestation and Thaumavore Interception Proposal
 
-This handoff was adjudicated in KALSA-040. Accepted mechanics now belong to
-[[Spoilers/Foundations/Kaos|Kaos]],
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections,
-God Beasts, and Thaumavores]], and
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]]. Allocation, covenant,
-and mortuary consequences belong to their existing institution notes.
+This is a reference to a retired proposal, reviewed and decided in KALSA-040. It preserves where the proposal went and where to recover it; this note establishes no current setting facts.
 
-[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] owns the adopted
-historical case. [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo Court]]
-owns its current playable return. The original proposal remains recoverable in
-git commit `eef546d`; this note owns no live setting claim.
+The accepted mechanics are now defined in [[Spoilers/Foundations/Kaos|Kaos]], [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]], and [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]]. The existing institution notes remain responsible for the consequences involving allocation, covenants, and treatment of the dead.
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] defines the adopted historical case. [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo Court]] defines the site's return as a current playable situation.
+
+The original proposal can be recovered from git commit `eef546d`.
