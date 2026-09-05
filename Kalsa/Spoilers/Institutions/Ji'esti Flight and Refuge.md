@@ -18,155 +18,169 @@ tags:
 
 # Ji'esti Flight and Refuge
 
-Ji'esti Flight and Refuge is the Sarxe institutional response to repeated displacement. It organizes warning, departure, safe passage, admission, separation records, care, recovery, return, and the handoff of obligations when a community cannot remain where it is. It grew under two successive historical pressures: [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai]] annexation dispersed the original Channeler Crown communities; later, Terjamna forces used a Soiru'i beacon to overwhelm static Saxfoldi in the massacre remembered as Ji'esti.
+Ji'esti Flight and Refuge governs how Sarxe communities help people escape danger and find shelter when they can no longer stay where they live. It covers warnings, departure, safe passage, admission, care, and the records needed to find separated people. It also governs searches, recovery, possible return, and the transfer of responsibilities when a caregiver, guide, or refuge can no longer continue.
 
-This institution owns lower-world flight and refuge procedure. It does not decide what the Ji'esti Soiru'i was, whether its sacrifice was voluntary, the metaphysics of the beacon, Ju'onai title to the Crown, Jamnai doctrine, or a universal right of return. [[Spoilers/Polities/Channeling - Sarxe|the Sarxe polity]] owns the history and present political consequences. [[Spoilers/Institutions/Saxfoldi Households|Saxfoldi households]] own ordinary membership and care.
+For someone fleeing, its central promise is practical: emergency help does not have to wait until they can prove their ancestry, identify every relative, or settle a property claim. Accepting that help does not give a host ownership of their labor, children, or future movements. For hosts, the same procedures recognize that shelter uses land, water, stores, and protection on which other people already depend.
 
-## The promise after two dispersals
+These commitments grew from two successive disasters. [[Spoilers/Polities/Ju'onai Hegemony|Ju'onai]] annexation scattered the original Channeler Crown communities. Later, Terjamna forces used a Soiru'i beacon to overwhelm static Saxfoldi in the massacre remembered as Ji'esti. Conquest showed that buildings and archives can survive while the people who made them a home are dispersed. Ji'esti showed that one protected gathering place can become a catastrophic target.
 
-The first displacement taught that conquest can preserve buildings and records while scattering the people whose lives made them a home. The second taught that gathering survivors in one protected place can create a target whose discovery becomes catastrophic. Flight law therefore tries to keep several things true at once:
+This note defines lower-world flight and refuge procedure. [[Spoilers/Polities/Channeling - Sarxe|The Sarxe polity]] owns the history and its present political consequences; [[Spoilers/Institutions/Saxfoldi Households|Saxfoldi households]] own ordinary membership and care. Flight law does not settle what the Ji'esti Soiru'i was, whether its sacrifice was voluntary, how the beacon worked, Ju'onai title to the Crown, Jamnai doctrine, or a universal right of return.
 
-- people can leave immediate danger without first proving every identity or property claim;
-- no single route, refuge, archive, or official becomes the sole owner of survival;
-- hosts and prior land users remain persons with claims rather than scenery for refugee need;
-- separated people can be sought without publishing the location of the living center;
-- admission does not become captivity, compulsory labor, or permanent silence;
-- return and recovery remain possible questions even when they cannot safely happen now.
+## What the institution promises
 
-These are pressures, not evidence of one written code or central tribunal. Native terms, officers, and media remain unresolved.
+Survival must remain possible through more than one route, refuge, archive, or official. Otherwise the loss or capture of that one point can decide everyone’s fate. Records must help separated people find each other without revealing the current center of the community. Hosts and people who used the land before the refugees arrived retain claims of their own.
 
-## Warning and authority to move
+Admission must also leave room for a life after the emergency. It cannot become captivity, compulsory labor, or a permanent prohibition on speaking. Return and recovery must remain questions people can pursue, even when either would be unsafe now.
 
-A flight warning identifies the observed danger, its location and reach, who may be affected, what remains uncertain, the route or action proposed, and when the warning should be reviewed. Channelers can sense active local crossings and barriers, not remote intention or dormant threat. Scouts, hosts, messengers, material signs, and survivor testimony remain necessary.
+These are the pressures shaping the institution. They do not establish that all Sarxe follow one written code or answer to a central tribunal. Native terms, offices, and record media remain unresolved.
 
-Any person can raise an immediate warning. A household can move itself and dependents for whom it already has care authority. A wider movement delegate can coordinate shared routes, stores, concealment, and escorts. Nobody gains permanent authority over all refugees merely by sounding the first true alarm.
+## Recognizing danger and deciding to leave
 
-When time permits, people choose whether to leave, remain, take another route, or join a different household. When a child, unconscious person, or dependent cannot decide, an existing caregiver or emergency advocate chooses the least custodial survivable action and records whom they moved, from where, why, and what relationships were interrupted. The choice returns for review when the person can speak or another legitimate claimant appears.
+A useful warning tells people what was observed, where the danger is, how far it may reach, and who may be affected. It distinguishes evidence from uncertainty, proposes an action or route, and states when the warning should be reviewed.
 
-A warning can be wrong. The response is not to punish every false alarm as treason, because that trains silence. Review asks whether the observer named their evidence and uncertainty, whether the action matched the risk, and whether anyone profited by using fear to move rivals from land, stores, or a route.
+Channelers can sense active local crossings and barriers. They cannot sense remote intentions or a threat that remains dormant. Warnings therefore still depend on scouts, hosts, messengers, material signs, and survivor testimony.
 
-## Assembly and accounting
+Anyone can raise an immediate alarm. A household can move its members and dependents for whom it already has care authority. A delegate coordinating several groups can arrange shared routes, stores, concealment, and escorts. Giving the first accurate warning does not make someone the permanent ruler of everyone who flees.
 
-At an assembly point, flight stewards or equivalent workers account for people before property. They record self-given name or description, household and chosen contacts, dependents, injuries, communication needs, last known location, intended route, goods or records held for others, and whether publishing any of that information creates danger.
+When there is time, people choose whether to leave, stay, take another route, or join a different household. If a child, unconscious person, or dependent cannot decide, an existing caregiver or emergency advocate chooses an action that keeps them alive while imposing as little control as possible. The actor records who was moved, from where, why, and which relationships the move interrupted. That decision is reviewed when the person can speak or another legitimate claimant appears.
 
-Unknown identity does not bar emergency care. Records preserve uncertainty instead of filling it with a confident lineage. A person can use a temporary name, decline to disclose a hunted relation, or ask that one copy omit route details. Someone who cannot communicate in the majority mode receives an advocate and time; lack of rapid Channeler coordination is not evidence of deception.
+Warnings can be mistaken. Treating every false alarm as treason would teach people to keep quiet. Review instead asks whether the observer disclosed their evidence and uncertainty, whether the response matched the risk, and whether someone used fear to drive rivals from land, stores, or a route and then profited from their departure.
 
-Copies separate identification from route exposure. A host refuge may need to know who entered and what care is required without learning where [[Spoilers/Polities/Channeling - Sarxe|Saxfoldi]] will move next. A recovery party may carry a description and last-seen place without holding the destination of surviving kin. No one record should expose every person, route, cache, and claim.
+## Gathering people without exposing them
 
-This separation creates reconciliation work. Two records may describe the same person differently, or a person may intentionally leave one identity behind. Reunification asks the living person before combining records. Administrative neatness does not own identity.
+At an assembly point, flight stewards or equivalent workers account for people before property. For each person, they record:
 
-## Refuge admission
+- a self-given name or description;
+- household, chosen contacts, and dependents;
+- injuries and communication needs;
+- last known location and intended route;
+- goods or records held for someone else;
+- which details would endanger someone if disclosed.
 
-Immediate refuge is granted on the evidence of present danger and available capacity, not on proof of Sarxe ancestry, magical expression, military usefulness, or a complete account of the past. Hosts can isolate an active magical hazard, secure weapons, separate pursuers, or impose a bounded quarantine. They cannot treat every traumatized or weak-expression arrival as a hidden beacon.
+An uncertain identity does not bar emergency care. The record keeps that uncertainty rather than supplying a lineage nobody has established. Someone may use a temporary name, withhold a hunted relation, or ask that a particular copy omit their route. A person who cannot communicate in the majority mode receives an advocate and time. Inability to join rapid Channeler coordination is not evidence of deceit.
 
-Admission records:
+Different copies carry different information. A host refuge may need an arrival’s identity and care needs without knowing where [[Spoilers/Polities/Channeling - Sarxe|Saxfoldi]] will move next. A recovery party may need a description and last-seen location without knowing where surviving kin are sheltered. No single record should reveal every person, route, cache, and claim.
 
-1. the people and dependents admitted, including unresolved identities;
-2. the protection, shelter, food, water, care, and privacy currently available;
-3. immediate hazards and any specific restriction;
-4. personal goods, relics, records, or bodies accepted into custody;
-5. work requested and whether it is voluntary, necessary rotation, or a later obligation;
-6. the review point, advocate, appeal path, and conditions of departure.
+This protection makes later reconciliation harder. Two records may describe one person differently; someone may also have deliberately left an identity behind. Before combining records for reunification, workers ask the living person. A tidier archive is not a sufficient reason to decide who someone is.
 
-Scarcity can justify rationing, work rotations, relocation within the refuge, or a refusal that sends the applicant toward another known shelter. It does not justify inventing abundance. A refusal names the missing capacity and preserves the applicant's passage request. Where no alternative exists, “full” can be a death sentence and must be owned as one.
+## Entering a refuge
 
-Hosts may include mobile households, static Sarxe sites, mixed settlements, cult shelters, allied polities, or people outside any known compact. Their land, water, stores, and safety claims are real. So is the refugee's claim not to pay for rescue with binding, military service, household membership, a child, or permanent loss of movement.
+Immediate admission depends on present danger and the refuge’s actual capacity. It does not require Sarxe ancestry, magical expression, military usefulness, or a complete account of the applicant’s past.
 
-## Provision, labor, and care
+Hosts may respond to specific hazards. They can isolate an active magical danger, secure weapons, separate pursuers, or impose a quarantine with defined limits. Trauma or weak magical expression alone does not make an arrival a hidden beacon.
 
-Refuge consumes food, water, shelter, medicine, fuel, clothing, sanitation, guards, childcare, interpreters, transport, and time. Channeling can help contain an active hazard or coordinate work. It cannot replace the material base.
+The admission record makes the arrangement explicit:
 
-Work is assigned by capacity and present dependence. People who can contribute may cook, carry, clean, watch, repair, scout, translate, teach, tend children, preserve records, or help expand shelter. Emergency chores keep a refuge alive; they do not create an unlimited labor debt. Dangerous work requires a named need, consent where possible, protection, and review.
+1. Who has entered, including dependents and unresolved identities.
+2. What protection, shelter, food, water, care, and privacy the refuge can currently provide.
+3. What immediate hazards exist and which restrictions address them.
+4. Which personal goods, relics, records, or bodies the refuge has accepted into custody.
+5. What work is requested, and whether it is voluntary, a necessary rotation, or an obligation to be met later.
+6. When the arrangement will be reviewed, who can advocate for the arrivals, how they can appeal, and under what conditions they can depart.
 
-Children remain with known caregivers unless immediate safety requires separation. When separation occurs, both sides receive linked records and the child receives an advocate not solely responsible for filling work quotas or route capacity. Orphans and children of unresolved identity receive care without being immediately absorbed into a lineage, cult, military unit, or permanent household.
+A refuge cannot provide supplies it does not have. Scarcity can justify rationing, work rotations, relocation within the refuge, or refusal with directions toward another known shelter. A refusal must name the missing capacity and preserve the person’s request for passage. If there is no alternative shelter, those refusing admission must acknowledge that “full” may mean death for the applicant.
 
-Disabled, injured, elderly, weak-expression, Null, mixed, and non-Sarxe people require accessible warnings, shelter, communication, transport, and appeal. A person who moves slowly consumes time; abandoning them also chooses whose life the route serves. Strong Channelers may need isolation and rest after sustained containment. Provision follows need without making need a permanent rank.
+Refuges can be mobile households, static Sarxe sites, mixed settlements, cult shelters, allied polities, or hosts outside any known compact. Their claims to land, water, stores, and safety remain real. Refugees likewise retain the claim that rescue must not cost them binding, military service, household membership, a child, or permanent freedom of movement.
 
-## Safe passage
+## Keeping a refuge alive
 
-Safe passage is a bounded promise by the people able to make a route safer. It names travellers, route segment or rendezvous, interval, escort, permitted loads, warning signals, host crossings, and what happens if the group separates. It cannot guarantee an unknown road or bind every community along it.
+Shelter requires more than a defensible entrance. Refuge consumes food, water, medicine, fuel, clothing, sanitation, guards, childcare, interpreters, transport, and time. Channeling can help contain an active hazard or coordinate the work. It cannot supply the material base by itself.
 
-Route holders reveal only what the traveller needs for the next handoff. This protects Saxfoldi and prevents a captured guide from exposing the whole movement. It also gives guides coercive leverage. Travellers therefore receive a rendezvous or appeal path that does not depend entirely on one escort's goodwill, when conditions allow.
+Work assignments follow people’s capacity and present dependence. Those able to contribute may cook, carry, clean, keep watch, repair, scout, translate, teach, tend children, preserve records, or expand shelter. Necessary emergency chores do not accumulate into unlimited labor debt. Dangerous work requires a stated need, consent where possible, protection, and review.
 
-Hosts and prior users are approached for passage where there is time. Immediate pursuit can justify crossing without prior permission, taking water, opening shelter, or cutting a barrier. The fleeing group records the necessity and later offers repair, return, replacement, or testimony. Emergency use does not become title merely because the refugees survived.
+Children stay with known caregivers unless immediate safety requires separation. If they must be separated, both sides receive linked records. The child also receives an advocate whose responsibility is not solely to fill work quotas or fit people into the route’s carrying capacity. Orphans and children whose identity remains unresolved receive care without immediate absorption into a lineage, cult, military unit, or permanent household.
 
-Armed escorts protect the passage, not custody of the people travelling. They cannot change destination, recruit refugees, confiscate personal goods, or expose route records unless a new immediate danger requires it. Mercenary Sarxe and outside protectors remain bound to the same narrow authority.
+Warnings, shelter, communication, transport, and appeal must be accessible to disabled, injured, elderly, weak-expression, Null, mixed, and non-Sarxe people. Slow travel costs time. Abandoning a slow traveller is also a decision about whose life the route will protect. Strong Channelers may themselves need isolation and rest after sustained containment. Care follows need; needing more support does not establish a permanent social rank.
 
-## Flight law, departure, and appeal
+## Travelling under safe passage
 
-Flight suspends some ordinary procedures because delay kills. It does not suspend personhood. Emergency authority can move shared stores, close an exposed route, order silence during immediate pursuit, or separate an active magical hazard. Each act names the danger and expires when the relevant danger ends.
+Safe passage is a limited promise made by people who can make a particular part of the journey safer. It specifies the travellers, route segment or rendezvous, time interval, escort, permitted loads, warning signals, crossings through host territory, and arrangements if the group separates. It cannot guarantee an unknown road or bind every community the travellers might reach.
 
-A refugee can leave a refuge, request another household, remain static, seek return, or refuse reunification with a prior claimant. A host can warn, offer escort, or refuse to release goods genuinely held in another person's custody. It cannot call every departure self-harm and hold a competent adult indefinitely.
+Route holders disclose only what travellers need for the next handoff. This limits what a captured guide can reveal and protects Saxfoldi. It also gives guides power over people who cannot find their own way onward. When conditions allow, travellers therefore receive a rendezvous or means of appeal that does not depend entirely on one escort’s goodwill.
 
-Appeal begins with a household or refuge advocate, then moves to a witness or coordination body not directly rewarded by continued custody. An appeal can challenge denied admission, compulsory labor, confinement, custody of children or goods, route exclusion, record disclosure, or refusal of departure. Urgent action may continue while review is pending, but irreversible effects and beneficiaries are recorded.
+Where time permits, the group seeks passage from hosts and prior users. Immediate pursuit can justify crossing without permission, taking water, opening shelter, or cutting a barrier. The group records why this was necessary and later offers repair, return, replacement, or testimony. Surviving through emergency use does not give the refugees title to what they used.
 
-People denied by one refuge retain the right to have the denial carried forward if doing so is safe. Otherwise rejected applicants become administratively nonexistent and every later gate can pretend it is the first.
+An armed escort’s authority is to protect the journey. It does not include custody of the travellers. Unless a new immediate danger requires it, escorts cannot change the destination, recruit refugees, confiscate personal goods, or expose route records. Mercenary Sarxe and outside protectors have the same narrow authority.
 
-## Separation, search, and recovery
+## Emergency decisions, departure, and appeal
 
-When people separate, the record preserves last confirmed sighting, intended movement, companions, condition, carried supplies, known hazards, chosen contacts, and what information may be shared. “Missing” does not immediately mean dead, deserter, captured, or returned to an old polity.
+Flight can suspend ordinary procedures when the delay would kill people. Emergency authority may move shared stores, close an exposed route, require silence during immediate pursuit, or separate an active magical hazard. Each action must identify the danger that justifies it. Its authority ends when that danger ends.
 
-A search authorization names the person or group sought, evidence boundary, route knowledge disclosed, supplies committed, and point at which the search changes from rescue to recovery. Search leaders cannot expose the living center for one possible survivor without consulting the people who bear that risk. They also cannot dismiss a low-status missing person because the route cost is inconvenient without recording the choice.
+A refugee remains entitled to leave, ask to join another household, remain at a static site, seek return, or refuse reunion with a prior claimant. A host may warn of danger or offer an escort. It may also withhold goods genuinely held in custody for someone else. It cannot classify every departure as self-harm and use that claim to confine a competent adult indefinitely.
 
-Recovery keeps separate claims separate:
+Appeals begin with a household or refuge advocate. They then pass to a witness or coordination body that does not directly benefit from keeping the person in custody. The disputed decision may concern admission, compulsory labor, confinement, children or goods held in custody, exclusion from a route, disclosure of records, or refusal to allow departure.
 
-- a living person chooses where to go once immediate care permits;
-- a child or dependent returns only after identity, safety, and caregiving claims are reviewed;
-- a body remains burdened by kin, funeral, evidence, and possible binding claims;
-- personal goods return to the person or recognized successors;
-- shared goods return to the responsible household or refuge;
-- a relic follows [[Spoilers/Institutions/Relic Custody|Relic Custody]], not the search sponsor's appetite;
-- records remain protected from publication that would expose survivors.
+Urgent action may continue during an appeal. Its irreversible effects and the people who benefit from it must be recorded. Someone refused by one refuge also retains the right to have that refusal carried forward, where doing so is safe. Without such a record, later refuges can each treat the person as though no one has already turned them away.
 
-Recovery from the original Crown or static Saxfoldi does not automatically establish political title or a duty to resettle. A found home can remain occupied, dangerous, sacred, technically dependent, or claimed by people who lived there after the displacement.
+## Finding separated people
 
-## Records and succession
+A separation record preserves the last confirmed sighting, intended movement, companions, condition, supplies carried, known hazards, chosen contacts, and limits on sharing information. A missing person is not automatically dead, a deserter, captured, or returned to an old polity.
 
-Flight records preserve people, relationships, warnings, admission, custody, death, disappearance, denial, repair owed, and the last verified state of shared obligations. They also preserve uncertainty and correction. A duplicate that disagrees with the main copy is evidence, not contamination to be burned for tidiness.
+A search authorization states who is sought, what evidence the search is based on and where that evidence ends, which route knowledge may be disclosed, what supplies are committed, and when the effort changes from rescue to recovery. Search leaders must consult the people who would bear the danger before exposing the living center for one possible survivor. They must also record a decision to pass over a low-status missing person because searching would be inconvenient or costly.
 
-Records are distributed among households, static supports, trusted mediators, and sealed caches so that one capture or massacre cannot erase them. Route information is divided from identity and need. The exact media and scripts remain unresolved; no procedure here adopts a final Sarxe language.
+Finding someone or something does not give the search party unrestricted authority over it:
 
-Succession occurs whenever a record keeper, guide, caregiver, host, or advocate cannot continue. The successor receives the bounded record and obligation, not general custody of every person named in it. A witness confirms what transferred, what remains missing, what private information stays sealed, and when competence or consent must be reviewed.
+- A living person chooses where to go once immediate care permits.
+- A child or dependent returns only after review of identity, safety, and caregiving claims.
+- A body remains subject to kin, funeral, evidence, and possible binding claims.
+- Personal goods go back to their owner or recognized successors.
+- Shared goods go back to the responsible household or refuge.
+- A relic follows [[Spoilers/Institutions/Relic Custody|Relic Custody]]: authority to preserve, move, or service it is limited, and recovering it does not make the search sponsor its owner.
+- Records remain protected against publication that would expose survivors.
 
-Children inheriting a missing-person search, repair claim, or right-of-return record choose whether to continue it when they can decide. Memory can survive without turning descendants into permanent agents of an old route.
+Recovering people, goods, or records from the original Crown or static Saxfoldi does not establish political title or a duty to resettle. A former home may still be dangerous, sacred, technically dependent, occupied, or claimed by people who lived there after the displacement.
 
-## Class and fracture
+## Keeping records and handing over responsibilities
 
-Flight magnifies existing class. People with pack animals or other transport, portable wealth, foreign contacts, strong route knowledge, recognized papers, and a household able to spare escorts have more choices. Poor households carry less food and therefore accept faster, riskier movement. Static workers can maintain clinics, farms, archives, and repair sites while mobile councils control the prestigious story of survival.
+Flight records must preserve enough information for someone else to continue the work. They cover people and relationships; warnings and admissions; custody, death, and disappearance; refusals of help; repair owed; and the last verified state of shared obligations. Corrections and uncertainty belong in the record. A duplicate that contradicts the main copy is evidence to examine, not rubbish to destroy.
 
-Route secrecy creates a governing class when a small group alone decides who may know, enter, leave, or return. Foreign-facing mediators can become indispensable and then unreviewable. Strong Channelers can dominate warning evidence even when a Null scout or disabled resident observed the material danger first.
+Households, static support sites, trusted mediators, and sealed caches share the records so that one capture or massacre cannot erase them all. Identity and care needs are kept separate from route information. The exact scripts and media remain unresolved; these procedures do not establish a final Sarxe language.
 
-Mixed people face divided claims. A Ju'onai official may recognize their residency but not a Sarxe household record. A mobile household may recognize kin but distrust the host affiliation that kept them alive. A Terjamna tributary community may shelter Sarxe refugees while fearing retaliation from the power associated with Ji'esti. Refuge procedure records these contradictions rather than requiring one pure identity before help.
+A handoff is needed whenever a record keeper, guide, caregiver, host, or advocate can no longer continue. The successor receives the specific record and obligation, not general custody of everyone named in it. A witness confirms what passed to the successor, what is still missing, which private information remains sealed, and when competence or consent must be reviewed.
 
-## Historical stress: annexation, consolidation, Ji'esti
+A child may inherit a missing-person search, repair claim, or right-of-return record. Once able to decide, they choose whether to continue it. Preserving a family’s memory does not require making its descendants carry out the same task forever.
 
-The first annexation displaced Sarxe from their Crown and made identity, custody, and return subject to Ju'onai records. Consolidation at static Saxfoldi restored communal capacity but concentrated people, memory, supplies, and hope. Ji'esti turned that concentration into a beaconed killing ground. The present institution answers both wounds: a conqueror cannot become owner merely by preserving the archive, and a refuge cannot become the only place its people are allowed to survive.
+## Who has choices, and who controls them
 
-The seed establishes the sequence, resistance, beacon, massacre, mobility, secrecy, and cyclical commemoration. It does not preserve the actual warning, admission, flight, or search procedure used at Ji'esti. The procedures in this note are present institutional canon shaped by that pressure, not invented eyewitness facts.
+Flight amplifies existing differences in wealth and status. Pack animals or other transport, portable wealth, foreign contacts, route knowledge, recognized papers, and a household able to spare escorts all give people more choices. Poor households carry less food and therefore accept faster, riskier travel. Static workers may maintain the clinics, farms, archives, and repair sites that make survival possible while mobile councils control its prestigious public account.
 
-Commemoration keeps names, losses, routes, refusals, rescues, and institutional failures in circulation without publishing the current center. It can become coercive when leaders use the dead to forbid settlement, mixed ties, return, or criticism of route authority. Ji'esti explains mobility. It does not make every policy adopted in its name correct.
+Secrecy can turn route keepers into a governing class. A small group may come to decide who can know a route, enter it, leave it, or return along it. Mediators dealing with outsiders can become so indispensable that no one can effectively review their decisions. Strong Channelers may dominate discussion of a warning even when a Null scout or disabled resident first noticed the material danger.
 
-## Hostile and marginal cases
+Mixed people can face incompatible claims from different authorities. A Ju'onai official may recognize residency but reject a Sarxe household record. A mobile household may recognize kinship while distrusting the host affiliation that kept someone alive. A Terjamna tributary community may shelter Sarxe refugees while fearing retaliation from the power associated with Ji'esti. Refuge procedure records these conflicts; it does not require applicants to establish one pure identity before receiving help.
 
-- A refuge admits strong Channelers and healthy carriers first while calling the selection neutral capacity management.
-- A child and caregiver have inconsistent records; two households each claim continuity, and the child's current preference is treated as noise.
-- A host temple offers shelter only if arrivals enter an inherited covenant.
-- A route keeper denies a mixed household passage because a Ju'onai relative might expose Saxfoldi.
-- A mercenary escort completes the safe passage, then claims unpaid recruits from among the refugees.
-- A search for a prestigious mediator receives stores and Channelers while a disabled stranger's disappearance remains an uncarried note.
-- A static Sarxe community asks for evacuation warning and is refused because its fixed existence is judged an accepted risk.
-- A false alarm clears a valuable camp; the warning's sponsor later claims the abandoned structures.
-- A recovered Ji'esti record names a living collaborator, and descendants are punished before the record's provenance is tested.
+## What Ji'esti establishes—and what it does not
 
-Resistance includes opening unapproved shelter, copying a denial, escorting a person away from coercive refuge, refusing to disclose a route, preserving host testimony, demanding accessible warnings, maintaining static recovery houses, and separating memory of Ji'esti from obedience to current route keepers.
+The first annexation drove Sarxe from their Crown and made Ju'onai records consequential to identity, custody, and return. Later consolidation at static Saxfoldi restored communal capacity. It also gathered people, memory, supplies, and hope in one place. At Ji'esti, that concentration became a beaconed killing ground.
+
+Present flight law responds to both experiences. Preserving an archive does not make a conqueror the owner of the people it names. Providing refuge does not entitle a host to make that refuge the only place its people may survive.
+
+The seed establishes the historical sequence, resistance, beacon, massacre, mobility, secrecy, and cyclical commemoration. It does not preserve the warning, admission, flight, or search procedures actually used at Ji'esti. The procedures described here are present institutional canon shaped by those events. They are not eyewitness accounts of the massacre.
+
+Commemoration carries names, losses, routes, refusals, rescues, and institutional failures forward without revealing the current center. Leaders can also use it coercively, invoking the dead to forbid settlement, mixed ties, return, or criticism of route authority. Ji'esti helps explain Sarxe mobility; it does not validate every policy made in its name.
+
+## Cases that test the promises
+
+The institution’s commitments are tested where rescue, scarcity, and control meet:
+
+- A refuge gives strong Channelers and healthy carriers priority, describing the choice as neutral management of capacity.
+- A child and caregiver have inconsistent records. Two households claim continuity, and neither gives weight to the child’s present preference.
+- A host temple requires arrivals to enter an inherited covenant before it will shelter them.
+- A route keeper refuses passage to a mixed household because a Ju'onai relative might expose Saxfoldi.
+- A mercenary escort delivers the travellers safely, then demands recruits from among them as unpaid compensation.
+- A missing prestigious mediator receives search stores and Channelers, while a disabled stranger’s disappearance remains in a note nobody carries forward.
+- A static Sarxe community asks for evacuation warning and is refused because others judge its decision to remain fixed an acceptance of the risk.
+- A false alarm empties a valuable camp; its sponsor later claims the abandoned structures.
+- A recovered Ji'esti record names a living collaborator, and descendants are punished before anyone tests the record’s provenance.
+
+People resist through concrete acts: opening unapproved shelter, copying a refusal of admission, escorting someone out of a coercive refuge, withholding a route, preserving a host’s testimony, demanding accessible warnings, and maintaining static recovery houses. They can also insist on remembering Ji'esti without accepting obedience to today’s route keepers as the price.
 
 ## Dungeon consequences
 
-The original Crown and static Saxfoldi are dungeons of interrupted custody. They can contain admission lists, sealed safe-conduct tokens, family records, emergency stores, children's marks, abandoned medical spaces, Ju'onai annexation archives, Terjamna evidence, and systems connected to the Ji'esti beacon. A route cache may hold the only copy proving that living people were separated rather than killed.
+The original Crown and static Saxfoldi contain places where flight or death interrupted responsibility for people, goods, and records. Admission lists, sealed safe-conduct tokens, family records, emergency stores, children’s marks, and abandoned medical spaces may survive there. So may Ju'onai annexation archives, Terjamna evidence, and systems connected to the Ji'esti beacon. A route cache may hold the only surviving proof that people were separated rather than killed.
 
-Expeditions can search for missing refugees, recover a divided record, reopen an accessible passage, retrieve medicine or transport, identify whether a magical signal is another beacon, return remains, or establish that a claimed refuge was actually a detention site. Rescue and recovery parties carry narrow authority; they do not acquire the site or the people they find.
+Expeditions can search for missing refugees, recover parts of a divided record, reopen an accessible passage, retrieve medicine or transport, return remains, or investigate whether a magical signal is another beacon. They may also establish that a supposed refuge was a detention site. Their authority remains limited to rescue and recovery; finding the site or its inhabitants does not make either theirs.
 
-A dungeon can still be a refuge. Opening it may save a fleeing group while exposing sleepers, relic dependents, graves, or a hidden static household already there. The correct question is not whether refugees need the room. It is which lives, claims, and hazards occupy it now and how immediate necessity will be repaired afterward.
+A dungeon may still shelter people. Opening it could save a fleeing group while exposing sleepers, people dependent on relics, graves, or a hidden static household already inside. Refugees’ need for room has to be considered alongside those existing lives, claims, and hazards. If immediate necessity requires entry or disturbance, the resulting harm and obligations still need repair afterward.
 
 ## Unresolved
 

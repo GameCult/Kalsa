@@ -24,315 +24,190 @@ tags:
 
 # Oracle Ecology
 
-Kalsa's future is watched and altered from many positions at once. People,
-Projections, Chaos Beasts, God hierarchies, and institutions act through
-different prescient relations. Prophecy is only the relation most able to
-describe itself as a forecast; many others produce no vision or prediction.
+In Kalsa, several kinds of magic can respond to possible futures. A Prophet can compare what might happen. A Luck bearer can survive danger without ever knowing it was coming. A shaman can feel pressure on a field they have bound themselves to protect. Each can change what remains possible for the others.
 
-`Oracle ecology` is the author-facing name for their interaction. It owns how
-oracular acts alter one another's reachable futures.
-[[Spoilers/Foundations/Kaos|Kaos]] owns the physical constraints on any
-intervention; [[Spoilers/Foundations/Magic Styles|Magic Styles]] owns the
-comparison among Gifts;
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]
-owns the beings and binding relations involved. No inhabitant receives this
-note as a universal theory.
+`Oracle ecology` is the author-facing name for these interactions. Here, an **oracle** means any relation through which possible futures return information, pressure, or intervention to the present. It does not require a vision. People, Projections, Chaos Beasts, God hierarchies, and institutions participate in different ways; Prophecy is simply the one best able to describe its experience as a forecast.
 
-## No view from outside
+This note owns how oracular acts change the futures other actors can reach. [[Spoilers/Foundations/Kaos|Kaos]] owns the physical limits of intervention. [[Spoilers/Foundations/Magic Styles|Magic Styles]] owns the comparison among Gifts. [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] owns the beings and their binding relations. No inhabitant receives this author model as a universal theory.
 
-An oracle is part of the system it observes. Receiving information changes the
-oracle. The oracle's decision, hesitation, disclosure, concealment, and attempt
-to do nothing become present causes. Other oracles may encounter the changed
-system through a different horizon or faculty.
+## A forecast changes the situation
 
-A forecast therefore does not select a completed film of events. It encounters
-possible states reachable from a present already occupied by other branch-aware
-actors. Those actors need not know that they are competing. A Luck bearer
-surviving an accident, a shaman maintaining a field bond, an opened reader
-changing one brace, and a God withdrawing potential may each remove futures a
-distant Prophet expected to find.
+An oracle observes from inside the world. Learning something changes the oracle, and what follows becomes a cause: a decision, a hesitation, a warning, a secret kept, even an attempt to do nothing. Other oracles then encounter a world in which that response has already begun.
 
-There is no neutral instant at which every oracle can compare the same future.
-Two honest observations can begin from different causal bodies because one
-observation, briefing, or mobilization has already entered the other's world.
+A forecast therefore concerns states still reachable from the present. It is not a completed sequence of events waiting to be watched. Other actors are already responding to possibilities, whether or not they know anyone else is doing the same. A Luck bearer surviving an accident, a shaman maintaining a field bond, a reader using Analysis to change one brace, or a God withdrawing potential can each remove a future that a distant Prophet expected to find.
 
-## Density without a census
+This also means two honest observations need not agree. One oracle's reading, briefing, or mobilization may already have changed the conditions the other observes. There is no neutral instant outside causality where all oracles can compare the same untouched future.
 
-The ecology's scale depends on possible response, while strong conscious
-forecasts can remain scarce. A long-horizon plan crosses an unenumerable field
-carried by weak or unrecognized Gifts, bound Projections, active Beasts, divine
-routes, people acting upon older visions, and institutions whose schedules
-preserve earlier oracular decisions.
+## Who can affect a plan?
 
-Each Individual Projection also occupies many possible person-states. Count a
-competitor when a relation can return information, pressure, or intervention
-before the horizon closes. The question and the people it reaches determine
-which relations become active; possible selves are not counted as separate
-creatures.
+The relevant question is not how many powerful seers exist. It is how many relations can affect the plan before its **horizon** closes: the span of future events the plan or reading concerns.
 
-Density therefore changes with scale:
+Strong, conscious forecasts can be scarce while a long-range plan still crosses more possible responses than anyone can enumerate. Weak or unrecognized Gifts, bound Projections, active Beasts, divine routes, and people following older visions all matter. Institutions can preserve an earlier oracular decision in a schedule long after the original reading.
 
-- a brief act inside a bounded room may expose one lever before a rival can
-  respond;
-- a household plan may cross a family Beast, a field bond, a cult promise, or
-  none of them;
-- a road, harvest, succession, or neighborhood decision usually reaches several
-  households and preserved magical commitments;
-- a campaign, dynastic marriage, imperial levy, or divine succession should be
-  assumed crowded unless evidence establishes isolation;
-- a polity-scale plan crosses other polities, God hierarchies, mixed lineages,
-  archives, and mobile people even when only a few strong oracles know the plan.
+An Individual Projection also occupies many possible person-states. Those possible selves are not separate creatures to be added to a census. A relation counts as a competitor when it can return information, pressure, or intervention before the horizon closes. Which relations become active depends on the question and the people it reaches.
 
-Sparse horizons remain real. Isolation, speed, secrecy, exhausted potential,
-weak expression, a genuinely new system, or a question too narrow to activate
-distant relations can leave an opening. No ruler can safely generalize that
-opening into an unwatched population.
+The scale of the decision changes what planners should expect:
 
-## Differently shaped oracles
+- **A brief act in a bounded room** may reach one point of intervention before any rival can respond.
+- **A household plan** may cross a family Beast, a field bond, a cult promise, or none of these.
+- **A road, harvest, succession, or neighborhood decision** usually involves several households and magical commitments they have maintained.
+- **A campaign, dynastic marriage, imperial levy, or divine succession** should be treated as crowded unless evidence establishes isolation.
+- **A polity-scale plan** reaches other polities, God hierarchies, mixed lineages, archives, and mobile people, even if only a few strong oracles know the plan itself.
 
-Each Gift crosses time through a different transaction.
+Some horizons really are sparse. Isolation, speed, secrecy, exhausted potential, weak expression, a genuinely new system, or a question too narrow to activate distant relations can leave an opening. A ruler who finds one such opening cannot safely conclude that the population is generally unwatched.
 
-- **Luck** acts constantly and without a report. Small variations accumulate
-  toward a bearer's survival and benefit. A Luck Beast does not need to know the
-  danger that fails to arrive. Its reach can exceed its sophistication.
-- **Sorcery** receives no report or scene. Under immediate pressure, the near
-  local departure enacted by the embodied Sorcerer and their coupled Beast
-  bears backward upon motor choice. This is the first change their own gesture,
-  strike, word, or refusal can reach, not a patron's larger strategy. Orders,
-  fear, training, coercion, and routed divine potential can shape that active
-  orientation; a command does not become its owner merely by being obeyed. A
-  divided person-Beast relation can make the selection narrow, unstable, or
-  self-defeating without revealing which desire was morally true. The relation
-  ends when the opening moves beyond reach, another act closes it, or available
-  potential cannot force the local departure. It supplies neither the opening
-  nor its matter and energy.
-- **Shamanism** joins sustained will and labor to the fate of a named target.
-  Its oracle is the bond: pressure and conflict become sensible around the
-  field, herd, person, road, storm, or other body being carried toward an
-  outcome.
-- **Analysis** opens a bounded causal system. It receives no scene of what will
-  happen. Instead, consequences return as relevance: the reader grasps which
-  present joins and dependencies will carry a change through the system during
-  the opening. That knowledge can expose an ordinary lever with great
-  resolution while missing an actor, premise, or later change outside the
-  frame.
-- **Prophecy** consciously compares possible states over long horizons and can
-  notice large deformations or gaps. It is unusually able to discuss the
-  contest, not uniquely responsible for creating it.
-- **Channeling** encounters active influence as flow. The flow's imminent
-  continuation—where its inertia will carry it and how it will answer a
-  deflection—is present to the Channeler before the crossing completes. Taking
-  hold changes that continuation. The relation ends at the sensed boundary or
-  when the flow becomes dormant; a remote source and a new influence remain
-  absent until they enter.
-- **Intuition** combines the author comparison's three capabilities, but its
-  perception, costs, institutions, and interaction with other Gifts remain
-  unresolved. Completeness in the crosswalk does not grant omniscience.
+## What each Gift perceives and changes
 
-A collision is asymmetric. Prophecy may see branches disappear around Luck
-without locating the bearer. Analysis may identify the lever a Sorcerous
-intervention used after the effect without having forecast the strike.
-Channeling can prevent influence from crossing one boundary while a Luck bias
-accumulates through events outside it. Shamanic work can make one future more
-reachable through months of material commitment while an imperial forecast
-changes the threats surrounding that target.
+The Gifts do not provide different versions of the same forecast. Each has its own way of relating present action to possible consequences.
 
-Blocking requires contact with the rival operation: closing a required route,
-consuming or redirecting potential, removing a lever, changing the observed
-system, or making the old question irrelevant. A boundary or Gift name alone
-does not provide universal anti-magic.
+### Luck
 
-## Crowded horizons
+Luck works continuously and gives no report. Small variations accumulate toward the bearer's survival and benefit. A Luck Beast need not understand a danger, or even know that it failed to arrive. Its influence can reach much farther than its sophistication would suggest.
 
-An oracle's horizon becomes crowded when independent branch-sensitive actors
-can respond within it. Crowding has several effects:
+### Sorcery
 
-- **displacement:** a reachable outcome remains possible but requires a
-  different intervention after another actor moves;
-- **occlusion:** branches or causal joins cannot be resolved because active
-  rival pressure dominates the available evidence;
-- **convergence:** several unlike interventions make the same region of future
-  more reachable, sometimes without cooperation;
-- **cascade:** one response changes the questions, levers, and risks faced by
-  many later actors;
-- **escape:** an agent, resource, or decision passes outside the reach on which
-  a forecast or binding depended.
+Sorcery supplies neither a report nor a scene. Under immediate pressure, a possible change close enough for the embodied Sorcerer and their coupled Beast to enact bears backward on the Sorcerer's motor choice. It affects how they move or act now.
 
-Crowding is a relation among named systems and actors, even when a report
-cannot identify every source. It changes the useful forms of power. A lone
-superior seer can exploit an unobserved population; a crowded horizon rewards
-control of briefings, material levers, disclosure, response time,
-coordination, and the independence of potential rivals.
+This relation concerns the first local change their own gesture, strike, word, or refusal can reach. It does not select a patron's larger strategy. Orders, fear, training, coercion, and routed divine potential can shape what the Sorcerer and Beast are actively oriented toward, but obedience does not make the command the owner of that orientation.
+
+When person and Beast are divided, the resulting selection can be narrow, unstable, or self-defeating. That failure does not reveal which desire was morally true.
+
+The relation lasts only while the local change remains within reach and available potential can force it. It ends if the opening moves beyond reach, another act closes it, or potential is insufficient. Sorcery supplies neither the opening itself nor the matter and energy needed to act.
+
+### Shamanism
+
+Shamanism binds sustained will and labor to a named target: a field, herd, person, road, storm, or another body being carried toward an outcome. The bond is its oracle. Through it, the shaman can sense pressure and conflict around that target.
+
+### Analysis
+
+Analysis opens a bounded causal system to understanding. It gives no scene of what will happen. Instead, consequences make present connections feel relevant: during the opening, the reader understands which joins and dependencies will carry a change through the system.
+
+This can reveal an ordinary point of intervention in great detail. It can also miss an actor, an assumption, or a later change outside the chosen frame.
+
+### Prophecy
+
+Prophecy consciously compares possible states over long horizons. It can notice large distortions or gaps in what is reachable. Its ability to discuss the contest is unusual; the other Gifts help create that contest whether or not they can describe it.
+
+### Channeling
+
+Channeling perceives active influence as flow. Before a crossing completes, the Channeler senses where the flow's inertia will carry it and how it will respond to a deflection. Taking hold of the flow changes that continuation.
+
+This perception ends at the sensed boundary or when the flow becomes dormant. It does not include a remote source or a new influence until that influence enters.
+
+### Intuition
+
+Intuition combines all three capabilities used in the author comparison of Gifts. That formal completeness does not establish omniscience. Its perception, costs, institutions, and interactions with other Gifts remain unresolved.
+
+## How oracles interfere with one another
+
+Because the Gifts work differently, a collision need not be equally visible to both sides. Prophecy may detect futures disappearing around Luck without finding the bearer. Analysis may identify the point a Sorcerous intervention used after the effect, despite never having forecast the strike. Channeling may stop an influence at one boundary while Luck continues accumulating advantages through events outside it. Months of shamanic labor can make one future more reachable for a target while an imperial forecast changes the threats around it.
+
+Stopping a rival requires contact with what the rival is actually doing. An intervention might close a required route, consume or redirect potential, remove a usable lever, change the system being observed, or make the old question irrelevant. Naming a Gift or drawing a boundary does not provide universal protection against magic.
+
+A horizon becomes **crowded** when independent actors sensitive to possible futures can respond within it. Their responses can produce several distinct effects:
+
+- **Displacement:** the outcome remains possible, but another actor's move means reaching it now requires a different intervention.
+- **Occlusion:** rival pressure prevents an oracle from resolving branches or causal connections from the available evidence.
+- **Convergence:** different interventions make the same region of future more reachable, sometimes without anyone cooperating.
+- **Cascade:** one response changes the questions, usable levers, and risks facing many later actors.
+- **Escape:** an agent, resource, or decision moves beyond the reach on which a forecast or binding depended.
+
+Crowding always concerns particular systems and actors, even when an oracle's report cannot identify every source. It also changes what makes someone powerful. A lone superior seer can exploit an unobserved population. In a crowded horizon, power depends increasingly on who controls briefings, practical means of intervention, disclosure, response time, coordination, and whether potential rivals can act independently.
 
 ## Great workings feed their rivals
 
-A concentrated miracle creates a crowded horizon around its own route. Bound
-contributors, delegates, material operators, intended beneficiaries, withdrawn
-claimants, and route-connected dead can all change which version of the working
-arrives. Scaling the grant increases the distance and number of relations able
-to touch it; it does not place the God outside their response.
+A large, concentrated miracle gives more actors a way to affect it. Bound contributors, delegates, workers operating its material machinery, intended beneficiaries, claimants whose grants were withdrawn, and dead presences connected to its route can all change which version of the working arrives. A larger grant extends the distance and number of relations that can touch it. The God remains subject to their responses.
 
-A feeding thaumavore need not perceive the working as a Prophet would. Its
-existing foothold, retained Gift, appetite, remembered relation, or another
-unknown operation may expose one accessible diversion. The hierarchy sees only
-what its own route reports: missing force, altered timing, a foreign
-manifestation, deformation in a bound oracle's evidence, or the champion's
-failing grant.
+A feeding thaumavore—a being drawing potential from the working—does not have to foresee it as a Prophet would. An existing foothold, retained Gift, appetite, remembered relation, or some still-unknown operation may let it reach a diversion. The God hierarchy learns only what its own route reports. It may detect missing force, changed timing, a foreign manifestation, distorted evidence from a bound oracle, or a grant failing in its champion.
 
-Defense becomes another intervention inside the miracle. Retraction can save
-the hierarchy and abandon the intended effect. Dispersal can preserve more of
-the grant while weakening its visible result. Redirection or containment can
-move the danger into another site. Negotiation or binding can admit a rival.
-Forceful interception spends potential and may end the feeder's present causal
-foothold. A failed response can leave hidden feeding, an independent claimant,
-or a magical fountain.
+The hierarchy's defense then becomes another change to the miracle:
 
-[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] owns one
-historical collision. [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo
-Court]] owns a present return to that machinery. Neither case establishes a
-universal meaning for divine radiance.
+- **Retraction** can save the hierarchy while abandoning the intended effect.
+- **Dispersal** can preserve more of the grant while weakening the visible result.
+- **Redirection or containment** can move the danger to another site.
+- **Negotiation or binding** can admit a rival into the working.
+- **Forceful interception** spends potential and may destroy the feeder's present causal foothold.
+
+If the response fails, the working can leave hidden feeding, an independent claimant, or a magical fountain.
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] owns one historical collision. [[Spoilers/Dungeons/The Ash-Halo Court|The Ash-Halo Court]] owns a present return to that machinery. Neither establishes a universal explanation for divine radiance.
 
 ## Luck and large attractors
 
-Luck has the greatest natural reach among the developed Gifts. Its Beast acts
-toward survival simply, continuously, and without needing a conscious model.
-Across time, failures to kill it, favorable meetings, diverted storms, missed
-routes, fertile descendants, and rivals' errors can accumulate into a vast
-historical attractor.
+Luck has the greatest natural reach among the developed Gifts. Its Beast pursues survival simply and continuously, without needing a conscious model of the world it affects.
 
-A Luck God deepens that pressure through territory and the Projections and
-Beasts bound beneath it. People planning against its survival may find that
-their workable branches narrow before anyone can identify a miracle. The God
-need not understand the empire, family, climate, or expedition whose choices it
-has bent.
+Over time, failed attempts to kill it, favorable meetings, diverted storms, missed routes, fertile descendants, and rivals' errors can accumulate into a vast **historical attractor**: many chains of events tending toward its continued survival.
 
-This is the closest ordinary Kalsan mechanics come to a life trapped inside one
-dominant prescience. The attractor remains local and contested: rival Luck
-Beasts pursue survival; other Gifts alter routes through shapes Luck does not
-consciously model; material systems run out of susceptible leverage; and a God
-can lose bindings, territory, potential, or living relations. At the borders
-between large attractors, improbable survival for one body may become recurring
-loss for another.
+A Luck God strengthens this pressure through its territory and the Projections and Beasts bound beneath it. Those planning against its survival may lose workable options before anyone can identify a miracle. The God need not understand the empire, family, climate, or expedition whose choices it has bent.
 
-Selza'a family histories preserve those borders as protection, feud, warning,
-and accusation. Their institutions cannot directly observe the relation they
-are trying to survive.
+This is the closest ordinary Kalsan mechanics come to a life trapped within one dominant prescience. Even so, the attractor is local and contested. Rival Luck Beasts pursue their own survival. Other Gifts change routes in ways Luck does not consciously model. Material systems can run out of points susceptible to influence. A God can lose bindings, territory, potential, or living relations.
+
+Where large attractors meet, one body's improbable survival may coincide with another's recurring loss. Selza'a family histories preserve these borders in accounts of protection, feud, warning, and accusation. Their institutions cannot directly observe the relation they are trying to survive.
 
 ## Timeline capture
 
-`Timeline capture` is the author-facing comparison for a local condition in
-which possibility remains open but one response owns most of its approaches.
-Capture occurs
-when one oracle or hierarchy controls enough of the decisive levers, sources of
-future information, and rival branch-generators that nearly every reachable
-outcome inside a named horizon passes through its response.
+`Timeline capture` is an author-facing term for a condition in which many futures remain possible, but almost every way to reach them depends on one oracle or hierarchy's response.
 
-Capture can be narrow: one duel, succession, siege approach, harvest decision,
-or cult sanctuary. It can spread across a polity when the same hierarchy owns
-communications, archives, trained oracles, food, force, and the right to define
-which future counts as evidence. It remains contingent upon those relations.
+Capture requires control of enough decisive levers, sources of future information, and other actors capable of generating independent alternatives. Within a named horizon, nearly every reachable outcome then passes through the dominant actor.
 
-God-Beast binding is the strongest known machinery for capture. It does not
-erase the bound identities, but it gives one will priority in routing their
-potential. Sorcerous submission produces the most explicit form. Ju'onai divine
-and administrative hierarchies can align model, office, and ideological
-belonging. Prophetic custody can deny rivals the questions or reports needed to
-act. Reproductive control tries to own future oracle capacity before its bearer
-can refuse.
+The affected horizon can be as narrow as a duel, succession, siege approach, harvest decision, or cult sanctuary. Capture can extend across a polity when one hierarchy controls communications, archives, trained oracles, food, force, and the right to decide which future counts as evidence. Its dominance continues only while those relations support it.
 
-Conquest, hostage-taking, archive seizure, forced covenant, destruction of
-rival schools, and extermination can therefore serve more than ordinary rule.
-They reduce the number of independent interventions a dominant oracle must
-survive. Prometheus's isolated Rings and breeding games were the largest known
-lower-world attempt to make human possibility legible by controlling who could
-reproduce, what they could know, and which pressures would select them.
+God-Beast binding is the strongest known machinery for capture. The bound identities remain, but one will gains priority in routing their potential. Sorcerous submission produces the most explicit form of this arrangement. Ju'onai divine and administrative hierarchies can bring their model of the world, official authority, and ideological belonging into alignment. Custody of Prophets can keep the questions and reports rivals need out of their hands. Reproductive control attempts to control future oracle capacity before its bearer can refuse.
 
-One defensive hierarchy can keep storm signals, stores, and shield changes
-coherent through a night that separate commands would lose. The survived night
-then becomes part of its machinery: later refusals arrive after the hierarchy
-already controls the warning routes, records, and food by which another defense
-could be attempted.
+Conquest, hostage-taking, archive seizure, forced covenant, destruction of rival schools, and extermination can therefore reduce the number of independent interventions a dominant oracle must survive, as well as securing ordinary rule. Prometheus's isolated Rings and breeding games were the largest known lower-world attempt to make human possibility legible through control of reproduction, knowledge, and the pressures that selected people.
+
+Capture can also grow out of a successful defense. One hierarchy may coordinate storm signals, stores, and shield changes through a night that separate commands would fail to survive. Afterward, anyone refusing that hierarchy faces a practical problem: it already holds the warning routes, records, and food needed to attempt another defense. The survived night helps preserve its control.
 
 ## Keeping futures independent
 
-Kalsan institutions keep independent action alive by separating the levers a
-successful reading would need to enforce itself. Rival records leave evidence
-outside one patron's archive. Different people may own observation, judgment,
-material operation, and force. Dangerous work can be staged so that a later
-actor still chooses, while dispersed stores, routes, and decision bodies deny
-one seizure the whole response.
+Institutions can preserve independent action by keeping a successful reading from controlling every means needed to enforce itself. A rival record leaves evidence beyond one patron's archive. Observation, judgment, material operation, and force can belong to different people. Dangerous work can proceed in stages that leave a later actor a real choice. Dispersed stores, routes, and decision-making bodies prevent one seizure from taking the entire response.
 
-Those separations create exploitable gaps. A patron can purchase a rival copy;
-an office can hide abuse between jurisdictions; dispersal spends food and care;
-a reversible precaution can bankrupt the household asked to wait. Keeping a
-choice open therefore depends on ordinary work: feeding the courier, admitting
-the appellant, maintaining the second store, and returning the tools after a
-failed intervention.
+These arrangements have costs and weaknesses. A patron can buy a rival copy. An office can hide abuse in a gap between jurisdictions. Dispersal consumes food and care. A household asked to wait under a reversible precaution can go bankrupt before the choice is resolved.
+
+Keeping alternatives available therefore requires ordinary support: someone must feed the courier, admit the appellant, maintain the second store, and return the tools after a failed intervention. Separation of authority only preserves choice while people can afford to keep those paths usable.
 
 ## Historical and political pressure
 
-The War of the Magi forced separately designed Ring populations and their
-Beasts into one another's causal systems. Old plans failed because the enemy's
-oracle was a different shape; victories created new divine routes; refugee
-movement carried unmodeled agency across borders; concentrated miracles
-attracted the dead.
+During the War of the Magi, Ring populations and their Beasts entered one another's causal systems after having been designed separately. Plans failed when an enemy's oracle worked in an unfamiliar way. Victories established new divine routes. Refugees brought agency across borders that existing models had not accounted for. Concentrated miracles attracted the dead. The exact events of those first encounters remain unresolved.
 
-The two imperial powers' struggle over the
-[[Spoilers/Polities/Prophecy - The Divided City|Divided City]] follows directly.
-Prophets enlarge a God's strategic horizon, and exclusive custody would let one
-claimant act while the other saw only futures already conditioned on that
-monopoly. The city's divided sovereignty survives because each empire, the
-houses, and the Sunwall's local owners retain levers the others cannot absorb
-cheaply.
+The two imperial powers' struggle over the [[Spoilers/Polities/Prophecy - The Divided City|Divided City]] follows from the value of prophetic access. Prophets extend the future a God can consider strategically. With exclusive custody, one claimant could act while the other saw only futures already shaped by that monopoly. Divided sovereignty persists because each empire, the houses, and the Sunwall's local owners retain practical means of action that the others cannot cheaply take over.
 
-The Sarxe answer after Ji'esti attacks capture spatially: no site should contain
-enough people, records, routes, and magical presence for one beacon to decide
-the whole polity again. Papsenai field bonds and shield watches instead keep
-long commitments legible across succession. Jamnai makes capture into public
-hierarchy and then struggles to prevent victory from owning heat, craft, and
-the dead. Ju'onai institutions seek a model complete enough to act first and
-continually discover people and causes outside its edge.
+Other institutions address capture in different ways:
 
-[[Spoilers/Events/The Narrow Shield|The Narrow Shield]] preserves the opposite
-stress from the Three Orders at Sunwall. Several locally defensible shamanic
-and Channeler interventions recursively increased a storm cascade. One
-operational lead then narrowed observation, target assignment, stores, and
-response beneath a single watch authority. The command saved the central
-refuges and abandoned outer futures whose holders had no equal voice in the
-choice.
+- **The Sarxe answer after Ji'esti** is to separate people and resources across space. No site should again hold enough people, records, routes, and magical presence for one beacon to decide the fate of the whole polity.
+- **Papsenai field bonds and shield watches** keep long commitments understandable and traceable across succession.
+- **Jamnai** makes capture an explicit public hierarchy, then struggles to stop victory from giving the victor control of heat, craft, and the dead.
+- **Ju'onai institutions** seek a model complete enough to let them act first. They continually encounter people and causes beyond its limits.
+
+[[Spoilers/Events/The Narrow Shield|The Narrow Shield]] records the opposite pressure from the Three Orders at Sunwall: circumstances in which separate interventions made the danger worse. Several shamanic and Channeler responses were locally defensible, yet each changed the storm pressure faced by others, whose corrections fed the cascade.
+
+One operational lead brought observation, target assignment, stores, and response under a single watch authority. That command saved the central refuges. It also abandoned the possible futures of people outside that protection, who had no equal voice in the decision.
 
 ## Ghostlight consequences
 
-The world compiler exposes forecasts as evidence, temporary advantage,
-narrowed route, warning, or proof that an opposing actor has already moved.
-Resolution uses the live state, approach, material levers, competing
-interventions, and chance.
+The world compiler presents forecasts as evidence, a temporary advantage, a narrowed route, a warning, or proof that an opponent has already acted. Resolution depends on the live state, the approach taken, available material levers, competing interventions, and chance.
 
-Adventures can turn on the ecology without revealing its author model. A party
-may carry a plan no patron was allowed to hear, free a hosted oracle before a
-siege horizon closes, sever a God hierarchy's communications, preserve the
-rival archive that keeps an appeal possible, move a population outside a
-Luck-dominated route, or discover that destroying an enemy seer would leave one
-remaining patron with uncontested sight.
+An adventure can turn on these relations without giving characters the author model. A party might:
 
-[[Spoilers/Dungeons/The Second Gate Understore|The Second Gate Understore]]
-owns one current playable instance. Its house comparison, held delivery,
-opened mechanism, patron responses, signals, gates, gate keys, and three-bell
-clock can all change while the party acts. A first-bell route slate moves the
-crowd and tells the runner which expanded crew to send at second bell. A clerk's
-correction can redirect that crew if it reaches the runner before the bell;
-Daro's stop can still leave the grain outside at the third.
+- carry a plan no patron was allowed to hear;
+- free a hosted oracle before a siege horizon closes;
+- sever a God hierarchy's communications;
+- preserve a rival archive so an appeal remains possible;
+- move a population beyond a Luck-dominated route;
+- discover that killing an enemy seer would leave one remaining patron with uncontested sight.
+
+[[Spoilers/Dungeons/The Second Gate Understore|The Second Gate Understore]] owns one current playable instance. The party acts during a delivery whose route and outcome remain unsettled. A house's comparison of possible routes, a shamanic bond holding the delivery toward its destination, and an Analysis opening on the understore mechanism provide different kinds of evidence. Patron responses, signals, gates, gate keys, and a three-bell clock can all change while the party works.
+
+At first bell, a route slate moves the crowd and tells a runner where to send an expanded crew at second bell. A clerk's correction can redirect the crew if the runner receives it before that bell. Daro can still stop unsafe operation of the understore, leaving the grain outside at third bell. Neither a forecast nor the party's access to several readings settles the delivery in advance.
 
 ## Unresolved
 
 - Quantitative thresholds for crowding and capture at different horizons.
 - Whether similar Gifts occlude one another more strongly than unlike Gifts.
 - How multistyle expression couples one person's oracular shapes.
-- Whether a God hierarchy can deliberately preserve independent branches among
-  its children without weakening priority routing.
+- Whether a God hierarchy can deliberately preserve independent branches among its children without weakening priority routing.
 - How Intuition participates in crowded horizons.
-- What happened when the isolated Ring oracle systems first met during the War
-  of the Magi.
+- What happened when the isolated Ring oracle systems first met during the War of the Magi.
 
 See [[Spoilers/Foundations/Kaos|Kaos]],
 [[Spoilers/Foundations/Magic Styles|Magic Styles]],
