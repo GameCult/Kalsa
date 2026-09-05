@@ -11,59 +11,68 @@ tags:
 
 # The Closed Lift Appeal
 
-The Closed Lift Appeal is an adopted historical case from [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]]. This note alone owns its factual sequence and outcomes. [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] owns the procedure the case changed; [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]] owns house discipline and service consequences; the polity owns the jurisdictional settlement around them.
+The Closed Lift Appeal concerned a Sunwall cargo lift whose captain was detained after repeated faults were blamed on Luck. On appeal, the court found that the evidence could justify safety measures but could not identify the captain as the cause. It released the captain and ordered repairs and restricted grain movement. The case changed how [[Spoilers/Polities/Prophecy - The Divided City|the Divided City]] used forecasts in court, while leaving the captain's material losses unresolved.
 
-Its date, the city's name, the participating houses, the lift captain's name, and the exact sector boundary remain unresolved.
+## The faults and the accusation
 
-## Failure and first judgment
+The lift began suffering a sequence of improbable faults during a disputed grain levy. Two imperial sponsors offered forecasts pointing toward different dangers:
 
-A Sunwall cargo lift suffered a sequence of improbable faults during a contested grain levy. A Ju'onai-sponsored forecast reported cable failure and famine if a Terjamna convoy took the next harvest load. A Terjamna-sponsored forecast reported riot and warehouse fire if the convoy was refused.
+- A Ju'onai-sponsored forecast predicted cable failure and famine if a Terjamna convoy took the next harvest load.
+- A Terjamna-sponsored forecast predicted riot and warehouse fire if the convoy was refused.
 
-A house witness reported that the repeated failures appeared to bend around the non-house lift captain. The first court allowed that inference to become an accusation of Luck, detained the captain, and sealed the lift. Neither the forecast nor the court possessed a means to detect Luck directly or identify a bearer.
+A house witness said the repeated failures appeared to bend around the lift captain, who belonged to no prophetic house. The first court treated this inferred pattern as grounds to accuse the captain of Luck. It detained the captain and sealed the lift, although neither the forecast nor the court had any way to detect Luck directly or identify someone who possessed it.
 
-The detention removed the captain from paid work and damaged their housing standing and client relationships before an appellate hearing occurred. Closure also delayed grain and shifted labor, ration, and security pressure into other parts of the city.
+Before the appeal could be heard, detention had taken the captain out of paid work and damaged their housing standing and relationships with clients. Closing the lift also delayed grain deliveries. Other parts of the city had to absorb the resulting demands on labor, rations, and security.
 
-## Appeal and disclosed interventions
+## What the appeal uncovered
 
-The City Mixed Bench required both imperial sponsors to disclose actions they intended to take after receiving their forecasts. The Ju'onai sector had planned to divert maintenance crews after the levy. The Terjamna commander had planned a public seizure if the convoy was delayed. Those plans were part of the causal systems the forecasts purported to describe and had not been exposed to the first court.
+The City Mixed Bench required both imperial sponsors to disclose what they intended to do after receiving their forecasts. The Ju'onai sector had planned to divert maintenance crews after the levy. The Terjamna commander had planned a public seizure if the convoy was delayed.
 
-A material inspection found fatigue in a brake assembly. The forecast record supported concern about unresolved influence and incompatible interventions but could not identify a Luck user or establish that the captain caused the faults.
+The first court had not been told about either plan. Both mattered to the forecasts: the sponsors intended to act on the same situation whose future they were asking prophets to examine. Their planned actions could affect what happened next.
 
-The bench excluded the identity claim and released the captain. It limited lift loads, divided grain movement into reversible stages, and ordered repair, public notice, and a new forecast after the material system changed. The Sunwall Stewardship executed the operating limits; civic officers executed release and the revised movement order.
+A physical inspection also found fatigue in a brake assembly. The forecast record gave reason to investigate an unexplained influence and the sponsors' incompatible planned actions. It did not identify a Luck user or establish that the captain had caused the faults.
 
-## Outcome and precedent
+The bench excluded the claim identifying the captain and ordered their release. To manage the remaining danger, it limited lift loads and divided grain movement into stages that could be reversed. It also ordered repairs, public notice, and a fresh forecast once the physical condition of the lift had changed. The Sunwall Stewardship put the operating limits into effect; civic officers carried out the release and the revised grain-movement order.
 
-Neither predicted catastrophe occurred. Ju'onai officials credited foresight, Terjamna officers credited deterrence, houses credited disciplined comparison, and lift workers credited the brake crew. The absence of disaster did not establish which forecast had been correct, because disclosure, repair, staged movement, and changed imperial plans altered the branch set.
+## What the outcome proved—and what it did not
+
+Neither forecast's catastrophe occurred. Each group offered its own explanation. Ju'onai officials credited foresight, Terjamna officers credited deterrence, prophetic houses credited disciplined comparison, and lift workers credited the brake crew.
+
+Avoiding disaster did not establish which forecast had been correct. Disclosure, repairs, staged grain movement, and changes to imperial plans had changed the possible outcomes. The eventual result could not settle what would have happened without those changes.
 
 The appeal established a narrow civic precedent:
 
-- inferred Luck cannot identify a culprit;
-- a sponsor's intended intervention belongs in a forecast record offered as evidence;
-- material owners and operators answer for material inspection and failure;
-- reversible precautions require a named duration and review;
-- preventing a predicted event does not prove one forecaster's explanation;
-- correction of a finding does not by itself restore wages, shelter, clients, or reputation lost through the original order.
+- An inference that Luck may be involved cannot identify a culprit.
+- A sponsor offering a forecast as evidence must disclose the actions they intend to take.
+- Those who own and operate a material system remain answerable for its inspection and failure.
+- Reversible precautions must state how long they last and when they will be reviewed.
+- Preventing a predicted event does not prove one forecaster's explanation.
+- Correcting a finding does not, by itself, restore the wages, shelter, clients, or reputation lost because of the original order.
 
-The captain's record was corrected and the detention ended, but the judgment did not automatically replace lost wages, housing standing, or clients. Lower-shadow accounts preserve this as the event's unfinished part: the law learned to narrow prophecy after one worker had already paid for its confidence.
+The captain was released and their record corrected. The judgment did not automatically replace lost wages or restore housing standing and clients. Lower-shadow accounts preserve this as the unfinished part of the case: the law became more cautious about prophecy only after a worker had borne the cost of its earlier confidence.
 
-## Institutional consequences
+## Who remained responsible
 
-The City Mixed Bench gained a durable example for requiring intervention disclosure and separating civic judgment from imperial claim. Civic clerks preserve competing reports and later corrections independently of their sponsors. Forecast reviewers treat Luck inference as a reason for precaution or material inquiry, never personal identification.
+The City Mixed Bench gained a lasting case to cite when requiring sponsors to disclose planned interventions and keeping imperial claims separate from civic judgment. Civic clerks preserve rival reports and subsequent corrections independently of the sponsors. Forecast reviewers use inferred Luck as grounds for precautions or physical investigation, never as a way to identify a person.
 
-Prophetic Houses retained the right to offer expert reports but acquired clearer responsibility for the completeness of reports entering civic evidence. House discipline can address concealed intervention, unsupported identity claims, or failure to correct a public record; it does not replace the court's remedy to the harmed party.
+The Prophetic Houses kept their right to submit expert reports, with clearer responsibility for making those reports complete when they entered civic evidence. A house can discipline members for concealing a planned intervention, making an unsupported identity claim, or failing to correct a public record. That discipline does not replace the court's responsibility to provide a remedy to the person harmed.
 
-The Sunwall Stewardship retained operational authority over the lift. Neither the bench, a house, nor an imperial sponsor gained technical custody by predicting failure. Ju'onai and Terjamna parties retained notice and argument inside their respective claims without gaining the whole civic verdict.
+The Sunwall Stewardship continued to control the lift's operation. Predicting its failure gave neither the bench, a prophetic house, nor an imperial sponsor technical custody of it. Ju'onai and Terjamna parties retained the right to notice and argument within their respective claims; neither gained authority to decide the whole civic verdict.
 
-## Adventure consequences
+## Evidence and adventures
 
-The lift, brake records, sealed first-court file, sponsor disclosures, and copies of the captain's corrected record can sit in different jurisdictions. A party may be hired to recover a missing inspection component, escort a clerk carrying the appellate copy, prove that a house archive omitted a planned intervention, or locate wage and tenancy records needed for a remedy that was never completed.
+The evidence need not all be in one jurisdiction. The lift itself, brake records, sealed first-court file, sponsor disclosures, and copies of the captain's corrected record can be held in different places. A party might be hired to recover a missing inspection component, escort a clerk carrying the appellate copy, show that a house archive omitted a planned intervention, or find wage and tenancy records needed to complete an outstanding remedy.
 
-Reopening buried lift galleries can increase food capacity and expose evidence that changes who owes restitution. A recovered object remains subject to [[Spoilers/Dungeons/Dungeon Provenance|provenance]], [[Spoilers/Institutions/Relic and Ruin Law|ruin law]], and [[Spoilers/Institutions/Relic Custody|custody]]. Possessing the old brake does not make the delvers owners of the precedent or the living claims attached to it.
+Reopening buried lift galleries can increase the city's food capacity and uncover evidence that changes who owes restitution. Recovered objects remain subject to [[Spoilers/Dungeons/Dungeon Provenance|provenance]], [[Spoilers/Institutions/Relic and Ruin Law|ruin law]], and [[Spoilers/Institutions/Relic Custody|custody]]. Recovering the old brake gives delvers no ownership of the legal precedent or authority over the claims people still have in the case.
 
-## Unresolved
+## Scope of this record
 
-- Absolute and relative date of the appeal.
-- Names and affiliations of the lift captain, reporting prophets, house witness, judges, clerks, reviewers, and material inspectors.
-- Exact lift, wards, sector boundary, grain quantity, detention length, and operating limits.
+This is adopted history. This note alone owns the case's factual sequence and outcomes. [[Spoilers/Institutions/Forecast Evidence and Courts|Forecast Evidence and Courts]] owns the procedures it changed; [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]] owns house discipline and service consequences. The Divided City polity note owns the settlement defining jurisdiction around those institutions.
+
+The following details remain unresolved:
+
+- The city's name and the appeal's absolute date and place in the wider chronology.
+- The participating houses, and the names and affiliations of the lift captain, reporting prophets, house witness, judges, clerks, reviewers, and material inspectors.
+- The exact lift, wards, sector boundary, grain quantity, detention length, and operating limits.
 - Whether later proceedings supplied compensation or restored housing and client standing.
 - Which current courts, houses, and imperial successors still recognize the precedent.

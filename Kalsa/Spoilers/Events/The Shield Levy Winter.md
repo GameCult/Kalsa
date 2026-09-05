@@ -12,45 +12,58 @@ tags:
 
 # The Shield Levy Winter
 
-The Shield Levy Winter is an adopted episode from the [[Spoilers/Reference/Timeline|War of the Magi]]. This note alone owns its factual sequence, damage, and settlement. [[Spoilers/Polities/Shamanism - Papsenai|Shamanism - Papsenai]] owns its place in papsenai political memory; [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] owns shield labor and operational consequences. [[Spoilers/Institutions/The Alliance|The Alliance]] is an adopted-candidate and may use the episode as design pressure, but the present Alliance is not established as a participant or contemporary institution.
+During the [[Spoilers/Reference/Timeline|War of the Magi]], a campaign authority demanded grain from communities supplying Ti'asantatca and diverted workers needed to maintain its stormshield. The remaining workers continued with too little relief and provision. As the storm worsened, part of the shield failed to provide its intended protection. The damage and the challenge that followed led to rules protecting food reserves and shield staffing from military demands.
 
-The exact campaign, date, duration, participants, and Intuition involvement remain unresolved. “Winter” is an author-facing translation of the later event name; it does not settle Kalsa's calendars, seasons, or the local term.
+This is adopted history, though the campaign, date, duration, participants, and any Intuition involvement remain unresolved. “Winter” translates the event's later name for the author; it establishes nothing about Kalsa's calendars, seasons, or the local wording.
 
-## The double demand
+This note owns the event's factual sequence, damage, and settlement. [[Spoilers/Polities/Shamanism - Papsenai|Shamanism - Papsenai]] owns its place in papsenai political memory, and [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] owns its consequences for shield work. [[Spoilers/Institutions/The Alliance|The Alliance]] remains an adopted-candidate institution: its design may draw on this history, but its existence or participation at the time is not established.
 
-During a prolonged wartime disruption, an unnamed campaign authority demanded food from communities supplying Ti'asantatca and attempted to divert trained shield workers to a military target. The demand arrived while transport and field labor were already reduced and the southern gulf storm front was worsening.
+## Food and workers taken together
 
-Local authorities released grain without first separating household subsistence, seed reserve, and negotiable surplus in the record. The collectors left no paired account of what was taken and what protection or later return was owed. Under the same pressure, a relief cohort and attendants were assigned away from the stormshield before competent replacements completed a handoff.
+The demands came during a prolonged wartime disruption. Transport and field labor were already reduced, and the southern gulf storm front was worsening. An unnamed campaign authority demanded food from the communities supplying Ti'asantatca while seeking trained shield workers for a military target.
 
-The active shield workers extended their service without the missing relief and provisions. When the storm pressure increased, one protected section could not maintain its intended target. Water and wind damaged exposed dwellings, stores, and shield infrastructure. Some of the grain left behind was lost with the stores; some active workers were injured or disabled. Exact losses remain unresolved.
+Local authorities released grain without recording which portion fed households, which was reserved for planting, and which could be negotiated as surplus. The collectors left no account pairing what they took with the protection or later return owed for it. A relief cohort and its attendants were also assigned away from the stormshield before competent replacements had completed a handoff.
 
-## Refusal and record
+The workers already holding the shield stayed on duty without the missing relief or provisions. When storm pressure increased, one protected section could no longer maintain the protection its workers were trying to provide. Wind and water damaged exposed dwellings, stores, and shield infrastructure. The damaged stores contained some of the grain that collection had left behind; that grain was lost too. Some active workers were injured or disabled. The exact losses remain unresolved.
 
-Households, store workers, and Circle witnesses challenged the claim that the damage was an unavoidable act of war. They preserved store marks, collection testimony, shift records, the absent cohort's assignment, and the warnings issued before the section yielded.
+## How the damage was challenged
 
-The campaign authority argued that food and magical labor had been necessary to protect the wider war effort. The challengers did not deny wartime need. They showed that the two demands compounded one another: collection weakened household and shield provision while diversion removed the relief body that could have absorbed the worsening storm.
+Households, store workers, and Circle witnesses disputed the claim that the damage had been unavoidable in wartime. They preserved store marks, testimony about the collection, shift records, the diverted cohort's assignment, and warnings issued before the shield section yielded.
 
-No single claimant owned the whole finding. Store evidence established material extraction. Circle records established the lost overlap and exhaustion. Household testimony established who had been left without reserve. Military need remained a political claim rather than a technical verdict about the shield.
+The campaign authority defended both demands as necessary to protect the wider war effort. The challengers accepted that the war required contributions. Their case was that these demands had made one another more damaging: taking food reduced supplies for households and shield workers, while taking the relief cohort left the active workers without replacements when the storm worsened.
 
-## Settlement
+The finding depended on evidence from several sources. Store evidence showed what had been taken. Circle records showed the lost overlap between shifts and the workers' exhaustion. Household testimony showed who had been left without reserves. No single claimant could establish the whole account. The military's argument about the wider war remained a political justification; it did not settle what the shield could safely withstand.
 
-The resulting settlement required local assessments to identify subsistence and seed reserves before declaring negotiable surplus. Emergency takings required receipts naming the source, lot or recognizable quantity, recipient, authority, promised protection or return, and later review. A receipt did not make an excessive taking lawful; it made the claim inspectable.
+## What the settlement required
 
-Trained shield workers were placed outside ordinary military levy. A worker could volunteer for another target only after the Circle recorded consent and a competent replacement accepted the handoff. An emergency claimant seeking shield capacity had to record the cohort, shift coverage, attendants, household support, and relief depth removed. Circle operational leads could refuse a diversion that left no credible overlap or recovery body.
+The settlement changed how authorities could take food and request shield workers.
 
-The settlement did not prohibit emergency collection or military volunteering. It separated those decisions from automatic entitlement to food and talent. It also did not restore consumed seed, rebuild every dwelling, cure disabled workers, or settle every household claim.
+Before declaring any food negotiable surplus, local assessments had to identify household subsistence needs and seed reserves. Emergency takings required receipts recording:
 
-## Historical pressure
+- the source;
+- the lot or a recognizable quantity;
+- the recipient;
+- the authority responsible;
+- the protection or return promised;
+- provision for later review.
 
-Papsenai accounts remember a campaign that demanded both the stores and the people who kept the stores behind a shield. Military accounts emphasize that refusing all contribution could have abandoned other communities facing the same war. Circle accounts emphasize that a barrier can appear intact while its relief body has already been spent.
+A receipt made it possible to inspect and challenge a taking. It did not make an excessive taking lawful.
 
-Later compact designers can draw procedures from the event without claiming their institution existed during it. In particular, the episode supplies pressure for paired contribution-and-return records, bounded emergency authority, reserve protection, and shield exemptions. It does not identify the present Alliance's founders, members, or Intuition-side protector.
+Trained shield workers became exempt from ordinary military levy. They could volunteer to work on another target only after the Circle recorded their consent and a competent replacement accepted the handoff. Anyone claiming shield capacity in an emergency had to record what the diversion would remove: the cohort, shift coverage, attendants, household support, and the available reserve of relief workers. Circle operational leads could refuse if the remaining workers could not credibly overlap shifts or provide relief while others recovered.
+
+Emergency food collection and military volunteering remained possible. The settlement required separate decisions about what could be given; military need no longer carried an automatic entitlement to food and talent. Nor did the settlement undo the damage. It did not restore consumed seed, rebuild every dwelling, cure disabled workers, or settle every household claim.
+
+## How the event is remembered
+
+Papsenai accounts emphasize that the campaign demanded both the stores and the people keeping those stores behind a shield. Military accounts emphasize the danger of refusing every contribution while other communities faced the same war. Circle accounts focus on a less visible danger: a barrier may still look intact after the rested workers needed to sustain it are no longer available.
+
+Later compact designers can draw on the settlement's procedures: records pairing contributions with promised returns, limits on emergency authority, protection for reserves, and exemptions for shield workers. Doing so does not establish that their institutions existed during the event. In particular, this history identifies none of the present Alliance's founders, members, or Intuition-side protector.
 
 ## Adventure consequences
 
-The damaged shield section, flooded stores, cohort assignment, collection receipts created during review, and household copies may survive in different locations. A party may be hired to recover a missing shift record, locate seed sealed during the storm, prove whether a later levy inherited the old debt, or reach a buried station whose failure still affects the living barrier.
+Evidence and remains may be scattered across different places: the damaged shield section, flooded stores, the cohort assignment, receipts created during the review, and copies retained by households. A party might be hired to recover a missing shift record, locate seed sealed during the storm, determine whether a later levy inherited the old debt, or reach a buried station whose failure still affects the living barrier.
 
-Recovered grain records do not grant title to the store. A military order does not prove that the Circle accepted the diversion. Repairing the station does not erase household claims, and finding an old receipt does not establish that the present Alliance owes or owns the obligation.
+Each discovery answers only part of the problem. Grain records do not give their finder title to a store. A military order does not establish that the Circle accepted the diversion. Repairing the station leaves household claims to be resolved. An old receipt, by itself, proves neither that the present Alliance owes the obligation nor that it owns the claim.
 
 ## Unresolved
 
