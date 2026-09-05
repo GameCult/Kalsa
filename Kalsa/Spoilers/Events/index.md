@@ -16,21 +16,23 @@ tags:
 
 # Events
 
-These histories were deliberately adopted by named deepening passes. Their seed witnesses supply the world, peoples, magic, and institutions beneath them; the events themselves are not presented as recovered teenage notes. Each event owns its factual sequence so polity and institution pages can preserve consequences without forking history.
+These articles record adopted events in Kalsa's history. Each is the authoritative account of what happened in that event; polity and institution notes explain its consequences and link back here for the sequence.
 
-- [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] — cult contract, potential allocation, mortuary custody, and Soiru'i practice split across incompatible ledgers.
-- [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] — rival forecasts, a failing lift, inferred Luck, and the limits of correction in the divided city.
-- [[Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] — a bounded analytical model becomes an imperial valley claim until excluded records force review.
-- [[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] — geothermal safety, hierarchy, detention, sect aid, and bounded challenge collide in Jamnai.
-- [[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] — inherited reckoning and changed public speech turn a valid formula into a lethal schedule.
-- [[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] — harvest extraction and an attempted diversion of stormshield labour establish the cost of confusing protection with consumption.
-- [[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] — a shared-system failure, Luck accusation, restraint, repair, and incomplete restoration across three family territories.
-- [[Spoilers/Events/The Grey Scald|The Grey Scald]] — incompatible public and technical intervals turn a pressure intervention into death, broken custody, and unsupported succession beneath Low Sere.
-- [[Spoilers/Events/The Three Orders at Sunwall|The Three Orders at Sunwall]] — competing imperial plans, house forecasts, and a Sunwall closure during the city's division.
-- [[Spoilers/Events/The Narrow Shield|The Narrow Shield]] — independent shamanic and Channeler interventions cascade until one temporary command saves the central refuges and releases the outer shield.
-- [[Spoilers/Events/The Road That Returned|The Road That Returned]] — Ju'onai road reforms become new Selza'a defensive levers across several generations without settling whether Luck caused the pattern.
-- [[Spoilers/Events/The Grain at Two Gates|The Grain at Two Gates]] — a forecasted grain route changes when its disclosure moves officials and buyers, while a Papsenai working group keeps the delivery target.
-- [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]] — a God concentrates finite protection at a bridge before an unbound Channeler changes the flood route and the refugees' need.
-- [[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] — divine raiment closes around a Jamnai champion while feeding dead enter the route and familiar presences fall silent afterward.
+The events were developed and explicitly adopted in named deepening passes. They are not recovered teenage notes. The original seed supplies the world, peoples, magic, and institutions on which these histories build.
 
-Their absolute dates and mutual order remain unresolved. See [[Spoilers/Reference/Timeline|Timeline]] and [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]].
+- [[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] — incompatible ledgers divide cult contracts, the allocation of potential, custody of the dead, and Soiru'i practice.
+- [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] — a failing lift and rival forecasts lead to an accusation based on inferred Luck. The appeal shows what a correction can and cannot restore in the divided city.
+- [[Spoilers/Events/The Santabi'u Silt Appeal|The Santabi'u Silt Appeal]] — an analytical model with limited scope becomes the basis for an imperial claim to a valley. Records excluded from the model force a review.
+- [[Spoilers/Events/The Ash-Valve Refusal|The Ash-Valve Refusal]] — a Jamnai heat steward stops an unsafe geothermal diversion and is detained. Sect aid and an appeal lead to a bounded challenge against the branch holder.
+- [[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] — inherited reckoning and changes in public speech produce a lethal schedule even though the formula remains valid.
+- [[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] — harvest extraction and an attempt to divert stormshield labour reveal the cost of treating resources needed for protection as resources available to consume.
+- [[Spoilers/Events/The Broken Windtrap Settlement|The Broken Windtrap Settlement]] — a system shared by three family territories fails. An accusation of Luck follows; restraint and repair help secure a settlement, but restoration remains incomplete.
+- [[Spoilers/Events/The Grey Scald|The Grey Scald]] — public and technical intervals do not match. A pressure intervention beneath Low Sere ends in death, broken custody, and a succession left without support.
+- [[Spoilers/Events/The Three Orders at Sunwall|The Three Orders at Sunwall]] — competing imperial plans and house forecasts meet a Sunwall closure during the city's division.
+- [[Spoilers/Events/The Narrow Shield|The Narrow Shield]] — separate shamanic and Channeler interventions trigger further corrections from one another. A temporary command saves the central refuges by releasing the outer shield.
+- [[Spoilers/Events/The Road That Returned|The Road That Returned]] — over several generations, Ju'onai road reforms give Selza'a new ways to defend itself. Whether Luck caused the pattern remains unresolved.
+- [[Spoilers/Events/The Grain at Two Gates|The Grain at Two Gates]] — officials and buyers act on a disclosed forecast, changing the conditions along the predicted grain route. A Papsenai working group changes its route while keeping its delivery target.
+- [[Spoilers/Events/The Empty Bridge Vigil|The Empty Bridge Vigil]] — a God concentrates limited protection at a bridge. An unbound Channeler then changes the flood route, changing where the refugees need protection.
+- [[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] — divine raiment closes around a Jamnai champion as feeding dead enter the route supplying it. Familiar presences fall silent afterward.
+
+The events' absolute dates and their order relative to one another remain unresolved. See [[Spoilers/Reference/Timeline|Timeline]] and [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]].

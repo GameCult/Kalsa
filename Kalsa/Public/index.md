@@ -10,18 +10,19 @@ tags:
 
 # Kalsa
 
-Kalsa is a world beneath an unmoving sun. Its inhabited lands run through permanent sunset: bright terraces and salt coasts sunward, storm country and ice-dark seas coldward, and between them the roads, farms, shrines, fortresses, and fallen Crown Cities of mortal life.
+Kalsa's sun does not move. People live in a band of permanent sunset, with bright terraces and salt coasts toward the sun, storm country and ice-dark seas toward the cold. Roads connect farms, shrines, fortresses, and the fallen Crown Cities.
 
-Gods bargain for worship and service. Prophets dispute futures in court. Shamans hold a storm away from a city one exhausted watch at a time. The dead answer badly when miracles are worked near their graves. Holy engineers keep ancient gates, cisterns, lifts, and heatworks alive with inherited formulae that may be prayer, craft, or both.
+Keeping a city alive can mean bargaining with gods for worship and service, or asking shamans to hold back a storm through another exhausting watch. Holy engineers maintain ancient gates, cisterns, lifts, and heatworks with inherited formulae: prayer, craft, or some combination of the two. Prophets bring conflicting accounts of the future to court. Near graves, miracles can draw troubling answers from the dead.
 
 ## Begin in Low Sere
 
-[[Places/Low Sere|Low Sere]] is a settlement where warm water, old death, and
-contested expertise meet at one black door. [[Sources/At the Basin Table|At
-the Basin Table]] records several of its people arguing on the eve of a
-descent.
+In [[Places/Low Sere|Low Sere]], warm water from an old intake heats homes and supports crops. The intake is failing. Work behind its black pressure door once killed two people, and the settlement still disputes the warnings, the responsibility, and who may decide what happens below.
+
+[[Sources/At the Basin Table|At the Basin Table]] brings several of its people together on the eve of a descent. They need the water, but have yet to agree on the terms of the work or protection for the dead.
 
 ## Range outward
+
+These surveys introduce the wider world. They bring together accounts whose inhabitants still disagree.
 
 - [[World/Kalsa|The world of Kalsa]] — permanent sunset, roads, climates, and the Crown Cities.
 - [[World/Peoples and Polities|Peoples and Polities]] — several powers and ways of life without pretending any people has one nature.
@@ -29,58 +30,33 @@ descent.
 - [[World/Gods and the Dead|Gods and the Dead]] — worship, obligation, manifestation, and divine uncertainty.
 - [[World/Relics and Ruins|Relics and Ruins]] — sacred infrastructure, layered dungeons, and claims that survive descent.
 
-These are surveys: useful bearings written across arguments that continue
-inside the world.
-
 ## Read another argument
 
-[[Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]]
-is a Ju'onai teaching dispute in which four schools explain one failure and the
-keeper refuses to vanish into their footnotes.
+In [[Sources/Four Readings of a Broken Sluice|Four Readings of a Broken Sluice]], four Ju'onai schools explain why a sluice passes its test yet fails to distribute water to three fields. The keeper asks who will take responsibility for the repair.
 
-[[Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows an
-old cult succession. What happens when its successor demands the covenant book,
-miracle ledger, and death inventory at once?
+[[Sources/What the Three Ledgers Kept|What the Three Ledgers Kept]] follows a succession in an old cult. The successor demands three records at once: the covenant book, miracle ledger, and death inventory.
 
-Iron crosses a furnace court in a divine flash while a mortuary roll remains
-sealed below. [[Sources/The Faces in the Ash Halo|The Faces in the Ash Halo]]
-follows the champion's victory to the shrines that stop answering.
+In [[Sources/The Faces in the Ash Halo|The Faces in the Ash Halo]], iron crosses a furnace court in a divine flash and forms a champion's armour. A mortuary roll remains sealed below. The champion goes on to hold a gate; afterward, the death witness visits shrines that have stopped answering.
 
-Three Selza'a families depend on the same high windtrap.
-[[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] begins
-when its corroded anchor gives way.
+[[Sources/After the High Windtrap Broke|After the High Windtrap Broke]] begins when a corroded anchor fails in the high windtrap shared by three Selza'a families. Their water supply is damaged, and they must address both the failure and accusations about its cause.
 
-A branch holder orders a tributary ward's heat sent to siege foundries.
-[[Sources/Who Kept the Heat|Who Kept the Heat]] stays with the steward who
-closes the valve.
+In [[Sources/Who Kept the Heat|Who Kept the Heat]], a branch holder orders heat diverted from a tributary ward to siege foundries. The account follows the steward who closes the valve.
 
-Store marks and shift papers outlast a disastrous wartime levy in
-[[Sources/The Missing Relief Cohort|The Missing Relief Cohort]]. The wider war
-is still waiting at the review.
+[[Sources/The Missing Relief Cohort|The Missing Relief Cohort]] examines store marks and shift papers that survived a disastrous wartime levy. The review must still reckon with the wider war.
 
-Why did two sponsored forecasts omit what their sponsors planned to do with
-them? [[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] makes the houses
-answer before the grain moves.
+[[Sources/The Closed Lift Appeal|The Closed Lift Appeal]] concerns two sponsored forecasts that omitted what their sponsors planned to do in response. Before the grain can move, the houses must disclose those plans.
 
 ### Follow a crowded future
 
-Begin with [[World/Magic and Miracles#When futures crowd|When futures crowd]],
-then follow four kinds of collision:
+Start with [[World/Magic and Miracles#When futures crowd|When futures crowd]], then read four accounts in which decisions and workings interfere with one another:
 
-- [[Sources/The Three Orders at Sunwall|The Three Orders at Sunwall]] — the
-  steward responsible for a loaded wall removes two strategic openings.
-- [[Sources/The Narrow Shield|The Narrow Shield]] — a temporary command saves
-  central refuges and releases the outer road and fields.
-- [[Sources/The Empty Bridge Vigil|The Empty Bridge Vigil]] — divine protection
-  holds a bridge while river work sends evacuees toward unprotected shelters.
-- [[Sources/At the Second Gate|At the Second Gate]] — a live delivery whose
-  report is still sealed and whose first bell is about to sound.
+- [[Sources/The Three Orders at Sunwall|The Three Orders at Sunwall]] — the steward responsible for a wall under load eliminates two strategic openings.
+- [[Sources/The Narrow Shield|The Narrow Shield]] — a temporary command saves the central refuges while giving up protection of the outer road and fields.
+- [[Sources/The Empty Bridge Vigil|The Empty Bridge Vigil]] — divine protection keeps a bridge standing, but river work redirects evacuees toward shelters whose protection has been withdrawn.
+- [[Sources/At the Second Gate|At the Second Gate]] — you are escorting grain to Reed Ward and carrying a sealed report comparing accounts of the delivery. The report has yet to reach its recipient; the first gate bell is about to sound.
 
 ### Other crossings
 
-Ju'onai surveyors kept rebuilding one ascent toward the Luck Crown.
-[[Sources/The Road That Returned|The Road That Returned]] sets their road books
-beside three incompatible Selza'a recitations.
+[[Sources/The Road That Returned|The Road That Returned]] compares the road books of Ju'onai surveyors, who repeatedly rebuilt an ascent toward the Luck Crown, with three incompatible Selza'a recitations.
 
-[[Sources/The Grain at Two Gates|The Grain at Two Gates]] is a copied delivery
-record whose safe route became crowded as soon as the buyers acted on it.
+[[Sources/The Grain at Two Gates|The Grain at Two Gates]] presents a copied delivery record. It describes a safe route that became crowded as soon as the buyers acted on the information.

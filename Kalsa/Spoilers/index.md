@@ -12,11 +12,11 @@ tags:
 # Kalsa — Author and GM Vault
 
 > [!warning] Deliberate setting and dungeon spoilers
-> This section names the machinery beneath Kalsa, complete historical causes, disputed design state, and GM-facing dungeon answers. Nothing here is secret, but it is meant to be chosen. For the high-fantasy reader path, return to [[../Public/index|Kalsa for Readers]].
+> This section explains how Kalsa works, gives the full causes behind its history, records disputed design questions, and reveals dungeon answers for GMs. These notes are openly available; reading them should be a deliberate choice. To encounter the world without those answers, return to [[../Public/index|Kalsa for Readers]].
 
-Kalsa is a high-fantasy world living in the wreckage of an older machine. Its peoples inhabit the twilight continent of a tidally locked planet. Their Crown Cities fell from an Ark; their magic steers possibility; their gods are upper-dimensional powers with appetites, dependents, and histories.
+Kalsa is a high-fantasy setting whose peoples live on a continent in permanent twilight. Their planet is tidally locked: the same side always faces its sun. The Crown Cities are wrecks of an interstellar colony vessel, the Ark. Magic steers which possible outcomes occur, and the gods are powers extending into higher dimensions, with appetites, beings who depend on them, and histories of their own. Much of present life takes place among the remains of that older machine.
 
-This vault distinguishes current setting canon from the exported seed, unresolved questions, in-world belief, and story premises. Start with [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]].
+For authoring or GM use, begin with [[Spoilers/Reference/Canon and Provenance|Canon and Provenance]]. It explains how to distinguish adopted setting facts from the exported original seed, questions still awaiting decisions, beliefs held within the world, and premises available for stories.
 
 ## Foundations
 
@@ -44,6 +44,6 @@ This vault distinguishes current setting canon from the exported seed, unresolve
 - [[Spoilers/Institutions/index|Institutions]] — maintenance, divine economies, courts, language, polities, and the boundaries between their authorities.
 - [[Spoilers/Dungeons/index|Dungeons]] — layered site provenance, admission, delving compacts, and residual salvage.
 
-## Present repair boundary
+## What remains undecided
 
-The seed establishes a powerful deep structure but not yet a settled present-day era or complete map. Current institution and dungeon notes adopt bounded procedures where the evidence and setting direction support them; their `## Unresolved` sections remain load-bearing. The vault does not fill open ground with generic fantasy furniture merely to make the shelves look occupied.
+The original seed provides substantial foundations for the world, but it does not establish a settled present-day era or a complete map. Institution and dungeon notes specify procedures only within the limits supported by the evidence and the setting's direction. Read their `## Unresolved` sections as limits on what has been established: those gaps still matter when writing or running a game. Undeveloped places and practices remain open rather than being filled with generic fantasy defaults.
