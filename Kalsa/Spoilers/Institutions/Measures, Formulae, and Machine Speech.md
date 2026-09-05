@@ -15,142 +15,187 @@ tags:
 
 # Measures, Formulae, and Machine Speech
 
-Prometheus replaced many inherited Earth units, taught octal reckoning, represented digits as binary triplets, and divided time and life into powers or groups of eight. Fragments of that designed order remain in Ark markings, service intervals, technical manuscripts, ritual counts, and machine interfaces. They do not amount to one present system of measurement.
+A market needs a way to agree how much grain fills a measure. A work crew needs to know how long a watch lasts. An operator at an inherited machine needs to know what value its controls expect. These questions meet whenever local reckoning must be compared with an old standard—or with the reckoning of another community.
 
-The practical institution is a chain of comparison: local measures and calendars are related to surviving standards, formulae are copied with provenance, qualified operators state what a machine accepted, and the people bearing the consequence can inspect or challenge the conversion. Precision lives in this chain, not in the prestige of old language.
+Kalsa has no single present system of measurement. Prometheus replaced many inherited Earth units, taught octal reckoning—counting in base eight—and represented digits as binary triplets, groups of three binary digits. Time and life were also divided into powers or groups of eight. Parts of that designed order survive in Ark markings, service intervals, technical manuscripts, ritual counts, and machine interfaces. Their survival does not mean that everyone still uses the same units or understands them in the same way.
 
-## Owner map
+Measurement practice connects these different systems through recorded comparisons. Measurers explain conversions; custodians preserve standards; operators keep the sources of their formulae and report what a machine actually accepted. People whose work, pay, supplies, or safety depend on the result must be able to inspect and challenge it. An old inscription may help establish a precise measure. Its age and language cannot establish precision on their own.
 
-| Matter | Owner | Forbidden inference |
+## Starting with a usable measure
+
+People usually measure with something their work lets them reproduce. A market may keep a vessel for grain, and a craft may keep a rod for cloth. A water crew may work from a marked depth, a flow interval, or repeated fills. Delvers may pace distances and count lamp consumption. Such methods can be reliable within their setting even when they have no clear descent from Promethean units.
+
+Inherited systems complicate the comparison. A hatch may give its pressure requirement on an old scale. A controller may require an octal field with each digit encoded as a binary triplet. A service record may count intervals from a starting date that no living calendar shares. Finding eight objects or marks together suggests inherited design; it does not tell the reader what they measure or what they do.
+
+A conversion record must therefore explain how one measure was related to another. It names:
+
+- the source and target measures;
+- the physical standard or observed relationship used to compare them;
+- any rounding or uncertainty;
+- the date and operator;
+- the task for which the conversion is intended.
+
+Some comparisons rest on weak evidence. A damaged diagram may suggest a conversion, or a single successful activation may appear to confirm one. The record must retain that limitation wherever the result is used.
+
+## Who decides what
+
+Several people may have authority over the same operation, but they answer different questions. A custodian can protect a reference object without owning everything measured against it. An operator can judge whether a water release is technically safe without deciding who is entitled to the water.
+
+| Matter | Responsible authority | Limit of that authority |
 |---|---|---|
-| A local market measure | The polity, market, craft, or community that recognizes it | That the measure is valid in every jurisdiction or at an Ark interface |
-| A calibration artifact | Its recorded custodian under [[Spoilers/Institutions/Relic Custody|Relic Custody]] | Ownership of every object measured against it |
-| Safe operation of a named inherited system | A competent operator or [[Spoilers/Institutions/The Techpriesthoods|Techpriest lineage]] within its proven scope | Land title, political command, or universal technology ownership |
-| The formula submitted | The operator who records and submits it | Power to decide the legal purpose of operation |
-| Machine response | The machine as material evidence, recorded by witnesses or instrumentation | A divine, legal, or moral judgment |
-| Public consequence of operation | The polity or office responsible for the affected water, road, wall, store, or other public system | Authority to rewrite technical evidence after failure |
-| Contractual conversion | The parties under their compact or trade law | Permission to hide the reckoning from workers bound by it |
-| Calendar and date used in a record | The issuing institution, stated with its conversion basis where needed | Proof of a universal Kalsan epoch |
-| Appeal | The forum that owns the underlying work, contract, custody, or public danger | A technical certifier replacing civil judgment |
+| A local market measure | The polity, market, craft, or community that recognizes it | Local recognition does not make it valid in another jurisdiction or at an Ark interface. |
+| A calibration artifact | Its recorded custodian under [[Spoilers/Institutions/Relic Custody|Relic Custody]] | Custody does not confer ownership of objects compared with the artifact. |
+| Safe operation of a named inherited system | A competent operator or [[Spoilers/Institutions/The Techpriesthoods|Techpriest lineage]] within its proven scope | Technical competence grants neither land title nor political command nor ownership of technology in general. |
+| The formula submitted | The operator who records and submits it | Submitting the formula does not decide the operation's legal purpose. |
+| Machine response | The machine supplies material evidence; witnesses or instruments record it. | The response is not a divine, legal, or moral judgment. |
+| Public consequences | The polity or office responsible for the affected water, road, wall, store, or other public system | Responsibility for the public work does not permit rewriting technical evidence after a failure. |
+| Contractual conversion | The parties acting under their compact or trade law | They may not hide the reckoning from workers bound by it. |
+| Calendar and date in a record | The issuing institution, with its conversion basis stated where needed | Its date does not establish a universal Kalsan epoch. |
+| Appeal | The forum responsible for the underlying work, contract, custody, or public danger | A technical certifier does not replace civil judgment. |
 
-## Measures in use
+## Keeping standards trustworthy
 
-People measure with what their work can reproduce. Grain may be counted by a vessel held at a market. Cloth may be measured against a rod kept by a craft. A water crew may use a marked depth, flow interval, or repeated fill. A delving party may pace distance and count lamp consumption. Such measures can be locally reliable without descending cleanly from Promethean units.
+A **standard** is a reference used to check a measure. It may be a marked object, a stable material sample, a repeatable physical process, a copied table, a machine's reference state, or a relationship among several of these.
 
-Old systems introduce a second layer. A hatch may specify pressure in an inherited scale. A controller may expect an octal field whose digits encode triplets. A service record may count intervals from an epoch no living calendar shares. An array of eight is evidence of design inheritance, not enough to identify the unit or purpose.
+The custodian keeps the standard available for comparison and preserves its history: previous comparisons, damage, repairs, and relevant environmental conditions. This is a specific responsibility. Keeping the market's rod does not make its custodian ruler of the market. Maintaining a reference cell does not grant ownership of the water system calibrated against it.
 
-Conversion therefore needs a declared bridge. A record names the source measure, target measure, physical standard or observed relation used, rounding or uncertainty, date, operator, and intended task. If the conversion is inferred from a damaged diagram or one successful activation, that weakness remains attached to the result.
+Standards can change while their names remain the same. Objects wear. Local gravity and temperature may affect a comparison. Repairs may introduce different materials. Copyists may put errors into tables. Institutions check for this drift by keeping paired standards, witnessing comparisons, sending traveling copies, using more than one method, and formally retiring unreliable references. A common working measure with a sound comparison history can be more trustworthy than a prestigious antique.
 
-## Standards and custody
+Obtaining a comparison is not equally easy for everyone. Remote communities may have to pay fees and travel to have their weights checked. A craft may withhold its standard to exclude rivals; a polity may seize a reference during war. A Techpriest lineage may limit direct handling because damage to the standard would endanger a public work.
 
-A standard can be a marked object, stable material sample, repeated physical process, copied table, machine reference state, or relation among several of these. Its custodian preserves access, comparison history, damage, repairs, and environmental conditions. Custody is narrow. Keeping the rod does not make the custodian lord of the market; maintaining the reference cell does not grant title to the water system it calibrates.
+A restriction may protect a real dependency, or it may let its holder extract payment for access. It needs a stated hazard, supporting records, and a way to review whether it remains justified.
 
-Standards drift. Objects wear, local gravity and temperature may matter, repairs substitute materials, and copied tables accumulate transcription errors. Institutions manage drift through paired standards, witnessed comparison, traveling copies, redundant methods, and explicit retirement. A prestigious antique can be less trustworthy than a common working measure with an honest comparison history.
+## What a formula does
 
-Access has costs. A remote community may pay travel and fees to compare its weights. A craft may monopolize a standard to exclude rivals. A polity may seize a reference during war. A Techpriest lineage may restrict direct handling because damage would endanger a public work. These restrictions can protect a real dependency or disguise rent. The question is always what hazard, record, and review justify them.
+A **formula** is a defined expression or sequence used to calculate, describe, authenticate, or operate something. It can include high language, digits, other marks, gestures, timing, physical arrangements, or a state observed at a machine. Speaking words may be only one part of it.
 
-## Formulae
+The exact grammar of Ark formulae remains unresolved. “Machine speech” is an author-facing term for forms that machines recognize. It does not establish that machines converse in High Lojban, or even that every accepted sequence is natural language.
 
-A formula is a bounded expression or sequence used to calculate, describe, authenticate, or operate. It may combine high language, digits, marks, gesture, timing, physical arrangement, or state observed at a machine. The exact grammar of Ark formulae is unresolved. “Machine speech” is an author-facing description for forms machines recognize, not proof that machines converse in High Lojban or that every accepted sequence is natural language.
+A formula record keeps the preserved sequence separate from what an interpreter thinks it means. It distinguishes:
 
-Formula records distinguish:
-
-- the literal marks, sounds, movements, or settings preserved;
-- the source and chain of copying;
-- the interpreter's gloss;
+- the literal marks, sounds, movements, or settings;
+- the source and the chain through which it was copied;
+- the interpreter's explanation;
 - the variables or conditions believed to matter;
-- the system and configuration on which it was tried;
-- acceptance, refusal, partial response, and delayed consequence;
-- safety limits and abort sequence;
-- who witnessed the operation and who bore its risk.
+- the system and configuration on which it was tested;
+- acceptance, refusal, partial response, and delayed consequences;
+- safety limits and the abort sequence;
+- the witnesses and the people who bore the risk.
 
-A successful result validates only the tested relation under the recorded conditions. It does not prove the operator's theology or translation. A door may open for a sequence whose supposed words are meaningless. A perfectly grammatical command may fail because the system requires a physical key, identity relation, timing boundary, or state no speaker recognized.
+Success supports only the relationship tested under those recorded conditions. A door may open when a sequence is performed even though its supposed words are meaningless. That result does not prove the operator's translation or theology.
 
-## Teaching and certification
+Failure can be equally difficult to interpret. A command may be perfectly grammatical yet fail because the system also requires a physical key, an identity relation, a timing boundary, or a state that none of the speakers recognized. Knowing the language and knowing how to operate the system are separate achievements.
 
-Training separates calculation, copying, interpretation, calibration, and live operation. An apprentice may be competent to copy a triplet field without knowing the unit, to convert market weights without reading a service liturgy, or to speak a formula under supervision without being able to diagnose refusal. Combining those competencies requires separate evidence rather than a grand title.
+## Learning the work
 
-A useful certificate identifies:
+Training treats calculation, copying, interpretation, calibration, and live operation as distinct skills. An apprentice may accurately copy a triplet field without knowing its unit. Someone who converts market weights may be unable to read a service liturgy. A novice may safely speak a formula under supervision while having no ability to diagnose a refusal.
 
-- the systems, measures, or formula families in scope;
-- the standards and source recensions used in examination;
+Evidence of one skill does not establish the others. A title covering several competencies needs separate evidence for each.
+
+A useful certificate tells a crew or polity exactly what they have reason to trust. It identifies:
+
+- the systems, measures, or formula families covered;
+- the standards and source versions used in the examination;
 - whether the holder may observe, calculate, prepare, submit, interrupt, or supervise;
 - known substitutions and unsafe states;
-- expiry or re-examination after material change;
+- expiry conditions or requirements for re-examination after material change;
 - the teacher, witnesses, and appeal path.
 
-Certification gives a polity or work crew a reason to trust. It cannot make a changed machine conform to old training. After repair, relocation, relic substitution, or unexplained response, competent operators must be able to narrow or suspend their own authorization.
+A certificate describes demonstrated competence; it cannot make a changed machine behave as it did during training. Repair, relocation, substitution of a relic, or an unexplained response may put the system outside that evidence. Competent operators must be able to narrow or suspend their own authorization when this happens.
 
-## Ordinary workflow
+## Carrying out an operation
 
-Before a consequential operation, a clerk or recorder identifies the public, contractual, or custodial authority requesting it. The operator inspects the live system and compares it with the formula's recorded scope. A measurer checks relevant standards and conversions. The people doing the work receive the procedure, stop conditions, and consequences in speech they can use.
+Before an operation with significant consequences, a clerk or recorder establishes who is requesting it and what public, contractual, or custodial authority they hold. The operator inspects the system as it now exists and checks whether it falls within the formula's recorded scope. A measurer checks the relevant standards and conversions.
 
-The operation then proceeds through a witnessed sequence:
+The people doing the work must then receive an explanation they can use: what will be done, when to stop, and what consequences to expect.
 
-1. record current state and dependencies;
-2. identify the formula and version;
-3. confirm units, reference points, timing, and physical prerequisites;
-4. announce who may command, stop, and record;
-5. submit or perform the sequence;
-6. capture acceptance, refusal, anomaly, and material result separately;
-7. return the system to its safe state or record why that was impossible;
-8. publish the operational result to the authority and affected community.
+The witnessed operation follows this sequence:
 
-Most daily uses are humbler: checking a market vessel, copying a dosage table, agreeing when a watch changes, recalculating a worker's share, or teaching a novice not to confuse octal notation with a local count. The institution earns legitimacy there. A lineage that can wake an Ark organ but routinely cheats laborers through opaque conversions has technical power and a political legitimacy problem.
+1. Record the current state and the dependencies involved.
+2. Identify the formula and its version.
+3. Confirm the units, reference points, timing, and physical prerequisites.
+4. Announce who may command, stop, and record the work.
+5. Submit or perform the sequence.
+6. Record acceptance, refusal, anomalies, and the material result separately.
+7. Return the system to its safe state, or record why that could not be done.
+8. Publish the operational result to the responsible authority and affected community.
 
-## Public notice, work, and contract
+Most measurement work is less dramatic. People check market vessels, copy dosage tables, agree on watch changes, recalculate workers' shares, and teach novices to distinguish octal notation from a local count. These daily uses are where the institution earns trust. A lineage may be able to wake an Ark organ and still routinely cheat laborers through conversions they cannot inspect. Its technical power does not resolve that failure of political legitimacy.
 
-Measures that determine tax, ration, wage, boundary, sentence, or public hazard must be inspectable. The issuing authority identifies the standard, offers a usable local explanation, and preserves enough record for independent comparison. A high formula posted without conversion is not notice to people who cannot calculate their burden from it.
+## Making the reckoning public
 
-Contracts state the reckoning of wages, shares, supplies, time, distance, and loss. In a [[Spoilers/Institutions/Delving Compacts|delving compact]], porters and guides must be able to understand the measure by which food, lamp reserve, hazard pay, and residual salvage are divided. A sponsor cannot exploit a switch between local and octal notation and call the difference technical necessity.
+When a measure determines a tax, ration, wage, boundary, sentence, or public hazard, affected people must be able to inspect it. The issuing authority identifies the standard, explains it in usable local terms, and retains enough evidence for someone else to check the comparison. Posting a high formula does not give adequate notice to people who cannot use it to calculate what they owe or face.
 
-Treaties and interregional works may use parallel measures. The parties choose a conversion, comparison site, tolerance, and forum for drift. When one side controls the only standard, the other needs witnessed access or an independent copy. Otherwise measurement becomes an unreviewable tribute mechanism.
+Contracts must state how wages, shares, supplies, time, distance, and loss will be reckoned. Under a [[Spoilers/Institutions/Delving Compacts|delving compact]], porters and guides need to understand how the chosen measures divide food, lamp reserves, hazard pay, and residual salvage. A sponsor cannot switch between local and octal notation to its advantage and excuse the difference as technical necessity.
 
-## Machine recognition and authority
+Treaties and works spanning regions may retain parallel measures. Their parties agree on a conversion, a place for comparison, an acceptable tolerance, and a forum to hear disputes about drift. If one side controls the only standard, the other needs witnessed access or an independent copy. Without that check, the controlling party can use measurement to exact tribute that nobody else can review.
 
-An old system can accept, reject, request, or act upon a formula. That response is evidence about the machine. It is not consent by affected residents, proof that the operator is chosen by a god, or adjudication of who owns the output. The public owner of a water system still decides the lawful purpose of release; the competent lineage still decides whether it can be done safely; custodians still protect named components; affected workers and residents retain ordinary rights and claims.
+## What machine recognition proves
 
-This distinction becomes sharp when access is rare. An elite may say only its accent wakes the machine. The machine may actually be responding to timing, encoded triplets, an unseen credential, or configuration preserved by the elite's tools. Until tested, the institution records the operational correlation without converting it into bloodline, caste, or divine right.
+An old system may accept or reject a formula, request one, or act upon one. Its response provides evidence about how the machine behaves. It does not supply residents' consent, identify a god's chosen operator, or decide ownership of the output.
 
-## Refusal, stop authority, and appeal
+At a public water system, these responsibilities remain separate even after a successful activation. The public owner decides the lawful purpose of a release. The competent lineage decides whether it can be performed safely. Custodians protect the named components in their care. Affected workers and residents retain their ordinary rights and claims.
 
-An operator may refuse when the formula's source is unknown, units cannot be reconciled, the system has materially changed, safety limits are absent, or the requesting authority conceals who will bear the consequence. A measurer may refuse to certify a damaged standard. A translator may refuse to turn an uncertain gloss into an executable instruction. A worker may stop when the performed sequence differs from the one explained to the crew.
+Rare access makes this distinction especially important. An elite may claim that only its accent can wake a machine. The observed result might instead depend on timing, encoded triplets, an unseen credential, or a configuration preserved in the elite's tools. Until those possibilities have been tested, the record can say that the elite's procedure works under observed conditions. It cannot turn that correlation into a right of bloodline, caste, or divine appointment.
 
-Emergency authority can bypass ordinary scheduling, not material limits. A polity may order an immediate attempt to close a failing gate; it cannot force a technician to certify a formula as safe. If refusal is overridden, the overriding official owns the decision and record. The operator still owns their technical statement.
+## Refusing, stopping, and challenging work
 
-Appeal follows the disputed layer. Calibration and scope go to independent competent comparison where available. Wage conversion goes to the contractual or labor forum. Custody goes through [[Spoilers/Institutions/Relic Custody|Relic Custody]]. Entry and public hazard at a ruin go through [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]]. Political use returns to the polity. No formula council acquires all these powers merely because numbers appear in each dispute.
+Different participants can identify different reasons to stop:
 
-## Historical consequence: the shortened watch
+- An operator may refuse a formula with an unknown source, irreconcilable units, or no safety limits. They may also refuse when the system has materially changed or the requesting authority conceals who will bear the consequences.
+- A measurer may decline to certify a damaged standard.
+- A translator may refuse to make an uncertain interpretation into an executable instruction.
+- A worker may stop when the sequence being performed differs from the one explained to the crew.
 
-[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] owns the factual incident, damage, inquiry, and settlement. This institution owns the resulting measurement discipline: record the machine interval, local watch, signed conversion, work schedule, and public notice as separate objects; compare a disputed conversion against an observable process; and preserve the operator's result separately from the authority that scheduled exposed labor.
+An emergency can justify bypassing the normal schedule. It cannot remove a material limit. A polity may order an immediate attempt to close a failing gate, but it cannot require a technician to declare the formula safe. If an official overrides a refusal, that official is responsible for the decision and its record. The operator retains responsibility for—and authority over—their own technical statement.
 
-The case also supports downstream stop authority when the announced schedule and observed system diverge. Machine acceptance proves only that the submitted input was accepted. It does not certify the conversion, the work order, or the distribution of risk. These consequences travel as a model for other public works, but the event fixes no universal unit, watch length, formula grammar, or calendar.
+The appeal goes to the body responsible for the disputed question:
 
-## Marginal views
+- Calibration and the limits within which standards, formulae, or technical work can be relied on go to independent competent comparison where available.
+- Wage conversions go to the contractual or labor forum.
+- Custody follows [[Spoilers/Institutions/Relic Custody|Relic Custody]].
+- Ruin entry and public hazards at a ruin follow [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]].
+- Political use returns to the polity.
 
-A market measurer says old numerals are useful because officials cannot quietly stretch a marked vessel, then adds that officials can still own the only person licensed to read them. A rural craft says traveling standards arrive after taxes are due. A lineage operator says open access is easy to demand when one mistake can poison a district. A dismissed apprentice says safety secrecy and trade secrecy share a robe so often that even honest priests stop seeing the seam.
+Numbers may appear in all these disputes. That does not give a formula council jurisdiction over all of them.
 
-A machine-facing clerk says the interface is the fairest participant because it rejects patrons and paupers alike. A downstream worker answers that the machine does not choose who is standing in the spillway.
+## The lesson of the shortened watch
+
+[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] is the authoritative account of the incident, damage, inquiry, and settlement. The measurement discipline that follows from it requires several records to remain distinct: the machine interval, the local watch, the signed conversion between them, the work schedule, and the public notice.
+
+A disputed conversion must be checked against an observable process. The operator's result must also remain separate from the decision of the authority that scheduled exposed labor. Otherwise a successful machine input can be used to conceal a mistake elsewhere in the work.
+
+The case supports stop authority for downstream workers when the announced schedule and observed system no longer agree. Machine acceptance establishes that the submitted input was accepted. It does not establish that the conversion was correct, that the work order was justified, or that risk was properly distributed.
+
+Other public works can use these consequences as a model. The event supplies no universal unit, watch length, formula grammar, or calendar.
+
+## People at the edges
+
+For a market measurer, old numerals offer a useful check on officials: a marked vessel cannot quietly be stretched. The measurer adds that officials can still control the only person licensed to read the marks. A rural craft has a more immediate complaint—the traveling standards arrive after its taxes are due.
+
+A lineage operator defends restrictions on access by pointing out that one mistake can poison a district. A dismissed apprentice sees another danger: safety secrecy and trade secrecy share a robe so often that even honest priests stop seeing the seam.
+
+A machine-facing clerk calls the interface the fairest participant because it rejects patrons and paupers alike. A downstream worker answers that the machine does not choose who is standing in the spillway.
 
 ## Consequences and dungeon seams
 
-- A map's distances are internally exact but use an unknown standard and epoch.
-- Two formula copies differ by one triplet; each has a credible custody chain.
-- A machine accepts the “wrong” regional pronunciation, exposing a false purity claim without explaining the true input.
-- A calibration artifact lies below a settlement that depends on the standard but refuses the custodian's entry terms.
-- A delving sponsor budgets lamp time in one watch system and wages in another.
-- A sealed Ark organ requests a value no current measure can safely supply.
-- A ritual count preserves the abort sequence for a system whose technical commentary was lost.
-- A public work can be repaired only by changing a revered standard, forcing a dispute between continuity and accuracy.
-- A machine response appears to recognize a person; whether it recognized identity, credential, state, or coincidence remains unresolved.
+- A map gives internally exact distances, but its standard and epoch are unknown.
+- Two copies of a formula differ by one triplet. Both have credible custody chains.
+- A machine accepts the “wrong” regional pronunciation. This disproves a purity claim without revealing which input actually mattered.
+- A settlement depends on a standard whose calibration artifact lies below it, yet refuses the custodian's terms for entry.
+- A delving sponsor uses one watch system to budget lamp time and another to calculate wages.
+- A sealed Ark organ requests a value that no current measure can safely supply.
+- A ritual count has preserved a system's abort sequence after its technical commentary was lost.
+- Repairing a public work requires changing a revered standard, bringing continuity into conflict with accuracy.
+- A machine appears to recognize a person. Whether it responded to identity, credential, state, or coincidence remains unresolved.
 
 ## Unresolved
 
-- Exact Promethean units, notation, formula grammar, and interface modes.
-- Which measures descend continuously from the Ark and which are later reconstructions.
+- The exact Promethean units, notation, formula grammar, and interface modes.
+- Which measures have survived continuously from the Ark, and which were reconstructed later.
 - Present calendars, epochs, watch lengths, life stages, and conversion systems.
-- Whether machine-recognized forms are linguistic, symbolic, gestural, cryptographic, relational, or mixed.
-- Formal names and jurisdictions of certifying bodies, standards custodians, and appeal forums.
-- How machines authenticate operators, if they do.
-- What degree of standardization exists within or between Crown Cities.
-- Whether any surviving system can authoritatively translate its own interface rather than merely respond to inputs.
+- Whether machines recognize linguistic, symbolic, gestural, cryptographic, relational, or mixed forms.
+- The formal names and jurisdictions of certifying bodies, standards custodians, and appeal forums.
+- Whether machines authenticate operators, and how they do so if they do.
+- How much standardization exists within or between Crown Cities.
+- Whether any surviving system can authoritatively translate its own interface, rather than only respond to inputs.
