@@ -13,26 +13,32 @@ tags:
 
 # The Grey Scald
 
-The Grey Scald is adopted history at [[Spoilers/Places/Low Sere|Low Sere]]. Its absolute date and place in the wider timeline remain unresolved.
+The Grey Scald was a maintenance disaster at [[Spoilers/Places/Low Sere|Low Sere]] that killed two workers and injured three others. The custodian responsible for the intervention was suspended and later removed, but the proceeding never established a competent technical account of what happened. His apprentice took over with missing records and an appointment that remained provisional.
 
-## The failure
+The event is adopted history. Its absolute date and place in the wider timeline remain unresolved.
 
-During a pressure rise in [[Spoilers/Dungeons/The Ashen Intake|The Ashen Intake]], custodian Teren Vey opened an auxiliary relief route. The inherited service phrase ordered the maintenance platform cleared after an octal interval. Low Sere's public warning used a descendant word for a shorter span. Hot mineral slurry entered while Jori Kes, Pell Am, and three other workers remained on the platform. Jori and Pell died; the other three were injured.
+## What happened
 
-## Suspension without succession
+Pressure was rising in [[Spoilers/Dungeons/The Ashen Intake|The Ashen Intake]] when custodian Teren Vey opened an auxiliary relief route. The inherited service phrase instructed workers to clear the maintenance platform after an octal interval. Low Sere's public warning used a word descended from that older language, but it meant a shorter span.
 
-The basin table suspended Teren immediately and seized the threshold spindle, stopping further intervention. The later removal collapsed emergency discipline, technical comparison, mortuary claim, and succession into one proceeding. No competent peer review compared the inherited phrase, public warning, physical sequence, and Teren's intervention.
+Hot mineral slurry entered the platform while Jori Kes, Pell Am, and three other workers were still there. Jori and Pell died. The other three were injured.
 
-Teren hid the Ashen Measure calibration comb and last handoff folio inside the intake, claiming an unqualified restart would repeat the disaster. Low Sere treated the withholding as sabotage. The Ash Names sealed the affected sump. Apprentice Sera Venn inherited a live system, incomplete records, and a provisional appointment nobody would make permanent.
+## How the response left custody unresolved
 
-## Present inheritance
+The basin table immediately suspended Teren and seized the threshold spindle, preventing further intervention. It later removed him through a single proceeding that bundled together emergency discipline, technical comparison, claims concerning the dead, and the choice of a successor. No competent peer review compared the inherited phrase, the public warning, the physical sequence, and Teren's actions.
 
-The missing objects and unsettled claims are now part of the Ashen Intake descent. Recovering them can make separate technical, disciplinary, mortuary, and succession reviews possible. It does not decide Teren's appeal, Sera's appointment, the dead's identity, or ownership of the intake.
+Teren hid the **Ashen Measure** calibration comb and the last handoff folio inside the intake. He claimed that restarting the system without qualified operators would repeat the disaster. Low Sere treated his withholding of the objects as sabotage.
 
-## Institutional consequences
+The Ash Names sealed the affected sump. Apprentice Sera Venn became responsible for a still-active system with incomplete records. Her appointment was provisional, and nobody would make it permanent.
 
-- [[Spoilers/Places/Low Sere|Low Sere]] owns the settlement losses, current dependencies, actors, and admission pressure.
-- [[Spoilers/Institutions/Relic Custody|Relic Custody]] owns the lifecycle lesson: emergency suspension must not swallow peer review, removal, handoff, and succession.
+## What recovery can settle
+
+The missing comb and folio, along with the unresolved claims from the disaster, are now part of the Ashen Intake descent. Recovering the objects can provide what is needed for separate reviews of the technical failure, discipline, claims concerning the dead, and succession.
+
+Recovery does not itself decide Teren's appeal, Sera's appointment, the identity of the dead, or ownership of the intake. Nor does the event establish which translation was linguistically pure or whether Teren was justified in withholding the objects.
+
+## Where the consequences are documented
+
+- [[Spoilers/Places/Low Sere|Low Sere]] owns the account of the settlement's losses, current dependencies, actors, and pressure over admission to the intake.
+- [[Spoilers/Institutions/Relic Custody|Relic Custody]] owns the lesson for custody procedure: an emergency suspension must leave room for distinct peer review, removal, handoff, and succession decisions.
 - [[Spoilers/Dungeons/The Ashen Intake|The Ashen Intake]] owns the physical evidence, current route, clock, objectives, and playable outcomes.
-
-The event does not prove which translation was linguistically pure or whether Teren's later withholding was justified.

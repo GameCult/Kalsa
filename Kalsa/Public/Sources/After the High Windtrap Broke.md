@@ -13,50 +13,31 @@ tags:
 
 # After the High Windtrap Broke
 
-Territorial councils still cite the Broken Windtrap Settlement when they need
-to stop an armed crossing. Victims answer with the keeper's lost contracts
-whenever a repaired structure is offered as the end of a dispute.
+The Broken Windtrap Settlement records how three Selza'a families dealt with the failure of a shared water supply. Their agreement kept households supplied while they disputed the cause, then divided responsibility for repairs. It also cleared an accused keeper of liability. The keeper's lost contracts were never restored.
 
 ## Water first
 
-Three family territories shared a high windtrap and the lower cistern it fed.
-Small faults had interrupted the structure before a corroded anchor finally
-failed. Workers were injured. Catchment surfaces broke and fouled the water
-already stored below.
+The families occupied three territories but relied on one high windtrap to collect water and feed a lower cistern. Small faults had already interrupted its operation when a corroded anchor gave way. The failure injured workers, broke the catchment surfaces, and fouled water stored in the cistern.
 
-An adopted keeper of mixed heritage had been present during the recent
-incidents. Two families treated the pattern as hostile Luck carried by the
-keeper or sheltered by the host family. A visiting prophet found a persistent
-bias around the failing system and refused the demand to name a bearer.
+An adopted keeper of mixed heritage had been present during the recent incidents. Two families took that repeated presence as evidence of hostile Luck: they accused the keeper of carrying it, or the host family of sheltering it. A visiting prophet detected a persistent bias around the failing system but refused their demand to identify anyone as its bearer.
 
-The shared compact opened its emergency stores before deciding cause. Water
-continued at the household baseline. Armed crossings and public culprit-naming
-were suspended while the wreckage remained in place. An independent windtrap
-worker received access through the disputed boundaries.
+The families' shared agreement, or compact, provided for emergency water before anyone settled the question of fault. Its stores opened, and households continued to receive their baseline supply. While the wreckage remained in place, armed crossings and public accusations naming a culprit were suspended. An independent windtrap worker was allowed across the disputed boundaries to examine the failure.
 
 ## Beneath the covering
 
-Corrosion lay beneath a covering none of the families had removed. Each family
-had deferred part of the shared maintenance schedule. Each had kept better
-records of its neighbours' missed work than of its own.
+The corrosion was hidden under a covering that none of the families had removed. All three had put off portions of the shared maintenance schedule. Their records were more thorough about their neighbours' missed work than their own.
 
-The case table found a failed shared system and maintenance breaches by all
-three families. On that evidence it divided the repair costs among them.
+The body hearing the dispute, the case table, found that the shared system had failed and that every family had breached its maintenance obligations. It divided repair costs among all three on that evidence.
 
-The risk pool paid for immediate care, replacement water, and reconstruction.
-Later contributions changed according to use and missed maintenance. Families
-with private cisterns waited in comfort. Poor households consumed emergency
-rations and lost the work the failure had interrupted.
+A shared risk pool funded immediate care, replacement water, and reconstruction. Later contributions were adjusted according to use and missed maintenance. That provision did not make the waiting equally costly: families with private cisterns remained comfortable, while poor households used emergency rations and lost work interrupted by the failure.
 
 ## The corrected record
 
-The rebuilt windtrap passed inspection, and reciprocal restrictions ended.
-Later compacts required every user to record completed maintenance and added
-support for work lost during a shared failure.
+Once the rebuilt windtrap passed inspection, the restrictions the families had placed on one another ended. Later compacts required every user to record maintenance they had completed. They also added support for people who lost work during a shared failure.
 
-The adopted keeper received a corrected record and no liability before changing
-family affiliation; the old contracts were never restored. Later copies have
-lost every name, the place, and the date.
+The keeper's record was corrected, and the keeper was assigned no liability before changing family affiliation. None of the old contracts were restored.
+
+Territorial councils still cite the settlement when they need to stop an armed crossing. Victims cite the keeper's lost contracts when someone offers a repaired structure as sufficient reason to close a dispute. Later copies preserve these consequences, but every name, the place, and the date have been lost.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]],
 [[../World/Magic and Miracles|Magic and Miracles]], or [[../index|Kalsa]].
