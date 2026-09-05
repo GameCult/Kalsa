@@ -10,33 +10,32 @@ tags:
 
 # Kalsa
 
-The sun does not rise or set on Kalsa. It hangs over the same face of the world, and human life follows the long band where its light weakens into twilight.
+Kalsa is a world where the sun stays above the same face of the planet. It never rises or sets. Human life follows a long band of twilight, where the permanent daylight weakens.
 
-Sunward travel brings harsher light, exposed salt, dry heights, and lands whose warmth can be wealth or danger. Coldward travel brings fog, hard rain, storm walls, black water, geothermal hollows, and eventually seas roofed by ice. The inhabited continent crosses both. No single kingdom owns its length, and no surviving map has silenced every rival map.
+Travelling sunward means entering harsher light, exposed salt, and dry heights. Warmth can make these lands valuable or dangerous. Coldward lie fog, hard rain, storm walls, black water, and hollows warmed by heat from the ground. Farther still, ice covers the seas. The inhabited continent extends into both regions. No kingdom controls its whole length, and surviving maps still disagree.
 
-The sky shapes rank as readily as soil. In the [[Peoples and Polities#The divided city|Divided City]], a bright hour can be medicine, ceremony, agricultural capacity, and social privilege. Farther coldward, settlements gather around heat rising through stone. On the southern gulf, the storm beside Ti'asantatca would make ordinary habitation impossible if its shield workers ever ceased.
+Access to light and heat helps determine how people live and who holds privilege. In the [[Peoples and Polities#The divided city|Divided City]], an hour of bright light can serve as medicine, make a ceremony possible, or support crops. Who receives that hour matters. Farther coldward, settlements cluster where heat rises through stone. Ti'asantatca, on the southern gulf, depends on workers who maintain a shield against the storm beside it. If they stopped, ordinary habitation there would be impossible.
 
 ## Crown Cities
 
-The Crown Cities are immense fallen works around which later peoples built capitals, fortresses, shrines, farms, and forbidden districts. Their upper structures can dominate a horizon. Their buried reaches descend beyond reliable record.
+The Crown Cities are enormous ruined structures. Later peoples built capitals, fortresses, shrines, farms, and forbidden districts around them. Their upper works can dominate the horizon; their buried parts extend deeper than reliable records reach.
 
-Some chambers still breathe, warm, drain, answer formulae, or move under loads no present mason would trust. Others have become tombs, markets, prisons, sanctuaries, monster-haunts, or foundations for neighborhoods whose residents never see the stone beneath their floor.
+Some of the old machinery still works. Chambers draw and release air, give off warmth, drain, respond to formulae, or move while bearing loads no present mason would trust. Other spaces have become tombs, markets, prisons, sanctuaries, and monster-haunts. Whole neighborhoods rest on ancient foundations that their residents never see.
 
-Learned people disagree about what the Crowns were. Court historians call them the first seats of the great peoples. Some priesthoods teach that they were cast down in a divine war. Technical lineages speak instead of connected works, service boundaries, and old systems whose surviving parts no longer agree. Popular stories happily use all three accounts when one would be less useful.
+There is no agreed account of what the Crowns originally were. Court historians describe them as the first seats of the great peoples. Some priesthoods teach that a divine war cast them down. Technical lineages—groups that pass on the knowledge needed to operate and maintain old works—describe connected systems, the limits of what each part served, and surviving components that no longer work together as they once did. Popular stories borrow from all three explanations whenever it suits the telling.
 
 ## Roads through twilight
 
-Travel follows water, shelter, negotiated passage, and the intervals between dangerous weather. Roads are rarely only roads. A raised causeway may also carry a buried conduit. A pilgrim halt may maintain the only safe gate through a ruin. A tribe may recognize seasonal use where a distant court sees public land. A god-cult may protect a bridge without owning the households that repair it.
+Travellers plan around water, shelter, permission to pass, and breaks in dangerous weather. A route may depend on much more than the ground beneath it. A raised causeway may carry a buried conduit. A pilgrim halt may keep the only safe gate through a ruin in working order.
 
-Distance is therefore measured in more than time. Travellers ask whose warning marks they can read, which speech a threshold keeper accepts, what oath a host expects, whether a stormshield is holding, and whether the dead along a route have been quiet recently.
+The right to use a route can also be disputed or divided. A tribe may recognize seasonal use of land that a distant court calls public. A god-cult may protect a bridge while having no authority over the households that repair it.
 
-## A living high-fantasy world
+Knowing how long a journey takes is therefore only a start. Travellers need to know whose warning marks they can read, which language a threshold keeper accepts, and what oath a host will expect. They ask whether the stormshield is holding and whether the dead along the route have been quiet lately.
 
-Most people meet the impossible while trying to make tomorrow resemble today.
-Grain pledged after a divine flood must still be planted and hauled. In a
-Sunwall ward, a clerk compares three prophetic reports before a lift crew moves
-the harvest. Elsewhere a healer turns divine aid away from a hungry burial
-ground, or a pipe worker hears an inherited formula used in the wrong season.
-Families form, bargain, worship, quarrel, and raise children through all of it.
+## Everyday life with miracles
+
+Magic and divine power enter ordinary work. Grain pledged after a divine flood still has to be planted and hauled. In a Sunwall ward of the Divided City, a clerk compares three prophetic reports before a lift crew moves the harvest.
+
+Elsewhere, a healer redirects divine aid away from a hungry burial ground. A pipe worker hears an inherited formula being used in the wrong season. Such encounters can happen while people are simply trying to keep daily life going. They form families, bargain, worship, quarrel, and raise children amid them.
 
 See [[Peoples and Polities]], [[Magic and Miracles]], and [[Relics and Ruins]].

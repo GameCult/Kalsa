@@ -11,64 +11,68 @@ tags:
 
 # At the Basin Table
 
-The table is not a table. It is the broad stone lip between Low Sere's settling basins, dry enough for six people if nobody objects to mist on their sleeves.
+Low Sere's water intake is failing. Forty-one hearths depend on it, and the people meeting in the Cistern House must decide whether to send a crew below to attempt repairs.
 
-Three pale marks show above the black pressure door below. Nobody at the meeting looks at them for long.
+They gather on the broad stone lip between the settling basins. This is the basin table: room for six, provided they can bear mist on their sleeves. Household witnesses stand nearby. Below the stone is a black pressure door, with three pale marks above it. Nobody looks at the marks for long.
 
-Maro Seln places the drain key on the stone.
+Maro Seln, who speaks for the settlement at the threshold, lays the drain key on the stone.
 
-“The west basin is empty. The grate is mine to open for the settlement. Sera holds the spindle. We can put a crew below before the next work-watch.”
+“The west basin is empty. I have the authority to open the grate for the settlement. Sera has the spindle. A crew could be below before the next work-watch.”
 
-Sera Venn does not reach for the key.
+Sera Venn, the intake's provisional custodian, leaves the key where it lies.
 
-“You can put them at the door. Opening is technical work. What happens beyond it is work we do not presently know how to finish.”
+“A crew could reach the door,” she says. “We know how to open it. We do not yet know how to finish the work beyond it.”
 
-“You know enough to keep forty-one hearths waiting.”
+“And forty-one hearths must wait until you do?”
 
-“I know enough to keep them alive while they complain.”
+“I can keep them alive on reduced service. They can complain while I do it.”
 
-Tavi Kes knots a strip of name cloth around one wrist.
+Tavi Kes ties a strip of name cloth around one wrist. She speaks for the Ash Names, the kin who demand protection for the dead. Jori Kes and Pell Am died when hot mineral slurry entered a maintenance platform during the earlier intervention. Their kin have sealed the affected sump.
 
-“Jori and Pell waited when your people told them to wait. If anyone goes below, one of the Ash Names goes with them. Nothing fixed is cut from the sump. No great blessing is poured into it because somebody is frightened of the dark.”
+“Jori and Pell waited because your people told them to,” Tavi says. “If a crew goes down, one of us goes with it. Nothing fixed in that sump is to be cut away. And being afraid of the dark does not give anyone leave to pour a great blessing into it.”
 
-Maro says, “If the lower cistern breaks, there will be more names.”
+“If the lower cistern breaks,” Maro says, “we will have more dead.”
 
-“Then do not purchase the living with the dead and call it thrift.”
+“Then say what you are asking us to risk. Do not call spending the dead to save the living thrift.”
 
-Ressa Orr turns one of Sera's copied warnings toward the light. Her order's marks run beside Low Sere's words without quite matching them.
+Ressa Orr, an itinerant Techpriest, lifts a copied warning into the light. Marks from her order sit beside the words used in Low Sere. They do not quite agree.
 
-“I can compare the pressure practice. I can inspect the work Sera was taught. I cannot promise the old instruction still names the same interval, and I will not certify a result because the door accepts it.”
+“I can compare the pressure procedures,” she says. “I can examine what Sera was taught. But I cannot promise that the interval in the old instruction still means the interval you use now. And if the door accepts what we do, that alone will not make me certify the result.”
 
-Teren Vey speaks from beyond the household witnesses. He is no longer permitted on the basin lip.
+Teren Vey stands beyond the household witnesses. He was custodian before Sera, his apprentice. Since his removal, he has been forbidden to stand on the basin lip.
 
 “The door did not kill them.”
 
-Tavi's answer is quiet. “You are the only person here who needs that sentence to be complete.”
+Tavi answers quietly. “You are the only one here who thinks that settles it.”
 
-“The relief path prevented a greater failure. The platform should have been empty. The warning was changed.”
+“The relief path stopped a greater failure. No one should have been on the platform. The warning had been changed.”
 
-Sera says, “Then give us the tool and the folio.”
+“Then give us the calibration tool and the service folio,” Sera says.
 
-“So an apprentice with a frightened council behind her can perform half a sequence and discover which half mattered?”
+Teren has withheld both below since his removal. He calls that a necessary refusal; the settlement calls it theft from work that keeps them alive.
 
-“So your appeal can be heard against evidence instead of against your own hostage.”
+“You want me to hand them to an apprentice with a frightened council behind her?” he asks. “So you can carry out half a sequence and find out afterward which half mattered?”
 
-For a moment, only the intake knocks beneath the stone. Tavi closes both hands around the name cloth. Maro watches the pale marks. Ressa watches Sera.
+“I want your appeal judged against the evidence,” Sera says. “You are holding the evidence hostage.”
 
-A lower-step water witness named Bel Orra clears her throat.
+The intake knocks beneath their feet. For a moment nobody speaks. Tavi grips the name cloth in both hands. Maro looks at the pale marks above the door. Ressa looks at Sera.
 
-“My rooms went wet this morning. My eldest is carrying drinking water instead of working the beds. We supplied food for the descent. I want the agreement to say wages survive even if there is nothing below you can sell.”
+Bel Orra, a water witness from the lower steps, clears her throat.
 
-Maro nods first. Sera nods after him. Tavi says, “And injury care.”
+“My rooms flooded this morning. My eldest is carrying drinking water when they should be working the beds. We supplied food for this descent. Put this in the agreement: the crew gets its wages even if there is nothing down there to sell.”
 
-Ressa adds, “And three copies of every change.”
+Maro nods. After him, Sera nods too.
 
-Teren says, “And my appeal.”
+“And care for anyone injured,” Tavi says.
 
-Nobody agrees to that immediately.
+“Every change recorded in three copies,” Ressa adds.
 
-Above them, warm mist beads upon the Cistern House beams. Below them, something knocks again: pressure, a loose fitting, one of the dead, or an answer shaped by everyone listening.
+“And my appeal,” says Teren.
 
-The basin table records the knock. It does not decide what spoke.
+No one immediately agrees to that.
+
+Warm mist gathers into beads on the Cistern House beams. Beneath the meeting, the knock comes again. It could be pressure or a loose fitting. It could be one of the dead. Perhaps everyone listening has helped shape it into an answer.
+
+The basin table records that a knock was heard. The record leaves open what, if anything, spoke.
 
 Return to [[../Places/Low Sere|Low Sere]], or begin again at [[../index|Kalsa]].
