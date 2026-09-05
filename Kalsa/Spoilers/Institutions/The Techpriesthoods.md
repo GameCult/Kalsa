@@ -15,99 +15,129 @@ tags:
 
 # The Techpriesthoods
 
-The Techpriesthoods are plural, transborder maintenance lineages descended from the people who kept fragments of the [[Spoilers/Foundations/Ark and Fall|Ark]] working after the Fall. Their practices may carry [[Spoilers/Polities/Spokers|Spoker]] inheritance or may have arisen independently around local works; which lineages follow which history remains unresolved. They did not inherit [[Spoilers/Foundations/Prometheus|Prometheus's]] integrated manufacturing or his authority over the machine. Their legitimacy comes from a narrower, harder bargain: a lineage can keep a pump turning, a seal closed, a buried conduit legible, or a Crown City system from killing the people who depend on it.
+The Techpriesthoods are traditions of religious maintenance work, passed from experienced keepers to apprentices. They preserve and service surviving machinery: pumps, seals, buried conduits, and Crown City systems that can sustain a population or kill it when they fail. Some lineages travel across borders; others tend a single public work.
 
-No canonical evidence establishes one church, supreme hierarchy, or shared creed. “The Techpriesthoods” is an outside collective term for lineages whose rites, records, routes, and competencies may overlap without answering to one owner. Some travel. Some remain attached to a single public work. Some cooperate across political and religious borders; others compete for apprentices, salvage, contracts, and recognition.
+They descend from the people who kept fragments of the [[Spoilers/Foundations/Ark and Fall|Ark]] working after the Fall. Some practices may come from [[Spoilers/Polities/Spokers|Spoker]] inheritance; others may have developed independently around local works. Which lineages have which history remains unresolved. They did not inherit [[Spoilers/Foundations/Prometheus|Prometheus's]] integrated manufacturing or his authority over the machine. Their claim to trust rests on what they can still maintain.
 
-## Authority at the machine
+“The Techpriesthoods” is an outside collective name. Canon establishes no single church, supreme hierarchy, or common creed. Lineages may share rites, records, travel routes, and technical skills without answering to the same authority. Some cooperate across political and religious borders. Others compete for apprentices, salvage, contracts, and recognition.
 
-A Techpriesthood may claim **operational custody** over a named system when it can show continuing knowledge of that system's configuration, hazards, dependencies, and maintenance history. Operational custody authorizes bounded decisions needed to inspect, isolate, service, restart, or refuse unsafe work. It does not by itself grant:
+## What their work means for a community
 
-- ownership of the land around the system;
-- title to the relic or removable parts;
-- control over water, heat, food, transit, or other output once safely produced;
-- political authority over the people served;
-- the right to exclude every other competent practitioner;
+Most people encounter a Techpriesthood when ordinary service stops and, if the work succeeds, returns. A crew arrives and needs access cleared. Work and worship schedules change, stores are opened, and a familiar hum falls silent. Officials argue over which work comes first. Eventually water flows again, a bridge moves, a ward holds—or a sealed door stays shut for reasons only the work party can verify.
+
+On [[Spoilers/Foundations/World|Kalsa]], these outcomes can keep a cold settlement warm, make a city district habitable, preserve a harvest, or prevent a ruin from poisoning its neighbors. People have substantial reasons to welcome a competent lineage. They also have reasons to resent dependence on one. Households wait behind priority lists. Apprentices inherit dangerous obligations. Communities pay for failures they did not cause. A priesthood can be loved for keeping people alive while being resented for allowing nobody else to learn how.
+
+That dependence produces practical resistance. Local workers demand records. Settlements train their own keepers, rulers sponsor rival lineages, and families hide reusable parts from collection. Clients refuse fees or service conditions they consider predatory. Some priesthoods respond by admitting more apprentices and copying their knowledge; others become more secretive. The setting does not yet establish which response is more common.
+
+## Who decides what happens to a machine
+
+A lineage can claim **operational custody** of a particular system by demonstrating continuing knowledge of how it is arranged, what hazards it presents, what it depends on, and how it has been maintained. This is authority to make the limited decisions required to inspect, isolate, service, or restart that system, including refusing unsafe work.
+
+Operational custody does not by itself give a priesthood:
+
+- ownership of the surrounding land;
+- title to the relic or any removable parts;
+- control of water, heat, food, transit, or other output once it has been safely produced;
+- political authority over the people who use the system;
+- a right to exclude every other competent practitioner;
 - ownership of unrelated technology;
 - divine authority over worshippers, ghosts, or gods.
 
-The distinction is often disputed because operation is leverage. A lineage able to close a gate or condemn a conduit can change a harvest, migration, siege, or succession. Polities therefore try to turn technical dependence into obedience, while priesthoods sometimes use safety language to preserve privileges that no longer follow from the machine. Competence makes the claim serious. It does not make every use of that claim legitimate.
+Those limits are difficult to hold because a technical decision can alter other people's lives. Closing a gate or declaring a conduit unsafe can change a harvest, migration, siege, or succession. Polities try to make the specialists they depend on obey them. Priesthoods sometimes invoke safety to defend privileges that the machine no longer justifies.
 
-## Training and ordination
+Demonstrated competence gives a custody claim weight. Each use of that authority still needs justification.
 
-Training is apprenticeship under working conditions. Novices carry tools, clean access routes, copy service histories, identify components, watch shut-downs, and learn which apparently minor changes propagate into wider failure. Instruction joins ritual memory to repeated material proof: the words matter because they preserve sequence, but a sequence that no longer describes the live system must be challenged.
+## Learning the work
 
-Ordination recognizes bounded competence rather than universal technical mastery. A practitioner may be trusted on one class of seal, atmosphere circuit, structural brace, control surface, or interface while remaining an outsider elsewhere. Recognition normally requires witnessed diagnosis, safe execution, explanation of limits, and the discipline to stop when evidence fails. Neither birth, a Gift, nor fluency in inherited ritual is sufficient by itself.
+Apprentices learn on working systems. They carry tools, clean access routes, copy service histories, identify components, and watch shutdowns. They must learn how a change that looks minor in one place can cause a wider failure.
 
-Lineages may recruit from priestly families, service households, local maintainers, debtors, captives, or gifted outsiders. The present balance among voluntary apprenticeship, family expectation, purchase, coercion, and polity nomination is unresolved. So are the names of ranks, the length of training, and the extent to which women, Null people, particular Gift lineages, or foreigners are admitted in different regions.
+Ritual helps preserve the order of a procedure, but instruction also requires repeated material proof. An apprentice must eventually be able to question an inherited sequence when it no longer matches the system in front of them. Remembering the words is useful only so far as the words still describe the work.
 
-## Records and practical memory
+Ordination recognizes competence within a limited field. Someone trusted with one class of seal, atmosphere circuit, structural brace, control surface, or interface may have no standing to work on another. Recognition normally requires witnesses to see the practitioner diagnose a problem, carry out the work safely, explain the limits of their knowledge, and stop when the evidence is insufficient. Birth, a Gift, or fluent ritual recitation cannot establish competence on its own.
 
-A useful maintenance record identifies the system or component, its current arrangement, known dependencies, observed condition, interventions performed, parts removed or substituted, hazards exposed, and the people or communities relying on continued service. It also preserves failed attempts. A ritual that records only successful ancestors trains the next practitioner to repeat concealed mistakes.
+Recruits may come from priestly families, service households, local maintainers, debtors, captives, or gifted outsiders. How often entry follows voluntary apprenticeship, family expectation, purchase, coercion, or nomination by a polity remains unresolved. So do ranks and training lengths, and regional rules governing the admission of women, Null people, particular Gift lineages, and foreigners.
 
-Records survive in mixed forms: marked components, copied diagrams, tool arrangements, route songs, recited sequences, service books, physical samples, and the memories of practitioners who have handled the same system for years. [[Spoilers/Foundations/Language and Reckoning|Lojban and octal inheritance]] may remain visible in technical vocabulary and old interfaces, but the languages, scripts, and degree of comprehension used by current lineages are not settled. A correct-sounding phrase is not evidence that its speaker understands the mechanism.
+## Knowledge kept in records and people
 
-Secrecy protects dangerous access and gives lineages bargaining power. It also creates failure pressure. When one keeper dies, defects, withholds a page, or discovers that inherited doctrine is wrong, an entire community may lose the only legible path through its infrastructure. Copies, rival witnesses, and cross-lineage handoffs make knowledge more durable while weakening monopoly. Priesthoods disagree about which danger is worse.
+A maintenance record needs to let the next keeper understand what they are about to touch. It identifies the system or component and describes its current arrangement, known dependencies, and observed condition. It records interventions, removed or substituted parts, exposed hazards, and the people or communities who need it to remain in service.
 
-## The labor beneath the rite
+Failed attempts belong in that history. If a lineage preserves only its ancestors' successes, their concealed mistakes become traps for later practitioners.
 
-Techpriests do not keep the old world alive alone. Their work depends on cleaners, porters, climbers, scribes, translators, guards, cooks, smiths, masons, growers, animal handlers, scavengers, and residents who notice changes in sound, taste, pressure, weather, or yield before a formal inspection begins. A repair may require a town to stop drawing water, a farm to surrender draft labor, or a household to host an itinerant crew through a cold season.
+This knowledge survives in more than books. Keepers use marked components, copied diagrams, tool arrangements, route songs, recited sequences, service books, physical samples, and the memories of people who have worked on the same system for years. [[Spoilers/Foundations/Language and Reckoning|Lojban and octal inheritance]] may survive in technical vocabulary and old interfaces. The languages and scripts current lineages use, and how much of the inherited material they understand, remain unsettled. A phrase can sound correct without its speaker understanding the mechanism.
 
-This support is material knowledge, not scenery around priestly expertise. A lineage that ignores the worker who knows where condensation first appears can be procedurally orthodox and operationally blind. Local maintainers often know one structure more intimately than a travelling specialist. The priesthood's distinctive contribution is the ability to connect such observations to inherited system boundaries, failure histories, and procedures that can travel between sites.
+Secrecy can keep dangerous access out of careless hands. It also strengthens a lineage's bargaining position. But a community may lose its only usable account of its infrastructure when one keeper dies, defects, withholds a page, or discovers that inherited doctrine is wrong.
 
-## Support and revenue
+Copies, independent witnesses, and transfers of knowledge between lineages reduce that vulnerability. They also weaken a lineage's monopoly. Priesthoods disagree over whether sharing knowledge or concentrating it presents the greater danger.
 
-Because maintenance consumes food, shelter, tools, fuel, transport, replacement material, and skilled time, every lineage requires a support base. It may receive service dues from dependent settlements, retainers from a polity, shares of salvage, toll exemptions, rights of lodging, workshop access, seasonal labor, or offerings made through a shrine attached to the work. No one model is universal, and present currencies remain unresolved.
+## Everyone else who keeps the system running
 
-Payment buys service capacity, not guaranteed success. A polity may reserve a crew for a fortress while villages downstream bear the delay. A rich household may finance an expedition whose recovered parts repair a public system, then claim the whole recovery as private property. A lineage may waive dues during failure and recover them later as debt. The ordinary argument is therefore not whether holy maintenance should be paid for, but who supplies it, who waits, and who acquires leverage through the obligation.
+Maintenance depends on cleaners, porters, climbers, scribes, translators, guards, cooks, smiths, masons, growers, animal handlers, and scavengers. It also depends on residents who notice changes in sound, taste, pressure, weather, or yield before an inspection takes place.
 
-## Succession and schism
+Their knowledge can determine whether a repair succeeds. A worker may know where condensation first appears; a local maintainer may know a particular structure more intimately than a travelling specialist. A priesthood can follow its approved procedure exactly and still miss the failure if it ignores them.
 
-Succession transfers records, tools, obligations, and access claims. It does not automatically prove that the successor remains competent or that every dependent community accepts the handoff. A dying keeper may divide knowledge among apprentices, name one custodian, return records to a host polity, or ask a rival lineage to witness the transition. The canonical setting does not yet establish one procedure.
+The priesthood's distinctive skill is connecting these local observations to inherited knowledge: where one system ends and another begins, how earlier failures developed, and which procedures can be used at more than one site.
 
-Schisms form around practice as much as theology. Practitioners may disagree over whether a relic should be restored, adapted, dismantled for parts, sealed, or abandoned; whether an old procedure remains valid after a substitution; whether knowledge should be copied; whether a polity's demand creates unacceptable hazard; or whether a voice within a machine is a fault, a person, a god, or bait. Two branches can share competent ancestry and still produce incompatible operating decisions.
+Even with that expertise, a repair can require substantial cooperation. A town may have to stop drawing water. A farm may have to give up draft labor. A household may need to shelter an itinerant crew for a cold season.
 
-A schism does not make one side false by definition. Its test is the live claim: what each branch can observe, what it can safely do, which assumptions it preserves, who bears the risk, and whether the machine and its dependents survive contact with the answer.
+## Who pays, and who waits
 
-## Bargaining with polities and temples
+A lineage needs food, shelter, tools, fuel, transport, replacement material, and skilled time. Its support may take the form of service dues from settlements, retainers from a polity, salvage shares, toll exemptions, lodging rights, workshop access, seasonal labor, or offerings through a shrine attached to the work. No arrangement is universal, and the currencies currently in use remain unresolved.
 
-Transborder standing depends on negotiated passage. A priesthood offers continuity: procedures recognizable beyond one ruler's court, records that can follow a component, and specialists able to compare a local failure with one seen elsewhere. In return it seeks safe conduct, access to worksites, material support, permission to carry tools and contested relics, and some protection from conscription or confiscation.
+These contributions make work possible; they cannot guarantee success. They also influence who receives attention. A polity may retain a crew for its fortress while downstream villages wait. A wealthy household may fund an expedition whose recovered parts repair a public system, then claim everything recovered as private property. A lineage may suspend dues during a failure and later collect them as debt.
 
-Those terms are never neutral. A host polity may recognize a lineage only while it prioritizes military works. A temple may host a machine as a shrine while disputing the priesthood's interpretation of its sacred purpose. A town may accept foreign specialists but keep control of the water their repaired system produces. A conquering power may demand continuity without accepting inherited debts or local claims.
+Disputes therefore tend to concern who supplies the resources, whose work is delayed, and what power a continuing obligation gives the creditor. The need to support maintenance does not settle those questions.
 
-No transborder reputation creates universal jurisdiction. Host powers retain political authority they actually possess; communities retain claims grounded in dependence and labor; temples retain their rites; and [[Spoilers/Institutions/Relic Custody|custody]] must still be argued for the particular relic or site.
+## Passing on custody and splitting a lineage
 
-## Failure protocol
+A successor receives records, tools, obligations, and claims of access. Inheriting them does not prove the successor can do the work. Nor does it establish that every dependent community accepts the transfer.
 
-When a system behaves outside the evidence available to its keepers, the first duty is to limit propagation rather than preserve priestly confidence. A defensible response is to:
+A dying keeper might divide knowledge among apprentices, appoint one custodian, return records to a host polity, or call on a rival lineage to witness the handoff. Canon has not established a common succession procedure.
 
-1. stop the current intervention when stopping is safer than continuing;
-2. isolate the affected boundary where the structure permits it;
-3. preserve the observed state, displaced parts, and sequence of actions;
-4. name what remains dependent on the failing system;
-5. warn those who will bear interruption or hazard;
-6. seek a practitioner, worker, or rival record with relevant evidence;
-7. resume only under a bounded claim that can be reviewed.
+Lineages can also split over practical decisions as well as theology. Disagreements may concern:
 
-Emergency action may require breaking a seal, moving a relic, overriding a custodian, or sacrificing one section to preserve another. Necessity can authorize the immediate act without granting permanent title afterward. If delay itself will kill people, “do nothing” is also an intervention and must be judged against the same dependents.
+- whether to restore a relic, adapt it, dismantle it for parts, seal it, or abandon it;
+- whether an old procedure is still valid after a component has been substituted;
+- whether records should be copied;
+- whether obeying a polity's demand would create an unacceptable hazard;
+- whether a voice inside a machine is a fault, a person, a god, or bait.
 
-Exact signals, isolation methods, and restart tests vary by system and remain unresolved. [[Spoilers/Foundations/Kaos|Kaos]] may help a practitioner understand a causal system, but no Gift supplies a universal diagnosis, and concentrated intervention can attract the pressures described in [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]].
+Two branches can descend from competent keepers and still reach incompatible decisions. A schism alone does not establish that either branch is false. Their particular claims must be examined: what each can observe and safely do, which assumptions each retains, who will bear the risk, and whether its answer allows the machine and its dependents to survive.
 
-## The lived bargain
+## Working across borders
 
-For most people, the Techpriesthoods are experienced through interruption and return. A crew arrives; access is cleared; work and worship schedules change; stores are opened; a familiar hum stops; officials argue over priority; then water flows, a bridge moves, a ward holds, or a sealed door remains shut for reasons nobody outside the work party can verify.
+A travelling priesthood needs permission to pass through territories and work within them. It offers something a ruler's local staff may lack: procedures recognized beyond one court, records that can accompany a component, and specialists who can compare a failure here with one encountered elsewhere.
 
-The bargain is attractive because working infrastructure is real mercy on [[Spoilers/Foundations/World|Kalsa]]. It can keep a cold settlement warm, make a city district habitable, preserve a harvest, or prevent a ruin from poisoning its neighbors. The same dependence makes priestly opacity expensive. Households wait behind priority lists. Apprentices inherit dangerous obligations. Communities pay for failures they did not cause. A lineage may be loved for keeping people alive and resented because no one else has been allowed to learn how.
+In exchange, it seeks safe conduct, access to worksites, material support, permission to transport tools and disputed relics, and some protection against conscription or confiscation. Its transborder standing depends on these negotiated arrangements.
 
-Resistance takes practical forms: local workers demand access to records, settlements train their own keepers, rulers sponsor rival lineages, families hide reusable parts from collection, and clients refuse fees or service conditions they judge predatory. Some priesthoods answer by widening apprenticeship and copying knowledge. Others tighten secrecy. The current setting does not establish which tendency dominates.
+Each party may attach different conditions. A polity may recognize a lineage only while it puts military works first. A temple may house a machine as a shrine while disagreeing with the priesthood about its sacred purpose. A town may admit foreign specialists while retaining control of the water they restore. A conqueror may demand uninterrupted service while refusing inherited debts and local claims.
+
+Reputation across borders does not grant jurisdiction everywhere. Host powers retain the political authority they actually possess. Communities retain claims arising from their dependence and labor, and temples retain their rites. [[Spoilers/Institutions/Relic Custody|Custody]] still has to be argued for the particular relic or site.
+
+## When the keepers do not understand the failure
+
+If a system behaves in ways its keepers cannot explain from the available evidence, their first duty is to prevent the failure from spreading. Protecting their reputation comes after that. A defensible response follows this sequence:
+
+1. Stop the current intervention if stopping is safer than continuing.
+2. Isolate the affected part of the system, where its structure allows.
+3. Preserve the observed state, displaced parts, and record of actions taken.
+4. Identify everything still dependent on the failing system.
+5. Warn the people who face interruption or danger.
+6. Seek relevant evidence from another practitioner, a worker, or a rival record.
+7. Resume only with a limited, reviewable account of what the proposed work can safely accomplish.
+
+An emergency may require someone to break a seal, move a relic, override a custodian, or sacrifice one section to save another. Necessity can justify that immediate act without giving the actor permanent ownership afterward. Where delay will itself kill people, doing nothing also has consequences and must be judged by what happens to those who depend on the system.
+
+Signals, isolation methods, and restart tests differ by system; their exact forms remain unresolved. [[Spoilers/Foundations/Kaos|Kaos]] may help a practitioner understand how causes and effects connect within a system. No Gift can diagnose everything, and concentrated intervention can attract the pressures described in [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]].
 
 ## Under the Crown Cities
 
-Every Crown City is the wreck of a Ring. Its buried levels can therefore function as dungeon and public infrastructure at once: collapsed service corridors, sealed habitats, severed transit, exposed machinery, abandoned stores, and compartments whose purpose no living lineage fully understands. A descent may be commissioned to recover a part, verify a route, close a leak, copy a record, rescue a crew, or determine whether reopening one section will endanger another.
+Every Crown City occupies the wreck of a Ring. Beneath it, public infrastructure and dungeon can be the same place. Collapsed service corridors, sealed habitats, severed transit routes, exposed machinery, and abandoned stores lie alongside compartments whose purpose no living lineage fully understands.
 
-The Techpriesthoods make such expeditions politically consequential. An explorer who returns carrying a component has possession, not automatically the right to sell, install, dismantle, or awaken it. A priest may know how to open a threshold without owning what lies beyond. A polity may claim the site while another community depends on the system crossing beneath it. A temple may recognize a presence where the maintenance record shows only anomalous behavior.
+An expedition may be sent below to recover a part, check a route, close a leak, copy a record, rescue a crew, or find out whether reopening one section would endanger another. These are also disputes about who may act and who will live with the result.
 
-There is no adopted universal dungeon law. Access, salvage, hazard, burial, sacred claim, and emergency service remain matters for the relevant polity, community, lineage, and relic. The useful invariant is narrower: descent does not erase the authorities and dependencies waiting above.
+An explorer who brings back a component possesses it; that alone does not establish a right to sell, install, dismantle, or awaken it. A priest may know how to open a threshold without owning what is beyond it. A polity may claim the site while a different community depends on the system running beneath it. A temple may recognize a presence where maintenance records describe only anomalous behavior.
+
+Canon establishes no universal dungeon law. The relevant polity, community, lineage, and relic all matter to decisions about access, salvage, hazard, burial, sacred claims, and emergency service. Going below ground does not cancel the claims or dependencies of the people above.
 
 ## Unresolved
 

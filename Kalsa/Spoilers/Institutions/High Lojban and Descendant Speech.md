@@ -15,126 +15,165 @@ tags:
 
 # High Lojban and Descendant Speech
 
-High Lojban survives as a claim to conservative, prestigious, or unusually precise descent from the language imposed by [[Spoilers/Foundations/Prometheus|Prometheus]]. It is not one universally governed code. Its legal, ritual, scholarly, diplomatic, and technical forms overlap without becoming interchangeable, and ordinary people speak regional descendants and contact registers that have changed for generations.
+High Lojban is a name used for formal varieties of language that claim to preserve the language imposed by [[Spoilers/Foundations/Prometheus|Prometheus]], or to descend from it with particular prestige or precision. Ordinary people speak regional descendants and forms developed through contact between communities. Those languages have continued changing for generations.
 
-The institution is therefore a field of schools, courts, temples, archives, diplomatic practices, and working interpreters. No academy owns the language across Kalsa. Each body certifies or enforces only the use within its authority.
+There is no single High Lojban that qualifies someone for every task. A court, temple, diplomatic school, archive, or technical lineage may use its own **register**: a form of language suited to particular work. Legal, ritual, scholarly, diplomatic, and technical registers overlap, but knowing one does not mean knowing the others.
 
-## Owner map
+People encounter these institutions when they need to understand a public order, submit a petition, make a vow, negotiate a treaty, read an old record, or operate an inherited machine. The practical questions are who can explain the words, what their explanation establishes, and who decides what follows. No academy governs the language across Kalsa. Each institution can certify competence or enforce usage only within its own authority.
 
-| Matter | Owner | What that ownership does not grant |
-|---|---|---|
-| Ordinary speech and its change | Speakers and communities in use | A ruler's right to freeze vocabulary or punish an accent as false language |
-| Teaching a named high register | The school, temple, lineage, archive, or tutor offering instruction | Universal certification in law, ritual, diplomacy, and machines |
-| Validity of a local law or public order | The polity's lawful issuing and reviewing offices | Power to bind foreigners or erase the notice people actually received |
-| Meaning of a covenant rite | The participating cult and its recognized ritual authorities | Civil title or control of unrelated machine systems |
-| Treaty text | The treaty parties under the agreement's adopted text rule | A translator privately changing obligations after ratification |
-| A signed translation | The translator or panel responsible for that rendering | Ownership of the source, the dispute, or the court's judgment |
-| Technical formula accepted by a machine | The competent operator records the event; the machine supplies the operational result | Proof of political legitimacy, property title, or general linguistic mastery |
-| Appeal over legal effect | The court or mixed forum with jurisdiction over the underlying matter | A philologist replacing the judge merely because a clause is old |
+## Why different forms survive
 
-## Uneven survival
+Old wording lasts when people have reasons to repeat it carefully. Courts retain definitions because later judgments cite them. Congregations learn liturgical sequences and pass them on. Neighboring powers preserve parallel treaty texts so they can return to an agreed reference. Scholars compare competing copies to reconstruct older forms. Technical lineages retain phrases because an Ark-derived system accepts them or because an inherited procedure depends on exact ordering.
 
-High forms survive where repeated copying, recitation, or machine consequence rewards conservatism. Legal definitions persist because later judgments cite them. Liturgical passages persist because congregations learn the sequence. Treaties preserve parallel texts because neighboring powers need a repeatable reference. Scholars reconstruct forms from competing copies. Technical phrases persist when an Ark-derived system accepts them or when a lineage's procedure depends on exact ordering.
+Each activity preserves different parts of the language. A congregation can keep the sound of a passage after its ordinary meaning has been lost. A court can retain a definition while pronunciation changes. A machine formula may preserve the order of elements and the marks separating them without being usable in conversation. A diplomat may know conservative grammar thoroughly and still be unable to diagnose a pump.
 
-These pressures preserve different things. A liturgy can preserve sound while losing ordinary meaning. A court can preserve a definition while changing pronunciation. A machine formula can retain sequence and boundary marks without functioning as conversation. A diplomat can command conservative grammar while being unable to diagnose a pump. “Speaks High Lojban” is therefore an incomplete claim unless the speaker names the register and task.
+“Speaks High Lojban” therefore leaves the important question unanswered: which register, for what work?
 
-## Teaching and certification
+## Learning the language
 
-Instruction begins with a scoped promise. A civic school may teach the form used for petitions and public records. A temple may teach recitation, commentary, and the difference between a quotation and a claimant speaking now. A diplomatic tutor may train parallel reading and negotiated ambiguity. A Techpriest lineage may teach only the fragments required for its inherited systems. An archive may train comparison among old copies without certifying anyone to operate what those copies describe.
+A teacher's promise should name what the student will learn. Civic schools may prepare students to write petitions and public records. Temples may teach recitation, commentary, and how to distinguish a quoted passage from a claimant's present statement. Diplomatic tutors may teach students to compare parallel texts and work with ambiguity that the parties have deliberately negotiated. Techpriest lineages may teach only the fragments needed for their inherited systems. Archives may train readers to compare old copies without qualifying them to operate anything described in those copies.
 
-Certification normally records:
+A certificate normally records:
 
-- the institution or teachers responsible;
+- who taught or examined the student;
 - the register and tasks examined;
-- whether reading, writing, recitation, interpretation, or live translation was tested;
-- which source tradition or local recension was used;
-- the date or local reckoning of examination;
-- limits, expiry, and conditions for supervised practice;
-- conflicts of patronage or office.
+- whether the examination tested reading, writing, recitation, interpretation, or live translation;
+- the source tradition or local version of the text used;
+- the examination date, in the local reckoning;
+- limits on the qualification, any expiry, and conditions for supervised practice;
+- conflicts arising from patronage or office.
 
-The certificate creates rebuttable evidence of competence. It does not make every utterance correct. A court may accept a temple-trained reader for a hymn and reject the same reader as sole translator of a grain treaty. A lineage may recognize an apprentice's formulaic competence while forbidding unsupervised activation.
+The certificate is evidence of competence that can be challenged. It cannot guarantee that everything its holder says is correct. A court might accept a temple-trained reader's interpretation of a hymn while refusing to let that reader translate a grain treaty alone. A lineage might recognize that an apprentice knows a formula while still forbidding unsupervised activation.
 
-Training is expensive. It consumes copied texts, teacher time, safe access to archives or machines, travel, food during study, and years not spent earning ordinary wages. Patronage can cover those costs while binding students to temple, court, house, or lineage service. Self-taught readers, household interpreters, former clerks, and multilingual traders often possess real competence without a seal. Institutions depend on them and then deny them standing when a dispute becomes valuable.
+Access to teaching is unequal. Students need copied texts, teachers' time, safe access to archives or machines, travel, and food while they study. They may spend years without ordinary wages. A patron can pay those costs while requiring service to a temple, court, house, or lineage in return.
 
-## Translation as accountable work
+Much necessary work is done by people without certificates: self-taught readers, household interpreters, former clerks, and multilingual traders. Institutions rely on their competence, then sometimes deny them standing once a dispute becomes valuable.
 
-A formal translation should preserve the distinction between source, rendering, explanation, and decision. The translator records the text examined, damaged or disputed passages, the audience, terms deliberately left untranslated, and any place where two plausible renderings change an obligation. When practical, a second reader checks the work without being shown the sponsor's preferred outcome first.
+## Getting words explained
 
-An interpreter in a live hearing states when they summarize, when a speaker used a high-register quotation, and when no equivalent exists in the listener's speech. They may refuse to invent certainty, impersonate a party, or translate a technical formula they cannot safely distinguish from an instruction. Refusal must be recorded without automatically treating the interpreter as obstructive.
+Most interpretation happens through ordinary relationships. Traders bargain in contact speech. Relatives help with petitions. Workers memorize safety phrases. Temples explain inherited passages after worship. People correct misunderstandings through repeated dealings, often long before a court becomes involved.
 
-Translation is never socially neutral. High-register speakers can make ordinary testimony sound childish by rendering it into clipped legal categories. A vernacular advocate can make a careful high clause sound evasive by stripping its conditions. The remedy is not a fantasy of word-for-word purity. It is visible responsibility, access to competing renderings, and a decision owned by the proper court or parties.
+Formal procedures matter when a mistake cannot easily be repaired—because power, distance, death, or a machine makes the consequence too costly.
 
-## Public notice
+When someone brings a document to a clerk, the clerk first needs to establish what it is:
 
-A public order binds through intelligible notice as well as lawful issuance. A high text kept in a clerk's archive may authenticate the order, but it does not by itself tell market workers, tenants, pilgrims, or a multilingual delving camp what they must do.
+- Who issued it, in which register, and for whom?
+- Is its mark intact?
+- Is it a copy, translation, summary, or quotation?
+
+The answers identify the authority responsible for the matter and the kind of reader needed. That reader may be certified or have credible experience in the relevant work. They must make ambiguities visible. The affected person receives an explanation in speech they can use and can request a second rendering before an irreversible act.
+
+## What a translator is responsible for
+
+A formal translation should let readers distinguish four things: the source text, the translator's rendering, their explanation of it, and the decision eventually made from it. These have different responsibilities.
+
+The translator records which text they examined, where it is damaged or disputed, and whom the translation is for. They identify terms deliberately left untranslated. If two plausible renderings would impose different obligations, they show the difference. Where practical, a second reader checks the work before being shown the sponsor's preferred outcome.
+
+Live interpretation needs the same honesty. In a hearing, an interpreter states when they are summarizing, when a speaker has quoted a high register, and when the listener's speech has no equivalent for a term. They may refuse to supply certainty the source does not support, speak as though they were one of the parties, or translate a technical formula they cannot safely distinguish from an instruction. The refusal must enter the record without automatically being treated as obstruction.
+
+A translation can distort testimony even when its vocabulary looks respectable. A high-register speaker can force ordinary testimony into clipped legal categories and make the witness sound childish. A vernacular advocate can strip the conditions from a careful high clause and make it sound evasive. Word-for-word rendering cannot eliminate those choices. Translators must be answerable for them, competing renderings must be available, and the proper court or parties must retain the decision.
+
+## Who decides what the words do
+
+Expertise in language does not confer authority over every matter expressed in it.
+
+| Matter | Who is responsible | Limits of that authority |
+|---|---|---|
+| Ordinary speech and its change | The speakers and communities using it | Their use gives no ruler a right to freeze vocabulary or punish an accent as false language. |
+| Teaching a named high register | The school, temple, lineage, archive, or tutor providing instruction | Instruction in one register does not provide universal certification for law, ritual, diplomacy, and machines. |
+| Validity of a local law or public order | The polity's lawful issuing and reviewing offices | Those offices cannot thereby bind foreigners or disregard the notice people actually received. |
+| Meaning of a covenant rite | The participating cult and its recognized ritual authorities | Ritual authority does not confer civil title or control over unrelated machine systems. |
+| Treaty text | The treaty parties, following the text rule adopted in their agreement | A translator cannot privately change the parties' obligations after ratification. |
+| A signed translation | The translator or panel responsible for that rendering | Signing a translation gives no ownership of the source, the dispute, or the court's judgment. |
+| A technical formula accepted by a machine | A competent operator records the event; the machine supplies the operational result | Acceptance proves neither political legitimacy, property title, nor general mastery of the language. |
+| An appeal over legal effect | The court or mixed forum with jurisdiction over the underlying matter | Knowing an old clause does not entitle a philologist to replace the judge. |
+
+## Orders people can understand
+
+A public order needs lawful issuance and intelligible notice to bind people. An archived high text may authenticate it. That alone does not tell market workers, tenants, pilgrims, or a multilingual delving camp what they must do.
 
 For a consequential notice, the issuing office should provide:
 
-1. the authoritative text or texts;
-2. a plain rendering in the principal local speech or speeches;
-3. oral delivery or witnessed explanation where literacy or access is limited;
-4. the issuing authority, scope, start, and expiry;
-5. a place to inspect the record, ask for interpretation, and challenge error;
-6. a record of where and how notice was actually given.
+1. The authoritative text or texts.
+2. A plain rendering in the principal local speech or speeches.
+3. Oral delivery or witnessed explanation where literacy or access is limited.
+4. The issuing authority, the order's scope, when it begins, and when it expires.
+5. Somewhere to inspect the record, ask for interpretation, and challenge errors.
+6. A record of where and how the notice was actually given.
 
-An emergency order may precede full translation when delay threatens immediate life. The office must use the clearest available working speech, limit the order, and complete review afterward. Emergency cannot become the permanent excuse for governing through a language most subjects cannot answer.
+An office may issue an emergency order before full translation when delay threatens immediate life. It must use the clearest working speech available, limit the order, and complete a review afterward. It cannot keep governing through a language most subjects cannot answer by declaring the emergency permanent.
 
-## Law and treaties
+## Legal texts and treaty versions
 
-A polity chooses the relationship among its high legal text, enacted vernacular version, public explanation, and later commentary. That choice must be stated rather than assumed. If only a high version is enacted, failure to provide intelligible notice can still affect penalty, remedy, or enforcement. If parallel versions are enacted, the court must have a rule for divergence that does not silently elevate the version preferred by the wealthier party.
+Each polity chooses how its high legal text relates to an enacted vernacular version, a public explanation, and later commentary. It must state that relationship. Readers should not have to guess which text has legal force.
 
-Treaties are more brittle because no one polity owns the other party's language. The parties may adopt one controlling text, several equally authoritative texts, or a high formula with agreed vernacular schedules. They should name the forum for divergent readings, the evidence allowed, and whether performance over time can clarify an ambiguous clause. A shared High Lojban heading does not prove shared understanding beneath it.
+Even where only the high version is enacted, a failure to provide intelligible notice can affect the penalty, remedy, or enforcement. Where parallel versions are enacted, the court needs a rule for handling disagreement between them. It cannot silently treat the wealthier party's preferred version as superior.
 
-Liturgy has a different validity. A congregation may require an inherited form for a rite even when participants use translations to understand it. That rule governs the rite, not civil testimony or a person's worth. A worshipper may refuse a vow they cannot understand. A cult that treats incomprehension as consent creates a binding dispute under [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] or [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]], not a linguistic shortcut around it.
+Treaties make the problem harder because neither polity governs the other party's language. The parties may agree to one controlling text, several equally authoritative texts, or a high formula accompanied by agreed vernacular schedules. They should also name the forum that will hear conflicting readings, the evidence it may consider, and whether the parties' conduct over time can clarify an ambiguous clause. Both parties can accept a High Lojban heading while understanding the obligations beneath it differently.
 
-## Magical registers
+## Ritual words and consent
 
-Kaos practices create recurrent communicative problems. A prophet must distinguish observation from warning, selected intervention, and later recollection. An Analyst benefits from stating premises, causal links, and uncertainty. A shaman or cult intermediary must mark whether words are their own, remembered, or attributed to a bound power. A hierarchy may encode rank into address; a Channeler community may develop careful ways to track remote speakers or uncertain identity.
+A congregation may require an inherited form for a rite while using translations to help participants understand it. That requirement determines the rite's validity. It does not determine the validity of civil testimony or a person's worth.
 
-Different regions solve these problems differently. Some borrow high vocabulary. Some develop gestures, witness formulas, particles, parallel testimony, or specialist genres in ordinary speech. Some elite teachers pretend that their preferred solution was designed into a people's Gift. That is ideology. [[Spoilers/Foundations/Kaos|Kaos]] does not transmit grammar biologically.
+A worshipper may refuse a vow they cannot understand. If a cult treats incomprehension as consent, it creates a dispute about binding under [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] or [[Spoilers/Institutions/God-Cult Covenants|God-Cult Covenants]]. The ritual language does not settle that dispute for the cult.
 
-## Ordinary workflow
+## Speech around magic
 
-When a person brings a document to a clerk, the first questions are practical: Who issued it? In what register? For whom? Is the mark intact? Is this a copy, translation, summary, or quotation? The clerk identifies the relevant authority and finds a reader certified or credibly experienced in that scope. The reader makes ambiguities visible. The affected person receives an explanation in speech they can use and can request a second rendering before an irreversible act.
+Magical practice gives people particular things they need to distinguish when speaking. A prophet needs to make clear whether they are reporting an observation, giving a warning, describing an intervention they selected, or recalling something afterward. An Analyst benefits from stating their premises, the causal connections they see, and their uncertainty. A shaman or cult intermediary needs to indicate whether words are their own, remembered, or attributed to a bound power.
 
-Most work is less formal. Traders bargain through contact speech, relatives interpret petitions, workers memorize safety phrases, and temples explain inherited passages after worship. Errors are corrected through repeated relationship long before a court sees them. The formal system matters when power, distance, death, or a machine makes ordinary repair too costly.
+Other distinctions concern the relationship between speakers. A hierarchy may express rank through forms of address. A Channeler community may develop careful ways to identify remote speakers or indicate uncertainty about who is speaking.
+
+Regions develop different solutions. Some borrow high vocabulary. Others use gestures, witness formulas, particles, parallel testimony, or specialist kinds of speech within their ordinary languages. Some elite teachers claim their favored solution was designed into a people's Gift. That is an ideological claim: [[Spoilers/Foundations/Kaos|Kaos]] does not transmit grammar biologically.
 
 ## Refusal and appeal
 
-A speaker may refuse to swear, sign, recite, or activate on the basis of words they do not understand. An interpreter may refuse a task outside their competence or a sponsor's demand to conceal ambiguity. A school may refuse certification while providing the tested reasons and a path to re-examination. A court or employer may require a qualified interpretation for safety, but cannot turn lack of elite accent into proof of incapacity.
+Someone who does not understand the words may refuse to swear, sign, recite, or activate on their basis. An interpreter may refuse work beyond their competence or a sponsor's instruction to hide ambiguity. A school may refuse certification, but should provide the tested reasons and a route to re-examination. Courts and employers may require qualified interpretation for safety. Lack of an elite accent is not proof of incapacity.
 
-Appeal follows the underlying authority. A legal notice goes to the relevant court; a treaty dispute to its adopted forum; a ritual dispute to the covenant process and any civil forum implicated by coercion; a machine formula to the operational review described in [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]]. Language experts advise. They do not acquire the whole decision.
+The subject of the dispute determines where an appeal goes:
 
-## Historical consequence: the shortened watch
+- A legal notice goes to the relevant court.
+- A treaty dispute goes to the forum adopted by the parties.
+- A ritual dispute goes through the covenant process and any civil forum implicated by coercion.
+- A machine formula goes through the operational review described in [[Spoilers/Institutions/Measures, Formulae, and Machine Speech|Measures, Formulae, and Machine Speech]].
 
-[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] owns the factual incident, damage, inquiry, and settlement. For language institutions, its consequence is narrower: a technically conservative expression and a living descendant expression may look or sound continuous while assigning different practical obligations. Neither antiquity nor prestige can silently make one version the notice workers actually received.
+Language experts advise those bodies. Their expertise does not transfer the whole decision to them.
 
-Schools, translators, and public offices use the case to teach separation among quotation, translation, conversion, instruction, and witnessed explanation. A reader can certify what an inherited clause says without certifying the work schedule derived from it. A translator who detects a consequential divergence must expose it to the operator, issuing authority, and affected workers rather than choosing the governing duration alone.
+## What the Shortened Watch taught
 
-The case is not a universal language precedent. It fixes no pronunciation, grammar, controlling-text rule, calendar, or watch length outside the jurisdiction that adopted its remedies.
+[[Spoilers/Events/The Shortened Watch Failure|The Shortened Watch Failure]] records the incident, damage, inquiry, and settlement. Its lesson for language institutions concerns a specific danger: an old technical expression and its living descendant may still look or sound alike while requiring people to do different things. The older or more prestigious meaning cannot simply be declared to be the notice workers received.
 
-## Marginal views
+Schools, translators, and public offices use the case to teach why quotation, translation, conversion, instruction, and witnessed explanation must remain distinguishable. A reader can certify the meaning of an inherited clause without certifying a work schedule calculated from it. If a translator finds a difference that changes what people must do, they must bring it to the operator, issuing authority, and affected workers. Choosing the governing duration is not theirs alone to do.
 
-A market interpreter says High Lojban is what patrons call precision when they can afford to wait. A temple reader says vernacular paraphrase protects understanding but slowly dissolves the distinctions the rite was built to carry. A self-taught petitioner says certification proves who could afford a teacher more reliably than who can read. A Techpriest apprentice says outsiders hear one old phrase and imagine every machine is waiting for the same prayer.
+The case supplies no universal language precedent. Outside the jurisdiction that adopted its remedies, it fixes no pronunciation, grammar, controlling-text rule, calendar, or watch length.
 
-None of these views abolishes the institution. Together they reveal its bargain: conservative language can carry memory across centuries, but only accountable translation keeps that memory from becoming custody over people who cannot inspect it.
+## What people say about it
+
+A market interpreter says High Lojban is what patrons call precision when they can afford to wait.
+
+A temple reader says vernacular paraphrase helps worshippers understand, but gradually wears away distinctions the rite was built to preserve.
+
+A self-taught petitioner says a certificate tells you who could afford a teacher more reliably than it tells you who can read.
+
+A Techpriest apprentice says outsiders hear one old phrase and imagine every machine is waiting for the same prayer.
+
+These criticisms concern different parts of an institution that still has useful work to do. Conservative language can preserve memory across centuries. People who cannot read it depend on translators to inspect that inheritance. Without accountable translation, the people who control access to old words can use that dependence to control others.
 
 ## Consequences and dungeon seams
 
-- A sealed gallery bears a high warning whose legal and technical readings conflict.
-- A party needs three specialists: one can recite a formula, one can interpret the surrounding archive, and one speaks with the community claiming the site.
-- A treaty's parallel versions assign rescue costs differently, making a stranded expedition politically useful.
-- A dead speaker's remembered words survive in a ritual form that present kin contest.
-- A forged certificate is technically flawless but issued for the wrong register.
-- A community refuses a supposedly universal high name for a ruin because the name encodes Promethean ownership.
-- An old machine responds to a despised local accent, undermining an elite lineage's claim that purity enables operation.
+- A sealed gallery carries a high warning. Its legal and technical readings conflict.
+- A party needs three specialists: one who can recite a formula, one who can interpret the archive around it, and one who speaks with the community claiming the site.
+- Parallel versions of a treaty assign rescue costs differently. The disagreement makes a stranded expedition politically useful.
+- A ritual preserves the remembered words of a dead speaker, and present kin contest those words.
+- A forged certificate is technically flawless, but it was issued for the wrong register.
+- A community rejects a supposedly universal high name for a ruin because the name asserts Promethean ownership.
+- An old machine responds to a despised local accent, undermining an elite lineage's claim that linguistic purity enables operation.
 
 ## Unresolved
 
-- Names, grammar, pronunciation, and scripts of High Lojban traditions and descendant languages.
-- Whether any high registers are mutually intelligible without study.
-- Formal titles, jurisdictions, and financing of schools, interpreters, and archive offices.
+- The names, grammar, pronunciation, and scripts of High Lojban traditions and descendant languages.
+- Whether speakers of any high registers can understand one another without study.
+- The formal titles, jurisdictions, and financing of schools, interpreters, and archive offices.
 - Which polities enact one controlling legal text and which recognize parallel versions.
 - The exact relationship between spoken, signed, written, gestural, and machine-readable forms.
-- How widespread trade koines, pidgins, creoles, and deliberate anti-Promethean registers are.
-- Whether any institution can demonstrate continuous transmission from the Ark rather than a convincing reconstruction.
+- How widespread trade koines, pidgins, creoles, and deliberately anti-Promethean registers are.
+- Whether any institution can demonstrate continuous transmission from the Ark, rather than a convincing reconstruction.
