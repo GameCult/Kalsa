@@ -15,27 +15,34 @@ tags:
 
 # World
 
-Kalsa is a terraformed, tidally locked planet. One face remains beneath its sun; the other faces permanent night. The known inhabited continent lies across the terminator, where sunset and twilight climates can sustain life. Terraforming carries enough heat coldward for liquid oceans beneath the dark-side ice, but constant storm fronts, cold deserts, coastal mountains, and sharp light gradients still govern settlement.
+Kalsa is a planet whose environment was deliberately altered to support life. It is tidally locked: the same face always points toward its sun, while the opposite face remains in darkness. Between them lies the **terminator**, the boundary between permanent day and permanent night. The one known inhabited continent crosses this boundary, where regions of lasting sunset and twilight have climates that can sustain life. Other continents or populations may exist; none are established here.
 
-The permanent sky is political geography. Sunward land can mean warmth, agriculture, and prestige. Coldward land can mean darkness, violent weather, geothermal dependence, and isolation. In the [[Spoilers/Polities/Prophecy - The Divided City|Divided City]], access to sunlight is a class marker. [[Spoilers/Polities/Luck - Selza'a|Selza'a]] survive fog and cold with windtraps. [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]] preserves a geothermal arcology. [[Spoilers/Polities/Shamanism - Papsenai|Ti'asantatca]] survives beside a storm front only because its shamans maintain a continuous barrier.
+## Living between day and night
 
-## The visible world and the buried world
+On Kalsa, moving **sunward** means moving toward the permanently lit side; moving **coldward** means moving toward the dark side. Terraforming carries enough heat coldward to keep oceans liquid beneath the dark-side ice. It does not make the planet uniformly hospitable. Constant storm fronts, cold deserts, coastal mountains, and steep changes in available light constrain where people can settle.
 
-For most inhabitants, Kalsa is high fantasy: gods bargain and conquer, prophets contest futures, ancestral powers haunt miracles, holy specialists tend impossible structures, and ruined cities descend into forbidden depths.
+Those conditions also constrain political power. Sunward land can offer warmth, farmland, and prestige. Coldward settlements can face darkness, violent weather, isolation, and dependence on heat from underground. Access to light and the upkeep of protective structures can determine how people live:
 
-The setting's buried material history is the [[Spoilers/Foundations/Ark and Fall|Ark]], its engineered peoples, and its technologies. That history does not make present belief fake. A shrine can be a machine, a divine seat, an inherited public work, and a place of sincere worship at once.
+- In the [[Spoilers/Polities/Prophecy - The Divided City|Divided City]], access to sunlight marks class.
+- The [[Spoilers/Polities/Luck - Selza'a|Selza'a]] rely on windtraps to survive their foggy, cold surroundings.
+- [[Spoilers/Polities/Sorcery - Jamnai and the Terjamna|Jamnai]] maintains a geothermal arcology: an integrated city structure supported by underground heat.
+- [[Spoilers/Polities/Shamanism - Papsenai|Ti'asantatca]] can survive beside a storm front only while its shamans maintain a continuous barrier.
 
-## Adopted boundaries
+## The world people know and the history beneath it
 
-- Kalsa has one known inhabited terminator continent. This does not prove that it is the only continent or population.
-- The eight Crown Cities are ringfall sites, not the whole of civilization. Control-descended surface settlements predate the Fall.
-- Climate and infrastructure constrain power; they are not backdrop.
+Most inhabitants encounter a world of gods who bargain and conquer, prophets who contest possible futures, and ancestral powers whose presence is felt in miracles. Holy specialists care for seemingly impossible structures. Ruined cities lead down into forbidden depths. This is the high-fantasy world in which people live.
+
+Beneath it lies the history of the [[Spoilers/Foundations/Ark and Fall|Ark]], the colony vessel that brought engineered peoples and technologies to Kalsa. Its eight habitable Rings fell to the planet; their wrecks became the eight Crown Cities. These cities do not account for all civilization. Surface settlements founded by descendants of the Ark's Control population already existed before the Fall.
+
+That material history does not make present religious belief false. A shrine may simultaneously function as a machine, serve as a divine seat, remain a public work inherited from earlier generations, and receive sincere worship.
 
 ## Unresolved
 
-- The world's astronomical measurements, continent name, coastlines, scale, and travel times.
-- The present political map and exact sunward/coldward placement of every Crown City.
-- Ecology beyond engineered human lineages and the extent of surviving terraforming systems.
-- Whether communities exist beneath the dark-side ice, on the permanent day face, or beyond the known continent.
+The following remain unspecified:
+
+- Astronomical measurements; the known continent's name, coastlines, and scale; and travel times.
+- The present political map, including every Crown City's exact sunward or coldward position.
+- Ecology beyond engineered human lineages, and how much of the terraforming infrastructure survives.
+- Whether communities live beneath the dark-side ice, on the permanent day face, or beyond the known continent.
 
 See [[Spoilers/Reference/Timeline|Timeline]], [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]], and [[Spoilers/Reference/Polities and Cultures Index|Polities and Cultures Index]].

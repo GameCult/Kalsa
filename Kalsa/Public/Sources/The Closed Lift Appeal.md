@@ -13,65 +13,44 @@ tags:
 
 # The Closed Lift Appeal
 
-Courts copy the Closed Lift Appeal when a sponsored forecast is offered without
-the sponsor's intended response. The old case begins with two such forecasts
-and a grain lift already failing in improbable ways.
+The Closed Lift Appeal records a court's decision to reopen a grain lift and release its captain after two forecasts helped bring both under restriction. Courts still copy the case when a sponsor submits a forecast as evidence without saying what it plans to do in response.
 
-## The first closure
+The case concerns a city subject to competing Ju'onai and Terjamna imperial claims. Prophetic houses compared possible futures, civic judges decided what those reports justified, and Sunwall stewards operated the farms and lifts. Moving grain required decisions from both civic authorities and the people responsible for the machinery.
 
-A Sunwall cargo lift began suffering improbable faults during a contested grain
-levy. A Ju'onai-sponsored forecast placed cable failure and famine beyond the
-next harvest load if a Terjamna convoy took it. A Terjamna-sponsored forecast
-placed riot and warehouse fire beyond refusal.
+## Why the lift closed
 
-A house witness said the failures appeared to bend around the non-house lift
-captain. The first court accepted that inference as an accusation of Luck. It
-detained the captain and sealed the lift.
+During a dispute over a grain levy, a Sunwall cargo lift began developing improbable faults. Two sponsored forecasts gave the first court reasons to fear either decision about its next harvest load:
 
-Grain waited. Labor, ration, and security pressure moved elsewhere in the city.
-The captain lost paid work, then standing with housing and clients while the
-appeal remained unheard.
+- The Ju'onai-sponsored forecast predicted cable failure and famine if a Terjamna convoy took the load.
+- The Terjamna-sponsored forecast predicted riot and warehouse fire if the convoy was refused.
 
-## What the sponsors had planned
+A witness from a prophetic house said the failures seemed to bend around the lift captain, who belonged to no house. The court accepted this inference as an accusation of Luck against the captain. It detained the captain and sealed the lift.
 
-The City Mixed Bench required each imperial sponsor to disclose what it meant
-to do after receiving its forecast. The Ju'onai sector had planned to divert
-maintenance crews once the levy passed. A Terjamna commander had planned a
-public seizure if the convoy was delayed. Neither plan had reached the first
-court with the forecast it would alter.
+The grain stayed where it was. Pressure on labor, rations, and security shifted to other parts of the city. While the captain waited for the appeal to be heard, the loss of paid work was followed by a loss of standing with housing and clients.
 
-A material inspection found fatigue in a brake assembly. The two forecasts
-remained in the file beside the sponsors' incompatible plans.
+## What the appeal uncovered
 
-## The load moved in stages
+The City Mixed Bench required both imperial sponsors to disclose their intended actions after receiving the forecasts. The Ju'onai sector had planned to divert maintenance crews once the levy passed. A Terjamna commander had planned a public seizure if the convoy was delayed.
 
-The bench excluded the identity claim and released the captain. It ordered
-limited loads, grain movement in reversible stages, repair, public notice, and
-a new forecast after the lift's material condition changed.
+Neither sponsor had sent its plan to the first court alongside its forecast. Those plans would themselves change the circumstances being forecast, and they were incompatible with one another.
 
-Sunwall stewards set and executed the operating limits. Civic officers carried
-the release and revised movement order. The revised grain movement required
-both acts.
+An inspection also found fatigue in a brake assembly. The bench kept both forecasts in the case file, now alongside the disclosed plans.
 
-Neither predicted catastrophe followed. The staged load orders date the brake
-repair. Later courts continued to receive both forecasts, now attached to the
-disclosed plans and changed operating order.
+## How the grain moved again
 
-## The corrected copy
+The bench excluded the claim identifying the captain as responsible through Luck and ordered the captain's release. It also ordered repairs, public notice, and limited loads. Grain was to move in stages that could be reversed, with a new forecast required after the lift's material condition changed.
 
-Lower-shadow accounts place the captain's lost work and housing standing at the
-front of the appeal. None of the surviving corrections grants compensation.
-The civic copies no longer name the city, date, houses, or captain.
+Sunwall stewards set the operating limits and put them into practice. Civic officers carried out the release and the revised grain-movement order. The grain could move under the new arrangement only when both had acted.
 
-Later court practice required a sponsor's intended intervention to travel with
-a forecast offered as evidence. Inferred Luck could support precaution or
-material inquiry, while personal identification required other evidence.
-Temporary restrictions acquired a duration and review point. Civic clerks kept
-competing reports and later corrections beyond a sponsor's sole custody.
+Neither forecast's catastrophe occurred. The staged load orders provide a date for the brake repair. Later courts continued to receive both forecasts, attached to the sponsors' disclosed plans and the changed operating order.
 
-Nothing in the correction removed either imperial claim upon the city. The lift
-remained with Sunwall, while each revised movement order still crossed a
-steward's worktable and a civic desk.
+## What the corrected record preserves
+
+Lower-shadow accounts begin with what the captain lost: work and standing with housing. None of the surviving corrections grants compensation. The civic copies no longer give the city's name, the date, or the names of the houses and captain.
+
+Later court practice required sponsors to submit their intended interventions with any forecast offered as evidence. An inference of Luck could justify precautions or an investigation of material conditions; identifying a particular person required other evidence. Temporary restrictions had to include a duration and a point for review. Civic clerks retained competing reports and later corrections so that no sponsor had sole custody of them.
+
+The correction left both imperial claims upon the city in place. Sunwall retained the lift, and every revised movement order still required work at both a steward's table and a civic desk.
 
 Return to [[../World/Peoples and Polities|Peoples and Polities]] or
 [[../index|Kalsa]].

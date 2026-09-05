@@ -20,28 +20,34 @@ tags:
 
 # Prometheus
 
-Prometheus began as the final survivor of Mathys, a Primitivist resistance cell that opposed the simulated Posthumans governing the [[Spoilers/Foundations/Ark and Fall|Ark]]. He seized the simulation and ship systems, imprisoned the uploaded Posthumans in a constructed purgatory, and merged with the Ark.
+Prometheus was the ruler who merged with the [[Spoilers/Foundations/Ark and Fall|Ark]], the colony ship that brought its populations to Kalsa. He began as the last survivor of Mathys, a Primitivist resistance cell opposing the Posthumans who governed the ship from a shared simulation. He seized both the simulation and the ship's systems, confined the uploaded Posthumans in a constructed purgatory, and joined himself to the Ark.
 
-During Kalsa's millennia of terraforming he made himself the sole teacher and divine authority of the Ring populations. He built dependence through ritual, selected bodies and minds through coercive evolutionary games, and interpreted worship as nourishment and proof. When spontaneous Luck appeared, he reorganized his breeding program around seven Kaos Gifts.
+## Rule over the Rings
 
-His project preserved the number eight across Rings, magic signatures, digits, time, and stages of life. It imposed Lojban as a supposedly superior language and treated Controls and Spokers as instruments or contamination rather than peers.
+During the millennia spent terraforming Kalsa, Prometheus made himself the sole teacher and divine authority of the people living in the Ark's eight habitable Rings. He also controlled the ship's management, manufacturing, and environment. The authority demanding obedience was the same authority providing the systems people needed to survive.
 
-## Authority before the Fall
+Ritual taught the Ring populations to depend on him. His coercive evolutionary games selected their bodies and minds, while he understood their worship as both nourishment and proof of his divinity. When Luck appeared spontaneously, he reorganized his breeding program around seven Kaos Gifts: families of magical capability.
 
-Prometheus owned the Ark's management, manufacturing, environment, selection regimes, and public theology. This concentration made survival and obedience the same system. The [[Spoilers/Foundations/Ark and Fall#The Fall|Fall]] broke that physical authority by severing the Rings from the drive core.
+The number eight recurred throughout his project, from the Rings and magic signatures to numerical digits, divisions of time, and stages of life. He imposed Lojban because he considered it a superior language. Controls, the population used in his experiments without engineered Kaos strains, and Spokers, the historically distinct inhabitants of the ship's Spokes, received no standing as peers: he treated Controls as instruments and Spokers as contamination.
 
-Present peoples inherit the machine he made; they do not inherit his right to define them. Claims that engineered phenotypes determine intelligence, docility, violence, sanity, or social destiny must be attributed to a source, institution, or prejudice rather than repeated as neutral biology.
+## The Fall and its inheritance
+
+The [[Spoilers/Foundations/Ark and Fall#The Fall|Fall]] severed the Rings from the drive core and broke Prometheus's physical control over them. Present peoples still live with the consequences of his engineering and rule. That inheritance gives him no continuing right to define who they are.
+
+Claims that engineered traits determine intelligence, docility, violence, sanity, or social destiny must therefore be attributed to the source, institution, or prejudice asserting them. They must not appear as neutral biological facts.
 
 ## Present status
 
-The seed establishes that the drive core and Promethean power were disconnected, not conclusively destroyed. It does **not** establish an active return in current setting canon. The sleeping God's attempt to reclaim his Children belongs to [[Spoilers/Reference/Story Seeds|Story Seeds]] until a campaign-era premise adopts it.
+The seed establishes that the drive core and Promethean power were disconnected. It does not establish that they were destroyed, or that Prometheus is actively returning in current setting canon.
+
+The sleeping God's attempt to reclaim his Children remains a premise in [[Spoilers/Reference/Story Seeds|Story Seeds]] unless a campaign adopts it for its own era.
 
 ## Unresolved
 
-- What part of the original Mathys identity survives in Prometheus.
-- Whether Prometheus became a God Beast, a machine intelligence with upper-dimensional reach, or both.
-- The state of the imprisoned Posthumans.
-- The location and condition of the drive core.
-- Which religions accurately remember him and which claim his authority.
+- How much of the original Mathys identity survives in Prometheus.
+- Whether he became a God Beast, a machine intelligence with upper-dimensional reach, or both.
+- What has happened to the imprisoned Posthumans.
+- Where the drive core is and what condition it is in.
+- Which religions remember him accurately and which claim his authority.
 
 See [[Spoilers/Foundations/Language and Reckoning|Language and Reckoning]], [[Spoilers/Foundations/Magic Styles|Magic Styles]], and [[Spoilers/Polities/Null and Control Descendants|Null and Control Descendants]].
