@@ -21,100 +21,119 @@ tags:
 
 # Shamanism — Papsenai
 
-The papsenai are hereditary agrarian tribes of the southern gulf. Their best-known city, Ti'asantatca, stands beside a massive storm front and survives through the continuous labor of the [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]]. Papsenai shamans can intervene in weather, soil, water, and the future of a crop, but they create neither rain nor food from nothing. Agriculture remains a material practice of seed, land, water, tools, animals, storage, transport, and coordinated labor.
+The papsenai are farming tribes of the southern gulf, with belonging passed between generations. Their shamans help shape weather, soil, water, and the future of crops. This can make harvests unusually reliable, but it cannot produce rain or food from nothing. Farmers still need seed, land, water, tools, animals, storage, transport, and people able to work together.
 
-The seed calls the papsenai the world's most profitable agricultural power and places them in an unnamed Alliance. This note adopts the causal core: reliable long-horizon intervention can produce large, valuable surpluses and make neighboring powers depend on papsenai harvests. It does not adopt a functioning Alliance, universal market measure, fixed border, or centralized “agricultural empire.” Much of that surplus is produced and claimed through tribes whose exact land law remains unresolved.
+Their best-known city, Ti'asantatca, stands beside a massive storm front. People can live there because the [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] continuously maintain a protective barrier. The city depends on both magical labor and the farms and households that support its workers.
 
-## Inherited history and magical boundary
+The original seed describes the papsenai as the world's most profitable agricultural power and places them in an unnamed Alliance. Current canon adopts a narrower claim: reliable intervention over long periods can produce large, valuable surpluses, enough for neighboring powers to depend on papsenai harvests. There is no established universal measure of profitability, fixed border, centralized “agricultural empire,” or functioning Alliance. Tribes produce and claim much of the surplus; the exact laws governing their land remain unresolved.
 
-Shamanism, signature 101 and Sequence III, grew from Sorcery after [[Spoilers/Foundations/Prometheus|Prometheus]] changed the conquest game. Tribes gained reproductive rights by holding a fixed objective for half a generation. The test selected for defense, planning, endurance, and intervention across a longer horizon as well as for direct violence.
+## How shamanic work holds a future
 
-A shaman enters a dreamlike trance and bonds with a target's fate. Blessings and curses alter reachable futures; the bond can reveal approaching magical pressure or conflict around the target. Coordinated shamans can steer large systems by exploiting the energy and causal levers already present within them. [[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] own those mechanics and their limits. Papsenai institutions own who is asked to work, who supplies the work, which target is chosen, and who bears the result.
+A shaman enters a dreamlike trance and bonds with a target's fate. Through that bond, blessings and curses can change which reachable future comes about. The shaman may also sense approaching magical pressure or conflict around the target. Several shamans working together can influence a large system by using energy and opportunities for change already present within it.
 
-The bond is a long oracular commitment, not a forecast delivered before work.
-Seed withheld from eating, hands kept on one field, replacement watches, and
-the decision to continue after a warning all become part of the future the
-shaman can reach. A competing oracle may detect the storm, market, army, or
-field differently without ever entering the bond itself.
+[[Spoilers/Foundations/Kaos|Kaos]] and [[Spoilers/Foundations/Magic Styles|Magic Styles]] define what this magic can do and where it stops. Papsenai institutions decide how people use it: who is asked to work, who provides support, which target receives attention, and who lives with the consequences.
 
-Papsenai records therefore distinguish an **unheld possibility** from a future
-for which a household has begun paying. The distinction does not prove the held
-future should continue. It identifies who will lose stored labor when a patron,
-enemy, God, or second shaman changes the surrounding field.
-[[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] owns the author comparison
-among those oracles.
+Bonding requires a continuing commitment. A household may set seed aside rather than eat it, keep workers on one field, provide replacement watches, or decide to continue after a warning. Those choices help make the pursued future reachable. The shaman's work therefore continues through the household's labor and decisions; it is more than a forecast supplied before planting.
 
-The old narrator described papsenai bodies and temperament through the language of breeding stock: very large, bovine-featured, docile, unintelligent, kind, and ferocious in battle. The physique and Promethean selection pressure remain possible inheritances. Intelligence, docility, obedience, and a single cultural temperament are not facts. The papsenai contain landlords and tenants, cautious elders and ambitious delegates, shield workers and deserters, prosperous storekeepers and households one failed field away from flight.
+Papsenai records distinguish an **unheld possibility** from a future that a household has already begun supporting with food, time, and work. That investment does not prove the household should continue. It makes the potential loss visible when a patron, enemy, God, or second shaman changes the conditions around the target.
 
-## Tribes, households, and land
+Other oracles can encounter the same storm, market, army, or field differently without entering the shaman's bond. [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]] provides the author-facing comparison between these kinds of knowledge.
 
-The tribe is the durable body through which most papsenai inherit belonging, use land, organize work, and make claims on shared stores. “Hereditary” does not by itself settle whether membership follows one parent, either parent, adoption, marriage, residence, oath, or some combination. Those rules can differ and remain open until particular tribes are named.
+## Promethean inheritance and the old account
 
-Authority is nested rather than automatically centralized. Households coordinate fields and care. Work groups maintain water, paths, storage, animals, and common ground. Tribal councils or comparable assemblies decide the obligations their members recognize, choose bounded delegates, and bargain with other tribes. Polity-wide institutions exist where recurring interdependence demands them: the stormshield, harvest coordination, and Ti'asantatca. They do not turn every field into state land.
+Shamanism developed from Sorcery after [[Spoilers/Foundations/Prometheus|Prometheus]] changed the conquest game. Tribes earned reproductive rights by holding a fixed objective for half a generation. Success required defense, planning, endurance, and the ability to intervene over a longer period, as well as direct violence. In the author classification, Shamanism is Sequence III and signature 101.
 
-Land claims are strongest where ancestry, continuing labor, water access, and tribal recognition agree. They become dangerous when those grounds diverge. A household that cleared a field may not control the channel feeding it. A migrant may provide years of harvest labor without entering the tribe that allocates seed. A shaman's intervention may save several fields while allowing one owner's claim that the yield belongs to the ritual sponsor. No single tenure formula is yet canonical.
+The old narrator described the papsenai as if assessing breeding stock: very large, bovine-featured, docile, unintelligent, kind, and ferocious in battle. Their physique and the effects of Promethean selection remain possible inheritances. Claims about their intelligence, docility, obedience, or a temperament shared by an entire people are not facts.
 
-## The agricultural year
+Papsenai society includes landlords and tenants, cautious elders and ambitious delegates, shield workers and deserters. Some households run prosperous stores. Others are one failed field away from flight.
 
-An ordinary season begins before planting with a material accounting: viable seed, available ground, water, labor, draft capacity, storage condition, expected household need, and outstanding contributions. Shamans then choose bounded targets—a field, herd, watercourse, store, or harvest interval—and test whether its future contains pressure they can usefully alter. The work is strongest when growers provide good observations and act on the forecast. A blessing cannot rescue seed that was never stored or distribute water through a broken channel.
+## Belonging, work, and land
 
-Forecasts are compared across targets because a favorable future for one tract may transfer flood, blight, labor shortage, or missed rain elsewhere. Tribal decision-makers authorize shared interventions, name the households asked to contribute work, and record who accepted the risk. Growers plant, tend, redirect water, cull, harvest, dry, and store. Only after a subsistence reserve and seed reserve are identified can a tribe judge what surplus is actually available for trade, ritual, relief, or an external bargain.
+For most papsenai, the tribe is the lasting institution through which they inherit belonging, gain use of land, organize work, and claim support from shared stores. Calling that belonging hereditary does not settle how membership works. It might follow one parent or either parent, or involve adoption, marriage, residence, oath, or a combination. Particular tribes may have different rules; none are settled until those tribes are defined.
 
-This procedure rewards households with storage, animals, irrigated ground, and access to respected shamans. Marginal households are more likely to supply seasonal labor while lacking the reserves that let them wait for a long intervention. They also lose most from optimistic forecasts: a wealthy store can survive one wrong season; a renter or newcomer may lose residence, debt standing, and children to service in the same failure.
+Decisions happen at several levels. Households coordinate fieldwork and care. Work groups maintain water supplies, paths, stores, animals, and common ground. Tribal councils or comparable assemblies decide which obligations members recognize, appoint delegates with limited authority, and bargain with other tribes. The stormshield, harvest coordination, and Ti'asantatca require institutions serving more than one tribe because their work creates recurring dependencies. Those institutions do not make every field state property.
 
-Class and lifecycle change how that risk is lived. Children learn field observation and tribal obligation before they can consent to either; gifted adolescents may be pulled toward apprenticeship while their peers enter ordinary harvest labor. Adults carry field, household, shield, and negotiated external duties at once. Elders can hold decisive memory of land, weather, and prior bargains while depending on younger workers for access to the stores and councils where that knowledge has force. A prosperous lineage can turn inherited land, storage, and delegate service into durable leverage; a land-poor household can inherit obligations without inheriting the reserves that made them survivable.
+A land claim is strongest when ancestry, continuing labor, access to water, and tribal recognition support the same claimant. Disputes become harder when they point in different directions. A household may have cleared a field but have no control over the channel that waters it. A migrant may work through years of harvests without joining the tribe that allocates seed. A shaman may save several fields, only for one owner to claim that the ritual sponsor owns the resulting yield. Canon does not yet supply a single land-tenure rule that resolves these cases.
 
-## Ti'asantatca and the shield burden
+## From seed stores to surplus
 
-Ti'asantatca is the papsenai Crown City beside the southern gulf storm front. Its habitability depends on a continuously maintained barrier. The [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] own the labor procedure: training, shifts, rest, refusal, handoff, warnings, and failure response. The city and its tribes own the harder political question of how much risk is acceptable and who must move when the shield weakens.
+Before planting, households and work groups assess what they have and what they owe. They count viable seed, usable ground, water, available labor, draft capacity, storage condition, expected household needs, and outstanding contributions.
 
-The shield makes the city a refuge, exchange point, storehouse, and symbol of papsenai endurance. It also concentrates cost. Active shamans cannot simultaneously tend distant fields, train successors, care for households, or serve another patron. Food, attendants, shelter, and replacement workers flow toward the shield even when outlying districts are hungry. Families of exhausted shamans can gain honor and privileged access while also inheriting grief, disability, and pressure to supply the next worker.
+Shamans then select a bounded target, such as a field, herd, watercourse, store, or harvest interval. They test whether its future contains pressure they can usefully change. Good observations from growers and action on the forecast make this work more effective. A blessing cannot replace seed that nobody stored or carry water through a broken channel.
 
-No demonstrated magical talent creates an automatic public debt. Tribes may nominate, sponsor, persuade, or pressure candidates, and emergencies can narrow meaningful refusal. The distinction matters. A city preserved by unrecorded compulsion can call its workers honored while making their disappearance administratively convenient.
+Decision-makers must compare forecasts across targets. Improving one tract's prospects may shift flood, blight, labor shortage, or missed rain elsewhere. Tribal authorities authorize shared interventions, identify the households asked to contribute, and record who accepted the risk.
 
-## The Alliance source promise
+Growers still plant, tend, redirect water, cull, harvest, dry, and store. A tribe can judge what is available for trade, ritual, relief, or an external bargain only after identifying the food people need to live and the seed needed for the next crop.
 
-The seed places the papsenai centrally in an unnamed Alliance and describes a protective relationship with a technologically oriented [[Spoilers/Polities/Intuition - Unresolved|Intuition polity]]. It does not establish the Alliance's present existence, members, founding, offices, or actual obligations. [[Spoilers/Institutions/The Alliance|The Alliance]] is therefore an `adopted-candidate`: a coherent model of the reciprocal bargain the source promises, not setting fact.
+Households with stores, animals, irrigated land, and access to respected shamans are better placed to benefit. Poorer households often supply seasonal labor but lack enough reserves to wait through a long intervention. An optimistic forecast can cost them far more. A wealthy store may survive a wrong season; a renter or newcomer may lose their residence and debt standing, and see their children enter service because of the same failure.
 
-If such an arrangement exists, it could reduce the need for every tribe to maintain the same military and technical capacity. The source does not prove the papsenai are naturally unwilling or unable to defend themselves: shield labor, local guards, defended stores, evacuation work, and control of food routes are already forms of protection. Any later adoption must name the actual protector and test whether dependence has become a warrant to set quotas, choose delegates, occupy stores, or command shamans.
+These differences persist across generations. Children learn to observe fields and meet tribal obligations before they can consent to either. Gifted adolescents may be drawn into apprenticeship while their peers begin ordinary harvest work. Adults can carry field, household, shield, and negotiated external duties at the same time.
 
-The candidate model routes collection through tribal authorities and exposes how that could protect local knowledge while concealing local extraction. Those receipts, appeals, and exits remain design pressure inside the candidate note until an actual counterpart and compact are adopted.
+Elders may remember land conditions, weather, and old bargains that decide a dispute. Yet they can depend on younger workers to reach the stores and councils where that knowledge matters. A prosperous lineage can pass down land, storage, and the influence gained through delegate service. A land-poor household can pass down obligations without the reserves that once made those obligations bearable.
 
-## Gods, relics, and technical visitors
+## Ti'asantatca and the cost of the shield
 
-Papsenai shamanism does not imply a universal papsenai cult. Households and tribes may maintain different [[Spoilers/Institutions/God-Cult Covenants|god-cult covenants]], refuse them, or negotiate protection and welfare without accepting that a cult owns the harvest. Divine assistance routes finite potential and remains vulnerable to competing claims and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|thaumavore leakage]]. A temple that blesses a store does not thereby acquire the grain.
+Ti'asantatca is the papsenai Crown City. Beside the southern gulf storm front, it remains habitable only while its barrier is maintained. The [[Spoilers/Institutions/Stormshield Circles|Stormshield Circles]] govern the work itself: training, shifts, rest, refusal, handoffs, warnings, and responses to failure. The city and its tribes decide how much risk to accept and who must relocate when the shield weakens.
 
-External patrons or future compacts may bring [[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] or relic-bearing partners to waterworks, storehouses, roads, or the stormshield. Their authority remains specific. Operational custody of a machine is not land title; possession of a relic is not permission to attach it to the shield; sponsorship is not proof that a proposed intervention is safe. [[Spoilers/Institutions/Relic Custody|Relic Custody]] governs the separate claims.
+Protection makes Ti'asantatca a refuge, exchange point, storehouse, and symbol of papsenai endurance. Maintaining it draws resources away from other uses. A shaman on an active shield shift cannot also tend a distant field, train a successor, care for a household, or work for another patron. Food, attendants, shelter, and replacement workers continue to go toward the shield even when outlying districts are hungry.
 
-## Historical consequence: the shield levy winter
+Families of exhausted shamans may receive honor and privileged access. They may also face grief, disability, and pressure to provide the next worker.
 
-[[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] owns the adopted wartime episode, its damage, and its settlement. Papsenai political memory owns what later bargains do with it. Tribes and households invoke the case when they demand that subsistence and seed be identified before negotiable surplus, that an emergency collector leave a reviewable receipt, and that shield labor not disappear inside an ordinary campaign levy.
+Showing magical talent does not automatically put someone in public debt. Tribes can nominate, sponsor, persuade, or pressure candidates, and an emergency can leave little room for meaningful refusal. These differences must remain visible in the record. A city can praise its workers while concealing how it compelled them to serve; without records, it can also avoid accounting for those who disappear from service.
 
-The memory cuts both ways. External demand did not make every papsenai refusal prudent, and later local elites can invoke the winter to hide a real surplus or protect their own stores first. The durable polity question is therefore evidentiary: which reserve was preserved for whom, what was actually taken, what protection or return was promised, and which households and shield stations absorbed the loss. The event settles none of the Alliance's founding chronology or the identity of the unresolved Intuition protector.
+## What the seed's Alliance promise establishes
 
-## Historical consequence: the grain at two gates
+The seed gives the papsenai a central place in an unnamed Alliance and describes protection from a technologically oriented [[Spoilers/Polities/Intuition - Unresolved|Intuition polity]]. It does not establish whether that Alliance currently exists, who belongs to it, how it began, what offices it has, or what anyone actually owes.
 
-Some tribes cite [[Spoilers/Events/The Grain at Two Gates|the Grain at Two
-Gates]] when bargaining abroad. Their delivery promise names the grain,
-recipient, excluded reserve, and release conditions; a route can change without
-giving the buyer title to the people sustaining the bond.
+For that reason, [[Spoilers/Institutions/The Alliance|The Alliance]] is an `adopted-candidate`. It develops a possible reciprocal bargain from the source promise. It is not an established institution in the setting.
 
-## Fault lines and resistance
+Such an arrangement could spare every tribe from maintaining the same military and technical capacities. That possibility does not make the papsenai naturally unwilling or unable to defend themselves. Shield work, local guards, defended stores, evacuation work, and control of food routes already provide protection.
 
-- A tribe can refuse an external demand it believes exceeds a bargain, then face loss of escort, market access, or emergency aid.
-- A household can hide seed or yield from a tribal assessment when it expects elites to preserve their own stores first.
-- A shaman can refuse a target, leave a shift, expose coercion, or dispute a forecast without proving disloyalty to every papsenai community.
-- Outlying settlements can accuse Ti'asantatca of consuming food and talent to preserve a city whose safety increases urban wealth more than theirs.
-- A would-be protector can call a collection necessary while papsenai delegates call it occupation with arithmetic.
-- Rival tribes can manipulate warnings, access to shamans, or storage evidence to make a neighbor appear unreliable.
+Before an Alliance can become canon, its actual protector must be identified. The bargain must also be tested for what dependence permits: can the protector set quotas, choose delegates, occupy stores, or command shamans?
 
-These conflicts are not proof that the institutions are false. They show where the real goods are: land, food, rest, credible prediction, shelter, protection, and the right to survive a refusal.
+The candidate arrangement has tribal authorities collect contributions. This could preserve decisions informed by local knowledge, while also allowing those authorities to conceal what they take from their own members. Proposed receipts, appeals, and ways to leave the arrangement remain design questions in the candidate note until a counterpart and compact are adopted.
 
-## Dungeon seams
+## Gods, machines, and the limits of sponsorship
 
-Papsenai dungeons are entangled with the systems above them. A buried Crown corridor may carry water toward disputed fields, shelter an old shield station, hold seed stores sealed during war, or contain a relic whose activation could divert the storm rather than stop it. A descent may be commissioned to recover a missing contribution record, reopen a route before harvest, find the cause of a false forecast, rescue an exhausted shift, or determine whether an apparent divine helper is feeding on concentrated potential.
+There is no universal papsenai cult implied by their shamanism. Households and tribes may enter different [[Spoilers/Institutions/God-Cult Covenants|god-cult covenants]], refuse them, or bargain for protection and welfare without granting a cult ownership of the harvest.
 
-Success does not erase jurisdiction. Explorers can possess a recovered component without owning the field or barrier it serves. A tribe can control an entrance while Ti'asantatca depends on what runs beneath it. An external sponsor can pay for recovery without acquiring every output. The return from below begins the dispute rather than ending it.
+Divine assistance directs a finite supply of magical potential. Competing claims can interfere with it, and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|thaumavore leakage]] can divert it. Blessing a store does not give a temple title to its grain.
+
+External patrons or future compacts may bring [[Spoilers/Institutions/The Techpriesthoods|Techpriesthoods]] or partners carrying relics to work on waterworks, storehouses, roads, or the stormshield. Each claim to authority must stay tied to what it actually grants. Keeping a machine in operation gives no land title. Holding a relic gives no permission to connect it to the shield. Paying for an intervention does not establish that it is safe. [[Spoilers/Institutions/Relic Custody|Relic Custody]] governs these separate claims.
+
+## Remembering the Shield Levy Winter
+
+[[Spoilers/Events/The Shield Levy Winter|The Shield Levy Winter]] establishes the wartime episode, its damage, and its settlement. Its use in later papsenai bargaining belongs here.
+
+Tribes and households invoke the winter to demand three things: identify subsistence and seed before declaring negotiable surplus; require emergency collectors to leave receipts that can be reviewed; and account for shield labor separately from an ordinary campaign levy.
+
+Invoking the event does not settle a present dispute. External demands did not make every papsenai refusal wise. Later local elites can also use the winter to conceal a real surplus or protect their own stores ahead of others.
+
+A claim based on the winter therefore needs evidence. Which reserves were kept, and for whom? What was taken? What protection or return was promised? Which households and shield stations bore the loss? The episode establishes neither the Alliance's founding chronology nor the identity of the unresolved Intuition protector.
+
+## Delivery promises after the Grain at Two Gates
+
+Some tribes use [[Spoilers/Events/The Grain at Two Gates|the Grain at Two Gates]] as a precedent when bargaining abroad. Their delivery promises specify the grain, its recipient, the reserve excluded from the bargain, and the conditions of release. Keeping those commitments distinct from the route allows carriers to change course. It does not give the buyer ownership of the people whose work sustains the shamanic bond.
+
+## Where people refuse and contest decisions
+
+Papsenai institutions must contend with people who disagree about what is owed and who can bear the cost.
+
+A tribe may refuse an external demand as exceeding its bargain, then lose escort, market access, or emergency aid. A household expecting local elites to protect their own stores first may hide seed or yield from a tribal assessment. Rival tribes can manipulate warnings, access to shamans, or storage evidence to make a neighbor look unreliable.
+
+Shamans can refuse a target, leave a shift, expose coercion, or challenge a forecast. None of those acts alone proves disloyalty to every papsenai community. Outlying settlements can likewise dispute the demands of Ti'asantatca, accusing it of consuming their food and talent to protect a city whose safety enriches urban households more than their own.
+
+External protection creates its own disputes. A would-be protector may describe a collection as necessary while papsenai delegates call it “occupation with arithmetic.”
+
+These conflicts concern things people actually need: land, food, rest, credible prediction, shelter, protection, and the ability to survive saying no. Their existence does not by itself discredit the institutions through which people seek those things.
+
+## What lies below
+
+Papsenai dungeons can contain working parts of the world above. A buried Crown corridor may carry water toward disputed fields, shelter an old shield station, or hold seed stores sealed during war. A relic found there might divert the storm when activated rather than stop it.
+
+Explorers may be hired to recover a missing contribution record, reopen a route before harvest, investigate a false forecast, or rescue an exhausted shift. They may also need to determine whether an apparent divine helper is feeding on concentrated magical potential.
+
+Recovering or repairing something leaves its ownership unresolved. Explorers can hold a component without owning the field or barrier it serves. A tribe may control an entrance while Ti'asantatca depends on the system beneath it. A sponsor can pay for recovery without acquiring everything the recovered system produces. What the expedition brings back can become the subject of the next dispute.
 
 ## Unresolved
 

@@ -14,115 +14,150 @@ tags:
 
 # Delving Compacts
 
-A **delving compact** is a bounded agreement among the people financing, entering, supplying, guiding, recording, and recovering an expedition. It exists because a ruin can kill a porter, ruin a sponsor, expose a settlement, and enrich a fighter under four different accounts of what everyone promised.
+A **delving compact** is an agreement about how an expedition will work: who supplies it, who makes which decisions, what workers are owed, when to stop, how to rescue people, and what can be divided on return. It binds the people financing, entering, supplying, guiding, recording, and recovering that expedition.
 
-The compact owns only relations among its parties. It cannot grant entry that the local polity refused, enlarge a [[Spoilers/Institutions/The Techpriesthoods|Techpriest's]] operational competence, cancel [[Spoilers/Institutions/Relic Custody|relic custody]], waive kin or cult claims over remains, bind residents who never signed, or create title to fixed infrastructure. It allocates only **residual movable salvage** released after prior claims and hazard costs under [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]].
+These people do not all face the same risks or expect the same rewards. A porter can die, a sponsor can lose their investment, a settlement can inherit a hazard, and a fighter can come home wealthy. Without clear terms, each may have a different account of what everyone promised.
 
-No universal adventurers' guild issues these agreements. Courts, rulers, temples, military offices, merchants, Techpriesthoods, villages, households, and delvers may each recognize different compact forms. Some are written. Others are witnessed orally, divided among token sets, or preserved through a ritual sequence. Their force comes from local enforcement, reputation, surety, and the parties' ability to refuse one another—not from a continental monopoly.
+A compact governs relations among its parties. Its reach ends where another authority's decision or claim begins. It cannot:
 
-## Parties and roles
+- grant entry when the local polity has refused it;
+- make a [[Spoilers/Institutions/The Techpriesthoods|Techpriest]] competent to perform an operation beyond their expertise;
+- cancel [[Spoilers/Institutions/Relic Custody|relic custody]];
+- waive kin or cult claims over remains;
+- bind residents who never signed;
+- give anyone title to fixed infrastructure.
 
-A compact identifies actual responsibilities rather than treating “the party” as one person.
+The compact can divide only **residual movable salvage**: recovered material that may lawfully be moved and remains available after prior claims and hazard costs have been settled under [[Spoilers/Institutions/Relic and Ruin Law|Relic and Ruin Law]].
 
-- **Sponsor:** supplies money, provisions, political access, or a recoverable objective. Funding does not create command over every act below.
-- **Admission holder:** carries the local grant and its limits. They cannot bargain away conditions imposed for public safety.
-- **Delving lead:** coordinates movement, timing, withdrawal, and immediate tactical decisions inside the admitted scope.
-- **Guide:** contributes route, language, climate, community, or underwork knowledge and retains the right to identify conditions under which that guidance no longer applies.
-- **Specialist:** exercises bounded expertise such as maintenance, medicine, mortuary practice, Kaos analysis, containment, or records. Expertise in one boundary is not general command.
-- **Working crew:** scouts, guards, climbers, excavators, porters, cooks, animal handlers, camp keepers, scribes, and others whose labor makes the descent possible.
-- **Recorder or witness:** preserves route, discoveries, disturbances, shares, casualties, and deviations. The role may be divided so one lost or bought witness cannot erase the expedition.
-- **Guarantor:** pledges supplies, rescue, compensation, or enforcement if the expedition cannot answer its obligations.
+There is no universal adventurers' guild issuing compacts. Courts, rulers, temples, military offices, merchants, Techpriesthoods, villages, households, and delvers may recognize different forms. An agreement might be written, witnessed orally, divided among token sets, or preserved through a ritual sequence. Local enforcement, reputation, surety, and the ability of parties to refuse one another give it force. No continental monopoly stands behind it.
 
-One person may hold several roles. Combining them concentrates conflicts as well as efficiency. A sponsor who leads, records, and judges shares can turn every disagreement into insubordination unless the compact gives another party a review path.
+## Who does what
 
-## Required terms
+A compact names the people responsible for particular work and decisions. Calling everyone “the party” leaves too much room to argue afterward.
 
-A defensible compact names:
+- **Sponsor:** provides money, provisions, political access, or an objective the expedition can recover. Paying for the descent does not give the sponsor command over everything done below.
+- **Admission holder:** carries the local permission to enter and is responsible for its limits. Conditions imposed for public safety are not theirs to bargain away.
+- **Delving lead:** coordinates movement, timing, withdrawal, and immediate tactical decisions within the permitted scope.
+- **Guide:** provides knowledge of routes, languages, climate, communities, or underworks. The guide retains the right to say when conditions have made that knowledge inapplicable.
+- **Specialist:** performs work within a defined expertise, such as maintenance, medicine, mortuary practice, Kaos analysis, containment, or records. That expertise does not confer general command.
+- **Working crew:** scouts, guards, climbers, excavators, porters, cooks, animal handlers, camp keepers, scribes, and everyone else whose labor makes the descent possible.
+- **Recorder or witness:** preserves the account of routes, discoveries, disturbances, shares, casualties, and departures from the agreement. Several people may divide this work so that losing or buying one witness cannot erase the expedition's record.
+- **Guarantor:** pledges supplies, rescue, compensation, or enforcement if the expedition cannot meet its obligations.
 
-- the site, entrance, [[Spoilers/Dungeons/Dungeon Provenance|provenance record]], and local admission authority;
-- the objective, duration, route limits, and prohibited acts;
-- command for movement, combat, work, withdrawal, and emergency rescue;
-- each specialist's stop authority and the process for contesting it;
-- provisions, wages, tools, animals, shelter, medical care, and replacement obligations;
-- how records are kept, copied, witnessed, and surrendered on return;
-- treatment of inhabitants, captives, bodies, burials, possible persons, and active systems;
-- casualty notice, rescue duty, abandonment threshold, and care for survivors and dependants;
-- custody and inspection of recovered objects before division;
-- hazard, repair, containment, and public-restoration costs;
-- shares in residual movable salvage and what happens when no residue remains;
-- breach, withdrawal, substitution, death, dispute, and expiry.
+One person may fill several roles. This can make coordination easier, but it also gives that person several ways to decide a dispute in their own favor. A sponsor who leads the expedition, keeps its record, and judges its shares can treat every disagreement as insubordination unless someone else has authority to review the decision.
 
-The compact should be legible to the people doing the dangerous work. Hidden appendices, untranslated clauses, and shares expressed in a reckoning unavailable to porters may satisfy a court and still function as theft. [[Spoilers/Foundations/Language and Reckoning|Kalsa's mixed languages and octal inheritances]] make witnessed explanation part of consent rather than polite ceremony.
+## What must be agreed before entry
 
-## Command and stop authority
+A defensible compact gives the participants enough information to understand both the work and what they are accepting. It names:
 
-The delving lead coordinates the expedition but does not absorb every specialist authority. A Techpriest can stop work at a system boundary they can identify. A mortuary specialist or kin witness can hold disturbance of remains. A healer can declare a casualty unfit to continue. A guide can refuse a route when weather, occupation, or damage makes the knowledge sold to the compact obsolete.
+- **Where entry is allowed:** the site, entrance, [[Spoilers/Dungeons/Dungeon Provenance|provenance record]], and local admission authority.
+- **What the expedition may do:** its objective, duration, route limits, and prohibited acts.
+- **Who can give orders:** command over movement, combat, work, withdrawal, and emergency rescue.
+- **Who can stop work:** each specialist's stop authority and how a disputed stop will be reviewed.
+- **What support is owed:** provisions, wages, tools, animals, shelter, medical care, and replacement obligations.
+- **How evidence will survive:** how records are kept, copied, witnessed, and surrendered on return.
+- **How encounters will be handled:** treatment of inhabitants, captives, bodies, burials, possible persons, and active systems.
+- **What happens to casualties:** notice, rescue duties, the threshold for abandonment, and care for survivors and dependants.
+- **What happens to recovered objects:** custody and inspection before any division.
+- **Which costs must be met:** hazard, repair, containment, and public-restoration costs.
+- **How the remainder is divided:** shares in residual movable salvage and the outcome when nothing remains.
+- **How the agreement changes or ends:** breach, withdrawal, substitution, death, dispute, and expiry.
 
-A stop should name its boundary, reason, and condition for review. The lead may redirect work elsewhere, withdraw, request another witness, or seek emergency override from the local authority when public danger requires action. The lead cannot answer every stop by dismissing the specialist and calling the resulting act “tactical.” Specialists cannot convert a bounded refusal into ownership of the expedition.
+The people doing the dangerous work must be able to understand these terms. A court may accept hidden appendices, untranslated clauses, or shares calculated in a reckoning the porters cannot use. Those terms can still function as theft. Given [[Spoilers/Foundations/Language and Reckoning|Kalsa's mixed languages and octal inheritances]], explaining the agreement before witnesses is part of obtaining consent.
 
-Every worker retains refusal when the sponsor materially changes the objective, conceals a known hazard, withholds promised survival supplies, or orders an act outside admission. Local law may recognize narrower or broader rights. A compact that punishes all withdrawal equally teaches leaders to hide changed conditions until retreat becomes impossible.
+## Orders, stops, and refusal
 
-## Labor, wages, and the camp above
+The delving lead decides how to coordinate the expedition. Specialists retain authority over the particular work and risks they can judge.
 
-Dungeon wealth depends on work rarely depicted in the chamber where it is found. Porters move food, tools, records, bodies, and recovered material. Camp crews guard the entrance, dry clothing, care for animals, track air and weather, maintain lines, receive messengers, and organize rescue. Local residents sell knowledge and supplies while bearing the noise, theft, traffic, and hazards the expedition brings home.
+A Techpriest can stop work at a system boundary they can identify. A mortuary specialist or kin witness can halt disturbance of remains. A healer can declare that a casualty is unfit to continue. A guide can refuse a route when weather, occupation, or damage has made the knowledge sold to the compact obsolete.
 
-Wages compensate time and labor regardless of whether salvage exists. Shares compensate accepted exposure to uncertain return. Substituting speculative shares for food or pay moves all risk downward while leaving the sponsor's claim intact. A compact may offer both, but it must state which obligations survive an empty expedition.
+Anyone invoking a stop should state what it covers, why it is necessary, and what would allow it to be reviewed. The lead can redirect work elsewhere, withdraw, request another witness, or seek an emergency override from the local authority when public danger requires action. Dismissing the specialist and calling the same act “tactical” does not answer the objection. Equally, a specialist's authority to refuse one operation does not make them the expedition's owner.
 
-Debt creates another trap. A sponsor can advance equipment and provisions, then define every failed descent as a larger obligation requiring another attempt. Coherent compacts cap or review such debt, preserve a path to leave, and distinguish loss caused by ordinary failure from loss caused by sponsor concealment or unlawful command.
+Every worker retains the right to refuse when the sponsor materially changes the objective, conceals a known hazard, withholds promised survival supplies, or orders an act outside the permission to enter. Local law may recognize narrower or broader rights. If the compact punishes every withdrawal in the same way, leaders have a reason to conceal changed conditions until the crew can no longer retreat.
 
-## Records and provenance
+## Pay and the work above ground
 
-The expedition record begins with the admitted threshold and follows each route, opening, removal, casualty, manifestation, and change in environmental behavior. Recovered objects keep their location, attachments, neighboring material, and immediate effects in the record. The compact states who receives copies and who may seal a dangerous detail.
+The people entering a chamber depend on work elsewhere. Porters carry food, tools, records, bodies, and recovered material. Camp crews guard the entrance, dry clothing, care for animals, track air and weather, maintain lines, receive messengers, and organize rescue. Local residents provide knowledge and supplies while living with the expedition's noise, theft, traffic, and returning hazards.
 
-Recorders do not own [[Spoilers/Dungeons/Dungeon Provenance|provenance]] merely because they wrote the first account. Workers, residents, rival specialists, kin, and later expeditions can correct it. Deliberately separating an object from its context to improve its salvage status is breach even when the object remains intact.
+Payment needs to distinguish two different promises. **Wages** pay for time and labor whether or not the expedition finds salvage. **Shares** reward an agreed exposure to uncertain returns. A compact can offer both, but it must say what remains owed after an empty descent. Replacing food or pay with speculative shares puts all the risk on the workers while preserving the sponsor's claim.
 
-Records also protect workers. A sponsor who calls a failed objective “cowardice” must answer the documented collapse, missing supply, stop order, or changed hazard. A worker claiming an undisclosed route must answer the map and witnesses. The record makes dispute possible; it does not settle it automatically.
+Equipment debt can keep a worker returning even when they want to leave. A sponsor advances tools and provisions, charges the failed descent against the worker, and requires another attempt to repay the larger debt. Coherent compacts cap that debt or provide for its review and preserve a way to leave. They also distinguish ordinary expedition failure from losses caused by the sponsor's concealment or unlawful orders.
+
+## Keeping an account that can be challenged
+
+The expedition record starts at the threshold where entry was permitted. From there, it tracks each route, opening, removal, casualty, manifestation, and change in environmental behavior. For every recovered object, it preserves where the object lay, what it was attached to, what surrounded it, and what happened immediately when it was disturbed or removed. The compact specifies who receives copies and who may seal a dangerous detail.
+
+Writing the first account does not give a recorder ownership of [[Spoilers/Dungeons/Dungeon Provenance|provenance]]. Workers, residents, rival specialists, kin, and later expeditions can correct it. Deliberately stripping an object of its recorded context to make it easier to claim as salvage is a breach, even if the object itself remains intact.
+
+These records also give participants something to bring to a dispute. A sponsor who calls failure “cowardice” must answer evidence of a collapse, missing supplies, a stop order, or a changed hazard. A worker who claims there was an undisclosed route must answer the map and witnesses. Documentation allows those accounts to be tested; it does not decide which is right by itself.
 
 ## Rescue, death, and abandonment
 
-The compact names the reserve for rescue and the point at which further rescue would expose more people than it can plausibly save. No formula removes judgment. A lead may close a route to protect the living while abandoning someone who might still survive. A sponsor far above may demand continued recovery because the missing person carries the only record or relic it values.
+Before entry, the compact names what will be held in reserve for rescue and when further attempts would endanger more people than they could plausibly save. Those terms still require judgment. A lead can close a route to protect the living while leaving behind someone who might survive. A sponsor safely above can demand that recovery continue because the missing person carries the only record or relic the sponsor values.
 
-Bodies, personal effects, covenant records, and possible continuing manifestations leave the salvage account. They pass to the procedures of [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] and the claims of the person, kin, cult, office, or local authority. The death of a compact member does not make their share common loot. Inheritance and outstanding wages follow whatever law the compact validly chose and the relevant jurisdiction recognizes.
+Death does not put everything associated with a member into the salvage pool. Bodies, personal effects, covenant records, and possible continuing manifestations pass to the procedures of [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] and the claims of the person, kin, cult, office, or local authority. The member's share does not become common loot. Inheritance and outstanding wages follow the law validly chosen by the compact and recognized by the relevant jurisdiction.
 
-Survivors can be owed care, return passage, wages, and testimony even when injury made them “unproductive.” A compact that rewards only what reaches the inspection table gives every leader an incentive to leave expensive people behind.
+Survivors may still be owed care, return passage, wages, and testimony when injury has made them “unproductive.” If an agreement rewards only what arrives at the inspection table, it gives leaders a reason to abandon people whose care will be expensive.
 
-## Costs before shares
+## What can be divided on return
 
-On return, the compact's gross recovery is not yet a divisible hoard. People and possible persons are removed first. Active-system components, established custody, title, burials, covenant records, community dependencies, and prohibited material are returned, held, or adjudicated under their owners.
+Everything brought back must be sorted before shares can be calculated. People and possible persons leave the salvage account first. Active-system components, material under established custody or title, burials, covenant records, things on which communities depend, and prohibited material must be returned, held, or adjudicated by the authorities responsible for those claims.
 
-The remaining pool then answers necessary costs recognized by ruin law: rescue, containment, guarded storage, treatment, repair of damage caused by entry or removal, replacement of public support, safe burial, and restoration of exported hazards. Only after those claims does the compact allocate residual movable salvage.
+The remaining pool must then meet the necessary costs recognized by ruin law:
 
-Shares may account for wages already paid, supplied equipment, specialist risk, discovery, transport, and collective work. No adopted ratio is universal. A finder may receive a discovery share where the compact says so. Finding never creates title by itself.
+- rescue;
+- containment and guarded storage;
+- treatment;
+- repair of damage caused by entry or removal;
+- replacement of public support;
+- safe burial;
+- restoration where hazards have been carried out of the site.
 
-If costs consume the pool, the sponsor does not automatically transfer the deficit to workers. The compact should state which losses the guarantor absorbs, which result from individual breach, and which leave all parties unpaid. Hazard accounting can be manipulated, so parties need access to the inventory and a route to challenge expenses charged by the same office that buys the salvage.
+Only what remains after those claims is residual movable salvage for the compact to divide.
 
-## Breach, dispute, and appeal
+An agreement may calculate shares with regard to wages already paid, equipment supplied, specialist risk, discovery, transport, and collective work. No adopted ratio applies everywhere. A finder may receive a discovery share if the compact provides one; finding an object does not itself establish title.
 
-Breach includes concealed removal, falsified records, violence outside agreed necessity, abandonment contrary to the rescue terms, trafficking held material, secret changes of objective, withholding wages or supplies, and refusal to surrender recovery for required inspection. The compact names remedies the chosen jurisdiction may enforce: lost shares, repayment, exclusion from future work, surety seizure, public notice, or criminal referral.
+When costs exhaust the pool, the deficit does not automatically become the workers' debt. The compact should specify which losses the guarantor covers, which arise from an individual's breach, and which leave all parties unpaid.
 
-Disputes may go to a local court, sponsor's forum, ruler, temple, trade assembly, lineage witness, or named arbitrators. No route is naturally neutral. A sponsor's home court favors capital; a frontier ruler favors local security; a Techpriest forum may see every dispute as custody; a cult court may recognize obligations outsiders reject.
+The cost account can itself be abused. Parties need access to the inventory and a way to challenge expenses, especially when the office charging for hazards is also buying the salvage. Otherwise that office can decide both how little remains and what it is worth.
 
-Parties can demand a temporary hold on disputed material, independent copying of records, a second inventory, or a witness from outside the expedition. A hold requires a reason and review. It cannot become possession-by-delay. Non-signatories pursue their claims under ruin law rather than being forced into the compact's private forum.
+## Breach and a hearing
 
-## Resistance and marginal views
+A compact is breached by acts such as concealing a removal, falsifying records, using violence beyond agreed necessity, abandoning someone contrary to the rescue terms, trafficking material held under a claim, secretly changing the objective, withholding wages or supplies, or refusing to surrender recovered material for required inspection.
 
-Compacts make exploitation inspectable but can also launder it. A ruler points to the admission seal while residents were never notified. A sponsor calls debt voluntary after the worker's winter stores were exhausted. A guide's route becomes the sponsor's property. Porters receive wages but no voice in whether a sealed hazard rides home beside them. A local scavenger is prosecuted for taking scrap beside an expedition licensed to dismantle an entire district.
+The agreement names remedies its chosen jurisdiction may enforce. These can include loss of shares, repayment, exclusion from future work, seizure of surety, public notice, or referral for criminal proceedings.
 
-Workers resist through collective refusal, shared route knowledge, duplicate records, wage demands, rescue funds, public inventories, and agreements not to carry material under unresolved claim. Communities close informal entrances, misdirect extractive sponsors, insist on local witnesses, or sponsor their own compact. Delvers sometimes accept these demands because a party without trustworthy guides and a safe return settlement is only temporarily powerful.
+A dispute might go before a local court, the sponsor's forum, a ruler, a temple, a trade assembly, a lineage witness, or named arbitrators. Choosing a forum also means choosing its interests and assumptions. A sponsor's home court favors capital. A frontier ruler favors local security. A Techpriest forum may treat every dispute as a custody question. A cult court may recognize obligations that outsiders reject. None is neutral simply by holding the hearing.
 
-## Historical stress: from war band to compact
+Parties can demand a temporary hold on disputed material, independent copies of records, a second inventory, or a witness from outside the expedition. A hold needs a stated reason and review; delaying the hearing cannot be allowed to become a way of acquiring the material. People who never signed pursue their claims under ruin law. The compact cannot force them into its private forum.
 
-In the first generations after the Fall and during the War of the Magi, armed groups could treat a breached depth as an extension of conquest: enter, carry what survived, reward whoever remained, and leave damage to the defeated. That practice worked badly once communities depended on the same buried systems, transborder Techpriesthoods could recognize stolen parts, and cult or kin claims followed remains across new borders.
+## When agreement conceals exploitation
 
-The compact form is a later answer to that recurring stress. It separates sponsor, command, labor, evidence, custody, hazard, and residual reward because the old war-band model made one survivor owner of every decision. Its exact place and date of origin remain unresolved, and no single institution invented all present forms.
+Compacts make promises and abuses easier to inspect. They can also give exploitation the appearance of consent.
+
+A ruler can point to an admission seal although residents were never notified. A sponsor can call debt voluntary after a worker has exhausted their winter stores. A sponsor can take ownership of a guide's route knowledge. Porters can receive their wages yet have no voice in whether a sealed hazard travels home beside them. A local scavenger can be prosecuted for taking scrap next to an expedition licensed to dismantle an entire district.
+
+Workers respond with collective refusal, shared route knowledge, duplicate records, wage demands, rescue funds, public inventories, and agreements not to carry material while claims remain unresolved. Communities may close informal entrances, misdirect extractive sponsors, demand local witnesses, or sponsor a compact themselves.
+
+Delvers sometimes accept these demands because they depend on the people making them. Armed strength below ground does not supply trustworthy guides or a safe settlement to return to.
+
+## How compacts followed war bands
+
+In the first generations after the Fall and during the War of the Magi, armed groups could treat a breached depth as conquered territory. They entered, carried away what survived, rewarded those who remained, and left the defeated to bear the damage.
+
+That approach worked badly once communities depended on the same buried systems. Transborder Techpriesthoods could recognize stolen components, and kin or cult claims could follow remains across newly drawn borders. Carrying something away did not end its relationship with the people left behind.
+
+Compacts developed later as an answer to this recurring problem. They separate the sponsor's interest, the lead's command, workers' obligations, evidence, custody, hazard costs, and the right to a remaining reward. Under the war-band model, a single survivor could claim authority over every one of those decisions.
+
+The exact place and date of origin remain unresolved. No single institution invented all the forms now in use.
 
 ## Dungeon play seams
 
-A compact can begin a campaign with obligations already under pressure: a sponsor concealed the true objective; the guide sold a route now occupied; the porter pool demands a rescue clause; the Techpriest will join only if records are copied; the local authority permits mapping but not removal; or shares vanish if hazard costs are honestly counted.
+An expedition can begin with a compact already in dispute. The sponsor has concealed the true objective. The route sold by the guide is now occupied. The porter pool demands a rescue clause. The Techpriest requires copies of the records before joining. The local authority permits mapping but forbids removal. Honest hazard accounting would leave no shares at all.
 
-Inside the dungeon, every meaningful discovery can reopen the compact. A living community voids the assumption of abandonment. A fixed component cannot join the salvage pool. A dead member leaves wages and testimony. A possible mind turns cargo into a claimant. A spreading hazard makes withdrawal a public act rather than private failure.
+Discoveries below ground can change what the agreement allows or requires. Finding a living community defeats the assumption that a site is abandoned. A fixed component cannot be added to the salvage pool. A dead member leaves obligations concerning wages and testimony. Cargo that may be a mind becomes a possible claimant. A spreading hazard makes withdrawal a decision with public consequences rather than merely a failed expedition.
 
-On return, the party may remain together to defend its record, break apart over an empty pool, pursue the sponsor who trafficked a held relic, or accept a second descent because only evidence below can resolve the first expedition's liability. The compact is not paperwork after adventure. It is the machine that carries consequence between descent and society.
+Those obligations can keep the campaign moving after the return. The party may stay together to defend its record, split over an empty salvage pool, pursue a sponsor who trafficked a held relic, or descend again because the evidence needed to settle the first expedition's liability is still below.
 
 ## Unresolved
 
