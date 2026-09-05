@@ -19,200 +19,211 @@ tags:
 
 # Forecast Evidence and Courts
 
-The Divided City's courts treat Prophecy as expert evidence. A forecast can show possible outcomes, compare interventions, reveal forecast-space distortion, and direct investigators toward present facts. It never automatically proves guilt, ownership, intent, or inevitability.
+In the Divided City, a forecast can get a lift closed, grain held back, a market dispersed, or a tenant moved out of a predicted fire path. It can delay a marriage contract or cause a worker to be reassigned. The people affected may never see the original vision, but they still lose wages, shelter, reputation, or trust while a precaution remains in force.
 
-This rule protects both metaphysical truth and civic authority. [[Spoilers/Foundations/Kaos|Kaos]] exposes reachable branches that change when observed and acted upon. A judge owns the finding and remedy. A prophet owns their report. Neither may quietly take the other's seat.
+The courts treat Prophecy as expert evidence. A prophet reports possible futures and what might change them; a judge decides what the evidence establishes and what the law permits. A forecast can compare interventions, reveal disturbances or gaps in the futures available to observation, and point investigators toward present facts. It does not automatically establish guilt, ownership, intent, or an inevitable outcome.
 
-## Owner map
+This division matters because observing a future can help change it. [[Spoilers/Foundations/Kaos|Kaos]] exposes reachable branches: possible outcomes that remain sensitive to observation and action. A court order becomes another intervention in that system. The prophet remains responsible for the report, and the judge remains responsible for the finding and remedy.
 
-| Decision | Owner | Forbidden substitution |
+Most cases never receive a grand prophecy. Forecast labor is scarce, expensive, entangled with political interests, and capable of changing the dispute it examines. Courts usually settle rent, assault, debt, work injury, ration errors, and neighborhood conflicts through testimony, records, physical inspection, and custom.
+
+## Who hears the case
+
+Ordinary cases begin in ward or sector courts under civic law. The offices below have translated functional names; their native titles are not yet settled.
+
+- **Ward judges** hear civil, work, ration, tenancy, injury, and neighborhood cases within a ward.
+- **Sector judges** hear disputes crossing ward boundaries. They also hear cases that require a Ju'onai or Terjamna sector claim to be distinguished from civic law.
+- **The City Mixed Bench** hears forecast appeals and disputes where civic and imperial authority overlap. Civic judges decide the local judgment. Imperial legal assessors receive notice and speak only to the claims they represent.
+- **Civic clerks** open cases, serve notice, preserve testimony and exhibits, and keep a forecast copy independent of its sponsor. They record orders and compliance and issue corrected public records.
+- **Forecast reviewers** examine whether a report is relevant, current, adequately disclosed, and open to challenge. They check conflicts of interest. They neither certify a future nor decide the case.
+- **Order officers** serve summons, release people, secure evidence, enforce civic limits, and report failures to comply. Technical work belongs to the people who operate the affected system, including Sunwall workers.
+
+A litigant outside the houses may face opponents with archives, trained witnesses, and imperial patrons. Independent civic copies of forecasts and accepted disclosures do not remove that advantage. They do prevent a house or patron from controlling the only surviving account of what it claimed.
+
+### Where each authority ends
+
+| Question or action | Who owns it | What cannot replace that authority |
 |---|---|---|
-| What branches a named inquiry exposed | The reporting prophet or forecast team | Sponsor summary presented as the prophet's words |
-| Whether a forecast is sufficiently disclosed and contestable | The forecast reviewer serving the court | House pedigree treated as reliability |
-| Findings of fact and law | The civic judge or bench | Forecast treated as verdict |
-| Ordinary civil remedy | The civic court | Imperial forecast quota treated as local law |
-| Ju'onai or Terjamna claim under the condominium | The claimant's legal assessor within the scope of that claim | One claimant deciding the other's rights |
-| Public emergency actuation | The office that owns the threatened system | A prophet personally commanding the response merely because they predicted harm |
-| Appeal | A higher mixed bench with civic authority and notice to both claimants | The original sponsor privately re-running the same forecast |
+| What branches did a named inquiry expose? | The reporting prophet or forecast team | A sponsor's summary passed off as the prophet's words |
+| Is the report sufficiently disclosed and open to challenge? | The forecast reviewer serving the court | House pedigree offered as proof of reliability |
+| What are the findings of fact and law? | The civic judge or bench | A forecast treated as a verdict |
+| What ordinary civil remedy is due? | The civic court | An imperial forecast quota treated as local law |
+| What follows from a Ju'onai or Terjamna claim under the condominium? | That claimant's legal assessor, within the claim's scope | One claimant deciding the other's rights |
+| Who carries out a public emergency response? | The office responsible for the threatened system | A prophet taking command because they predicted the danger |
+| Who hears an appeal? | A higher mixed bench with civic authority and notice to both claimants | The original sponsor privately running the forecast again |
 
-Formal office names and the armistice text remain unresolved. The authority boundaries do not.
+The formal office names and armistice text remain unresolved. These limits on authority are settled.
 
-## Court body and funding
+## Appointments, discipline, and payment
 
-The following are translated functional offices, not settled native titles:
+Every valid commission must state the officer's jurisdiction, appointing civic body, term or review point, compensation, conflicts, removal procedure, and required handover records. The exact appointment methods and durations remain unresolved.
 
-- **ward judges** hear ordinary civil, work, ration, tenancy, injury, and neighborhood cases within a ward;
-- **sector judges** hear cross-ward disputes and cases in which a Ju'onai or Terjamna sector claim must be separated from civic law;
-- **the City Mixed Bench** hears forecast appeals and disputes whose civic and imperial scopes overlap; civic judges own the local judgment while notified imperial legal assessors speak only to their claim;
-- **civic clerks** open cases, serve notice, preserve testimony and exhibits, maintain an independent forecast copy, record orders and compliance, and issue corrected public records;
-- **forecast reviewers** test disclosure, relevance, expiry, conflicts, and contestability without certifying a future or deciding the case;
-- **order officers** serve summons, release people, secure evidence, enforce civic limits, and report noncompliance; Sunwall workers and other system owners execute technical acts inside their own competence.
+Judges cannot hear appeals against their own prior orders. A reviewer who participated in a report, or has a conflict involving its sponsoring house or patron, cannot review it without disclosing that conflict and obtaining consent from both the parties and the bench.
 
-A valid commission names jurisdiction, appointing civic body, term or review point, compensation, conflicts, removal path, and the records the officer must hand off. Exact appointment methods and durations remain unresolved. Judges cannot review their own prior order on appeal. A forecast reviewer cannot review a sponsoring house, patron, or report in which they participated without disclosed consent from the parties and the bench.
+Judges and reviewers can be suspended for concealed conflicts, bribery, fabrication, suppressed branches, unlawfully sealed evidence, or remedies beyond their jurisdiction. Clerks and order officers can face discipline for altered records, failed notice, lost evidence, extortion, or force exceeding an order. Charges and interim suspensions enter the record. Removal belongs to the appointing civic authority, with review by a higher court or separate civic panel. An empire may remove its own assessor; it cannot remove a civic judge because it dislikes the ruling.
 
-Judges and reviewers can be suspended for concealed conflicts, bribery, fabrication, suppressed branches, unlawful sealed evidence, or remedies outside jurisdiction. Clerks and order officers can be disciplined for altered records, failed notice, evidence loss, extortion, or force beyond the order. Charges and interim suspension are recorded; removal uses the appointing civic authority with review by a higher court or separate civic panel. An empire may remove its own assessor, not the civic judge whose ruling it dislikes.
+Civic dues assigned to ward and city justice provide the courts' ordinary support. Disclosed case fees supplement them, as does the city's forecast-service quota when a case needs expert labor. Courts may waive or shift fees that would prevent an ordinary party from answering a house or imperial sponsor.
 
-Courts draw ordinary support from civic dues assigned to ward and city justice, supplemented by disclosed case fees and the city's forecast-service quota when expert labor is required. Fees can be waived or shifted when they would bar an ordinary party from answering a house or imperial sponsor. The party requesting an unusual forecast ordinarily advances its material cost; the court can reallocate that cost after judgment. Imperial claimants pay their own legal assessors. Houses and patrons pay their own advocates and forecasts unless civic service terms apply.
+A party requesting an unusual forecast ordinarily advances its material cost. The court may reassign that cost after judgment. Imperial claimants pay their own assessors. Houses and patrons pay for their advocates and forecasts unless civic service terms apply.
 
-Funding pays judges, clerks, reviewers, order officers, record storage, messengers, interpreters, accessible hearings, secure exhibits, and emergency enforcement. A sponsor that funds a forecast does not fund the verdict. A claimant that pays a court fee does not purchase faster truth.
+This funding supports judges, clerks, reviewers, order officers, record storage, messengers, interpreters, accessible hearings, secure exhibits, and emergency enforcement. Paying for a forecast gives its sponsor no authority over the verdict. Paying a court fee gives a claimant no entitlement to have its account accepted faster.
 
-## The forecast record
+## What must accompany a forecast
 
-A party introducing prophecy must identify enough of its production for challenge:
+A party offering prophecy must supply a record that lets others examine how the report was produced. It must identify:
 
-- the question asked;
-- the time of observation and forecast horizon;
-- the material facts supplied to the prophet;
-- the principal branches observed, not only the sponsor's preferred branch;
-- interventions assumed or planned after disclosure;
-- known competing prophets, Gods, shamans, Channelers, or other scoped distortions;
-- the sponsor, patron, house, and intended audience;
-- uncertainty, occlusion, and branches the prophet could not resolve.
+- **The inquiry:** the question asked, when the observation occurred, and how far into the future the report reaches.
+- **The briefing:** the material facts supplied to the prophet.
+- **The observed possibilities:** the principal branches, including those the sponsor did not prefer.
+- **The expected response:** interventions assumed in the forecast or planned after its disclosure.
+- **Other influences:** known competing prophets, Gods, shamans, Channelers, or other distortions, with their relevant scope.
+- **The interested parties:** the sponsor, patron, house, and intended audience.
+- **The limits of the observation:** uncertainty, obscured portions of forecast space, and branches the prophet could not resolve.
 
-This record is not a claim that futures are reproducible like static measurements. It makes the differences legible when a rival prophet observes a changed question or a later branch set.
+The record does not promise that another prophet can reproduce the observation like a static measurement. It allows the court to understand why a later report, or one answering a changed question, sees different branches.
 
-Divided City reviewers use the translated term **crowded horizon** when the
-record contains other branch-aware actors capable of responding before the
-forecast expires. The reviewer asks which actors received the question, which
-responses the prophet was briefed to expect, what material levers they control,
-and where the report encountered unexplained gaps. The term does not prove that
-every gap is magical or let a court infer an invisible culprit.
+The reviewer checks completeness, conflicts, relevance, and expiry, then recommends whether and to what extent the court should admit the report. Reviewers may be trained prophets, Analysts, or legal specialists. Whatever their training or rank, they serve the court under disclosed conflict rules. House or Ju'onai standing gives them no share of the judge's decision.
 
-Crowding can make a report more important and less suitable as a verdict. A
-warning may show that several patrons are steering toward the same disaster
-while leaving the court unable to rank their private explanations. The court
-can stage action, expose assumptions, preserve records, or change the material
-system. It cannot stand outside the causal field and recover the future that
-would have occurred without its order.
+### When other forecasters can respond
 
-A forecast reviewer checks completeness, conflicts, relevance, and expiry, then writes a scoped recommendation on admissibility. The reviewer does not certify that a future is true. Reviewers may be trained prophets, Analysts, or legal specialists, but they serve the court under disclosed conflict rules rather than carrying a house or Ju'onai rank into the judge's seat.
+Reviewers use the translated term **crowded horizon** when a record includes other actors who know about possible branches and can respond before the forecast expires. The practical questions are who received the inquiry, which responses the prophet was briefed to expect, what material means those actors control, and where the report encountered unexplained gaps.
 
-## Admissibility
+An unexplained gap does not establish magical interference or identify an invisible culprit. Yet the uncertainty can make a warning more urgent. Several patrons may be steering toward the same disaster while offering private explanations the court cannot reliably rank.
 
-A court may admit a forecast when it is relevant, its question and horizon are stated, material assumptions are exposed, and an opposing party can challenge either the report or the present facts beneath it.
+The court can order action in stages, require assumptions to be disclosed, preserve records, or change the material system. Each choice changes the circumstances being forecast. The court cannot then recover, from some position outside those events, the future that would have happened without its order.
 
-A court limits or excludes a forecast when:
+## What the court can admit
 
-- it presents one future as necessary while suppressing observed alternatives;
-- its horizon expired after a material intervention;
-- the sponsor concealed an action they intended to take after hearing it;
-- the prophet cannot distinguish observation from instruction received through patron or God hierarchy;
-- disclosure itself has changed the decision enough that the old branch comparison no longer answers the case;
-- it asserts a person's guilt solely because that person appears in a harmful future;
-- it uses house ancestry, physical features, or social rank as a substitute for method;
-- secrecy prevents the opposing party from learning the substance needed to answer it.
+A forecast may be admitted when it bears on the case, states its question and horizon, exposes its material assumptions, and gives the opposing party a way to challenge the report or the present facts on which it rests.
 
-Courts distinguish prediction from evidence of a completed act. A forecast may justify inspection, preservation of records, a temporary safety order, or a narrowly bounded watch. Irreversible punishment requires present evidence and legal findings beyond the predicted harm.
+The court limits or excludes a report when any of the following undermines that use:
 
-## Rival forecasts
+- It declares one future necessary while withholding observed alternatives.
+- A material intervention has left its horizon expired.
+- Its sponsor concealed an action they intended to take after hearing it.
+- The prophet cannot separate what they observed from instructions received through a patron or God hierarchy.
+- Disclosure has changed the decision enough that the old branch comparison no longer answers the case.
+- It claims someone is guilty solely because they appear in a harmful future.
+- It substitutes house ancestry, physical features, or social rank for a method that can be examined.
+- Secrecy keeps the opposing party from learning enough of the claim to answer it.
 
-Two honest prophets can disagree because they were asked different questions, briefed with different facts, observed at different times, assumed different interventions, or became part of each other's causal system. The court does not average them into decorative uncertainty.
+A predicted act and a completed act require different evidence. Prediction may support inspection, record preservation, a temporary safety order, or a narrowly bounded watch. Irreversible punishment requires present evidence and legal findings beyond the harm forecast.
 
-Instead, it compares inputs and asks which disagreement matters:
+## When honest forecasts disagree
 
-- Did one forecast include a planned garrison deployment the other sponsor concealed?
-- Did publication of the first forecast create the riot the second observed?
-- Is one prophet seeing farther but with less causal resolution?
-- Has a God hierarchy closed branches available to an unbound observer?
-- Does material evidence show that both reports began from a false premise?
+Two prophets can report honestly and still disagree. They may have answered different questions, received different facts, observed at different times, or assumed different interventions. Their forecasts and responses may also have become causes within each other's observations.
 
-The comparison often produces a narrower decision than either patron wanted. A court may choose a reversible intervention and require a new forecast after the system changes.
+The court compares those differences rather than averaging the reports. It asks questions such as:
 
-## A held future entering forecast litigation
+- Did one report account for a planned garrison deployment that the other sponsor concealed?
+- Did publishing the first forecast create the riot seen in the second?
+- Does one prophet see farther ahead but distinguish less clearly how the outcome would arise?
+- Has a God hierarchy closed branches that remained available to an unbound observer?
+- Does material evidence show that both reports started from a false premise?
 
-A shamanic bond record is not a forecast. When one enters a Divided City case,
-the bonded shaman or working group owns its account of the target, the material
-commitment already made, pressure sensed around it, interventions attempted,
-and the conditions under which the bond will continue or release. Papsenai
-practice owns how that account is formed; a house reviewer cannot rewrite it
-into branches the shaman never observed.
+The resulting decision is often narrower than either patron sought. The court may authorize a reversible intervention, then require a new forecast once conditions have changed.
 
-The court can use the record to establish that a live commitment exists, that a
-sponsor's proposed act will enter its causal field, or that grain, labor, land,
-or a person is already carrying a named burden. The bond cannot prove every
-future of the target, identify an unseen rival, or decide whether the existing
-commitment should prevail.
+## When a shamanic bond enters a case
 
-A material intervention affecting the target can expire both the bond account
-and a Prophetic report built around it. The judge may stage the act and require
-new evidence from each owner afterward. This interface does not make the court
-a universal tribunal for Shamanism; it governs only a non-prophetic claim
-offered inside a case the court already has authority to hear.
+A shamanic bond record describes a commitment already being held around a target. It is not a forecast. The bonded shaman or working group owns the account: what the target is, what material commitment has already been made, what pressure they sense around it, which interventions they have attempted, and under what conditions the bond will continue or release.
+
+Papsenai practice determines how that account is formed. A house reviewer cannot recast it as a set of branches the shaman never observed.
+
+Within a case, the record can establish that a live commitment exists. It can show that a sponsor's proposed act will affect the causal system around that commitment, or that grain, labor, land, or a person already bears a named burden. It cannot establish every future of the target, identify an unseen rival, or decide that the existing commitment deserves to prevail.
+
+A material change to the target can make both the bond account and a Prophetic report based around it outdated. A judge may therefore order the change in stages and require fresh evidence from both owners afterward.
+
+This procedure applies only when a non-prophetic claim is offered in a case the court already has jurisdiction to hear. It does not give the court general authority over Shamanism.
 
 ## Luck
 
-Luck cannot be directly detected. A prophet may report patterned forecast failure or a persistent bias in which expected branches disappear. That is evidence that an unresolved influence may be operating, not evidence that a named person possesses Luck or caused an event.
+Luck cannot be detected directly. A prophet may observe forecasts failing in a pattern, or expected branches repeatedly disappearing. Those observations can support an inference that an unresolved influence is at work. They cannot establish that a named person has Luck or caused an event.
 
-Therefore:
+A court must therefore keep several limits clear:
 
-- “Luck is present” must be phrased as inference and accompanied by ordinary alternative causes.
-- No person may be identified, convicted, expelled, bound, or subjected to irreversible remedy solely through inferred Luck.
-- Family reputation, improbable survival, or misfortune near a rival does not cure the evidentiary gap.
-- A court may order material inspection or temporary hazard precautions without naming a magical culprit.
+- A claim that “Luck is present” must be identified as an inference and accompanied by ordinary alternative explanations.
+- Inferred Luck alone cannot justify identifying, convicting, expelling, binding, or imposing an irreversible remedy on a person.
+- Family reputation, improbable survival, and misfortune near a rival do not supply the missing evidence.
+- Material inspection and temporary hazard precautions may be ordered without identifying a magical culprit.
 
-This rule is both a metaphysical constraint and a defense against turning disliked people into explanations for coincidence.
+These limits follow from what the evidence can reveal. They also prevent a court from making a disliked person legally responsible for coincidence.
 
-## Orders, enforcement, and remedy
+## Secrecy and the right to answer
 
-A judgment names findings, law or compact applied, remedy, responsible actor, enforcement owner, duration, review point, and compensation or record correction still owed. Forecast evidence can support a reversible safety order, preservation of evidence, material inspection, staged action, or a new forecast after intervention. It cannot make an irreversible punishment proportionate merely by describing a terrible branch.
+Forecast records can reveal military plans, house lineages, intimate choices, and vulnerabilities whose disclosure helps bring them about. Courts may seal raw records, but must still give an opposing party a usable account of the claim, its horizon, the assumed intervention, and the adverse consequence.
 
-Ward order officers enforce ordinary summons, release, access, seizure limits, and record correction. The Sunwall Stewardship closes, loads, repairs, or reopens a lift or farm system because it owns operation. Ward provision offices alter rations or shelter under a civic allocation order. A house disciplines its member under charter. Ju'onai and Terjamna forces execute only orders grounded in their own scoped claim. No court officer may compensate for an uncooperative owner by pretending to possess that owner's competence or jurisdiction.
+A sealed forecast cannot alone support an irreversible penalty. During an immediate threat, a court may temporarily restrict access or movement. That order expires unless a hearing in which the opposing party can answer renews it on disclosed grounds.
 
-Available remedies include release, return of property, restored access or use, repair, maintenance orders, corrected records, withdrawal of unsupported accusation, lost-pay or temporary-housing support, restitution, reassignment of cost, retrial, discipline referral, and a stay or expiry of an emergency restriction. Restoration follows the proven injury and the authority that caused it. A corrected forecast record is not sufficient remedy when a person lost wages, shelter, care, or standing through the order.
+Imperial assessors frequently invoke security privilege. Houses invoke archive privilege. Civic courts demand enough disclosure to keep judgment public. The condominium survives this disagreement because fully overriding any one claim gives a rival grounds to reject the result.
 
-If enforcement fails, the clerk records which owner refused, what remains at risk, and which appeal or compact pressure is available. A judge does not convert the refusal into a broader order against people who lacked the power to comply.
+## Orders and the people who carry them out
+
+Every judgment must state its findings, the law or compact applied, the remedy, the actor responsible, the enforcement owner, its duration and review point, and any compensation or record correction still owed.
+
+Forecast evidence can support reversible safety measures, preservation of evidence, material inspection, staged action, and a fresh forecast after intervention. Describing a terrible possible future does not, by itself, make an irreversible punishment proportionate.
+
+An order also has to reach someone who possesses the authority and competence to perform it:
+
+- Ward order officers enforce ordinary summons, release, access, seizure limits, and record correction.
+- The Sunwall Stewardship closes, loads, repairs, or reopens a lift or farm system because it operates that system.
+- Ward provision offices change rations or shelter under a civic allocation order.
+- A house disciplines its own member under charter.
+- Ju'onai and Terjamna forces execute only orders grounded in their own limited claims.
+
+An uncooperative operator does not give a court officer technical competence or a new jurisdiction. If enforcement fails, the clerk records who refused, what remains at risk, and which appeal or pressure under the compact is available. The judge cannot widen the order against people who lacked the power to comply.
+
+### What a remedy must repair
+
+Courts can order release, return of property, restored access or use, repair, or maintenance. They can correct records and require an unsupported accusation to be withdrawn. They can award lost-pay or temporary-housing support, restitution, or reassignment of costs. Other remedies include retrial, referral for discipline, and staying or ending an emergency restriction.
+
+The remedy follows the proven injury and the authority that caused it. Correcting a forecast record is insufficient when the order also cost someone wages, shelter, care, or standing. A precaution can be reversible in law while leaving losses that still need to be repaired.
 
 ## Appeals
 
-Ordinary cases begin in ward or sector courts under civic law. Appeals involving forecast evidence go to a city-level mixed bench. The civic member owns the local judgment; Ju'onai and Terjamna assessors receive notice and speak to the scope of their respective tribute, sector, or security claims. Neither imperial assessor may convert an objection into an affirmative verdict for the whole city.
+Forecast appeals go to a city-level mixed bench. The civic member owns the local judgment. Ju'onai and Terjamna assessors receive notice and address only their respective tribute, sector, or security claims. An assessor's objection cannot become a verdict for the whole city.
 
 Grounds for appeal include:
 
-- an undisclosed sponsor or planned intervention;
-- expiry of the forecast horizon;
-- suppression of material branches or rival reports;
-- mistaken treatment of inferred Luck as identification;
-- a remedy broader or less reversible than the forecast could support;
-- sealed evidence that prevented meaningful answer;
-- proof that the court acted at the wrong layer, such as punishing a worker for an infrastructure owner's failure.
+- a sponsor or planned intervention that was not disclosed;
+- an expired forecast horizon;
+- withheld material branches or rival reports;
+- inferred Luck wrongly treated as identification;
+- a remedy broader or less reversible than the forecast supported;
+- sealed evidence that prevented a meaningful answer;
+- a court placing responsibility at the wrong level, such as punishing a worker for an infrastructure owner's failure.
 
-Appeal normally stays an irreversible penalty. A system owner may continue a temporary emergency action when delay threatens the Sunwall, public food, fire control, or mass life, but must record the act, limit its duration, and submit it for review. A repair loop does not become lawful merely because catastrophe was predicted.
+An appeal normally stays an irreversible penalty. A system owner may continue temporary emergency action if delay threatens the Sunwall, public food, fire control, or mass life. The owner must record the action, limit its duration, and submit it for review. Repeated corrective action still requires lawful authority; a prediction of catastrophe does not supply it.
 
-## Secrecy
+## The Closed Lift Appeal and current procedure
 
-Forecasts can expose military plans, house lineages, intimate choices, and vulnerabilities that become real when publicized. Courts may seal raw records, but secrecy has limits.
+[[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] owns the historical facts of that case. Its lasting procedural consequences are these: inferred Luck cannot identify a culprit; planned interventions must accompany the forecast record; material owners answer for material failure; preventing a disaster does not establish which forecaster was right; and correction must address material loss as well as the record.
 
-An opposing party must receive a usable statement of the claim, horizon, assumed intervention, and adverse consequence. A sealed forecast cannot be the sole basis of an irreversible penalty. A court may temporarily restrict access or movement during an immediate threat, but the order expires unless an adversarial hearing renews it on disclosed grounds.
+The case also establishes how the participants work together. Clerks preserve competing reports. Reviewers examine disclosure. Civic judges make findings and determine remedies. Imperial assessors speak only to their own claims. Order officers carry out civic acts, while Sunwall stewards execute technical limits. Urgency gives none of them the others' authority.
 
-Imperial assessors frequently claim security privilege. Houses claim archive privilege. Civic courts claim the minimum disclosure needed to keep judgment public. The condominium endures because none of these claims can wholly erase the others without giving the rival a reason to refuse the result.
+## Court commissions and delving
 
-## Ordinary court life
+Courts hire adventurers to carry evidence, serve as protected witnesses, inspect material conditions, conduct searches, or execute a narrow recovery order. Each commission must name:
 
-Most disputes do not receive a grand prophecy. Forecast labor is scarce, expensive, politically encumbered, and capable of changing the matter it examines. Rent, assault, debt, work injury, ration error, and neighborhood conflict are usually decided through testimony, records, physical inspection, and custom.
+- the place and the object or testimony sought;
+- the changes the party is permitted to make;
+- who holds the recovered records;
+- the safety limit;
+- compensation;
+- the forum to which the party must return.
 
-Prophecy most often enters ordinary life through temporary orders: a lift closed, a market dispersed, a marriage contract delayed, grain held back, a worker reassigned, a tenant removed from a predicted fire path. The person burdened by the precaution may never see the original vision. Forecast review and appeal exist because reversible orders still cost wages, reputation, shelter, and trust.
+A commission grants neither salvage rights nor permission to improvise punishment underground.
 
-A non-house litigant faces houses with archives, trained witnesses, and imperial patrons. Civic clerks therefore preserve forecast records and accepted disclosures independently of the sponsoring house. This does not equalize power, but it prevents a patron from owning the only memory of what was claimed.
+A forecast about a ruin may justify entry in stages, closing a route, preserving a chamber, or evacuating. It cannot establish who built the site, who owns a relic, or which party member will betray the others. [[Spoilers/Dungeons/Dungeon Provenance|Dungeon provenance]], [[Spoilers/Institutions/Relic and Ruin Law|ruin law]], [[Spoilers/Institutions/Delving Compacts|the delving compact]], and [[Spoilers/Institutions/Relic Custody|relic custody]] continue to govern their respective questions.
 
-## Historical stress: the Closed Lift Appeal
+Players might uncover a sponsor's concealed intervention, recover the only independent forecast copy, or escort a reviewer through an occupied sector. They might protect a clerk correcting a politically useful record, enforce release against a house guard, or show that a predicted magical crime was an infrastructure failure.
 
-[[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]] alone owns the factual event. Its procedural consequence is durable: inferred Luck cannot identify a culprit; planned interventions belong in the forecast record; material owners answer for material failure; avoiding a predicted disaster does not prove which forecaster was right; and correction must address material loss rather than only amend the record.
+Success may stay an order while leaving compensation unpaid, a system closed, or an imperial assessor refusing recognition. What the court provides is an enforceable civic claim. The remaining work can still be considerable.
 
-The case also fixes the shared court path. Clerks preserve competing reports, forecast reviewers test disclosure, civic judges own findings and remedy, imperial assessors speak only to their claims, order officers enforce civic acts, and Sunwall stewards execute technical limits. No participant acquires the others' authority because the case is urgent.
+## How opponents describe the process
 
-## Player and delving consequences
+A Terjamna officer calls the process a machine for turning urgent command into paper while rivals move. A Ju'onai assessor says mixed appeal lets local judges hide incompetence inside uncertainty. A house prophet sees disclosure as a demand to hand strategic sight to people who did not cultivate it. A non-house defendant calls all three complaints the sound power makes when asked to show its work.
 
-Courts commission adventurers as evidence carriers, protected witnesses, material inspectors, search parties, or agents executing a narrow recovery order. A commission names the place, object or testimony sought, permitted changes, record custody, safety limit, compensation, and return forum. It is not a salvage deed or permission to improvise punishment below ground.
-
-Forecasts about a ruin can justify staged entry, route closure, preservation of a chamber, or evacuation. They cannot prove who built the site, who owns a relic, or which person will betray the party. [[Spoilers/Dungeons/Dungeon Provenance|Dungeon provenance]], [[Spoilers/Institutions/Relic and Ruin Law|ruin law]], [[Spoilers/Institutions/Delving Compacts|the delving compact]], and [[Spoilers/Institutions/Relic Custody|relic custody]] remain live.
-
-Players can expose a concealed sponsor intervention, recover the only independent forecast copy, escort a reviewer across an occupied sector, protect a clerk correcting a politically useful record, enforce release against a house guard, or prove that a predicted magical crime was a material infrastructure failure. Success can stay an order and still leave compensation unpaid, a system closed, or an imperial assessor refusing recognition. The court produces an enforceable civic claim, not a clean ending.
-
-## Hostile readings
-
-A Terjamna officer calls the process a machine for turning urgent command into paper while rivals move. A Ju'onai assessor calls mixed appeal an invitation for local judges to hide incompetence inside uncertainty. A house prophet calls disclosure a demand to hand strategic sight to people who did not cultivate it. A non-house defendant calls all three complaints the sound power makes when asked to show its work.
-
-The court's legitimacy rests not on pleasing these parties but on keeping any one of them from converting a possible future directly into custody over the present.
+The court's legitimacy depends on maintaining the limits these parties contest. No participant may turn a possible future directly into authority to control the present.
 
 ## Unresolved
 
@@ -220,8 +231,7 @@ The court's legitimacy rests not on pleasing these parties but on keeping any on
 - Exact appellate composition and how deadlock is resolved.
 - Standards for emergency duration, compensation, and restoration after wrongful precaution.
 - Archive access, record retention, and penalties for concealed branches.
-- Treatment of divine commands, Analysis reports, and Channeler observations
-  when combined with prophecy beyond the bounded shamanic interface above.
+- Treatment of divine commands, Analysis reports, and Channeler observations when combined with prophecy beyond the bounded shamanic interface above.
 - Whether neighboring polities recognize the city's forecast judgments.
 
 See [[Spoilers/Polities/Prophecy - The Divided City|The Divided City]], [[Spoilers/Institutions/Prophetic Houses|Prophetic Houses]], [[Spoilers/Events/The Closed Lift Appeal|The Closed Lift Appeal]], [[Spoilers/Foundations/Kaos#Observing Kaos|Observing Kaos]], [[Spoilers/Foundations/Oracle Ecology|Oracle Ecology]], and [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections and Gods]].

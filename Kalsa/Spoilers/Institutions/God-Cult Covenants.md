@@ -23,251 +23,196 @@ tags:
 
 # God-Cult Covenants
 
-Worship on Kalsa is a relationship before it is an opinion. Repeated prayer,
-service, imitation, fear, gratitude, and public identification align a person
-with a divine hierarchy. A **binding** is the further relation through which a
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#God Beasts|God Beast]]
-can claim priority in the person's Projection and route finite magical
-potential through its hierarchy. Cults organize the lower-world promises,
-records, labor, and disputes surrounding those relations.
+A god-cult organizes people's obligations to a god and the protection, support, and magical access they expect in return. Its covenants record promises; its offices arrange rites, maintain stores, assign work, and hear disputes. For many households, belonging to a cult means access to grain, healing, training, or burial long before it means witnessing a revelation.
 
-Alignment and binding are not interchangeable. A person may honor a god,
-attend its festivals, or depend upon its granaries without being one of its
-directly bound children. A priest may administer thousands of worshippers while
-remaining metaphysically subordinate to a Beast or Projection unknown to the
-congregation. Titles describe cult office; they do not prove position in the
-upper-dimensional hierarchy.
+These arrangements surround a relationship that cult officials do not fully control. Repeated prayer, service, imitation, fear, gratitude, and public identification align a person with a divine hierarchy. A **binding** goes further: it allows a [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#God Beasts|God Beast]] to claim priority in the person's Projection and route finite magical potential through its hierarchy.
 
-## Three routes into a hierarchy
+Worship, cult membership, and binding therefore need to be distinguished. Someone may honor a god, attend its festivals, or rely on its granaries without becoming one of its directly bound children. A priest who administers thousands of worshippers may remain metaphysically subordinate to a Beast or Projection the congregation knows nothing about. An office title tells people what a priest does within the cult. It does not establish their place in the divine hierarchy.
 
-Cult law distinguishes three origins even where their resulting bindings may
-look similar to diviners.
+## What households give and receive
 
-- A **voluntary covenant** begins with an intelligible promise. The petitioner
-  names the god, obligations, expected protection or access, witnesses, and a
-  term or severance condition where local custom permits one. Whether every god
-  understands or accepts the same terms attributed to it remains disputed.
-- An **inherited attachment** is claimed through family, household, conquered
-  community, office, or land already aligned with a hierarchy. Some cults treat
-  it as a birthright carrying welfare and protection. Others use it as a debt
-  no child was allowed to refuse. The exact point at which upbringing and
-  repeated ritual become an upper-dimensional attachment is unresolved.
-- **Coercive submission** follows defeat, captivity, threat, or imposed rite.
-  Sorcerous hierarchies make this route brutally legible: a losing Beast can be
-  forced beneath a winner and its potential subordinated. Later homage does not
-  retroactively make that conquest voluntary. Temples and rulers often rewrite
-  submission as covenant because clean records are easier to inherit than an
-  admitted act of force.
+Most adherents deal with the cult's daily work. Households contribute offerings, work days, hospitality, information, military service, ritual attendance, and public loyalty. A strong cult may return grain reserves, storm shelter, healing, apprenticeship, mediation, burial, protection from rival champions, and a place on the miracle rolls.
 
-No common court has proved that one rite creates every kind of binding. Local
-law therefore adjudicates consent, obligation, and remedy from witnesses,
-ritual records, changes in miracle access, divine manifestations, and the
-interests of whoever can enforce the judgment.
+That exchange can sustain people while leaving them little freedom to refuse it. A temple that keeps a district fed has material authority whether or not anyone sees a divine manifestation. A god protecting that district may receive potential through bindings held by people who cannot safely renounce the institution that owns the granary. Reformers dispute whether consent is possible when leaving a covenant also threatens survival and family membership.
 
-## Offices and authority
+Miracles do not remove the need to maintain supplies and skilled workers. Because [[Spoilers/Foundations/Kaos#Hard constraints|Kaos creates neither matter nor energy]], divine aid still needs seed grain, medicine, skilled hands, susceptible weather, functioning relics, or other available means of producing the result. A cult that promises miracles without maintaining those inputs runs down both its reserve and people's reasons to trust it.
 
-A mature cult separates the authority to interpret a god from the work that
-keeps its dependants alive.
+## How people enter a hierarchy
 
-- **Covenant witnesses** question petitioners, record the claimed terms, and
-  preserve evidence of whether entry was voluntary, inherited, or compelled.
-  Courts trust them only as far as their temple, patron, and archives can be
-  trusted.
-- **Clergy** maintain doctrine, calendar, communal rites, teaching, and the
-  ordinary relationship between a god and its adherents. Their authority is
-  social and interpretive unless a separate binding makes them agents of the
-  God Beast.
-- **Potential stewards** schedule miracles, maintain beneficiary rolls, and
-  reconcile promises against the finite flow described in [[Spoilers/Institutions/The Potential Economy|The Potential Economy]]. They cannot create potential by
-  correcting the books.
-- **Champions** receive delegated potential and material support to defend a
-  hierarchy, collect obligations, answer rival manifestations, or stabilize a
-  disputed succession. A champion protects the cult from attack; the same
-  office can make refusal physically impossible.
-- **Household and guild custodians** aggregate offerings, service, petitions,
-  and complaints from people who rarely meet high clergy. They are where a
-  distant divine order becomes a food allotment, burial place, apprenticeship,
-  or punishment.
+Cult law distinguishes three origins of a binding, even when diviners find the resulting relations difficult to tell apart.
 
-The God Beast controls the actual routing relation to the extent that it can
-act. Clergy own records and public procedure. Champions own force only within
-the grant that supports them. None of these authorities is entitled to pretend
-it owns the others.
+### Voluntary covenant
 
-## Oracular portfolios and divine strategy
+A voluntary covenant starts with a promise the petitioner can understand. It names the god, the petitioner's obligations, the protection or access expected in return, and the witnesses. Where local custom allows, it also names a term or a condition for severance.
 
-A cult may recruit several kinds of Gift without possessing one complete
-future. Prophets can extend a hierarchy's conscious horizon, opened readers can
-locate a material lever, Sorcerers and Channelers can act upon different parts
-of a conflict, and a shaman can keep a chosen body moving toward an outcome
-after the original vision expires. Luck can dominate the result without
-entering the council chamber as testimony.
+Those recorded terms establish what people claim to have agreed. Whether every god understands or accepts the terms attributed to it remains disputed.
 
-Clergy often describe successful coordination as proof that the God saw and
-ordered the whole. Rival sects preserve incompatible records: the champion
-acted before the oracle answered, the field bond was already in place, or the
-God's withdrawal forced the route later called providential. Such records can
-challenge performed omniscience without proving the God absent.
+### Inherited attachment
 
-When one hierarchy controls the witnesses, briefings, potential routes,
-material stores, and force that can answer a vision, its anticipated response
-can enter nearly every future available to its dependants. Cult doctrine may
-call that protection, concord, submission, or divine order. The author-facing
-condition belongs to
-[[Spoilers/Foundations/Oracle Ecology#Timeline capture|Oracle Ecology]].
+A cult may claim someone through a family, household, conquered community, office, or piece of land already aligned with its hierarchy. Some cults treat this attachment as a birthright that brings welfare and protection. Others treat it as a debt that no child was allowed to refuse.
 
-## Cult formation and office reproduction
+Upbringing and repeated ritual matter to these claims, but the exact point at which they become an upper-dimensional attachment is unresolved.
 
-A cult becomes durable when a group can maintain more than a shared claim of revelation. It needs recognized witnesses, a place or route for rites, records that distinguish covenant from inheritance and submission, material support for dependants, and people able to continue the work after the founding visionary dies or loses access to the god. A new congregation may form around a manifestation, migrate away from a parent temple, organize a conquered hierarchy, or split during a succession. Recognition by a polity or older cult can protect its property and testimony. It does not prove that the God Beast accepted the new institution.
+### Coercive submission
 
-Recruitment follows the work. Covenant witnesses are drawn from clerks, household advocates, translators, and people trusted to question an entry claim without leading the answer. Clergy normally pass through instruction in doctrine, rite, local speech, covenant categories, welfare obligations, and the limits of what a manifestation can prove. Potential stewards require separate preparation described in [[Spoilers/Institutions/The Potential Economy|The Potential Economy]]. Champions train under the authority that arms and provisions them; ritual standing alone does not license force.
+Defeat, captivity, threat, or an imposed rite can force someone into submission. Sorcerous hierarchies provide a clear and brutal example: a victorious Beast can force a defeated Beast beneath it and subordinate the loser's potential.
 
-Candidates may enter through family expectation, temple schooling, patronage, debt service, adoption by a congregation, demonstrated ritual skill, or a public need for readers and witnesses. Each route creates a different vulnerability. A hereditary temple can confuse access to training with divine preference. A patron school can produce capable clergy whose first loyalty is to the household that paid. A debt novice may technically consent while losing shelter on refusal. A defensible office record names sponsor, training, tested duties, outstanding obligations, conflicts, and the authority able to review the appointment.
+Later homage does not make the original conquest voluntary. Temples and rulers nevertheless often record submission as covenant. Their successors can inherit a tidy promise more comfortably than an admitted act of force.
 
-Cult workers require food, lodging, clothing, travel, archive materials, ritual space, and relief from ordinary labor. Support may come from offerings, estate income, service dues, workshop or harvest shares, patron grants, paid rites, or a portion of communal stores. Compensation should attach to work rather than access to a miracle queue. When a witness or steward can survive only by pleasing the person whose claim they must test, the office is already purchased even if no coin changes hands.
+No common court has proved that a single rite creates every kind of binding. Local courts must judge consent, obligation, and possible remedies from witnesses, ritual records, changes in miracle access, and divine manifestations. Their judgments are also shaped by the interests of whoever has the power to enforce them.
 
-Office succession transfers records, duties, access, and unfinished petitions. It does not transfer the predecessor's binding or divine delegation automatically. Clerical selectors, congregation witnesses, patrons, polity officers, and divine intermediaries may each recognize different successors. During the dispute, archive custody, welfare stores, miracle allocation, and armed protection should remain separated so that one temporary keeper cannot manufacture unanimity by starving the others.
+## Who decides what
+
+A mature cult divides the work of interpreting a god, administering promises, supporting dependants, and using force. Each office has a different responsibility.
+
+**Covenant witnesses** question petitioners and preserve the claimed terms of entry. Their records must distinguish voluntary promises, inherited attachments, and compelled submission. A court's trust in a witness depends on its trust in the witness's temple, patron, and archives.
+
+**Clergy** maintain doctrine, calendars, communal rites, teaching, and the ordinary relationship between the god and its adherents. This gives them social and interpretive authority. They become agents of the God Beast only if a separate binding establishes that relation.
+
+**Potential stewards** decide how to schedule miracles, maintain beneficiary rolls, and compare the cult's promises with the finite flow described in [[Spoilers/Institutions/The Potential Economy|The Potential Economy]]. Changing an entry in a ledger cannot create more potential.
+
+**Champions** receive delegated potential and material support. Their duties may include defending the hierarchy, collecting obligations, answering rival manifestations, or stabilizing a disputed succession. Their force can protect adherents from attack. It can also make refusal physically impossible.
+
+**Household and guild custodians** gather offerings, service, petitions, and complaints from people who rarely meet high clergy. Through these custodians, the cult's decisions become food allotments, burial places, apprenticeships, and punishments.
+
+The God Beast controls the actual routing relation to the extent that it can act. Clergy control records and public procedure. A champion's authority to use force extends only as far as the grant supporting it. No office or divine actor is entitled to claim that holding one of these powers gives it all the others.
+
+## How a cult lasts beyond its founder
+
+A shared revelation can gather a congregation. Keeping that congregation alive requires recognized witnesses, somewhere to perform rites or a route along which to perform them, and records that distinguish covenant from inheritance and submission. The cult also needs material support for dependants and people who can continue the work when the founding visionary dies or loses access to the god.
+
+Congregations can begin around a manifestation, migrate away from a parent temple, organize a conquered hierarchy, or split during a succession. Recognition by a polity or older cult may protect the new institution's property and testimony. It does not prove that the God Beast has accepted it.
+
+### Training and appointment
+
+Different offices need different preparation. Covenant witnesses come from clerks, household advocates, translators, and others trusted to question an entry claim without leading the answer. Clergy normally study doctrine, rites, local speech, covenant categories, welfare obligations, and the limits of what a manifestation can prove. Potential stewards need the separate preparation described in [[Spoilers/Institutions/The Potential Economy|The Potential Economy]]. Champions train under the authority that arms and provisions them; ritual standing alone gives no license to use force.
+
+People reach these roles through family expectation, temple schooling, patronage, debt service, adoption by a congregation, demonstrated ritual skill, or a public need for readers and witnesses. Each route can compromise an appointment in a different way. A hereditary temple may mistake privileged access to training for divine preference. A patron's school may train capable clergy whose first loyalty remains with the household that paid. A debt novice may consent on paper while knowing refusal means losing shelter.
+
+An office record that can withstand review names the candidate's sponsor, training, tested duties, outstanding obligations, and conflicts. It also identifies who can review the appointment.
+
+### Paying for the work
+
+Cult workers need food, lodging, clothing, travel, archive materials, ritual space, and time away from ordinary labor. Cults support them through offerings, estate income, service dues, workshop or harvest shares, patron grants, paid rites, or a portion of communal stores.
+
+Compensation should pay for the work rather than depend on access to a miracle queue. A witness or steward who can survive only by pleasing the person whose claim they must examine has already been bought, even if no coin changes hands.
+
+### Replacing an officeholder
+
+Succession passes records, duties, access, and unfinished petitions to another worker. It does not automatically pass on the predecessor's binding or divine delegation.
+
+Clerical selectors, congregation witnesses, patrons, polity officers, and divine intermediaries may recognize different successors. While they dispute the appointment, custody of archives, welfare stores, miracle allocation, and armed protection should remain separate. Otherwise, a temporary keeper can withhold what the other parties need until their agreement looks unanimous.
 
 ## Records that make a cult governable
 
-Covenant houses keep entry rolls, witness statements, lineage attachments,
-service obligations, miracle grants, censures, deaths, severance petitions, and
-the names of intermediaries between a worshipper and the god. A useful record
-states the origin of a claim. It does not flatten inherited attachment or
-submission into a blank category of believer.
+Cult archives determine who can approach a shrine, receive relief after a crop loss, train for office, receive a delegated miracle, inherit cult property, or demand a funeral at cult expense. A household's ability to claim these things depends on what the cult can be made to recognize.
 
-These archives decide who may approach a shrine, claim relief after crop loss,
-train for office, receive a delegated miracle, inherit cult property, or demand
-a funeral at cult expense. Destroying a register does not necessarily dissolve
-a binding, but it can erase every lower-world remedy attached to it. Forged
-ancestry and laundered submission are therefore ordinary instruments of cult
-politics.
+Covenant houses therefore keep more than lists of believers. Their records include entry rolls, witness statements, lineage attachments, service obligations, miracle grants, censures, deaths, severance petitions, and the names of intermediaries between worshipper and god. A useful record says where each claim came from. It preserves the difference between a promise, an inherited attachment, and submission under force.
 
-## The ordinary welfare bargain
+Destroying a register does not necessarily dissolve a binding. It can, however, erase every lower-world remedy attached to that binding. Forged ancestry and records that disguise submission as consent are ordinary tools of cult politics.
 
-Most adherents encounter a cult through maintenance rather than revelation.
-Households provide offerings, work days, hospitality, information, military
-service, ritual attendance, and public loyalty. In return a strong cult may
-provide grain reserves, storm shelter, healing, apprenticeship, mediation,
-burial, protection from rival champions, and a place on the miracle rolls.
+## Coordinating Gifts without knowing the whole future
 
-The bargain is real even when unequal. A temple that keeps a district fed has
-material authority independent of divine spectacle. A god that protects the
-same district may receive potential from bindings whose adherents cannot safely
-renounce the institution that owns the granary. Reformers therefore argue over
-whether consent exists when survival, family membership, and covenant all use
-the same door.
+A cult can recruit several kinds of Gift and still lack a complete view of the future. Prophets may extend how far ahead the hierarchy can consciously see. Opened readers may identify a material intervention that can change events. Sorcerers and Channelers can act on different parts of a conflict. A shaman can keep a chosen body moving toward an outcome after the original vision has expired. Luck may dominate the result without ever appearing as testimony before a council.
 
-Because [[Spoilers/Foundations/Kaos#Hard constraints|Kaos creates neither matter nor energy]], divine aid still requires seed grain, medicine, skilled hands,
-susceptible weather, functioning relics, or other causal levers. Cults that
-promise miracles without maintaining those inputs consume their reserve and
-their legitimacy together.
+Successful coordination gives clergy grounds to claim that the God foresaw and ordered everything. Rival sects sometimes preserve a different sequence: a champion acted before the oracle answered; a field bond was already in place; the God's withdrawal forced people onto the route later praised as providential. Such records can undermine a performance of omniscience without proving that the God was absent.
 
-## Leakage, restraint, and holy geography
+Control over the response also matters. A hierarchy that holds the witnesses, briefings, potential routes, material stores, and force needed to answer a vision can shape what its dependants are able to do. Its expected response may then appear in nearly every future available to them. Cult doctrine may describe this as protection, concord, submission, or divine order. The author-facing account of this condition belongs to [[Spoilers/Foundations/Oracle Ecology#Timeline capture|Oracle Ecology]].
 
-Concentrated potential attracts [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]]. Temples consequently stagger major
-rites, disperse miracle sites, restrict funerals near active sanctums, and keep
-watch for manifestations that do not belong to the recognized hierarchy.
-Potential stewards call this prudence. Poor districts may experience it as a
-rule that moves reliable healing away from the places with the most unquiet
-dead.
+## Why cults restrict rites and miracle sites
 
-A spirit that steals from a rite may be an intruder, an ancestor claiming a
-forgotten share, a casualty omitted from the register, or the remnant of a god
-the current cult displaced. The label chosen determines whether champions,
-mortuary clergy, or negotiators answer it. See [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]].
+Concentrating potential attracts [[Spoilers/Foundations/Projections, God Beasts, and Thaumavores#Thaumavores|thaumavores]]. Temples respond by staggering major rites, spreading miracle sites apart, restricting funerals near active sanctums, and watching for manifestations outside the recognized hierarchy.
 
-For a planned great rite, covenant procedure can name the beneficiary, mortal
-delegate, recognized shares, forbidden diversions, people whose ordinary
-protection will be withdrawn, stop authority, expiry, and support promised
-afterward. The terms bind the cult offices and claimants able to consent to
-them. They do not command the God or convert every dead presence near the route
-into a covenant party.
+Potential stewards call these precautions prudent. For a poor district with many unquiet dead, the same policy may move reliable healing farther from the people who need it.
 
-Cult policy toward a feeder can include warning, ritual share, negotiation,
-binding, dispersal, forced interception, or withdrawal. Gods that remember
-hunger may be pitiful, ashamed, or fiercely protective of the same route.
-Others defend a champion without such a history. Doctrine may name the choice
-purification, hospitality, conquest, or prudence; the covenant record still
-owes the acts taken in its name.
+A spirit taking potential from a rite is not necessarily understood as a simple intruder. It may be an ancestor claiming a forgotten share, a casualty left out of the register, or the remnant of a god displaced by the current cult. How officials classify it determines whether they send champions, mortuary clergy, or negotiators. [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]] governs the relevant death and binding questions.
 
-## Succession and schism
+### Agreeing the terms of a great rite
 
-Cult office, property, doctrine, and divine hierarchy can separate during a
-succession. A dead high priest may leave an orderly archive while the God Beast
-delegates potential to a rival champion. A living anchor may die and leave the
-temple intact while its god weakens, persists, or collapses according to rules
-that vary by magical style. Sorcerer God Beasts are especially vulnerable to a
-violent power vacuum after the anchor's death; that danger does not establish a
-universal rule for other gods.
+Before a planned great rite, covenant procedure can record:
 
-Schisms therefore fight over more than interpretation. Each faction tries to
-retain covenant records, welfare stores, trained clergy, recognized witnesses,
-miracle sites, and enough bound relationships to make its claim effective. A
-congregation can keep the old rites while potential begins arriving through a
-different branch. It can also follow a new clergy while an inherited attachment
-continues feeding the old god.
+- Who will benefit and which mortal delegate will act.
+- Which shares are recognized and which diversions are forbidden.
+- Whose ordinary protection will be withdrawn.
+- Who may stop the rite and when its authority expires.
+- What support is promised afterward.
+
+These terms bind the cult offices and claimants able to consent to them. They cannot command the God. Nor do they make every dead presence near the route a party to the covenant.
+
+When a feeder appears, cult policy may call for warning, a ritual share, negotiation, binding, dispersal, forced interception, or withdrawal. Gods that remember hunger may be pitiful, ashamed, or fiercely protective of that same route. Other gods defend a champion without such a history. Doctrine may call the response purification, hospitality, conquest, or prudence. Whatever name it uses, the covenant record must still state what was done.
+
+## When succession divides the cult
+
+The next holder of a cult office need not inherit its divine support. A high priest can die leaving an orderly archive while the God Beast delegates potential to a rival champion. Office, property, doctrine, and divine hierarchy can each pass in a different direction.
+
+The death of a living anchor creates another uncertainty. The temple may remain intact while its god weakens, persists, or collapses under rules that differ by magical style. Sorcerer God Beasts are especially vulnerable to a violent power vacuum after an anchor dies. That danger does not establish how other gods behave.
+
+A schism is therefore a struggle over the means to keep a cult functioning as well as a dispute over interpretation. Factions try to retain covenant records, welfare stores, trained clergy, recognized witnesses, miracle sites, and enough bound relationships to make their claims effective.
+
+Outward allegiance may give a misleading picture of those relationships. A congregation can continue the old rites while potential starts arriving through another branch. It can also accept new clergy while an inherited attachment continues to feed the old god.
 
 ## Discipline, contractual exit, and appeal
 
-Cult discipline answers lower-world office and covenant conduct. Grounds for review include falsifying an entry origin, concealing a severance term, selling miracle priority, using a champion outside their grant, withholding welfare to force testimony, destroying an adverse manifestation record, or merging registers that the institution is required to keep distinct. A charge should identify the office and act rather than accuse the respondent of generic impiety.
+Cult discipline deals with what offices and covenant parties do in the lower world. A complaint should name an act and the office responsible. “Impiety” is too vague to tell a hearing what happened.
 
-A cult can suspend a worker, remove an officeholder, revoke access to its stores, require restitution, narrow a champion's grant, or refer violence and property claims to local law. It cannot erase learned competence, civil personhood, or a metaphysical relation by changing a roster. Temporary archive or shrine custody during investigation must have named limits and duplicate witnesses; otherwise suspension becomes a quiet succession.
+Grounds for review include falsifying how someone entered the cult, concealing a severance term, selling priority for miracles, using a champion beyond their grant, withholding welfare to force testimony, destroying an unfavorable manifestation record, or merging registers that must remain distinct.
 
-Contractual cult exit belongs here. A living person seeking to leave a voluntary covenant presents the covenant record or the best available account of it, names the exit term or challenges the absence of one, settles returnable property and unfinished entrusted work, receives an intelligible statement of lost benefits and continuing civil obligations, and obtains witnesses independent of the officer whose power will shrink. Where the original entry was coerced, inherited, or unintelligible, the proceeding records that dispute rather than forcing it into breach of contract.
+The cult can suspend a worker, remove an officeholder, revoke access to stores, demand restitution, or narrow a champion's grant. It can refer violence and property claims to local law. Changing a roster cannot erase someone's learned competence, civil personhood, or metaphysical relation.
 
-The cult can end its social recognition, service demand, welfare relation, and lower-world enforcement. It cannot certify that an upper-dimensional binding ended. Active danger may require containment or a cooling interval, but containment is not severance. Bodily death, funerary custody, and post-mortem severance belong to [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]].
+An investigation may require temporary custody of a shrine or archive. That custody needs named limits and duplicate witnesses. Without them, a suspension can quietly install a successor before the charge is decided.
 
-Appeal goes to whatever independent or superior body the cult and local jurisdiction recognize: another covenant panel, a congregation assembly, a rival temple accepted by both sides, a civic court, a sanctuary, or a mixed hearing. The appellant needs copied terms, witness access, survival support during the case, and a stay against irreversible punishment. No continent-wide court supplies these conditions automatically.
+### Leaving a covenant
 
-Organized resistance uses the same material surfaces as cult government. Apostate witness circles copy entry and exit records, maintain emergency lodging, and accompany petitioners. Defeated communities preserve parallel registers showing that submission was forced. Household coalitions pool food so loss of temple relief does not end an appeal. Reform clergy train witnesses outside patron families and demand separated custody of archives, stores, and champions. Cult authorities answer through recognition rules, inspections, exclusive welfare, competing copies, and force. Each side has capacity to act; neither gains metaphysical truth from having the better archive.
+A living person seeking contractual exit from a voluntary covenant must be able to establish what they are leaving. The process uses the covenant record or the best available account of its terms. The petitioner names the exit condition or challenges the lack of one, settles returnable property and unfinished entrusted work, and receives an understandable account of the benefits they will lose and the civil obligations that will continue.
 
-## The Three Ledgers consequence
+Exit also requires witnesses independent of the officer whose authority will shrink when the petitioner leaves. If the original entry was coerced, inherited, or unintelligible, the proceeding must record that dispute. Treating it automatically as a broken voluntary contract would settle the central question before hearing it.
 
-[[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] established a durable warning against letting succession clergy merge covenant origin, miracle allocation, and mortuary evidence into one register. Covenant offices retained authority over living terms and contractual exit, but not over the allocation accounts or death inventory. Later cult reformers cite the settlement when demanding duplicate covenant records and independent witnesses. Centralizing clergy cite the same crisis to argue that separated records invite paralysis and fraud.
+The cult can end its social recognition of the person, demands for service, welfare relationship, and lower-world enforcement. It cannot certify that an upper-dimensional binding has ended. Active danger may justify containment or a cooling interval, but neither is severance. Bodily death, funerary custody, and post-mortem severance belong to [[Spoilers/Institutions/Death and Binding Law|Death and Binding Law]].
 
-The event did not establish a continent-wide rule, identify the god's preferred successor, or prove that any successful contractual exit changed a binding. Those remain decisions and uncertainties owned elsewhere.
+### Getting a decision reviewed
 
-## The Empty Bridge consequence
+An appeal goes to an independent or superior body recognized by the cult and the local jurisdiction. That might be another covenant panel, a congregation assembly, a rival temple both parties accept, a civic court, a sanctuary, or a mixed hearing.
 
-After [[Spoilers/Events/The Empty Bridge Vigil|the Empty Bridge Vigil]], some
-cults require a concentrated emergency grant to name its evidence, material
-operator, outside route witness, withdrawn beneficiaries, and expiry. Others
-cite the vigil when seeking authority over intervention beyond the covenant.
-Neither reading
-gives clergy the God's complete thought or makes the copied procedure universal.
+To pursue the case, the appellant needs copies of the terms, access to witnesses, support to survive during the hearing, and a stay against irreversible punishment. No continent-wide court automatically provides these conditions.
 
-## The Ash-Halo consequence
+Resistance depends on many of the same resources as cult government. Apostate witness circles copy entry and exit records, provide emergency lodging, and accompany petitioners. Defeated communities preserve parallel registers proving that submission was forced. Household coalitions pool food so that losing temple relief does not end an appeal. Reform clergy train witnesses outside patron families and demand separate custody of archives, stores, and champions.
 
-[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] left some
-Jamnai cults with a great-rite addendum: the branch records its champion and
-recognized shares, the steward records withdrawn grants, the forge custodian
-retains a stop, and a mortuary answer roll enters before the route opens. A
-later silence can support welfare, burial, investigation, or appeal without
-proving that the God killed a named person.
+Cult authorities can respond through recognition rules, inspections, exclusive welfare, competing copies, and force. Both sides have ways to act. Better archives do not, by themselves, give either side metaphysical truth.
 
-## Dungeon pressure
+## What the Three Ledgers changed
 
-A ruined cult site is rarely an empty church. It may contain covenant archives
-whose survival decides the freedom of living descendants, a champion still
-guarding a grant from a silent god, welfare stores sealed during a schism, or a
-sanctum abandoned because every attempted miracle feeds the dead below it.
-Adventurers may be asked to recover a register, witness a severance, choose
-between rival successors, or shut a divine route whose beneficiaries will lose
-their only protection with it.
+[[Spoilers/Events/The Three Ledgers Schism|The Three Ledgers Schism]] became a lasting warning about succession clergy combining covenant origins, miracle allocation, and mortuary evidence in one register. Its settlement left covenant offices responsible for living terms and contractual exit. They did not gain authority over allocation accounts or the death inventory.
+
+Later reformers cite the settlement when demanding duplicate covenant records and independent witnesses. Centralizing clergy cite the same crisis as evidence that separated records invite paralysis and fraud.
+
+The schism established no continent-wide rule. It did not identify the god's preferred successor or prove that a successful contractual exit changed a binding. Those decisions and uncertainties remain outside the covenant office's authority.
+
+## What cults took from the Empty Bridge
+
+After [[Spoilers/Events/The Empty Bridge Vigil|the Empty Bridge Vigil]], some cults require a concentrated emergency grant to record the evidence supporting it, the material operator, an outside route witness, the beneficiaries whose grants will be withdrawn, and the grant's expiry.
+
+Other cults invoke the vigil to demand authority over interventions beyond the covenant. Neither interpretation gives clergy access to the God's complete thought, and neither makes the copied procedure universal.
+
+## What cults took from the Ash-Halo
+
+[[Spoilers/Events/The Ash-Halo Armament|The Ash-Halo Armament]] led some Jamnai cults to add requirements for great rites. The branch records its champion and recognized shares; the steward records the grants withdrawn to support the rite. The forge custodian retains authority to stop it, and a mortuary answer roll must enter before the route opens.
+
+Silence afterward can support a claim for welfare, burial, investigation, or appeal. It does not prove that the God killed a named person.
+
+## What remains in a ruined cult site
+
+A ruined temple may still hold records and obligations that affect living people. Its covenant archives can decide the freedom of descendants. A champion may still guard a grant from a silent god. Stores may remain sealed after a schism, or a sanctum may have been abandoned because every attempted miracle feeds the dead beneath it.
+
+Adventurers may be asked to recover a register, witness a severance, or choose between rival successors. Closing a dangerous divine route can itself have a cost: its beneficiaries may lose their only protection.
 
 ## Unresolved
 
-- What observable event, if any, proves that a voluntary covenant has become an
-  upper-dimensional binding.
-- Whether ordinary worship without binding generates potential, alignment, or
-  only social authority.
-- Whether inherited attachment can arise without repeated ritual or a living
-  intermediary.
-- Which styles of God Beast can delegate to an unbound worshipper.
-- Whether any severance rite can compel a god, rather than merely interrupting
-  access and social enforcement.
+Several questions cannot be settled by cult procedure or a well-kept archive:
 
-The metaphysics of binding and divine hierarchy remain owned by
-[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]]. This note owns the institutions that promise, record,
-allocate, enforce, and dispute those relations.
+- What observable event, if any, proves that a voluntary covenant has become an upper-dimensional binding?
+- Does ordinary worship without binding generate potential, alignment, or only social authority?
+- Can inherited attachment arise without repeated ritual or a living intermediary?
+- Which styles of God Beast can delegate to an unbound worshipper?
+- Can any severance rite compel a god, or can it only interrupt access and social enforcement?
+
+[[Spoilers/Foundations/Projections, God Beasts, and Thaumavores|Projections, God Beasts, and Thaumavores]] owns the metaphysics of binding and divine hierarchy. This note owns the institutions that make promises about those relations, record claims, allocate support, enforce obligations, and hear disputes.
