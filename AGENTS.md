@@ -117,6 +117,33 @@ benefit and harm, dependencies, historical formation, internal contradiction,
 and consequences for play. Use `workshop/deepening/benchmark.md` as the parity
 standard; do not turn word count into a victory condition.
 
+## Reader Calibration
+
+Calibration drifts upward across passes and never downward. Writing above a
+reader reads as respect and writing below them reads as condescension, so the
+error is asymmetric and every pass inherits the previous pass's ceiling. Nothing
+in the deepening loop resists this by default: a note is legible to precisely the
+reader it was tuned for, and it was tuned for whoever wrote it.
+
+Three consequences bind the council:
+
+- Completeness does not establish legibility. A breach usually compresses rather
+  than omits. An argument folded into a named term is fully present and
+  expandable only by a reader who already holds it. A fact audit cannot detect
+  this, because every fact is there.
+- Restatement is error correction. The concrete instance after an abstraction is
+  the reader's recovery path, not redundancy to be trimmed.
+- The failure is silent. An over-calibrated note is understood sentence by
+  sentence while nothing accumulates, and names that carry weight for an
+  inhabitant of the project stay inert for a newcomer. Silence is the expected
+  symptom, so absence of complaint is not evidence.
+
+[[critics/Reader Experience and Navigation|Reader Experience and Navigation]] is
+the only seat positioned to observe this, and only because its packet is blind.
+Do not enrich that packet with authorial context, prior pass notes, or an
+explanation of what the surface is trying to achieve. A blind packet that has
+been helpfully contextualised has stopped being an instrument.
+
 ## Project Memory
 
 - Project memory records durable judgment, operating lessons, adopted
