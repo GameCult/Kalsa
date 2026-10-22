@@ -7,6 +7,10 @@ This repository is the complete open author vault. It contains setting-level and
 Open `Kalsa/`—not the repository root—as the Obsidian vault. Its file explorer
 shows the reader section and one explicitly named spoiler section.
 
+**Problem it solves:** Kalsa began as a teenage seed. It is being turned into a causally dense setting that Ghostlight Dungeon can use for play, while keeping author truth, reader lore, and what a character may know in separate owners, so spoilers stay opt-in.
+
+**Live versus planned:** live are the vault (`Kalsa/Public/` for readers, `Kalsa/Spoilers/` for authors and GMs), the spoiler-safe Quartz site built from `Kalsa/Public/` alone (https://gamecult.github.io/Kalsa/), and the iterative deepening system in `workshop/deepening/` (`queue.md` is the live plan and `ledger.md` the audit trail). Planned or blocked, per the queue: the Kalsa world-compiler integration owned by Ghostlight (KALSA-027), a source-grounded Intuition polity (KALSA-023), more situated magical traditions (KALSA-031), and the `kalsa.gamecult.org` domain, an external DNS and Pages step this repo does not assert as done.
+
 ## Start here
 
 - Readers and players: begin with [`Kalsa/Public/index.md`](Kalsa/Public/index.md). The [Quartz site](https://gamecult.github.io/Kalsa/) publishes only this spoiler-safe surface.
